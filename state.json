@@ -602,6 +602,84 @@
      "game": "MTG",
      "available": false,
      "price": 46.99
+    },
+    "one-piece-tcg-title-tba-starter-deck-st-35": {
+     "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-35) (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 11.99
+    },
+    "one-piece-tcg-dp-08-double-pack-volume-9-english": {
+     "title": "One Piece TCG: [DP-09] Double Pack Set Volume 9 [English]",
+     "game": "One Piece",
+     "available": false,
+     "price": 28.99
+    },
+    "one-piece-tcg-double-pack-set-volume-11-dp-11": {
+     "title": "One Piece TCG: Double Pack Set Volume 11 (DP-11)",
+     "game": "One Piece",
+     "available": false,
+     "price": 27.27
+    },
+    "one-piece-tcg-double-pack-volume-10-dp-10": {
+     "title": "One Piece TCG: [DP-10] Double Pack Set Volume 10 [English]",
+     "game": "One Piece",
+     "available": false,
+     "price": 26.07
+    },
+    "one-piece-tcg-op-11-double-pack-set-volume-07-dp-7": {
+     "title": "One Piece TCG: [DP-07] Double Pack Set Volume 7 [English]",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.99
+    },
+    "one-piece-tcg-double-pack-set-volume-8-dp-08-english": {
+     "title": "One Piece TCG: [DP-08] Double Pack Set Volume 8 [English]",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.99
+    },
+    "one-piece-tcg-dp-13-double-pack-set-vol-13": {
+     "title": "One Piece TCG: (DP-13) Double Pack Set Vol. 13 (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 95.92
+    },
+    "one-piece-tcg-double-pack-set-volume-12-dp-12": {
+     "title": "One Piece TCG: Double Pack Set Volume 12 (DP-12) (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 11.99
+    },
+    "pokemon-tcg-mega-evolution-5-pitch-black-booster-bundle": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Bundle (Pre-Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 26.94
+    },
+    "pokemon-tcg-mega-evolution-5-pitch-black-booster-display": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display (Pre-Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 161.64
+    },
+    "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black: Build & Battle Box (Pre-Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 21.99
+    },
+    "riftbound-tcg-league-of-legends-vendetta-the-vendetta-vault": {
+     "title": "Riftbound TCG: League of Legends: Vendetta: The Vendetta Vault (Pre-Order)",
+     "game": "Riftbound",
+     "available": false,
+     "price": 34.99
+    },
+    "riftbound-tcg-league-of-legends-vendetta-display-box": {
+     "title": "Riftbound TCG: League of Legends: Vendetta - Display Box (Pre-Order)",
+     "game": "Riftbound",
+     "available": false,
+     "price": 120.0
     }
    },
    "baselined": true
@@ -955,6 +1033,12 @@
      "game": "MTG",
      "available": false,
      "price": 40.0
+    },
+    "one-piece-double-pack-set-vol-10-op15-eb04": {
+     "title": "One Piece Double Pack Set Vol. 10 [DP-10]",
+     "game": "One Piece",
+     "available": false,
+     "price": 28.0
     }
    },
    "baselined": true
@@ -1596,6 +1680,102 @@
      "game": "MTG",
      "available": true,
      "price": 89.0
+    },
+    "one-piece-tcg-double-pack-volume-9-set": {
+     "title": "One Piece TCG: Double Pack Volume 9 Set",
+     "game": "One Piece",
+     "available": true,
+     "price": 38.0
+    },
+    "one-piece-tcg-double-pack-volume-10-set": {
+     "title": "One Piece TCG: Double Pack Volume 10 Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 42.0
+    },
+    "one-piece-tcg-double-pack-volume-7-set": {
+     "title": "One Piece TCG: Double Pack Volume 7 Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 78.0
+    },
+    "one-piece-tcg-double-pack-volume-6-set": {
+     "title": "One Piece TCG: Double Pack Volume 6 Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 105.0
+    },
+    "one-piece-tcg-double-pack-volume-8-set": {
+     "title": "One Piece TCG: Double Pack Volume 8 Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 43.0
+    },
+    "one-piece-tcg-double-pack-volume-5-set-pre-order": {
+     "title": "One Piece TCG: Double Pack Volume 5 Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 37.0
+    },
+    "one-piece-tcg-double-pack-volume-3-set-pre-order": {
+     "title": "One Piece Card Game: Double Pack Volume 3 Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 72.0
+    },
+    "one-piece-tcg-awakening-of-the-new-era-double-pack-pre-order": {
+     "title": "One Piece TCG: Awakening of the New Era Double Pack",
+     "game": "One Piece",
+     "available": false,
+     "price": 18.0
+    },
+    "one-piece-tcg-kingdoms-intrigue-double-pack-set-volume-1": {
+     "title": "One Piece Card Game: Kingdoms Intrigue - Double Pack Set Volume 1",
+     "game": "One Piece",
+     "available": false,
+     "price": 75.0
+    },
+    "one-piece-tcg-double-pack-volume-4-set-pre-order": {
+     "title": "One Piece Card Game: 500 Years in the Future Double Pack Volume 4 Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 31.0
+    },
+    "pokemon-tcg-30th-anniversary-first-partner-volume-1-chinese-box": {
+     "title": "Pokemon TCG: 30th Anniversary First Partner Volume 1 Chinese Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 25.0
+    },
+    "pokemon-tcg-mega-evolution-pitch-black-booster-box-pre-order": {
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box (PRE-ORDER)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 250.0
+    },
+    "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order": {
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box (PRE-ORDER)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 110.0
+    },
+    "pokemon-tcg-mega-evolution-pitch-black-checklane-blister-slowpoke-pre-order": {
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Checklane Blister (Slowpoke) (PRE-ORDER)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 15.0
+    },
+    "pokemon-tcg-mega-evolution-pitch-black-3-pack-blister-binnacle-pre-order": {
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black 3 Pack Blister (Binnacle) (PRE-ORDER)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 35.0
+    },
+    "pokemon-tcg-mega-evolution-pitch-black-build-and-battle-box-pre-order": {
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Build and Battle Box (PRE-ORDER)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 63.0
     }
    },
    "baselined": true
@@ -2215,6 +2395,60 @@
      "game": "MTG",
      "available": false,
      "price": 645.0
+    },
+    "one-piece-royal-blood-op-10-booster-12-box-case": {
+     "title": "One Piece Royal Blood (OP-10) Booster 12-Box Case",
+     "game": "One Piece",
+     "available": false,
+     "price": 1399.75
+    },
+    "one-piece-tcg-the-time-of-battle-op-16-booster-box": {
+     "title": "One Piece The Time of Battle (OP-16) Double Pack Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 39.75
+    },
+    "one-piece-tcg-two-legends-double-pack": {
+     "title": "One Piece TCG: Two Legends Double Pack Set 5",
+     "game": "One Piece",
+     "available": false,
+     "price": 20.0
+    },
+    "one-piece-tcg-the-azure-seas-seven-op-14-double-pack": {
+     "title": "One Piece TCG: The Azure Sea's Seven (OP 14) Double Pack",
+     "game": "One Piece",
+     "available": false,
+     "price": 54.75
+    },
+    "one-piece-double-pack-set-volume-8-box": {
+     "title": "One Piece Double Pack Set Volume 8 Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.75
+    },
+    "one-piece-tcg-500-years-in-the-future-double-pack-volume-4-set": {
+     "title": "One Piece 500 Years in the Future Double Pack Volume 4 Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 20.0
+    },
+    "one-piece-tcg-adventure-on-kamis-island-double-pack-volume-10-dp-10-box": {
+     "title": "One Piece Adventure on Kami's Island Double Pack Volume 10 Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 49.75
+    },
+    "one-piece-tcg-the-azure-seas-seven-op-14-double-pack-display": {
+     "title": "One Piece TCG: The Azure Sea's Seven (OP 14) Double Pack Display",
+     "game": "One Piece",
+     "available": false,
+     "price": 0.0
+    },
+    "one-piece-tcg-double-pack-set-volume-6-emperors-in-the-new-world-op09": {
+     "title": "One Piece TCG Double Pack Set Volume 6 - Emperors in the New World (OP09)",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.75
     }
    },
    "baselined": true
@@ -3011,6 +3245,84 @@
      "game": "Pokemon",
      "available": true,
      "price": 75.0
+    },
+    "double-pack-set-10-adventure-on-kamis-island-op-15-one-piece": {
+     "title": "Double Pack Set 10 - Adventure on Kami's Island OP-15 [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 30.0
+    },
+    "double-pack-set-11-the-time-of-battle-op-16-one-piece": {
+     "title": "Double Pack Set 11 - The Time of Battle OP-16 [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 30.0
+    },
+    "two-legends-double-pack-set-5-one-piece-copy": {
+     "title": "Two Legends Double Pack Set 5 [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 10.0
+    },
+    "500-years-in-the-future-double-pack-set-4-one-piece": {
+     "title": "500 Years in the Future Double Pack Set 4 [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 20.0
+    },
+    "four-emperors-double-pack-set-6-one-piece": {
+     "title": "Double Pack Set 6 - Emperors in the New World [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 16.0
+    },
+    "double-pack-set-7-a-fist-of-divine-speed-one-piece": {
+     "title": "Double Pack Set 7 - A Fist of Divine Speed [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 16.0
+    },
+    "double-pack-set-8-legacy-of-the-master-one-piece": {
+     "title": "Double Pack Set 8 - Legacy of the Master [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 16.0
+    },
+    "wings-of-the-captain-double-pack-set-3": {
+     "title": "Wings of the Captain Double Pack Set 3 OP-06 [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 20.0
+    },
+    "double-pack-set-9-the-azure-seas-seven-op-14-one-piece": {
+     "title": "Double Pack Set 9 - The Azure Sea's Seven OP-14 [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 30.0
+    },
+    "pitch-black-booster-display-pokemon-7-13": {
+     "title": "Pitch Black Booster Display [Pokemon] (7/13)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 240.0
+    },
+    "pitch-black-3-pack-blister-pokemon-7-13": {
+     "title": "Pitch Black 3-Pack Blister [Pokemon] (7/13)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 30.0
+    },
+    "vendetta-vault-riftbound-7-31": {
+     "title": "Vendetta Vault [Riftbound] (7/31)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 50.0
+    },
+    "vendetta-showdown-deck-zed-vs-shen-riftbound-7-31": {
+     "title": "Vendetta Showdown Deck - Zed vs. Shen [Riftbound] (7/31)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 50.0
     }
    },
    "baselined": true
@@ -3052,6 +3364,12 @@
      "game": "MTG",
      "available": true,
      "price": 175.0
+    },
+    "pokemon-tcg-me05-pitch-black-bundle": {
+     "title": "Pokemon TCG: ME05 Pitch Black Bundle - Preorder",
+     "game": "Pokemon",
+     "available": false,
+     "price": 350.0
     }
    },
    "baselined": true
@@ -3447,6 +3765,48 @@
      "game": "MTG",
      "available": false,
      "price": 64.99
+    },
+    "one-piece-tcg-emperors-in-the-new-world-double-pack-set": {
+     "title": "One Piece TCG: Emperors in the New World: Double Pack Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 17.99
+    },
+    "one-piece-tcg-double-pack-set-volume-8-dp08": {
+     "title": "One Piece TCG: Double Pack Set Volume 8 [DP08]",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.99
+    },
+    "pokemon-tcg-pitch-black-booster-display": {
+     "title": "Pok\u00e9mon TCG: Pitch Black: Booster Display",
+     "game": "Pokemon",
+     "available": false,
+     "price": 161.64
+    },
+    "pokemon-tcg-pitch-black-booster-bundle": {
+     "title": "Pok\u00e9mon TCG: Pitch Black: Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 26.94
+    },
+    "pokemon-tcg-pitch-black-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Pitch Black: Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 49.99
+    },
+    "riftbound-tcg-vendetta-the-vendetta-vault": {
+     "title": "Riftbound TCG: Vendetta: the Vendetta Vault",
+     "game": "Riftbound",
+     "available": false,
+     "price": 34.99
+    },
+    "riftbound-tcg-vendetta-booster-display": {
+     "title": "Riftbound TCG: Vendetta: Booster Display",
+     "game": "Riftbound",
+     "available": false,
+     "price": 119.99
     }
    },
    "baselined": true
@@ -3799,6 +4159,18 @@
      "game": "MTG",
      "available": false,
      "price": 89.99
+    },
+    "pokemon-trading-card-game-pitch-black-build-and-battle-box-pre-order": {
+     "title": "Pokemon Trading Card Game: Pitch Black Build and Battle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 59.99
+    },
+    "pokemon-trading-card-game-pitch-black-booster-box-me05-pitch-black-me05": {
+     "title": "Pokemon Trading Card Game: Pitch Black Booster Box - ME05: Pitch Black (ME05) LIMIT 1 PER PERSON.",
+     "game": "Pokemon",
+     "available": false,
+     "price": 240.0
     }
    },
    "baselined": true
@@ -3960,6 +4332,18 @@
      "game": "Riftbound",
      "available": false,
      "price": 42.95
+    },
+    "riftbound-vendetta-vault-bundle": {
+     "title": "Riftbound Vendetta Vault Bundle",
+     "game": "Riftbound",
+     "available": false,
+     "price": 34.99
+    },
+    "riftbound-vendetta-showdown-decks-zed-vs-shen": {
+     "title": "Riftbound Vendetta Showdown Decks: Zed vs Shen",
+     "game": "Riftbound",
+     "available": false,
+     "price": 34.99
     }
    },
    "baselined": true
@@ -4595,6 +4979,114 @@
      "game": "MTG",
      "available": true,
      "price": 64.95
+    },
+    "one-piece-card-game-double-pack-set-vol-9": {
+     "title": "One Piece Card Game - The Azure Sea's - Double Pack Set - Vol. 9",
+     "game": "One Piece",
+     "available": true,
+     "price": 49.95
+    },
+    "one-piece-card-game-double-pack-set-vol-10": {
+     "title": "One Piece Card Game - Adventure on Kami's Island - Double Pack Set - Vol. 10",
+     "game": "One Piece",
+     "available": true,
+     "price": 44.95
+    },
+    "one-piece-card-game-the-time-of-battle-double-pack-set-vol-11": {
+     "title": "One Piece Card Game - The Time of Battle - Double Pack Set - Vol. 11",
+     "game": "One Piece",
+     "available": true,
+     "price": 44.95
+    },
+    "one-piece-card-game-booster-pack-double-pack-set-vol-2": {
+     "title": "One Piece Card Game - Awakening of the New Era - Double Pack Set - Vol.2",
+     "game": "One Piece",
+     "available": true,
+     "price": 279.95
+    },
+    "one-piece-card-game-booster-pack-double-pack-set-vol-2-display-of-8": {
+     "title": "One Piece Card Game - Awakening of the New Era - Double Pack Set - Vol.2 - Display",
+     "game": "One Piece",
+     "available": true,
+     "price": 1999.95
+    },
+    "one-piece-card-game-double-pack-vol-5-pre-order": {
+     "title": "One Piece Card Game - Two Legends - Double Pack Set - Vol.5",
+     "game": "One Piece",
+     "available": true,
+     "price": 54.95
+    },
+    "pokemon-mega-evolution-perfect-order-booster-box": {
+     "title": "Pokemon - Mega Evolution - Perfect Order - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 299.95
+    },
+    "pokemon-scarlet-and-violet-twilight-masquerade-elite-trainer-box": {
+     "title": "Pokemon - Scarlet and Violet - Twilight Masquerade - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 159.95
+    },
+    "pokemon-30th-anniversary-collection-original-partners-special-art-foil-card-set": {
+     "title": "Pokemon - 30th Anniversary Celebration - Original Partner Special Illustration Vol. 1 - Chinese Set",
+     "game": "Pokemon",
+     "available": true,
+     "price": 19.95
+    },
+    "pokemon-mega-evolution-pitch-black-3-pack-blister": {
+     "title": "Pokemon - Mega Evolution - Pitch Black - 3 Pack Blister (Pre-Order)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 27.95
+    },
+    "pokemon-mega-evolution-pitch-black-booster-bundle": {
+     "title": "Pokemon - Mega Evolution - Pitch Black - Booster Bundle (Pre-Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 49.95
+    },
+    "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
+     "title": "Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box (Pre-Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 109.95
+    },
+    "pokemon-mega-evolution-pitch-black-build-and-battle-kit": {
+     "title": "Pokemon - Mega Evolution - Pitch Black - Build and Battle Kit (Pre-Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "vaughan-events-riftbound-vendetta-5k": {
+     "title": "Vaughan Events - Riftbound Vendetta 5k!",
+     "game": "Riftbound",
+     "available": true,
+     "price": 35.4
+    },
+    "riftbound-league-of-legends-vendetta-vault": {
+     "title": "Riftbound: League of Legends - Vendetta Vault (Pre-Order)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 69.95
+    },
+    "riftbound-league-of-legends-showdown-deck-vendetta-zed-vs-shen": {
+     "title": "Riftbound: League of Legends - Showdown Deck - Vendetta Zed vs Shen (Pre-Order)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 36.95
+    },
+    "mtg-innistrad-remastered-english-play-booster-box": {
+     "title": "MTG - Innistrad Remastered - Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 369.95
+    },
+    "mtg-bloomburrow-commander-decks-family-matters-pre-order": {
+     "title": "MTG - Bloomburrow - Commander Deck - Family Matters",
+     "game": "MTG",
+     "available": true,
+     "price": 42.95
     }
    },
    "baselined": true
@@ -5291,6 +5783,90 @@
      "game": "MTG",
      "available": false,
      "price": 399.95
+    },
+    "one-piece-card-game-booster-pack-double-pack-set-vol-1-pre-order": {
+     "title": "One Piece Card Game - Booster Pack Double Pack Set - Vol 1",
+     "game": "One Piece",
+     "available": false,
+     "price": 99.95
+    },
+    "one-piece-tcg-double-pack-set-volume-11-pre-order": {
+     "title": "One Piece TCG Double Pack Set VOLUME 11",
+     "game": "One Piece",
+     "available": false,
+     "price": 35.99
+    },
+    "one-piece-tcg-double-pack-set-volume-10-pre-order": {
+     "title": "One Piece TCG Double Pack Set VOLUME 10",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.95
+    },
+    "one-piece-card-game-double-pack-vol-4-pre-order": {
+     "title": "One Piece Card Game - Double Pack Vol.4",
+     "game": "One Piece",
+     "available": false,
+     "price": 34.95
+    },
+    "one-piece-tcg-double-pack-set-volume-8-pre-order": {
+     "title": "One Piece TCG Double Pack Set VOLUME 8",
+     "game": "One Piece",
+     "available": false,
+     "price": 44.99
+    },
+    "one-piece-card-game-double-pack-vol-5-pre-order": {
+     "title": "One Piece Card Game - Double Pack Vol.5",
+     "game": "One Piece",
+     "available": false,
+     "price": 49.99
+    },
+    "one-piece-tcg-double-pack-set-volume-12-pre-order": {
+     "title": "One Piece TCG Double Pack Set VOLUME 12 (Pre Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.95
+    },
+    "one-piece-tcg-double-pack-set-volume-9-pre-order": {
+     "title": "One Piece TCG Double Pack Set VOLUME 9",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.95
+    },
+    "one-piece-tcg-double-pack-set-volume-13-pre-order": {
+     "title": "One Piece TCG Double Pack Set VOLUME 13 (Pre Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.95
+    },
+    "one-piece-tcg-double-pack-set-volume-6-pre-order": {
+     "title": "One Piece Card Game - Emperors in the New World - Double Pack Set - Vol.6",
+     "game": "One Piece",
+     "available": false,
+     "price": 89.95
+    },
+    "pokemon-tcg-mega-evolution-set-5-pitch-black-3-pack-blister-pre-order": {
+     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black -3 Pack Blister (Pre Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 24.95
+    },
+    "app-exclusive-pokemon-tcg-mega-evolution-set-5-pitch-black-booster-box-max-2-pre-order": {
+     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Box MAX 2 (Pre Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 319.95
+    },
+    "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
+     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box (Pre Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 119.95
+    },
+    "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
+     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4 (Pre Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 49.95
     }
    },
    "baselined": true
@@ -5506,6 +6082,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 33.99
+    },
+    "one-piece-emperors-in-the-new-world-dp-06-double-pack-set": {
+     "title": "One Piece - Emperors in the New World (DP-06) - Double Pack Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 28.99
     }
    },
    "baselined": true
@@ -5991,6 +6573,30 @@
      "game": "MTG",
      "available": true,
      "price": 229.95
+    },
+    "one-piece-cg-dp07-double-pack-set-vol-7": {
+     "title": "ONE PIECE CG DP07 DOUBLE PACK SET VOL 7",
+     "game": "One Piece",
+     "available": false,
+     "price": 15.95
+    },
+    "one-piece-cg-dp08-double-pack-set-vol-8": {
+     "title": "ONE PIECE CG DP08 DOUBLE PACK SET VOL 8",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.95
+    },
+    "one-piece-cg-double-pack-set-vol-3": {
+     "title": "ONE PIECE CG DOUBLE PACK SET VOL 3",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.95
+    },
+    "riftbound-league-of-legends-tcg-vendetta-zed-vs-shen-showdown-deck": {
+     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA ZED VS SHEN SHOWDOWN DECK PRE ORDER ^ JULY 31",
+     "game": "Riftbound",
+     "available": true,
+     "price": 39.95
     }
    },
    "baselined": true
