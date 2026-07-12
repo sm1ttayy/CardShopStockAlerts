@@ -1,5 +1,7 @@
 {
   "request_delay_ms": 250,
+  "fx_to_usd": { "USD": 1.0, "CAD": 0.73 },
+  "cap_exempt": "\\bcase\\b",
   "stores": [
     { "name": "Gamers Guild AZ",      "url": "https://gamersguildaz.com",          "currency": "USD" },
     { "name": "Stomping Grounds TCG", "url": "https://www.stompinggroundstcg.com", "currency": "USD" },
@@ -22,46 +24,54 @@
       "queries": ["one piece booster box", "one piece case", "OP-17"],
       "include": "one ?piece",
       "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single",
-      "min_price": 40
+      "min_price": 40,
+      "max_price": 130
     },
     "Pokemon": {
       "queries": ["pokemon booster box", "pokemon elite trainer box", "pokemon booster bundle"],
       "include": "pok[eé]mon",
       "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|loose",
-      "min_price": 35
+      "min_price": 35,
+      "max_price": 180
     },
     "Riftbound": {
       "queries": ["riftbound booster box", "riftbound"],
       "include": "riftbound",
       "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single",
-      "min_price": 30
+      "min_price": 30,
+      "max_price": 140
     },
     "MTG": {
       "queries": ["play booster box", "collector booster box", "magic booster box"],
       "include": "magic|mtg",
       "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single",
-      "min_price": 80
+      "min_price": 80,
+      "max_price": 160
     }
   },
   "watched": [
     {
       "store": "https://gamersguildaz.com",
       "handle": "one-piece-tcg-op-17-title-tba-english",
+      "game": "One Piece",
       "note": "OP-17 booster box @ $119.76 (MSRP)"
     },
     {
       "store": "https://theawesomecardshop.com",
       "handle": "one-piece-op-17-booster-box",
+      "game": "One Piece",
       "note": "OP-17 booster box placeholder"
     },
     {
       "store": "https://theawesomecardshop.com",
       "handle": "one-piece-the-worlds-strongest-warriors-op-17-booster12-box-case",
+      "game": "One Piece",
       "note": "OP-17 12-box case placeholder"
     },
     {
       "store": "https://hobbiesville.com",
       "handle": "one-piece-cg-op-17-booster-box-pre-order-copy",
+      "game": "One Piece",
       "note": "OP-17 preorder, priced high (299.95 CAD)"
     }
   ]

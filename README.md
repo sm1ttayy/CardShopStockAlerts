@@ -53,6 +53,11 @@ python watcher.py               # real run (posts if DISCORD_WEBHOOK_URL is set)
 - **Keywords/filters**: per game in `games` — `queries` (search terms),
   `include`/`exclude` (regex on title), `min_price` (filters out singles
   and packs).
+- **Price caps**: `max_price` per game (in USD). Alerts above the cap are
+  never hidden, just flagged ⚠️ OVER LIMIT. Canadian store prices are
+  converted using `fx_to_usd` (update the CAD rate occasionally). Titles
+  matching `cap_exempt` (default: cases) are never flagged, since a
+  multi-box case legitimately costs several times a single box.
 
 ## Notes
 

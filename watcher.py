@@ -89,6 +89,28 @@ def fetch_product(store_url, handle):
     return http_json(f"{store_url}/products/{handle}.js")
 
 
+class CapCheck:
+    """Flags (never hides) prices above the per-game max_price. Caps are in
+    USD; store prices are converted via config fx_to_usd before comparing."""
+
+    def __init__(self, config):
+        self.fx = config.get("fx_to_usd", {"USD": 1.0})
+        self.caps = {g: r.get("max_price") for g, r in config.get("games", {}).items()}
+        exempt = config.get("cap_exempt", "")
+        self.exempt = re.compile(exempt, re.I) if exempt else None
+
+    def flag(self, game, title, price, currency):
+        cap = self.caps.get(game)
+        if not cap or not price:
+            return ""
+        if self.exempt and self.exempt.search(title):
+            return ""
+        usd = price * self.fx.get(currency, 1.0)
+        if usd > cap:
+            return f"⚠️ OVER LIMIT: ~{usd:.0f} USD vs your {cap:.0f} cap"
+        return ""
+
+
 class Alert:
     def __init__(self, kind, store, title, price, currency, url, detail=""):
         self.kind = kind          # NEW LISTING | PREORDER/RESTOCK LIVE | PRICE CHANGE
@@ -136,12 +158,13 @@ def run(dry_run=False):
         sys.exit(f"cannot read {CONFIG_PATH}")
     state = load_json(STATE_PATH, {"stores": {}})
     delay = config.get("request_delay_ms", 250) / 1000.0
+    caps = CapCheck(config)
     alerts = []
     errors = []
 
     seeded = {}
     for w in config.get("watched", []):
-        seeded.setdefault(w["store"], {})[w["handle"]] = w.get("note", "")
+        seeded.setdefault(w["store"], {})[w["handle"]] = w
 
     for store in config["stores"]:
         surl, sname, cur = store["url"], store["name"], store.get("currency", "USD")
@@ -174,11 +197,13 @@ def run(dry_run=False):
                         continue
                     url = f"{surl}/products/{handle}"
 
+                    cap_flag = caps.flag(game, title, price, cur)
                     if handle in products:  # known: passive availability refresh
                         w = products[handle]
                         if w.get("available") is False and available and not w.get("delisted"):
+                            detail = " · ".join(x for x in (w.get("note", ""), cap_flag) if x)
                             alerts.append(Alert("PREORDER/RESTOCK LIVE", sname, title, price, cur,
-                                                url, w.get("note", "")))
+                                                url, detail))
                         w.update({"title": title, "available": available, "price": price})
                         fresh.add(handle)
                         continue
@@ -188,13 +213,15 @@ def run(dry_run=False):
                     fresh.add(handle)
                     if baselined:
                         status = "available NOW" if available else "listed but not yet buyable — now watching"
-                        alerts.append(Alert("NEW LISTING", sname, title, price, cur, url,
-                                            f"{game} · {status}"))
+                        detail = " · ".join(x for x in (f"{game} · {status}", cap_flag) if x)
+                        alerts.append(Alert("NEW LISTING", sname, title, price, cur, url, detail))
 
         # ---- pass 2: active flip checks for unavailable products ----
-        for handle, note in seeded.get(surl, {}).items():
+        for handle, seed in seeded.get(surl, {}).items():
             entry = products.setdefault(handle, {"title": handle, "available": None, "price": 0.0})
-            entry["note"] = note
+            entry["note"] = seed.get("note", "")
+            if seed.get("game"):
+                entry["game"] = seed["game"]
 
         to_check = [h for h, w in products.items()
                     if h not in fresh and not w.get("delisted") and w.get("available") is not True]
@@ -215,7 +242,8 @@ def run(dry_run=False):
             price = to_price(p.get("price"))
             prev_avail, prev_price = w.get("available"), w.get("price", 0.0)
             url = f"{surl}/products/{handle}"
-            note = w.get("note", "")
+            cap_flag = caps.flag(w.get("game", ""), title, price, cur)
+            note = " · ".join(x for x in (w.get("note", ""), cap_flag) if x)
 
             if prev_avail is False and available:
                 alerts.append(Alert("PREORDER/RESTOCK LIVE", sname, title, price, cur, url, note))
@@ -256,11 +284,19 @@ def run(dry_run=False):
 
 def test_alert():
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
-    a = Alert("PREORDER/RESTOCK LIVE", "Test Store", "One Piece OP-17 Booster Box (test alert)",
-              119.76, "USD", "https://example.com", "webhook connectivity test")
-    print(a.text())
+    caps = CapCheck(load_json(CONFIG_PATH, {}))
+    flag = caps.flag("One Piece", "One Piece OP-17 Booster Box", 299.95, "CAD")
+    tests = [
+        Alert("PREORDER/RESTOCK LIVE", "Test Store", "One Piece OP-17 Booster Box (test alert)",
+              119.76, "USD", "https://example.com", "webhook connectivity test"),
+        Alert("PREORDER/RESTOCK LIVE", "Test Store", "One Piece OP-17 Booster Box (over-limit test)",
+              299.95, "CAD", "https://example.com",
+              " · ".join(x for x in ("webhook connectivity test", flag) if x)),
+    ]
+    for a in tests:
+        print(a.text())
     if webhook:
-        send_discord(webhook, [a])
+        send_discord(webhook, tests)
         print("→ sent to Discord")
     else:
         print("→ DISCORD_WEBHOOK_URL not set")
