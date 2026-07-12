@@ -258,7 +258,7 @@
     "magic-the-gathering-secrets-of-strixhaven-play-booster-display-box": {
      "title": "Magic: The Gathering | Secrets of Strixhaven - Play Booster Display Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 136.46
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-display-box": {
@@ -818,6 +818,12 @@
      "game": "One Piece",
      "available": false,
      "price": 25.5
+    },
+    "magic-the-gathering-lord-of-the-rings-tales-of-middle-earth-draft-booster-box-pre-order": {
+     "title": "Magic: the Gathering: Lord of the Rings Tales of Middle Earth - Draft Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 443.99
     }
    },
    "baselined": true,
@@ -2837,7 +2843,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80
+   "check_cursor": 120
   },
   "https://skyboxct.com": {
    "products": {
@@ -3878,10 +3884,22 @@
      "game": "MTG",
      "available": false,
      "price": 777.0
+    },
+    "2021-pokemon-japanese-25th-anniversary-collection-fa-pikachu-psa-17": {
+     "title": "2021 Pokemon Japanese 25th Anniversary Collection Fa/Pikachu PSA 10",
+     "game": "Pokemon",
+     "available": true,
+     "price": 125.0
+    },
+    "2021-pokemon-japanese-25th-anniversary-collection-fa-pikachu-psa-16": {
+     "title": "2021 Pokemon Japanese 25th Anniversary Collection Fa/Pikachu PSA 10",
+     "game": "Pokemon",
+     "available": true,
+     "price": 125.0
     }
    },
    "baselined": true,
-   "check_cursor": 31
+   "check_cursor": 22
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5311,7 +5329,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81
+   "check_cursor": 9
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6737,6 +6755,12 @@
      "game": "MTG",
      "available": true,
      "price": 260.0
+    },
+    "kingdoms-of-intrigue-double-pack-set-1": {
+     "title": "Kingdoms of Intrigue Double Pack Set 1",
+     "game": "One Piece",
+     "available": false,
+     "price": 15.0
     }
    },
    "baselined": true,
@@ -7271,6 +7295,12 @@
      "game": "MTG",
      "available": false,
      "price": 199.99
+    },
+    "magic-the-gathering-ikoria-booster-box": {
+     "title": "Magic the Gathering: Ikoria: Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 154.99
     }
    },
    "baselined": true,
@@ -7773,7 +7803,7 @@
     "chaos-rising-booster-box": {
      "title": "Pokemon ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 209.95
     },
     "pokemon-perfect-order-booster-box": {
@@ -10500,6 +10530,12 @@
      "game": "MTG",
      "available": true,
      "price": 54.99
+    },
+    "base-set-booster-box-unlimited": {
+     "title": "Base Set - Booster Box (Unlimited)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
     }
    },
    "baselined": true,
@@ -11595,7 +11631,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -12987,7 +13023,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80
+   "check_cursor": 120
   }
  }
 }
