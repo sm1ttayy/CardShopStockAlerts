@@ -815,7 +815,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80
+   "check_cursor": 120
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2609,7 +2609,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://skyboxct.com": {
    "products": {
@@ -3653,7 +3653,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5083,7 +5083,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1
+   "check_cursor": 41
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -5917,7 +5917,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -6943,7 +6943,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39
+   "check_cursor": 30
   },
   "https://moonshotgamestore.com": {
    "products": {
@@ -7837,7 +7837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://store.401games.ca": {
    "products": {
@@ -9446,7 +9446,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9
+   "check_cursor": 49
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -10202,7 +10202,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://pokerand.net": {
    "products": {
@@ -10705,7 +10705,8 @@
      "price": 1302.61
     }
    },
-   "baselined": true
+   "baselined": true,
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -11748,7 +11749,8 @@
      "price": 714.75
     }
    },
-   "baselined": true
+   "baselined": true,
+   "check_cursor": 40
   }
  }
 }
