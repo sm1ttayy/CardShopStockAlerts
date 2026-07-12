@@ -1716,7 +1716,7 @@
     "duskmourn-house-of-horror-play-booster-box": {
      "title": "Duskmourn: House of Horror Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 155.0
     },
     "duskmourn-house-of-horror-collector-booster-box": {
@@ -2755,7 +2755,7 @@
      "title": "White Flare Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 140.0
+     "price": 160.0
     },
     "mega-evolution-booster-bundle": {
      "title": "Mega Evolution Booster Bundle",
@@ -2837,7 +2837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 80
   },
   "https://skyboxct.com": {
    "products": {
@@ -3066,7 +3066,7 @@
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 240.0
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -3881,7 +3881,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 31
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5311,7 +5311,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41
+   "check_cursor": 81
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6003,7 +6003,8 @@
      "title": "Modern Horizons 2 - Collector Booster Display - Modern Horizons 2 (MH2)",
      "game": "MTG",
      "available": false,
-     "price": 570.0
+     "price": 570.0,
+     "delisted": true
     },
     "return-to-ravnica-booster-box": {
      "title": "Return to Ravnica - Booster Box",
@@ -6144,14 +6145,14 @@
      "price": 134.99
     },
     "shining-legends-elite-trainer-box-shining-legends-shl": {
-     "title": "Shining Legends Elite Trainer Box - Shining Legends (SHL)",
+     "title": "Shining Legends Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
      "price": 1150.0
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 8
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8037,7 +8038,7 @@
      "title": "Outlaws of Thunder Junction Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 164.95
+     "price": 169.95
     },
     "murders-at-karlov-manor-play-booster-display": {
      "title": "Murders at Karlov Manor Play Booster Box",
@@ -8395,7 +8396,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 18
   },
   "https://store.401games.ca": {
    "products": {
@@ -10007,6 +10008,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 159.99
+    },
+    "pokemon-mega-venusaur-ex-premium-collection-pre-order": {
+     "title": "Pokemon Mega Venusaur ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 94.95
     }
    },
    "baselined": true,
@@ -11012,7 +11019,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 1
   },
   "https://pokerand.net": {
    "products": {
@@ -11579,10 +11586,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 64.99
+    },
+    "722261": {
+     "title": "ACE 9   - N - 105a/124 - Fates Collide - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 199.99
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -12965,10 +12978,16 @@
      "game": "MTG",
      "available": false,
      "price": 118.99
+    },
+    "pokemon-151-alakazam-ex-collection-box": {
+     "title": "151 Alakazam ex Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 123.75
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 80
   }
  }
 }
