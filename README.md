@@ -35,6 +35,13 @@ workflow commits back after each run.
    ```
 3. **Add the webhook as a secret**: repo → Settings → Secrets and variables →
    Actions → New repository secret → name `DISCORD_WEBHOOK_URL`, value = the URL.
+
+   **Per-game channels (optional)**: create a webhook in each game's channel
+   and add it as a secret named per `webhook_env` in `config.json`
+   (`DISCORD_WEBHOOK_ONE_PIECE`, `DISCORD_WEBHOOK_POKEMON`,
+   `DISCORD_WEBHOOK_RIFTBOUND`, `DISCORD_WEBHOOK_MTG`). Games without their
+   own secret fall back to `DISCORD_WEBHOOK_URL`. Verify the routing with
+   `python watcher.py --test-alert` — it sends one labeled test per channel.
 4. **Enable the workflow**: Actions tab → enable workflows → run
    "TCG Restock Watcher" once manually (Run workflow) to baseline.
 

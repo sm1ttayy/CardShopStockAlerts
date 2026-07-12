@@ -25,6 +25,10 @@ jobs:
       - name: Run watcher
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_ONE_PIECE: ${{ secrets.DISCORD_WEBHOOK_ONE_PIECE }}
+          DISCORD_WEBHOOK_POKEMON: ${{ secrets.DISCORD_WEBHOOK_POKEMON }}
+          DISCORD_WEBHOOK_RIFTBOUND: ${{ secrets.DISCORD_WEBHOOK_RIFTBOUND }}
+          DISCORD_WEBHOOK_MTG: ${{ secrets.DISCORD_WEBHOOK_MTG }}
         run: python watcher.py
 
       - name: Persist state

@@ -112,7 +112,7 @@ class CapCheck:
 
 
 class Alert:
-    def __init__(self, kind, store, title, price, currency, url, detail=""):
+    def __init__(self, kind, store, title, price, currency, url, detail="", game=""):
         self.kind = kind          # NEW LISTING | PREORDER/RESTOCK LIVE | PRICE CHANGE
         self.store = store
         self.title = title
@@ -120,6 +120,7 @@ class Alert:
         self.currency = currency
         self.url = url
         self.detail = detail
+        self.game = game          # routes to the game's webhook when configured
 
     def text(self):
         price = f"{self.price:.2f} {self.currency}" if self.price else "price TBA"
@@ -127,6 +128,17 @@ class Alert:
         if self.detail:
             line += f"\n{self.detail}"
         return line
+
+
+def webhook_for(config, game):
+    """Game-specific webhook (config webhook_env maps game -> env var name),
+    falling back to DISCORD_WEBHOOK_URL."""
+    env_name = config.get("webhook_env", {}).get(game)
+    if env_name:
+        url = os.environ.get(env_name, "").strip()
+        if url:
+            return url
+    return os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
 
 
 def send_discord(webhook, alerts):
@@ -209,7 +221,7 @@ def run(dry_run=False):
                         if w.get("available") is False and available and not w.get("delisted"):
                             detail = " · ".join(x for x in (w.get("note", ""), cap_flag) if x)
                             alerts.append(Alert("PREORDER/RESTOCK LIVE", sname, title, price, cur,
-                                                url, detail))
+                                                url, detail, game=game))
                         w.update({"title": title, "available": available, "price": price})
                         fresh.add(handle)
                         continue
@@ -220,7 +232,8 @@ def run(dry_run=False):
                     if baselined:
                         status = "available NOW" if available else "listed but not yet buyable — now watching"
                         detail = " · ".join(x for x in (f"{game} · {status}", cap_flag) if x)
-                        alerts.append(Alert("NEW LISTING", sname, title, price, cur, url, detail))
+                        alerts.append(Alert("NEW LISTING", sname, title, price, cur, url, detail,
+                                            game=game))
 
         # ---- pass 2: active flip checks for unavailable products ----
         for handle, seed in seeded.get(surl, {}).items():
@@ -251,14 +264,18 @@ def run(dry_run=False):
             cap_flag = caps.flag(w.get("game", ""), title, price, cur)
             note = " · ".join(x for x in (w.get("note", ""), cap_flag) if x)
 
+            game = w.get("game", "")
             if prev_avail is False and available:
-                alerts.append(Alert("PREORDER/RESTOCK LIVE", sname, title, price, cur, url, note))
+                alerts.append(Alert("PREORDER/RESTOCK LIVE", sname, title, price, cur, url, note,
+                                    game=game))
             elif prev_avail is not None and prev_price and price and abs(price - prev_price) / prev_price > 0.01:
                 alerts.append(Alert("PRICE CHANGE", sname, title, price, cur, url,
-                                    f"was {prev_price:.2f} {cur}" + (f" · {note}" if note else "")))
+                                    f"was {prev_price:.2f} {cur}" + (f" · {note}" if note else ""),
+                                    game=game))
             elif prev_avail is not None and prev_price == 0.0 and price > 0:
                 alerts.append(Alert("PRICE CHANGE", sname, title, price, cur, url,
-                                    "price set (was TBA)" + (f" · {note}" if note else "")))
+                                    "price set (was TBA)" + (f" · {note}" if note else ""),
+                                    game=game))
 
             w.update({"title": title, "available": available, "price": price})
 
@@ -268,16 +285,22 @@ def run(dry_run=False):
             st["baselined"] = True
 
     # ---- deliver ----
-    webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
     if alerts:
         print(f"\n{len(alerts)} alert(s):")
         for a in alerts:
             print("  " + a.text().replace("\n", "\n  "))
-        if webhook and not dry_run:
-            send_discord(webhook, alerts)
-            print("→ sent to Discord")
-        elif not webhook:
-            print("→ DISCORD_WEBHOOK_URL not set; printed only")
+        if not dry_run:
+            groups = {}  # webhook url -> [alerts]
+            for a in alerts:
+                hook = webhook_for(config, a.game)
+                if hook:
+                    groups.setdefault(hook, []).append(a)
+            for hook, batch in groups.items():
+                send_discord(hook, batch)
+            if groups:
+                print(f"→ sent to Discord ({len(groups)} channel(s))")
+            else:
+                print("→ no webhook configured; printed only")
     else:
         print("no alerts this run")
 
@@ -289,23 +312,23 @@ def run(dry_run=False):
 
 
 def test_alert():
-    webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
-    caps = CapCheck(load_json(CONFIG_PATH, {}))
-    flag = caps.flag("One Piece", "One Piece OP-17 Booster Box", 299.95, "CAD")
-    tests = [
-        Alert("PREORDER/RESTOCK LIVE", "Test Store", "One Piece OP-17 Booster Box (test alert)",
-              119.76, "USD", "https://example.com", "webhook connectivity test"),
-        Alert("PREORDER/RESTOCK LIVE", "Test Store", "One Piece OP-17 Booster Box (over-limit test)",
-              299.95, "CAD", "https://example.com",
-              " · ".join(x for x in ("webhook connectivity test", flag) if x)),
-    ]
-    for a in tests:
+    """Send one routing-test alert per distinct configured webhook, so you can
+    see in Discord which games land in which channel."""
+    config = load_json(CONFIG_PATH, {})
+    by_hook = {}
+    for g in list(config.get("games", {})) or ["One Piece"]:
+        by_hook.setdefault(webhook_for(config, g), []).append(g)
+    for hook, games in by_hook.items():
+        label = ", ".join(games)
+        a = Alert("PREORDER/RESTOCK LIVE", "Test Store", f"Routing test — {label}",
+                  119.76, "USD", "https://example.com",
+                  f"alerts for {label} arrive in this channel")
         print(a.text())
-    if webhook:
-        send_discord(webhook, tests)
-        print("→ sent to Discord")
-    else:
-        print("→ DISCORD_WEBHOOK_URL not set")
+        if hook:
+            send_discord(hook, [a])
+            print("→ sent")
+        else:
+            print("→ no webhook configured for these games")
 
 
 if __name__ == "__main__":

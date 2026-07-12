@@ -2,6 +2,12 @@
   "request_delay_ms": 250,
   "fx_to_usd": { "USD": 1.0, "CAD": 0.73 },
   "cap_exempt": "\\bcase\\b",
+  "webhook_env": {
+    "One Piece": "DISCORD_WEBHOOK_ONE_PIECE",
+    "Pokemon": "DISCORD_WEBHOOK_POKEMON",
+    "Riftbound": "DISCORD_WEBHOOK_RIFTBOUND",
+    "MTG": "DISCORD_WEBHOOK_MTG"
+  },
   "stores": [
     { "name": "Gamers Guild AZ",      "url": "https://gamersguildaz.com",          "currency": "USD" },
     { "name": "Stomping Grounds TCG", "url": "https://www.stompinggroundstcg.com", "currency": "USD" },
@@ -41,7 +47,7 @@
         { "q": "pokemon collection", "min_price": 25 }
       ],
       "include": "pok[eé]mon",
-      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|loose",
+      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|loose|plush|keychain|figure|pin badge",
       "min_price": 35,
       "max_price": 180
     },
