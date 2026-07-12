@@ -1,0 +1,68 @@
+{
+  "request_delay_ms": 250,
+  "stores": [
+    { "name": "Gamers Guild AZ",      "url": "https://gamersguildaz.com",          "currency": "USD" },
+    { "name": "Stomping Grounds TCG", "url": "https://www.stompinggroundstcg.com", "currency": "USD" },
+    { "name": "Skybox CT",            "url": "https://skyboxct.com",               "currency": "USD" },
+    { "name": "The Awesome Card Shop","url": "https://theawesomecardshop.com",     "currency": "USD" },
+    { "name": "Cash Cards Unlimited", "url": "https://cashcardsunlimited.com",     "currency": "USD" },
+    { "name": "Gamers Gauntlet",      "url": "https://www.gamersgauntlet.net",     "currency": "USD" },
+    { "name": "Safari Zone",          "url": "https://safari-zone.com",            "currency": "USD" },
+    { "name": "Zulu's Games",         "url": "https://zulusgames.com",             "currency": "USD" },
+    { "name": "Moonshot Games",       "url": "https://moonshotgamestore.com",      "currency": "USD" },
+    { "name": "Super Anime Store",    "url": "https://superanimestore.com",        "currency": "USD" },
+    { "name": "Geekery Games",        "url": "https://geekerygames.com",           "currency": "USD" },
+    { "name": "401 Games",            "url": "https://store.401games.ca",          "currency": "CAD" },
+    { "name": "Hobbiesville",         "url": "https://hobbiesville.com",           "currency": "CAD" },
+    { "name": "Fusion Gaming Online", "url": "https://www.fusiongamingonline.com", "currency": "CAD" },
+    { "name": "Exor Games",           "url": "https://exorgames.com",              "currency": "CAD" }
+  ],
+  "games": {
+    "One Piece": {
+      "queries": ["one piece booster box", "one piece case", "OP-17"],
+      "include": "one ?piece",
+      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single",
+      "min_price": 40
+    },
+    "Pokemon": {
+      "queries": ["pokemon booster box", "pokemon elite trainer box", "pokemon booster bundle"],
+      "include": "pok[eé]mon",
+      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|loose",
+      "min_price": 35
+    },
+    "Riftbound": {
+      "queries": ["riftbound booster box", "riftbound"],
+      "include": "riftbound",
+      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single",
+      "min_price": 30
+    },
+    "MTG": {
+      "queries": ["play booster box", "collector booster box", "magic booster box"],
+      "include": "magic|mtg",
+      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single",
+      "min_price": 80
+    }
+  },
+  "watched": [
+    {
+      "store": "https://gamersguildaz.com",
+      "handle": "one-piece-tcg-op-17-title-tba-english",
+      "note": "OP-17 booster box @ $119.76 (MSRP)"
+    },
+    {
+      "store": "https://theawesomecardshop.com",
+      "handle": "one-piece-op-17-booster-box",
+      "note": "OP-17 booster box placeholder"
+    },
+    {
+      "store": "https://theawesomecardshop.com",
+      "handle": "one-piece-the-worlds-strongest-warriors-op-17-booster12-box-case",
+      "note": "OP-17 12-box case placeholder"
+    },
+    {
+      "store": "https://hobbiesville.com",
+      "handle": "one-piece-cg-op-17-booster-box-pre-order-copy",
+      "note": "OP-17 preorder, priced high (299.95 CAD)"
+    }
+  ]
+}

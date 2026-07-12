@@ -1,0 +1,35 @@
+name: TCG Restock Watcher
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 min (GitHub may delay 5-15 min at busy times)
+  workflow_dispatch:          # manual "Run workflow" button
+
+permissions:
+  contents: write             # to commit state.json back
+
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run watcher
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python watcher.py
+
+      - name: Persist state
+        run: |
+          git config user.name "restock-watcher"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || { git commit -m "update watcher state [skip ci]"; git push; }
