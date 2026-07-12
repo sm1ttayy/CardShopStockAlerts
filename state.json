@@ -827,7 +827,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42
+   "check_cursor": 16
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -1783,7 +1783,7 @@
      "title": "Modern Horizons 3 Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 255.0
+     "price": 265.0
     },
     "modern-horizons-3-collector-booster-box": {
      "title": "Modern Horizons 3 Collector Booster Box",
@@ -1825,7 +1825,7 @@
      "title": "Outlaws of Thunder Junction Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 165.0
+     "price": 175.0
     },
     "outlaws-of-thunder-junction-collector-booster-box": {
      "title": "Outlaws of Thunder Junction Collector Booster Box",
@@ -2843,7 +2843,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 160
+   "check_cursor": 0
   },
   "https://skyboxct.com": {
    "products": {
@@ -3899,7 +3899,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13
+   "check_cursor": 4
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5329,7 +5329,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49
+   "check_cursor": 89
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -8441,6 +8441,12 @@
      "game": "MTG",
      "available": false,
      "price": 129.99
+    },
+    "edge-of-eternities-world-shaper-commander-deck": {
+     "title": "Edge of Eternities World Shaper Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 39.95
     }
    },
    "baselined": true,
@@ -11655,7 +11661,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -13047,7 +13053,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42
+   "check_cursor": 82
   }
  }
 }
