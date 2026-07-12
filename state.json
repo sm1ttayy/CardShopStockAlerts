@@ -827,7 +827,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2
+   "check_cursor": 42
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2029,7 +2029,7 @@
      "title": "Scarlet & Violet - Booster Box Display",
      "game": "Pokemon",
      "available": false,
-     "price": 275.0
+     "price": 325.0
     },
     "journey-into-nyx-booster-box-display": {
      "title": "Journey Into Nyx Booster Box Display",
@@ -2843,7 +2843,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120
+   "check_cursor": 160
   },
   "https://skyboxct.com": {
    "products": {
@@ -3899,7 +3899,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22
+   "check_cursor": 13
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5329,7 +5329,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9
+   "check_cursor": 49
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6167,6 +6167,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 1150.0
+    },
+    "pokemon-30th-celebration-knock-out-collection-presale": {
+     "title": "Pokemon 30th Celebration - Knock Out Collection (Presale)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 39.99
     }
    },
    "baselined": true,
@@ -7301,6 +7307,18 @@
      "game": "MTG",
      "available": false,
      "price": 154.99
+    },
+    "cgc-gem-mint-10-yone233-221-spiritforged-6136451013": {
+     "title": "CGC GEM MINT 10 Yone(233/221) [Spiritforged] - 6136451013",
+     "game": "Riftbound",
+     "available": true,
+     "price": 99.99
+    },
+    "mtg-dominaria-bstr": {
+     "title": "Magic the Gathering: Dominaria: Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 129.99
     }
    },
    "baselined": true,
@@ -8529,7 +8547,7 @@
     "pokemon-mega-evolution-pitch-black-booster-box": {
      "title": "Pokemon - Mega Evolution - Pitch Black - Booster Box (Pre-Order)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 299.95
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
@@ -9117,7 +9135,7 @@
     "pokemon-mega-evolution-pitch-black-3-pack-blister": {
      "title": "Pokemon - Mega Evolution - Pitch Black - 3 Pack Blister (Pre-Order)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 27.95
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
@@ -9221,6 +9239,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 649.95
+    },
+    "pokemon-scarlet-and-violet-destined-rivals-booster-pack-5-pack-bundle": {
+     "title": "Pokemon - Scarlet and Violet - Destined Rivals - Booster Pack: 5 Pack Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 69.95
     }
    },
    "baselined": true,
@@ -11631,7 +11655,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -13023,7 +13047,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120
+   "check_cursor": 42
   }
  }
 }
