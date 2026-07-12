@@ -824,6 +824,12 @@
      "game": "MTG",
      "available": false,
      "price": 443.99
+    },
+    "pokemon-tcg-scarlet-and-violet-151-blooming-waters-street-date-02-07-2025-price-43-00-copy": {
+     "title": "Pokemon TCG: Scarlet and Violet 151 - Blooming Waters Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 368.0
     }
    },
    "baselined": true,
@@ -990,13 +996,13 @@
     "magic-the-gathering-marvel-super-heroes-collector-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Collector Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 429.0
     },
     "magic-the-gathering-universes-beyond-spider-man-collector-booster-box": {
      "title": "Magic: The Gathering Universes Beyond: Spider-Man Collector Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 359.0
     },
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-collector-booster-box": {
@@ -2843,7 +2849,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://skyboxct.com": {
    "products": {
@@ -3072,7 +3078,7 @@
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 240.0
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -3899,7 +3905,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4
+   "check_cursor": 44
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5329,7 +5335,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89
+   "check_cursor": 17
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11661,7 +11667,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -11705,7 +11711,7 @@
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 114.75
+     "price": 113.75
     },
     "team-up-booster-box": {
      "title": "Team Up Booster Box",
@@ -11729,7 +11735,7 @@
      "title": "TMNT Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 103.75
+     "price": 102.99
     },
     "spiderman-play-booster-box": {
      "title": "Spiderman Play Booster Box",
@@ -12029,7 +12035,7 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 227.25
+     "price": 226.75
     },
     "march-of-the-machine-set-booster-box": {
      "title": "March of the Machine Set Booster Box",
@@ -12065,7 +12071,7 @@
      "title": "Premium Booster Booster Box [PRB01]",
      "game": "One Piece",
      "available": true,
-     "price": 927.99
+     "price": 924.99
     },
     "emperors-in-the-new-world-booster-box-op09": {
      "title": "Emperors in the New World Booster Box [OP09]",
@@ -12533,7 +12539,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 299.75
+     "price": 298.25
     },
     "crimson-invasion-booster-box": {
      "title": "Crimson Invasion Booster Box",
@@ -12761,7 +12767,7 @@
      "title": "Premium Card Collection -Best Selection Vol. 4-",
      "game": "One Piece",
      "available": true,
-     "price": 298.99
+     "price": 271.75
     },
     "one-piece-premium-card-collection-best-selection-vol-2": {
      "title": "One Piece Premium Card Collection Best Selection Vol. 2",
@@ -12803,13 +12809,13 @@
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 264.75
+     "price": 264.25
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 105.75
+     "price": 99.99
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -12881,7 +12887,7 @@
      "title": "Paldean Fates Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 163.99
+     "price": 163.75
     },
     "paldea-evolved-booster-bundle": {
      "title": "Paldea Evolved Booster Bundle",
@@ -12893,7 +12899,7 @@
      "title": "Scarlet & Violet Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 154.99
+     "price": 109.5
     },
     "silver-tempest-booster-bundle": {
      "title": "Silver Tempest Booster Bundle",
@@ -12947,7 +12953,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 31.5
+     "price": 30.25
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -12971,13 +12977,13 @@
      "title": "Marvel Super Heroes Commander Deck - Doom Prevails",
      "game": "MTG",
      "available": true,
-     "price": 84.5
+     "price": 83.99
     },
     "final-fantasy-counter-blitz-commander-deck": {
      "title": "Final Fantasy Counter Blitz Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 51.75
+     "price": 50.99
     },
     "draconic-rage-commander-deck": {
      "title": "Draconic Rage Commander Deck",
@@ -12995,7 +13001,7 @@
      "title": "Planar Portal Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 155.75
+     "price": 153.75
     },
     "magic-the-gathering-deadly-disguise-commander-deck": {
      "title": "Deadly Disguise Commander Deck",
@@ -13013,13 +13019,13 @@
      "title": "Edge of Eternities Counter Intelligence Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 36.25
+     "price": 35.99
     },
     "universes-beyond-the-lord-of-the-rings-tales-of-middle-earth-bundle": {
      "title": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 417.75
+     "price": 404.75
     },
     "secrets-of-strixhaven-codex-bundle": {
      "title": "Secrets of Strixhaven - Codex Bundle",
@@ -13053,7 +13059,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82
+   "check_cursor": 4
   }
  }
 }
