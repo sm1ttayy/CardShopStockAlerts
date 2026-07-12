@@ -178,10 +178,16 @@ def run(dry_run=False):
             inc = re.compile(rule["include"], re.I)
             exc = re.compile(rule["exclude"], re.I) if rule.get("exclude") else None
             for query in rule["queries"]:
+                # a query is a plain string, or {"q": ..., "min_price": ...}
+                # when a product type needs its own price floor
+                if isinstance(query, dict):
+                    q_text, q_min = query["q"], query.get("min_price", rule.get("min_price", 0))
+                else:
+                    q_text, q_min = query, rule.get("min_price", 0)
                 try:
-                    results = search_products(surl, query)
+                    results = search_products(surl, q_text)
                 except Exception as e:
-                    errors.append(f"{sname}: search '{query}' failed: {e}")
+                    errors.append(f"{sname}: search '{q_text}' failed: {e}")
                     continue
                 finally:
                     time.sleep(delay)
@@ -193,7 +199,7 @@ def run(dry_run=False):
                         continue
                     if exc and exc.search(title):
                         continue
-                    if price and price < rule.get("min_price", 0):
+                    if price and price < q_min:
                         continue
                     url = f"{surl}/products/{handle}"
 

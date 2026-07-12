@@ -21,14 +21,25 @@
   ],
   "games": {
     "One Piece": {
-      "queries": ["one piece booster box", "one piece case", "OP-17"],
+      "queries": [
+        "one piece booster box",
+        "one piece case",
+        "OP-17",
+        { "q": "one piece starter deck", "min_price": 10 },
+        { "q": "one piece premium collection", "min_price": 25 }
+      ],
       "include": "one ?piece",
       "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single",
       "min_price": 40,
       "max_price": 130
     },
     "Pokemon": {
-      "queries": ["pokemon booster box", "pokemon elite trainer box", "pokemon booster bundle"],
+      "queries": [
+        "pokemon booster box",
+        "pokemon elite trainer box",
+        "pokemon booster bundle",
+        { "q": "pokemon collection", "min_price": 25 }
+      ],
       "include": "pok[eé]mon",
       "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|loose",
       "min_price": 35,
@@ -42,7 +53,13 @@
       "max_price": 140
     },
     "MTG": {
-      "queries": ["play booster box", "collector booster box", "magic booster box"],
+      "queries": [
+        "play booster box",
+        "collector booster box",
+        "magic booster box",
+        { "q": "magic commander deck", "min_price": 35 },
+        { "q": "magic bundle", "min_price": 40 }
+      ],
       "include": "magic|mtg",
       "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single",
       "min_price": 80,

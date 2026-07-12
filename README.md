@@ -1,5 +1,7 @@
 # TCG Restock Watcher
 
+![watcher status](https://github.com/sm1ttayy/CardShopStockAlerts/actions/workflows/watch.yml/badge.svg)
+
 Watches 15 vetted Shopify TCG stores for **new-set preorder listings** and
 **restocks** (One Piece, Pokémon, Riftbound, MTG) and pings a Discord webhook.
 
