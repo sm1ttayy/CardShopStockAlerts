@@ -2,8 +2,12 @@
 
 ![watcher status](https://github.com/sm1ttayy/CardShopStockAlerts/actions/workflows/watch.yml/badge.svg)
 
-Watches 15 vetted Shopify TCG stores for **new-set preorder listings** and
-**restocks** (One Piece, Pokémon, Riftbound, MTG) and pings a Discord webhook.
+Watches 17 vetted Shopify TCG stores for **new-set preorder listings**,
+**restocks**, and **price drops** (One Piece, Pokémon, Riftbound, MTG) and
+pings per-game Discord webhooks. A daily full-catalog sweep
+(`sweep.yml`, `--sweep`) pages every store's complete inventory for booster
+boxes the top-10 search window misses. Prices get two-sided flags:
+⚠️ over your per-game `max_price` cap, 💎 at/below your `deal_price` target.
 
 ## How it works
 
@@ -67,6 +71,13 @@ python watcher.py               # real run (posts if DISCORD_WEBHOOK_URL is set)
   converted using `fx_to_usd` (update the CAD rate occasionally). Titles
   matching `cap_exempt` (default: cases) are never flagged, since a
   multi-box case legitimately costs several times a single box.
+- **Deal targets**: `deal_price` per game (USD) — alerts at/below it get a
+  💎 DEAL flag, but only for titles matching `deal_match` (booster
+  boxes/displays) so cheap accessories don't read as deals.
+- **Price drops**: any tracked product whose price falls >10% fires a
+  📉 PRICE DROP alert.
+- **Run budget**: `max_active_checks_per_store` (default 40) rotates through
+  unavailable products each run; config-seeded watches are always checked.
 
 ## Notes
 
