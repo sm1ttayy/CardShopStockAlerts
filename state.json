@@ -812,10 +812,16 @@
      "game": "One Piece",
      "available": false,
      "price": 119.76
+    },
+    "premium-card-collection-best-selection-volume-1": {
+     "title": "Premium Card Collection Best Selection Volume 1",
+     "game": "One Piece",
+     "available": false,
+     "price": 25.5
     }
    },
    "baselined": true,
-   "check_cursor": 120
+   "check_cursor": 2
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2606,6 +2612,228 @@
      "game": "MTG",
      "available": true,
      "price": 200.0
+    },
+    "starter-deck-20-yellow-charlotte-katakuri-st-20": {
+     "title": "Starter Deck 20: YELLOW Charlotte Katakuri [ST-20]",
+     "game": "One Piece",
+     "available": false,
+     "price": 50.0
+    },
+    "starter-deck-24-green-jewelry-bonney": {
+     "title": "Starter Deck 24: GREEN Jewelry Bonney [ST-24]",
+     "game": "One Piece",
+     "available": false,
+     "price": 25.0
+    },
+    "starter-deck-25-blue-buggy": {
+     "title": "Starter Deck 25: BLUE Buggy [ST-25]",
+     "game": "One Piece",
+     "available": false,
+     "price": 25.0
+    },
+    "starter-deck-22-blue-ace-newgate-st-22": {
+     "title": "Starter Deck 22: BLUE Ace & Newgate [ST-22]",
+     "game": "One Piece",
+     "available": false,
+     "price": 20.0
+    },
+    "starter-deck-23-red-shanks": {
+     "title": "Starter Deck 23: RED Shanks [ST-23]",
+     "game": "One Piece",
+     "available": true,
+     "price": 40.0
+    },
+    "starter-deck-15-red-edward-newgate-st-15": {
+     "title": "Starter Deck 15: Red Edward.Newgate [ST-15]",
+     "game": "One Piece",
+     "available": false,
+     "price": 60.0
+    },
+    "starter-deck-06-absolute-justice-st-06": {
+     "title": "Starter Deck 06: Absolute Justice [ST-06]",
+     "game": "One Piece",
+     "available": false,
+     "price": 25.0
+    },
+    "starter-deck-16-blue-donquixote-doflamingo-st-17": {
+     "title": "Starter Deck 17: BLUE Donquixote Doflamingo [ST-17]",
+     "game": "One Piece",
+     "available": false,
+     "price": 80.0
+    },
+    "starter-deck-27-black-marshall-d-luffy": {
+     "title": "Starter Deck 27: BLACK Marshall.D.Teach [ST-27]",
+     "game": "One Piece",
+     "available": true,
+     "price": 35.0
+    },
+    "double-pack-set-volume-6-dp06-1": {
+     "title": "Double Pack Set Volume 6 [DP06]",
+     "game": "One Piece",
+     "available": false,
+     "price": 76.0
+    },
+    "wings-of-the-captain-double-pack-set-3-dp-03": {
+     "title": "Wings of the Captain Double Pack Set 3 Display [DP-03]",
+     "game": "One Piece",
+     "available": false,
+     "price": 480.0
+    },
+    "double-pack-set-volume-8-dp08": {
+     "title": "Double Pack Set Volume 8 [DP08]",
+     "game": "One Piece",
+     "available": false,
+     "price": 38.0
+    },
+    "two-legends-double-pack-set-volume-5-dp-05": {
+     "title": "Two Legends Double Pack Set Volume 5 [DP-05]",
+     "game": "One Piece",
+     "available": false,
+     "price": 40.0
+    },
+    "two-legends-double-pack-set-volume-5-display-dp-05": {
+     "title": "Two Legends Double Pack Set Volume 5 Display [DP-05]",
+     "game": "One Piece",
+     "available": false,
+     "price": 420.0
+    },
+    "mega-evolution-pitch-black-booster-bundle": {
+     "title": "[PREORDER] Mega Evolution: Pitch Black - Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 55.0
+    },
+    "mega-evolution-pitch-black-elite-trainer-box": {
+     "title": "[PREORDER] Mega Evolution: Pitch Black - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.0
+    },
+    "mega-evolution-elite-trainer-box-lucario": {
+     "title": "Mega Evolution Elite Trainer Box [Lucario]",
+     "game": "Pokemon",
+     "available": false,
+     "price": 110.0
+    },
+    "mega-evolution-perfect-order-elite-trainer-box": {
+     "title": "Mega Evolution: Perfect Order - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 70.0
+    },
+    "mega-evolution-elite-trainer-box": {
+     "title": "Mega Evolution Elite Trainer Box [Gardevoir]",
+     "game": "Pokemon",
+     "available": false,
+     "price": 120.0
+    },
+    "scarlet-violet-prismatic-evolutions-elite-trainer-box": {
+     "title": "Scarlet & Violet: Prismatic Evolutions - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 170.0
+    },
+    "scarlet-violet-surging-sparks-elite-trainer-box": {
+     "title": "Scarlet & Violet: Surging Sparks - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 135.0
+    },
+    "mega-evolution-chaos-rising-elite-trainer-box": {
+     "title": "Mega Evolution: Chaos Rising - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 74.0
+    },
+    "black-bolt-elite-trainer-box": {
+     "title": "Black Bolt Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 190.0
+    },
+    "white-flare-elite-trainer-box": {
+     "title": "White Flare Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 140.0
+    },
+    "mega-evolution-booster-bundle": {
+     "title": "Mega Evolution Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 65.0
+    },
+    "mega-evolution-perfect-order-booster-bundle": {
+     "title": "Mega Evolution: Perfect Order - Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 40.0
+    },
+    "scarlet-violet-paldean-fates-booster-bundle": {
+     "title": "Scarlet & Violet: Paldean Fates - Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 170.0
+    },
+    "mega-evolution-chaos-rising-booster-bundle": {
+     "title": "Mega Evolution: Chaos Rising - Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 41.0
+    },
+    "white-flare-booster-bundle": {
+     "title": "White Flare Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 85.0
+    },
+    "scarlet-and-violet-151-booster-bundle": {
+     "title": "Scarlet and Violet 151 - Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 210.0
+    },
+    "destined-rivals-booster-bundle": {
+     "title": "Destined Rivals Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 85.0
+    },
+    "black-bolt-tech-sticker-collection": {
+     "title": "Black Bolt Tech Sticker Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 55.0
+    },
+    "mega-charizard-x-ex-ultra-premium-collection": {
+     "title": "Mega Charizard X ex Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 240.0
+    },
+    "mega-evolution-pitch-black-3-pack-blister": {
+     "title": "[PREORDER] Mega Evolution: Pitch Black - 3-Pack Blister [Binacle]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.0
+    },
+    "universes-beyond-doctor-who-collector-booster-display": {
+     "title": "avatar collector box",
+     "game": "MTG",
+     "available": false,
+     "price": 950.0
+    },
+    "bloomburrow-commander-deck-bundle-set-of-4": {
+     "title": "Bloomburrow Commander Deck Bundle [Set of 4]",
+     "game": "MTG",
+     "available": false,
+     "price": 165.0
+    },
+    "starter-commander-decks-set-of-5": {
+     "title": "Starter Commander Decks [Set of 5]",
+     "game": "MTG",
+     "available": true,
+     "price": 89.0
     }
    },
    "baselined": true,
@@ -5914,6 +6142,12 @@
      "game": "MTG",
      "available": true,
      "price": 134.99
+    },
+    "shining-legends-elite-trainer-box-shining-legends-shl": {
+     "title": "Shining Legends Elite Trainer Box - Shining Legends (SHL)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1150.0
     }
    },
    "baselined": true,
@@ -6418,6 +6652,90 @@
      "game": "MTG",
      "available": false,
      "price": 100.0
+    },
+    "awakening-of-the-new-era-double-pack-set-2": {
+     "title": "Awakening of the New Era Double Pack Set 2",
+     "game": "One Piece",
+     "available": false,
+     "price": 15.0
+    },
+    "rebel-clash-booster-box": {
+     "title": "Rebel Clash Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 250.0
+    },
+    "burning-shadows-booster-box": {
+     "title": "Burning Shadows Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 400.0
+    },
+    "team-up-booster-box": {
+     "title": "Team Up Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 2500.0
+    },
+    "sword-shield-base-booster-box": {
+     "title": "Sword & Shield Base Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 250.0
+    },
+    "lost-origins-booster-bundle": {
+     "title": "Lost Origin Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 210.0
+    },
+    "murders-at-karlov-manor-play-booster-box": {
+     "title": "Murders at Karlov Manor Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 135.0
+    },
+    "dominaria-united-collector-booster-box": {
+     "title": "Dominaria United Collector Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 350.0
+    },
+    "innistrad-crimson-vow-collector-booster-box": {
+     "title": "Innistrad: Crimson Vow Collector Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 250.0
+    },
+    "murders-at-karlov-manor-collector-booster-box": {
+     "title": "Murders at Karlov Manor Collector Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 300.0
+    },
+    "japanese-kamigawa-neon-dynasty-collector-booster-box": {
+     "title": "Japanese Kamigawa Neon Dynasty Collector Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 500.0
+    },
+    "innistrad-midnight-hunt-collector-booster-box": {
+     "title": "Innistrad: Midnight Hunt Collector Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 225.0
+    },
+    "march-of-the-machine-the-aftermath-collector-booster-box": {
+     "title": "March of the Machine: The Aftermath Collector Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 240.0
+    },
+    "streets-of-new-capenna-collector-booster-box": {
+     "title": "Streets of New Capenna Collector Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 260.0
     }
    },
    "baselined": true,
@@ -6940,10 +7258,22 @@
      "game": "Pokemon",
      "available": false,
      "price": 199.99
+    },
+    "cgc-9-volibear300-298-origins-6157704002": {
+     "title": "CGC 9 Volibear(300*/298) [Origins] - 6157704002",
+     "game": "Riftbound",
+     "available": true,
+     "price": 749.99
+    },
+    "magic-the-gathering-kamigawa-neon-dynasty-collector-booster-box": {
+     "title": "Kamigawa: Neon Dynasty: Collector Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 199.99
     }
    },
    "baselined": true,
-   "check_cursor": 30
+   "check_cursor": 4
   },
   "https://moonshotgamestore.com": {
    "products": {
@@ -7084,6 +7414,18 @@
      "game": "MTG",
      "available": true,
      "price": 139.99
+    },
+    "mega-greninja-ex-premium-collection": {
+     "title": "Mega Greninja ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 70.0
+    },
+    "teenage-mutant-ninja-turtles-collector-booster-box": {
+     "title": "Teenage Mutant Ninja Turtles - Collector Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 429.99
     }
    },
    "baselined": true,
@@ -7366,6 +7708,36 @@
      "game": "One Piece",
      "available": false,
      "price": 154.0
+    },
+    "army-painter-wet-palette-bundle": {
+     "title": "Army Painter Wet Palette Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 44.98
+    },
+    "zombicide-iron-maiden-character-packs-bundle-of-the-beast": {
+     "title": "Zombicide: Iron Maiden Character Packs - Bundle of the Beast",
+     "game": "MTG",
+     "available": true,
+     "price": 99.99
+    },
+    "learn-to-paint-kit-core-skills-bundle": {
+     "title": "Learn to Paint Kit - Core Skills Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 69.99
+    },
+    "learn-to-paint-kit-layer-up-bundle": {
+     "title": "Learn to Paint Kit - Layer up! Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 69.99
+    },
+    "zombicide-the-boys-character-packs-bundle": {
+     "title": "Zombicide: The Boys Character Packs Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 99.99
     }
    },
    "baselined": true,
@@ -7834,6 +8206,192 @@
      "game": "MTG",
      "available": false,
      "price": 159.95
+    },
+    "pokemon-twilight-masquerade-elite-trainer-box": {
+     "title": "Twilight Masquerade Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 89.99
+    },
+    "ascended-heroes-elite-trainer-box": {
+     "title": "Ascended Heroes Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 169.99
+    },
+    "me02-elite-trainer-box": {
+     "title": "ME02 Phantasmal Flames Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 74.99
+    },
+    "prismatic-evolutions-booster-bundle": {
+     "title": "Prismatic Evolutions Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 89.95
+    },
+    "journey-together-booster-bundle": {
+     "title": "Journey Together Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 42.95
+    },
+    "ascended-heroes-booster-bundle": {
+     "title": "Ascended Heroes Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 74.99
+    },
+    "paldean-fates-booster-bundle-display-10-bundles": {
+     "title": "Paldean Fates Booster Bundle Display (10 Bundles)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 1109.99
+    },
+    "151-booster-bundle": {
+     "title": "151 - Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 64.99
+    },
+    "mega-greninja-ex-premium-collection": {
+     "title": "Mega Greninja ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 54.95
+    },
+    "prismatic-evolutions-poster-collection-1": {
+     "title": "Prismatic Evolutions Poster Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 39.95
+    },
+    "prismatic-evolutions-super-premium-collection": {
+     "title": "Prismatic Evolutions Super Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 294.95
+    },
+    "first-partner-illustration-collection-series-2": {
+     "title": "First Partner Illustration Collection (Series 2)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 44.95
+    },
+    "unova-poster-collection-sv-black-bolt": {
+     "title": "Unova Poster Collection - SV: Black Bolt",
+     "game": "Pokemon",
+     "available": false,
+     "price": 29.99
+    },
+    "ascended-heroes-tech-sticker-collection-gastly": {
+     "title": "Ascended Heroes Tech Sticker Collection - Gastly",
+     "game": "Pokemon",
+     "available": false,
+     "price": 29.99
+    },
+    "prismatic-evolutions-tech-sticker-collection-case": {
+     "title": "Prismatic Evolutions Tech Sticker Collection Case",
+     "game": "Pokemon",
+     "available": false,
+     "price": 389.99
+    },
+    "modern-horizons-3-play-booster-case-6-boxes": {
+     "title": "Modern Horizons 3 Play Booster Case (6 Boxes)",
+     "game": "MTG",
+     "available": true,
+     "price": 1549.95
+    },
+    "preorder-final-fantasy-commander-deck-counter-blitz": {
+     "title": "Final Fantasy X Counter Blitz Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 47.95
+    },
+    "final-fantasy-vii-limit-break-cloud-preorder": {
+     "title": "Final Fantasy VII Limit Break Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 57.95
+    },
+    "starter-commander-deck-case": {
+     "title": "Starter Commander Deck Set of 5",
+     "game": "MTG",
+     "available": true,
+     "price": 99.95
+    },
+    "marvel-super-heroes-wakanda-forever-commander-deck-preorder": {
+     "title": "Marvel Super Heroes Wakanda Forever Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 49.95
+    },
+    "final-fantasy-xiv-scions-spellcraft-yshtola-preorder": {
+     "title": "Final Fantasy XIV Scions & Spellcraft Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 49.95
+    },
+    "marvel-super-heroes-doom-prevails-commander-deck-preorder": {
+     "title": "Marvel Super Heroes Doom Prevails Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 79.95
+    },
+    "marvel-super-heroes-bundle-preorder": {
+     "title": "Marvel Super Heroes Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
+    },
+    "secrets-of-strixhaven-bundle-preorder": {
+     "title": "Secrets of Strixhaven Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 49.95
+    },
+    "avatar-the-last-airbender-bundle-preorder": {
+     "title": "Avatar The Last Airbender Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 59.95
+    },
+    "lorwyn-eclipsed-commander-deck-bundle-set-of-2-preorder": {
+     "title": "Lorwyn Eclipsed Commander Deck Bundle (Set of 2)",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
+    },
+    "lorwyn-eclipsed-bundle-preorder": {
+     "title": "Lorwyn Eclipsed Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
+    },
+    "teenage-mutant-ninja-turtles-bundle-preorder": {
+     "title": "Teenage Mutant Ninja Turtles Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 54.95
+    },
+    "secrets-of-strixhaven-codex-bundle-preorder": {
+     "title": "Secrets of Strixhaven Codex Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 124.95
+    },
+    "teenage-mutant-ninja-turtles-pizza-bundle-preorder": {
+     "title": "Teenage Mutant Ninja Turtles Pizza Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 89.99
+    },
+    "avatar-the-last-airbender-gift-bundle-preorder": {
+     "title": "Avatar The Last Airbender Commander's Gift Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 129.99
     }
    },
    "baselined": true,
@@ -9443,10 +10001,16 @@
      "game": "Pokemon",
      "available": false,
      "price": 349.95
+    },
+    "pokemon-tcg-scarlet-violet-twilight-masquerade-elite-trainer-box-pre-order": {
+     "title": "Pokemon TCG: Scarlet & Violet - Twilight Masquerade Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 159.99
     }
    },
    "baselined": true,
-   "check_cursor": 49
+   "check_cursor": 4
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -9683,6 +10247,252 @@
      "game": "MTG",
      "available": false,
      "price": 249.99
+    },
+    "double-pack-set-vol-8": {
+     "title": "Double Pack Set Vol. 8",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.99
+    },
+    "two-legends-double-pack-set-volume-5": {
+     "title": "Two Legends - Double Pack Set Volume 5",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.99
+    },
+    "black-white-booster-box": {
+     "title": "Black & White - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "aquapolis-booster-box": {
+     "title": "Aquapolis - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "sword-shield-evolving-skies-booster-box": {
+     "title": "Sword & Shield: Evolving Skies - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 2699.99
+    },
+    "black-white-dark-explorers-booster-box": {
+     "title": "Black & White: Dark Explorers - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "scarlet-violet-twilight-masquerade-booster-box": {
+     "title": "Scarlet & Violet: Twilight Masquerade - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 229.99
+    },
+    "base-set-booster-box-1st-edition": {
+     "title": "Base Set - Booster Box (1st Edition)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "black-white-boundaries-crossed-booster-box": {
+     "title": "Black & White: Boundaries Crossed - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "black-white-dragons-exalted-booster-box": {
+     "title": "Black & White: Dragons Exalted - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "diamond-pearl-booster-box": {
+     "title": "Diamond & Pearl - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "base-set-booster-box-unlimited-shadowless": {
+     "title": "Base Set - Booster Box (Unlimited) (Shadowless)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "sword-shield-lost-origin-elite-trainer-box": {
+     "title": "Sword & Shield: Lost Origin - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 99.99
+    },
+    "shining-fates-elite-trainer-box": {
+     "title": "Shining Fates - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 99.99
+    },
+    "scarlet-violet-obsidian-flames-elite-trainer-box": {
+     "title": "Scarlet & Violet: Obsidian Flames - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 79.99
+    },
+    "sword-shield-astral-radiance-elite-trainer-box": {
+     "title": "Sword & Shield: Astral Radiance - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 109.99
+    },
+    "scarlet-violet-stellar-crown-elite-trainer-box": {
+     "title": "Scarlet & Violet: Stellar Crown - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 59.99
+    },
+    "black-white-plasma-blast-elite-trainer-box": {
+     "title": "Black & White: Plasma Blast - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0
+    },
+    "celebrations-25th-anniversary-elite-trainer-box": {
+     "title": "Celebrations: 25th Anniversary - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 129.99
+    },
+    "sword-shield-brilliant-stars-elite-trainer-box": {
+     "title": "Sword & Shield: Brilliant Stars - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 119.99
+    },
+    "sword-shield-silver-tempest-elite-trainer-box": {
+     "title": "Sword & Shield: Silver Tempest - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 89.99
+    },
+    "scarlet-violet-shrouded-fable-elite-trainer-box": {
+     "title": "Scarlet & Violet: Shrouded Fable - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 79.99
+    },
+    "sword-shield-crown-zenith-booster-bundle": {
+     "title": "Sword & Shield: Crown Zenith Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 52.99
+    },
+    "outlaws-collector-booster-box": {
+     "title": "Outlaws Collector Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 299.0
+    },
+    "commander-masters-collector-booster-box": {
+     "title": "Commander Masters - Collector Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 359.99
+    },
+    "time-spiral-remastered-japanese-draft-booster-box": {
+     "title": "Time Spiral Remastered - Japanese - Draft Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 499.99
+    },
+    "hour-of-devastation-booster-box": {
+     "title": "Hour of Devastation - Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 299.99
+    },
+    "battlebond-booster-box": {
+     "title": "Battlebond - Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 499.99
+    },
+    "mystery-booster-booster-box-convention-edition": {
+     "title": "Mystery Booster - Booster Box (Convention Edition)",
+     "game": "MTG",
+     "available": false,
+     "price": 349.99
+    },
+    "innistrad-booster-box": {
+     "title": "Innistrad - Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 799.99
+    },
+    "arabian-nights-booster-box": {
+     "title": "Arabian Nights - Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 0.0
+    },
+    "unfinity-draft-booster-box": {
+     "title": "Unfinity - Draft Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 159.99
+    },
+    "avacyn-restored-booster-box": {
+     "title": "Avacyn Restored - Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 0.0
+    },
+    "ikoria-lair-of-behemoths-booster-box": {
+     "title": "Ikoria Lair of Behemoths - Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 199.99
+    },
+    "betrayers-of-kamigawa-booster-box": {
+     "title": "Betrayers of Kamigawa - Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 0.0
+    },
+    "bloomburrow-commander-deck-peace-offering": {
+     "title": "Bloomburrow - Commander Deck (Peace Offering)",
+     "game": "MTG",
+     "available": true,
+     "price": 99.99
+    },
+    "starter-commander-deck-token-triumph": {
+     "title": "Starter Commander Deck (Token Triumph)",
+     "game": "MTG",
+     "available": true,
+     "price": 39.99
+    },
+    "bloomburrow-commander-deck-family-matters": {
+     "title": "Bloomburrow - Commander Deck (Family Matters)",
+     "game": "MTG",
+     "available": true,
+     "price": 59.99
+    },
+    "aetherdrift-living-energy-commander-deck": {
+     "title": "Aetherdrift - Living Energy Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 49.99
+    },
+    "bloomburrow-commander-deck-animated-army": {
+     "title": "Bloomburrow - Commander Deck (Animated Army)",
+     "game": "MTG",
+     "available": true,
+     "price": 79.99
+    },
+    "starter-commander-deck-chaos-incarnate": {
+     "title": "Starter Commander Deck (Chaos Incarnate)",
+     "game": "MTG",
+     "available": true,
+     "price": 54.99
     }
    },
    "baselined": true,
@@ -10703,6 +11513,72 @@
      "game": "Pokemon",
      "available": false,
      "price": 1302.61
+    },
+    "pokemon-mega-dream-ex-m2a-japanese-booster-box": {
+     "title": "Pokemon Mega Dream ex M2A Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.99
+    },
+    "pokemon-mega-brave-m1l-japanese-booster-box": {
+     "title": "Pok\u00e9mon Mega Brave M1L Japanese Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 84.99
+    },
+    "battle-partners-booster-box-sv9-pokemon-japanese": {
+     "title": "Pok\u00e9mon Battle Partners Booster Box SV9",
+     "game": "Pokemon",
+     "available": true,
+     "price": 74.99
+    },
+    "722297": {
+     "title": "ACE 9   - Blacksmith - 88a/106 - Flashfire - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 64.99
+    },
+    "722288": {
+     "title": "ACE 8   - Delinquent - 98b/122 - BREAKpoint - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 54.99
+    },
+    "722263": {
+     "title": "ACE 8   - Jirachi - XY67a - Black Star Promo - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 199.99
+    },
+    "722295": {
+     "title": "ACE 8   - Karen - XY177a - Black Star Promo - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 79.99
+    },
+    "ace-8-shauna-111a-124-fates-collide-pokemon-premium-trainers-xy-collection": {
+     "title": "ACE 8   - Shauna - 111a/124 - Fates Collide - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 69.99
+    },
+    "722289": {
+     "title": "ACE 9   - Karen - XY177a - Black Star Promo - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 179.99
+    },
+    "722296": {
+     "title": "ACE 9   - Shauna - 111a/124 - Fates Collide - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 149.99
+    },
+    "722264": {
+     "title": "ACE 9   - Team Flare Grunt - 73a/83 - Generations - Pokemon - Premium Trainer's XY Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 64.99
     }
    },
    "baselined": true,
@@ -11747,6 +12623,348 @@
      "game": "Pokemon",
      "available": false,
      "price": 714.75
+    },
+    "one-piece-starter-deck-14-3d2y": {
+     "title": "One Piece Starter Deck 14: 3D2Y",
+     "game": "One Piece",
+     "available": false,
+     "price": 21.99
+    },
+    "starter-deck-ex-luffy-ace": {
+     "title": "Starter Deck EX: Luffy & Ace",
+     "game": "One Piece",
+     "available": false,
+     "price": 41.75
+    },
+    "one-piece-starter-deck-11-uta": {
+     "title": "One Piece Starter Deck 11 - Uta",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.75
+    },
+    "starter-deck-19-title-tba": {
+     "title": "Starter Deck 19: BLACK Smoker",
+     "game": "One Piece",
+     "available": false,
+     "price": 49.75
+    },
+    "starter-deck-20-title-tba": {
+     "title": "Starter Deck 20: YELLOW Charlotte Katakuri",
+     "game": "One Piece",
+     "available": false,
+     "price": 49.75
+    },
+    "one-piece-3d2y-starter-deck-display": {
+     "title": "One Piece 3D2Y Starter Deck Display",
+     "game": "One Piece",
+     "available": false,
+     "price": 137.99
+    },
+    "one-piece-starter-deck-12-zoro-and-sanji": {
+     "title": "One Piece Starter Deck 12 - Zoro and Sanji",
+     "game": "One Piece",
+     "available": false,
+     "price": 51.75
+    },
+    "one-piece-starter-deck-6-absolute-justice": {
+     "title": "One Piece Starter Deck 6: Absolute Justice",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.75
+    },
+    "one-piece-starter-deck-4-animal-kingdom-pirates": {
+     "title": "One Piece Starter Deck 4: Animal Kingdom Pirates",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.25
+    },
+    "premium-card-collection-best-selection-vol-4": {
+     "title": "Premium Card Collection -Best Selection Vol. 4-",
+     "game": "One Piece",
+     "available": true,
+     "price": 298.99
+    },
+    "one-piece-premium-card-collection-best-selection-vol-2": {
+     "title": "One Piece Premium Card Collection Best Selection Vol. 2",
+     "game": "One Piece",
+     "available": false,
+     "price": 93.75
+    },
+    "premium-card-collection-bandai-card-games-fest-23": {
+     "title": "Premium Card Collection -BANDAI CARD GAMES Fest. 23",
+     "game": "One Piece",
+     "available": false,
+     "price": 127.75
+    },
+    "double-pack-set-vol-11": {
+     "title": "One Piece Double Pack Set Vol. 11",
+     "game": "One Piece",
+     "available": false,
+     "price": 23.99
+    },
+    "double-pack-set-volume-5": {
+     "title": "Double Pack Set Volume 5",
+     "game": "One Piece",
+     "available": false,
+     "price": 34.99
+    },
+    "double-pack-set-vol-8-display": {
+     "title": "Double Pack Set Vol. 8 Display",
+     "game": "One Piece",
+     "available": false,
+     "price": 344.75
+    },
+    "perfect-order-pokemon-center-elite-trainer-box": {
+     "title": "Perfect Order Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 123.99
+    },
+    "white-flare-pokemon-center-elite-trainer-box": {
+     "title": "White Flare Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 264.75
+    },
+    "pitch-black-elite-trainer-box": {
+     "title": "Pitch Black Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 105.75
+    },
+    "chaos-rising-elite-trainer-box": {
+     "title": "Chaos Rising Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 74.75
+    },
+    "pokemon-go-elite-trainer-box": {
+     "title": "Pokemon GO Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 181.75
+    },
+    "twilight-masquerade-elite-trainer-box": {
+     "title": "Twilight Masquerade Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 113.75
+    },
+    "pokemon-swsh-crown-zenith-elite-trainer-box": {
+     "title": "Crown Zenith Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 338.75
+    },
+    "pokemon-s-v-prismatic-evolutions-elite-trainer-box": {
+     "title": "Prismatic Evolutions Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 169.75
+    },
+    "destined-rivals-elite-trainer-box": {
+     "title": "Destined Rivals Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 171.75
+    },
+    "pokemon-scarlet-violet-151-booster-bundle": {
+     "title": "151 Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 189.99
+    },
+    "chaos-rising-booster-bundle": {
+     "title": "Chaos Rising Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 42.5
+    },
+    "prismatic-evolutions-booster-bundle": {
+     "title": "Prismatic Evolutions Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 87.25
+    },
+    "ascended-heroes-booster-bundle": {
+     "title": "Ascended Heroes Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 84.75
+    },
+    "destined-rivals-booster-bundle": {
+     "title": "Destined Rivals Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 81.75
+    },
+    "paldean-fates-booster-bundle": {
+     "title": "Paldean Fates Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 163.99
+    },
+    "paldea-evolved-booster-bundle": {
+     "title": "Paldea Evolved Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 124.99
+    },
+    "scarlet-violet-booster-bundle": {
+     "title": "Scarlet & Violet Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 154.99
+    },
+    "silver-tempest-booster-bundle": {
+     "title": "Silver Tempest Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 115.75
+    },
+    "pokemon-151-zapdos-ex-collection-box": {
+     "title": "151 Zapdos ex Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 128.75
+    },
+    "pokemon-151-poster-collection": {
+     "title": "151 Poster Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 87.25
+    },
+    "mega-zygarde-ex-premium-collection": {
+     "title": "Mega Zygarde ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 49.75
+    },
+    "prismatic-evolutions-poster-collection": {
+     "title": "Prismatic Evolutions Poster Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 44.75
+    },
+    "mega-greninja-ex-premium-collection": {
+     "title": "Mega Greninja ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 53.75
+    },
+    "blooming-waters-premium-collection": {
+     "title": "Blooming Waters Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 349.75
+    },
+    "151-ultra-premium-collection": {
+     "title": "151 Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 924.99
+    },
+    "pitch-black-3-pack-blister-binacle": {
+     "title": "Pitch Black 3 Pack Blister [Binacle]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 31.5
+    },
+    "pitch-black-booster-bundle": {
+     "title": "Pitch Black Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 59.75
+    },
+    "riftbound-worlds-bundle-2025": {
+     "title": "Riftbound Worlds Bundle 2025",
+     "game": "Riftbound",
+     "available": false,
+     "price": 929.75
+    },
+    "origins-proving-grounds-box-set": {
+     "title": "Origins - Proving Grounds Box Set",
+     "game": "Riftbound",
+     "available": false,
+     "price": 64.99
+    },
+    "marvel-super-heroes-commander-deck-doom-prevails": {
+     "title": "Marvel Super Heroes Commander Deck - Doom Prevails",
+     "game": "MTG",
+     "available": true,
+     "price": 84.5
+    },
+    "final-fantasy-counter-blitz-commander-deck": {
+     "title": "Final Fantasy Counter Blitz Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 51.75
+    },
+    "draconic-rage-commander-deck": {
+     "title": "Draconic Rage Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 127.5
+    },
+    "magic-the-gathering-blame-game-commander-deck": {
+     "title": "Blame Game Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 106.75
+    },
+    "planar-portal-commander-deck": {
+     "title": "Planar Portal Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 155.75
+    },
+    "magic-the-gathering-deadly-disguise-commander-deck": {
+     "title": "Deadly Disguise Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 90.75
+    },
+    "aetherdrift-commander-deck-eternal-might": {
+     "title": "Aetherdrift Commander Deck - Eternal Might",
+     "game": "MTG",
+     "available": true,
+     "price": 45.75
+    },
+    "edge-of-eternities-commander-deck-counter-intelligence": {
+     "title": "Edge of Eternities Counter Intelligence Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 36.25
+    },
+    "universes-beyond-the-lord-of-the-rings-tales-of-middle-earth-bundle": {
+     "title": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth - Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 417.75
+    },
+    "secrets-of-strixhaven-codex-bundle": {
+     "title": "Secrets of Strixhaven - Codex Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 124.75
+    },
+    "marvel-superheroes-play-booster-bundle": {
+     "title": "Marvel Super Heroes Play Booster Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 65.75
+    },
+    "final-fantasy-gift-bundle": {
+     "title": "Final Fantasy Gift Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 219.75
+    },
+    "universes-beyond-final-fantasy-bundle": {
+     "title": "Universes Beyond: FINAL FANTASY - Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 118.99
     }
    },
    "baselined": true,
