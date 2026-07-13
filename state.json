@@ -2888,10 +2888,16 @@
      "game": "MTG",
      "available": true,
      "price": 89.0
+    },
+    "mega-evolution-phantasmal-flames-elite-trainer-box": {
+     "title": "Mega Evolution: Phantasmal Flames Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 165.0
     }
    },
    "baselined": true,
-   "check_cursor": 121
+   "check_cursor": 161
   },
   "https://skyboxct.com": {
    "products": {
@@ -3959,7 +3965,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30
+   "check_cursor": 21
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5401,7 +5407,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73
+   "check_cursor": 1
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -5496,7 +5502,7 @@
      "price": 72.99
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box-presale": {
-     "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box (Presale)",
+     "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
      "price": 114.99
@@ -9982,8 +9988,8 @@
     "pre-order-pokemon-marnie-premium-tournament-collection": {
      "title": "Pokemon Marnie Premium Tournament Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 139.95
+     "available": true,
+     "price": 169.95
     },
     "pokemon-blooming-waters-premium-collection-pre-order": {
      "title": "Pokemon Blooming Waters Premium Collection",
@@ -11787,7 +11793,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -11951,7 +11957,7 @@
      "title": "Ninja Spinner Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 87.99
+     "price": 88.75
     },
     "chaos-rising-booster-box": {
      "title": "Chaos Rising Booster Box",
@@ -11987,7 +11993,7 @@
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2574.75
+     "price": 2564.75
     },
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
@@ -12101,7 +12107,7 @@
      "title": "Perfect Order Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 214.75
+     "price": 209.75
     },
     "innistrad-remastered-collector-booster-box": {
      "title": "Innistrad Remastered Collector Booster Box",
@@ -12575,7 +12581,7 @@
      "title": "Obsidian Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 387.99
+     "price": 384.99
     },
     "final-fantasy-play-booster-box": {
      "title": "Final Fantasy Play Booster Box",
@@ -12731,7 +12737,7 @@
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 728.75
+     "price": 727.99
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
      "title": "The Lord of the Rings: Tales of Middle-earth Collector Booster Box",
@@ -12767,13 +12773,13 @@
      "title": "Temporal Forces Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 314.99
+     "price": 317.75
     },
     "pokemon-japanese-clay-burst-booster-box": {
      "title": "Japanese Clay Burst Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 115.99
+     "price": 115.75
     },
     "pokemon-s-v-twilight-masquerade-booster-box": {
      "title": "Twilight Masquerade Booster Box",
@@ -12803,7 +12809,7 @@
      "title": "Paldea Evolved Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 499.99
+     "price": 496.75
     },
     "mtg-ikoria-booster-box": {
      "title": "Ikoria: Lair of Behemoths Booster Box",
@@ -13139,7 +13145,7 @@
      "title": "Edge of Eternities Counter Intelligence Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 35.99
+     "price": 36.25
     },
     "universes-beyond-the-lord-of-the-rings-tales-of-middle-earth-bundle": {
      "title": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth - Bundle",
@@ -13188,10 +13194,16 @@
      "game": "MTG",
      "available": true,
      "price": 64.25
+    },
+    "trick-or-trade-booster-bundle-40-ct": {
+     "title": "Trick or Trade BOOster Bundle (40 ct)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 79.99
     }
    },
    "baselined": true,
-   "check_cursor": 48
+   "check_cursor": 88
   }
  }
 }
