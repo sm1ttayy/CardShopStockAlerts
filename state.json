@@ -836,6 +836,12 @@
      "game": "MTG",
      "available": false,
      "price": 199.99
+    },
+    "brothers-war-set-booster-pre-order": {
+     "title": "Magic: the Gathering: Brothers' War - Set Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 364.99
     }
    },
    "baselined": true,
@@ -2855,7 +2861,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80
+   "check_cursor": 120
   },
   "https://skyboxct.com": {
    "products": {
@@ -3914,10 +3920,16 @@
      "game": "MTG",
      "available": true,
      "price": 55.0
+    },
+    "magic-the-gathering-edge-of-eternities-commander-deck-counter-intelligence-pre-order": {
+     "title": "Magic The Gathering: Edge of Eternities Commander Deck (Counter Intelligence)",
+     "game": "MTG",
+     "available": true,
+     "price": 38.0
     }
    },
    "baselined": true,
-   "check_cursor": 35
+   "check_cursor": 26
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -3988,7 +4000,7 @@
      "price": 4499.75
     },
     "one-piece-tcg-the-azure-seas-seven-op-14-booster-12-box-case": {
-     "title": "One Piece TCG: The Azure Sea's Seven (OP 14) Booster 12-Box Case",
+     "title": "One Piece The Azure Sea's Seven (OP 14) Booster 12-Box Case",
      "game": "One Piece",
      "available": true,
      "price": 3479.75
@@ -4164,7 +4176,7 @@
      "price": 164.75
     },
     "pokemon-mega-evolution-ascended-heroes-6-pack-booster-bundle": {
-     "title": "Pokemon Mega Evolution: Ascended Heroes 6-Pack Booster Bundle",
+     "title": "Pokemon Mega Evolution Ascended Heroes Booster Bundle",
      "game": "Pokemon",
      "available": true,
      "price": 89.75
@@ -4362,7 +4374,7 @@
      "price": 119.75
     },
     "one-piece-tcg-the-azure-seas-seven-op-14-booster-box": {
-     "title": "One Piece TCG: The Azure Sea's Seven (OP 14) Booster Box",
+     "title": "One Piece The Azure Sea's Seven (OP 14) Booster Box",
      "game": "One Piece",
      "available": true,
      "price": 290.75
@@ -5347,7 +5359,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57
+   "check_cursor": 97
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6191,6 +6203,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 39.99
+    },
+    "pokemon-30th-celebration-poster-collection-presale": {
+     "title": "Pokemon 30th Celebration - Poster Collection (Presale)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 79.99
     }
    },
    "baselined": true,
@@ -10092,6 +10110,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 94.95
+    },
+    "pokemon-armarouge-ex-premium-collection-pre-order": {
+     "title": "Pokemon - Armarouge ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 79.95
     }
    },
    "baselined": true,
@@ -11579,7 +11603,7 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 877.28
+     "price": 881.02
     },
     "xy-evolutions-booster-box-case": {
      "title": "XY Evolutions Booster Box Case",
@@ -11679,7 +11703,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -13068,10 +13092,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 123.75
+    },
+    "edge-of-eternities-commander-deck-world-shaper": {
+     "title": "Edge of Eternities World Shaper Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 47.75
     }
    },
    "baselined": true,
-   "check_cursor": 44
+   "check_cursor": 84
   }
  }
 }
