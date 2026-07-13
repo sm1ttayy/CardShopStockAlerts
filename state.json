@@ -6,7 +6,7 @@
      "title": "One Piece TCG: The Time Of Battle Booster Display Box (OP-16)",
      "game": "One Piece",
      "available": true,
-     "price": 191.99
+     "price": 177.62
     },
     "one-piece-tcg-ib-05-illustration-box-vol-5-english": {
      "title": "One Piece TCG: [IB-05] Illustration Box Vol. 5 [English]",
@@ -247,7 +247,7 @@
      "title": "Riftbound TCG: League of Legends: Origins Proving Grounds",
      "game": "Riftbound",
      "available": false,
-     "price": 58.86
+     "price": 56.29
     },
     "magic-the-gathering-marvel-super-heroes-play-booster-display-box": {
      "title": "Magic: The Gathering | Marvel Super Heroes - Play Booster Display Box",
@@ -409,7 +409,7 @@
      "title": "One Piece TCG: \"Paramount War\" Starter Deck EX -Luffy & Ace- [ST-30] [English]",
      "game": "One Piece",
      "available": false,
-     "price": 39.99
+     "price": 39.0
     },
     "one-piece-tcg-st-29-egghead-starter-deck-english": {
      "title": "One Piece TCG: [ST-29] Egghead Starter Deck [English]",
@@ -896,6 +896,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 16.94
+    },
+    "riftbound-tcg-league-of-legends-spiritforged-champion-deck-fiora": {
+     "title": "Riftbound TCG: League of Legends: Spiritforged Champion Deck - Fiora",
+     "game": "Riftbound",
+     "available": false,
+     "price": 35.02
     }
    },
    "baselined": true,
@@ -960,7 +966,7 @@
     "riftbound-league-of-legends-tcg-spiritforged-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Spiritforged Booster Box Display",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 150.0
     },
     "riftbound-league-of-legends-tcg-unleashed-booster-box-display": {
@@ -2921,7 +2927,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81
+   "check_cursor": 121
   },
   "https://skyboxct.com": {
    "products": {
@@ -4055,7 +4061,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32
+   "check_cursor": 12
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5497,7 +5503,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9
+   "check_cursor": 49
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6135,7 +6141,8 @@
      "title": "Pokemon Terastal Festival ex Booster Box (Japanese)",
      "game": "Pokemon",
      "available": false,
-     "price": 114.99
+     "price": 114.99,
+     "delisted": true
     },
     "magic-the-gathering-edge-of-eternities-collector-booster-box": {
      "title": "Magic: The Gathering Edge of Eternities Collector Booster Box",
@@ -6959,6 +6966,12 @@
      "game": "One Piece",
      "available": false,
      "price": 175.0
+    },
+    "phantasmal-flames-pokemon-center-elite-trainer-box-pokemon": {
+     "title": "Phantasmal Flames Pokemon Center Elite Trainer Box [Pokemon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 350.0
     }
    },
    "baselined": true,
@@ -8086,7 +8099,7 @@
      "title": "One Piece Omnihive 1000 Xenoskin Deck Case",
      "game": "One Piece",
      "available": true,
-     "price": 82.95
+     "price": 79.95
     },
     "chaos-rising-booster-box": {
      "title": "Pokemon ME04 Chaos Rising Booster Box",
@@ -8854,7 +8867,7 @@
      "title": "Pokemon - Mega Dream EX - Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 195.95
+     "price": 199.95
     },
     "pokemon-scarlet-and-violet-prismatic-evolution-elite-trainer-box": {
      "title": "Pokemon - Scarlet and Violet - Prismatic Evolutions - Elite Trainer Box",
@@ -12081,7 +12094,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -12190,7 +12203,7 @@
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 269.99
     },
     "secrets-of-strixhaven-collector-booster-display": {
@@ -12401,7 +12414,7 @@
      "title": "Innistrad Remastered Collector Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 424.75
+     "price": 423.75
     },
     "avatar-the-last-airbender-collector-booster-box": {
      "title": "Avatar: The Last Airbender Collector Booster Box",
@@ -12563,7 +12576,7 @@
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 439.75
+     "price": 438.75
     },
     "korean-blue-sky-stream-booster-box": {
      "title": "Korean Blue Sky Stream Booster Box",
@@ -12683,7 +12696,7 @@
      "title": "Mega Evolution Enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 325.25
+     "price": 324.75
     },
     "japanese-violet-ex-booster-box": {
      "title": "Japanese Violet ex Booster Box",
@@ -12953,7 +12966,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 298.25
+     "price": 296.75
     },
     "crimson-invasion-booster-box": {
      "title": "Crimson Invasion Booster Box",
@@ -12971,7 +12984,7 @@
      "title": "Paradox Rift Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 299.25
+     "price": 298.99
     },
     "mtg-ravnica-remastered-collector-booster-box": {
      "title": "Ravnica Remastered Collector Booster Box",
@@ -13241,7 +13254,7 @@
      "title": "Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 181.75
+     "price": 179.75
     },
     "twilight-masquerade-elite-trainer-box": {
      "title": "Twilight Masquerade Elite Trainer Box",
@@ -13307,7 +13320,7 @@
      "title": "Paldea Evolved Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 124.99
+     "price": 121.99
     },
     "scarlet-violet-booster-bundle": {
      "title": "Scarlet & Violet Booster Bundle",
@@ -13349,13 +13362,13 @@
      "title": "Mega Greninja ex Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 53.75
+     "price": 52.75
     },
     "blooming-waters-premium-collection": {
      "title": "Blooming Waters Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 349.75
+     "price": 348.75
     },
     "151-ultra-premium-collection": {
      "title": "151 Ultra Premium Collection",
@@ -13511,13 +13524,13 @@
      "title": "Ascended Heroes Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 469.99
+     "price": 469.75
     },
     "surging-sparks-pokemon-center-elite-trainer-box-1": {
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 278.99
+     "price": 275.75
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
      "title": "Paldea Evolved Pokemon Center Elite Trainer Box",
@@ -13529,7 +13542,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 317.99
+     "price": 317.75
     },
     "pokemon-day-2026-collection": {
      "title": "Pokemon Day 2026 Collection",
@@ -13542,10 +13555,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 519.25
+    },
+    "marvel-super-heroes-commander-deck-the-fantastic-four": {
+     "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
+     "game": "MTG",
+     "available": true,
+     "price": 53.99
     }
    },
    "baselined": true,
-   "check_cursor": 90
+   "check_cursor": 12
   }
  }
 }
