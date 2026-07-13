@@ -872,6 +872,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 19.99
+    },
+    "magic-the-gathering-final-fantasy-commander-deck-counter-blitz": {
+     "title": "Magic the Gathering: Final Fantasy Commander Deck - Counter Blitz",
+     "game": "MTG",
+     "available": false,
+     "price": 50.09
     }
    },
    "baselined": true,
@@ -2761,7 +2767,7 @@
      "title": "[PREORDER] Mega Evolution: Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 99.0
+     "price": 89.0
     },
     "mega-evolution-elite-trainer-box-lucario": {
      "title": "Mega Evolution Elite Trainer Box [Lucario]",
@@ -2897,7 +2903,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 161
+   "check_cursor": 1
   },
   "https://skyboxct.com": {
    "products": {
@@ -3965,7 +3971,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21
+   "check_cursor": 12
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5407,7 +5413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1
+   "check_cursor": 41
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -5448,7 +5454,7 @@
      "price": 229.99
     },
     "pokemon-mega-evolution-pitch-black-booster-box-presale": {
-     "title": "Pokemon Mega Evolution - Pitch Black Booster Box (Presale)",
+     "title": "Pokemon Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
      "price": 264.99
@@ -5556,10 +5562,10 @@
      "price": 89.99
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle-presale": {
-     "title": "Pokemon Mega Evolution - Pitch Black Booster Bundle (Presale)",
+     "title": "Pokemon Mega Evolution - Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 69.99
+     "price": 59.99
     },
     "prismatic-evolutions-booster-bundle": {
      "title": "2025 Pokemon Prismatic Evolutions Booster Bundle SV",
@@ -5678,8 +5684,8 @@
     "magic-the-gathering-the-hobbit-collector-booster-box-presale": {
      "title": "Magic: The Gathering The Hobbit - Collector Booster Box (Presale)",
      "game": "MTG",
-     "available": false,
-     "price": 749.99
+     "available": true,
+     "price": 799.99
     },
     "magic-the-gathering-lorwyn-eclipsed-collector-booster-box": {
      "title": "Magic: The Gathering Lorwyn Eclipsed Collector Booster Box",
@@ -6257,6 +6263,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 79.99
+    },
+    "pokemon-mega-evolutions-elite-trainer-box": {
+     "title": "Pokemon Mega Evolution - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 108.0
+    },
+    "pokemon-mega-evolution-pitch-black-3-pack-blister-binacle": {
+     "title": "Pokemon Mega Evolution - Pitch Black 3-Pack Blister [Binacle]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.99
     }
    },
    "baselined": true,
@@ -7427,6 +7445,42 @@
      "game": "MTG",
      "available": false,
      "price": 89.99
+    },
+    "one-piece-tcg-3dy2-starter-deck": {
+     "title": "One Piece TCG: 3DY2 Starter Deck",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.99
+    },
+    "one-piece-tcg-starter-deck-yamato": {
+     "title": "One Piece TCG: Starter Deck: Yamato",
+     "game": "One Piece",
+     "available": false,
+     "price": 17.99
+    },
+    "one-piece-tcg-worse-generation-starter-deck-st-02": {
+     "title": "One Piece TCG: Worst Generation Starter Deck [ST-02]",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.99
+    },
+    "one-piece-tcg-seven-warlords-of-the-sea-starter-deck-st-03": {
+     "title": "One Piece TCG: Seven Warlords of the Sea Starter Deck [ST-03]",
+     "game": "One Piece",
+     "available": false,
+     "price": 21.99
+    },
+    "one-piece-tcg-straw-hat-crew-starter-deck-st-01": {
+     "title": "One Piece TCG: Straw Hat Crew Starter Deck [ST-01]",
+     "game": "One Piece",
+     "available": false,
+     "price": 52.99
+    },
+    "one-piece-tcg-double-pack-set-volume-11": {
+     "title": "One Piece TCG: Double Pack Set: Volume 11",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.99
     }
    },
    "baselined": true,
@@ -7895,6 +7949,30 @@
      "game": "MTG",
      "available": false,
      "price": 99.99
+    },
+    "one-piece-tcg-will-that-is-passed-down-op-13-booster-box-japanese-edition": {
+     "title": "One Piece TCG Will That is Passed Down OP-13 Booster Box - Japanese Edition",
+     "game": "One Piece",
+     "available": false,
+     "price": 237.0
+    },
+    "one-piece-glitter-glamours-nami-egghead-style-figure": {
+     "title": "One Piece Glitter & Glamours Nami Egghead Style Figure - Banpresto Premium Collectible",
+     "game": "One Piece",
+     "available": false,
+     "price": 39.99
+    },
+    "pokemon-tcg-celebrations-elite-trainer-box": {
+     "title": "Pokemon TCG: Celebrations Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 49.99
+    },
+    "pokemon-tcg-hidden-fates-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Hidden Fates Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 199.99
     }
    },
    "baselined": true,
@@ -8806,7 +8884,7 @@
      "title": "Riftbound: League of Legends - Spiritforged Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 199.95
+     "price": 219.95
     },
     "league-of-legends-riftbound-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends - Origins Booster Box",
@@ -10144,8 +10222,8 @@
     "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 119.95
+     "available": true,
+     "price": 109.95
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4",
@@ -10200,6 +10278,72 @@
      "game": "Pokemon",
      "available": true,
      "price": 79.95
+    },
+    "one-piece-prb-02-premium-booster-box-pre-order": {
+     "title": "One Piece PRB-02 Premium Booster Box - English",
+     "game": "One Piece",
+     "available": false,
+     "price": 599.95
+    },
+    "one-piece-tcg-awakening-of-the-new-era-booster-box-pre-order": {
+     "title": "One Piece TCG Awakening Of The New Era Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 1599.95
+    },
+    "one-piece-romance-dawn-english-booster-box": {
+     "title": "One Piece Card Game Romance Dawn English Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 2999.95
+    },
+    "ultimate-guard-one-piece-netflix-omnihive-1000-deck-case": {
+     "title": "Ultimate Guard One Piece (Netflix) Omnihive 1000+ Deck Case",
+     "game": "One Piece",
+     "available": true,
+     "price": 109.95
+    },
+    "ultimate-guard-flipntray-deck-case-80-xenoskin-one-piece": {
+     "title": "Ultimate Guard Flip'n'Tray Deck Case 80+ Xenoskin One Piece",
+     "game": "One Piece",
+     "available": true,
+     "price": 44.95
+    },
+    "ultimate-guard-flipntray-deck-case-80-xenoskin-one-piece-devilfruit-pattern": {
+     "title": "Ultimate Guard Flip'n'Tray Deck Case 80+ Xenoskin One Piece - Devilfruit Pattern",
+     "game": "One Piece",
+     "available": true,
+     "price": 44.95
+    },
+    "copy-of-one-piece-tcg-yellow-charlotte-katakuri-starter-deck-starter-deck-st-20-pre-order": {
+     "title": "One Piece TCG: Yellow Charlotte Katakuri \u2013 Starter Deck Starter Deck ST-20",
+     "game": "One Piece",
+     "available": true,
+     "price": 89.99
+    },
+    "one-piece-tcg-double-pack-set-volume-7-pre-order-2": {
+     "title": "One Piece TCG Double Pack Set VOLUME 7",
+     "game": "One Piece",
+     "available": false,
+     "price": 36.95
+    },
+    "pre-order-pokemon-darkness-ablaze-elite-trainer-box-april-2022-restock": {
+     "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 189.99
+    },
+    "pre-order-pokemon-tcg-silver-tempest-elite-trainer-box": {
+     "title": "Pokemon TCG Silver Tempest Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 299.99
+    },
+    "wave-2-pre-order-pokemon-battle-styles-elite-trainer-box-rapid-strike": {
+     "title": "Pokemon Battle Styles Elite Trainer Box Rapid Strike",
+     "game": "Pokemon",
+     "available": true,
+     "price": 199.99
     }
    },
    "baselined": true,
@@ -11214,6 +11358,24 @@
      "game": "MTG",
      "available": true,
      "price": 219.95
+    },
+    "one-piece-cg-dp05-double-pack-set-vol-5": {
+     "title": "ONE PIECE CG DP05 DOUBLE PACK SET VOL 5",
+     "game": "One Piece",
+     "available": false,
+     "price": 17.95
+    },
+    "one-piece-cg-dp04-double-pack-set-vol-4": {
+     "title": "ONE PIECE CG DP04 DOUBLE PACK SET VOL 4",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.95
+    },
+    "pokemon-sv2-paldea-evolved-elite-trainer-box-pre-order": {
+     "title": "POKEMON SV2 PALDEA EVOLVED ELITE TRAINER BOX",
+     "game": "Pokemon",
+     "available": false,
+     "price": 54.95
     }
    },
    "baselined": true,
@@ -11793,7 +11955,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -13200,10 +13362,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 79.99
+    },
+    "prismatic-evolutions-accessory-pouch-special-collection": {
+     "title": "Prismatic Evolutions Accessory Pouch Special Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 85.99
     }
    },
    "baselined": true,
-   "check_cursor": 88
+   "check_cursor": 10
   }
  }
 }
