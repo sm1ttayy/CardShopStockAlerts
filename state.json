@@ -151,7 +151,7 @@
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Elite Trainer Box (Pre-Order)",
      "game": "Pokemon",
      "available": false,
-     "price": 49.99
+     "price": 89.99
     },
     "pokemon-paldea-evolved-pokemon-center-elite-trainer-box-copy": {
      "title": "Pok\u00e9mon - Obsidian Flames - Pok\u00e9mon Center Elite Trainer Box",
@@ -655,19 +655,19 @@
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Bundle (Pre-Order)",
      "game": "Pokemon",
      "available": false,
-     "price": 26.94
+     "price": 51.99
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-booster-display": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display (Pre-Order)",
      "game": "Pokemon",
      "available": false,
-     "price": 161.64
+     "price": 219.99
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black: Build & Battle Box (Pre-Order)",
      "game": "Pokemon",
      "available": false,
-     "price": 21.99
+     "price": 49.99
     },
     "riftbound-tcg-league-of-legends-vendetta-the-vendetta-vault": {
      "title": "Riftbound TCG: League of Legends: Vendetta: The Vendetta Vault (Pre-Order)",
@@ -866,6 +866,12 @@
      "game": "One Piece",
      "available": false,
      "price": 10.99
+    },
+    "pokemon-tcg-mega-evolution-5-pitch-black-3-booster-blister": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - 3-Booster Blister (Pre-Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 19.99
     }
    },
    "baselined": true,
@@ -2885,7 +2891,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81
+   "check_cursor": 121
   },
   "https://skyboxct.com": {
    "products": {
@@ -3953,7 +3959,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39
+   "check_cursor": 30
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5395,7 +5401,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33
+   "check_cursor": 73
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -8653,9 +8659,9 @@
      "price": 149.95
     },
     "pokemon-mega-evolution-pitch-black-booster-box": {
-     "title": "Pokemon - Mega Evolution - Pitch Black - Booster Box (Pre-Order)",
+     "title": "Pokemon - Mega Evolution - Pitch Black - Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 299.95
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
@@ -9241,21 +9247,21 @@
      "price": 19.95
     },
     "pokemon-mega-evolution-pitch-black-3-pack-blister": {
-     "title": "Pokemon - Mega Evolution - Pitch Black - 3 Pack Blister (Pre-Order)",
+     "title": "Pokemon - Mega Evolution - Pitch Black - 3 Pack Blister",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 27.95
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
-     "title": "Pokemon - Mega Evolution - Pitch Black - Booster Bundle (Pre-Order)",
+     "title": "Pokemon - Mega Evolution - Pitch Black - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 49.95
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
-     "title": "Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box (Pre-Order)",
+     "title": "Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 109.95
     },
     "pokemon-mega-evolution-pitch-black-build-and-battle-kit": {
@@ -9509,7 +9515,7 @@
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 819.95
+     "price": 799.95
     },
     "pokemon-151-surprise-pokemon-slim-pack-booster-box-simplified-chinese-pre-order": {
      "title": "Pokemon 151 Surprise - Pokemon Slim Pack Booster Box - Simplified Chinese",
@@ -9563,7 +9569,7 @@
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 279.99
+     "price": 249.99
     },
     "pokemon-scarlet-and-violet-8-5-elite-trainer-box-pre-order": {
      "title": "Pokemon Scarlet And Violet 8.5 Prismatic Evolution Elite Trainer Box",
@@ -10118,25 +10124,25 @@
      "price": 89.95
     },
     "pokemon-tcg-mega-evolution-set-5-pitch-black-3-pack-blister-pre-order": {
-     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black -3 Pack Blister (Pre Order)",
+     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black -3 Pack Blister",
      "game": "Pokemon",
      "available": false,
      "price": 24.95
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-pitch-black-booster-box-max-2-pre-order": {
-     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Box MAX 2 (Pre Order)",
+     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Box MAX 2",
      "game": "Pokemon",
      "available": false,
      "price": 319.95
     },
     "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
-     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box (Pre Order)",
+     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
      "price": 119.95
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
-     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4 (Pre Order)",
+     "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4",
      "game": "Pokemon",
      "available": false,
      "price": 49.95
@@ -10355,7 +10361,7 @@
      "title": "Kaido (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 28.2
+     "price": 28.1
     },
     "pokemon-2021-all-star-collection-alcremie-milky": {
      "title": "Pokemon 2021 ALL STAR COLLECTION Alcremie Milky",
@@ -11196,6 +11202,12 @@
      "game": "MTG",
      "available": false,
      "price": 189.95
+    },
+    "mtg-strixhaven-draft-booster": {
+     "title": "MTG STRIXHAVEN DRAFT BOOSTER BOX",
+     "game": "MTG",
+     "available": true,
+     "price": 219.95
     }
    },
    "baselined": true,
@@ -11775,7 +11787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -12011,7 +12023,7 @@
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 3549.75
+     "price": 3524.75
     },
     "legendary-heartbeat-booster-box-jp": {
      "title": "Legendary Heartbeat Booster Box (JP)",
@@ -13179,7 +13191,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8
+   "check_cursor": 48
   }
  }
 }
