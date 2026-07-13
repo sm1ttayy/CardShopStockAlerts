@@ -842,6 +842,12 @@
      "game": "MTG",
      "available": false,
      "price": 364.99
+    },
+    "magic-the-gathering-march-of-the-machine-set-booster-box-2": {
+     "title": "Magic: the Gathering: March of the Machine - Set Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 264.99
     }
    },
    "baselined": true,
@@ -2861,7 +2867,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120
+   "check_cursor": 160
   },
   "https://skyboxct.com": {
    "products": {
@@ -3929,7 +3935,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26
+   "check_cursor": 17
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5359,7 +5365,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97
+   "check_cursor": 25
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -8483,6 +8489,12 @@
      "game": "MTG",
      "available": true,
      "price": 39.95
+    },
+    "outlaws-of-thunder-junction-play-booster-case-6-boxes": {
+     "title": "Outlaws of Thunder Junction Play Booster Case (6 Boxes)",
+     "game": "MTG",
+     "available": true,
+     "price": 999.95
     }
    },
    "baselined": true,
@@ -8860,13 +8872,13 @@
      "title": "MTG - Kaldheim - Collector Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 449.95
+     "price": 499.95
     },
     "mtg-dominaria-remastered-collector-booster-box": {
      "title": "MTG - Dominaria Remastered - Collector Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 719.95
+     "price": 749.95
     },
     "mtg-universes-beyond-marvel-super-heroes-collector-booster-box": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Collector Booster Box",
@@ -9287,6 +9299,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 69.95
+    },
+    "pokemon-lost-origin-elite-trainer-box": {
+     "title": "Pokemon - Lost Origin - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 319.95
     }
    },
    "baselined": true,
@@ -10277,7 +10295,7 @@
      "title": "Sabo (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 26.4
+     "price": 26.0
     },
     "kaido-premium-card-collection-leader-collection-one-piece-promotion-cards": {
      "title": "Kaido (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
@@ -11703,7 +11721,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -13101,7 +13119,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84
+   "check_cursor": 6
   }
  }
 }
