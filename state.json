@@ -830,6 +830,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 368.0
+    },
+    "innistrad-midnight-hunt-sealed-set-box": {
+     "title": "Magic: the Gathering: Innistrad Midnight Hunt - Set Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 199.99
     }
    },
    "baselined": true,
@@ -906,8 +912,8 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "[PREORDER] Riftbound: League of Legends TCG - Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 120.0
+     "available": true,
+     "price": 130.0
     },
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
@@ -1194,14 +1200,14 @@
     "magic-the-gathering-the-hobbit-collector-booster-box": {
      "title": "[PREORDER] Magic: The Gathering - The Hobbit Collector Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 769.0
+     "available": true,
+     "price": 819.0
     },
     "magic-the-gathering-the-hobbit-play-booster-box": {
      "title": "[PREORDER] Magic: The Gathering - The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 159.0
+     "available": true,
+     "price": 169.0
     },
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Jumpstart Booster Box [WOTC Nationwide Delay]",
@@ -2849,7 +2855,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 80
   },
   "https://skyboxct.com": {
    "products": {
@@ -3902,10 +3908,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 125.0
+    },
+    "magic-the-gathering-secrets-of-strixhaven-commander-deck-silverquill-influence-pre-order": {
+     "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Silverquill Influence)",
+     "game": "MTG",
+     "available": true,
+     "price": 55.0
     }
    },
    "baselined": true,
-   "check_cursor": 44
+   "check_cursor": 35
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5335,7 +5347,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17
+   "check_cursor": 57
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11667,7 +11679,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -11789,7 +11801,7 @@
      "title": "Stellar Crown Half Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 299.5
+     "price": 294.99
     },
     "twilight-masqueade-half-booster-box": {
      "title": "Twilight Masqueade Half Booster Box",
@@ -13059,7 +13071,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4
+   "check_cursor": 44
   }
  }
 }
