@@ -890,6 +890,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 73.49
+    },
+    "pokemon-tcg-mega-evolution-5-pitch-black-checklane-blister-pack-me05-slowpoke": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Checklane Blister Pack [ME05] Slowpoke",
+     "game": "Pokemon",
+     "available": false,
+     "price": 16.94
     }
    },
    "baselined": true,
@@ -2915,7 +2921,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41
+   "check_cursor": 81
   },
   "https://skyboxct.com": {
    "products": {
@@ -4034,10 +4040,22 @@
      "game": "Pokemon",
      "available": false,
      "price": 278.0
+    },
+    "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon Scarlet and Violet: Paldean Fates Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 611.0
+    },
+    "magic-the-gathering-bloomburrow-collector-booster-box-pre-order": {
+     "title": "Magic the Gathering: Bloomburrow Collector Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 1223.0
     }
    },
    "baselined": true,
-   "check_cursor": 52
+   "check_cursor": 32
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5479,7 +5497,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81
+   "check_cursor": 9
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6808,7 +6826,7 @@
      "title": "Marvel Super Heroes Jumpstart Booster Box (Universes Beyond) [MTG]",
      "game": "MTG",
      "available": false,
-     "price": 120.0
+     "price": 140.0
     },
     "chaos-rising-booster-display-pokemon": {
      "title": "Chaos Rising Booster Display [Pokemon] (5/18)",
@@ -9527,6 +9545,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 159.95
+    },
+    "mtg-tarkir-dragonstorm-commander-decks-jeskai-striker": {
+     "title": "MTG - Tarkir: Dragonstorm - Commander Deck - Jeskai Striker",
+     "game": "MTG",
+     "available": true,
+     "price": 44.95
     }
    },
    "baselined": true,
@@ -10428,6 +10452,12 @@
      "game": "MTG",
      "available": true,
      "price": 349.95
+    },
+    "simplified-chinese-pokemon-stellar-crystal-slim-booster-box-csv9c": {
+     "title": "Simplified Chinese Pokemon Stellar Crystal Slim Booster Box \u2013 CSV9C",
+     "game": "Pokemon",
+     "available": true,
+     "price": 54.95
     }
    },
    "baselined": true,
@@ -10589,7 +10619,7 @@
      "title": "Sabo (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 26.0
+     "price": 25.5
     },
     "kaido-premium-card-collection-leader-collection-one-piece-promotion-cards": {
      "title": "Kaido (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
@@ -12051,7 +12081,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -13506,10 +13536,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 36.99
+    },
+    "destined-rivals-pokemon-center-elite-trainer-box": {
+     "title": "Destined Rivals Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 519.25
     }
    },
    "baselined": true,
-   "check_cursor": 50
+   "check_cursor": 90
   }
  }
 }
