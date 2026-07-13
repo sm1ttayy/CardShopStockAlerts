@@ -145,7 +145,7 @@
      "title": "Pokemon TCG: Mega Evolution 4: Chaos Rising - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 78.88
+     "price": 82.49
     },
     "pok-mon-tcg-mega-evolution-5-pitch-black-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Elite Trainer Box (Pre-Order)",
@@ -199,13 +199,13 @@
      "title": "Pokemon TCG: Mega Evolutions 2.5 - Ascended Heroes Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 79.99
+     "price": 81.99
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-booster-bundle": {
      "title": "Pokemon TCG: Mega Evolution 4: Chaos Rising - Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 39.99
+     "price": 44.99
     },
     "pokemon-tcg-destined-rivals-booster-bundle-pre-order": {
      "title": "Pokemon TCG: Destined Rivals Booster Bundle",
@@ -493,7 +493,7 @@
      "title": "Pokemon TCG: First Partner Illustration Collection - Series 1",
      "game": "Pokemon",
      "available": false,
-     "price": 73.99
+     "price": 79.99
     },
     "pokemon-scarlet-and-violet-3-5-151-ultra-premium-collection-pre-order": {
      "title": "Pokemon Scarlet and Violet 3.5 151 Ultra Premium Collection",
@@ -878,6 +878,18 @@
      "game": "MTG",
      "available": false,
      "price": 50.09
+    },
+    "pokemon-tcg-mega-evolutions-2-5-ascended-heroes-elite-trainer-box": {
+     "title": "Pokemon TCG: Mega Evolutions 2.5 - Ascended Heroes Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 189.99
+    },
+    "pokemon-tcg-scarlet-and-violet-shrouded-fable-booster-bundle": {
+     "title": "Pokemon TCG: Scarlet and Violet Shrouded Fable: Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 73.49
     }
    },
    "baselined": true,
@@ -2903,7 +2915,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1
+   "check_cursor": 41
   },
   "https://skyboxct.com": {
    "products": {
@@ -3968,10 +3980,64 @@
      "game": "MTG",
      "available": true,
      "price": 38.0
+    },
+    "opc_romancedawn_booster": {
+     "title": "One Piece Card Game: Romance Dawn Booster Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 1552.0
+    },
+    "one-piece-tcg-uta-starter-deck-pre-order": {
+     "title": "One Piece Card Game: Uta Starter Deck",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.0
+    },
+    "one-piece-3d2y-starter-deck-st-14": {
+     "title": "One Piece 3D2Y Starter Deck ST-14",
+     "game": "One Piece",
+     "available": false,
+     "price": 23.0
+    },
+    "one-piece-trading-card-game-monkey-d-luffy-starter-deck-st-08-pre-order": {
+     "title": "One Piece Monkey.D.Luffy Starter Deck ST-08",
+     "game": "One Piece",
+     "available": false,
+     "price": 18.0
+    },
+    "opc_rd_deck_strawhat": {
+     "title": "One Piece Card Game: Straw Hat Crew Starter Deck",
+     "game": "One Piece",
+     "available": false,
+     "price": 61.0
+    },
+    "pokemon-scarlet-and-violet-pokemon-center-elite-trainer-box-miraidon": {
+     "title": "Pokemon Scarlet and Violet Pokemon Center Elite Trainer Box (Miraidon)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 347.0
+    },
+    "pokemon-scarlet-and-violet-pokemon-center-elite-trainer-box-koraidon": {
+     "title": "Pokemon Scarlet and Violet Pokemon Center Elite Trainer Box (Koraidon)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 310.0
+    },
+    "pkm_go_etb_plus": {
+     "title": "Pokemon TCG: Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 260.0
+    },
+    "pokemon-scarlet-and-violet-white-flare-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 278.0
     }
    },
    "baselined": true,
-   "check_cursor": 12
+   "check_cursor": 52
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5413,7 +5479,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41
+   "check_cursor": 81
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6274,7 +6340,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black 3-Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 29.99
+     "price": 24.99
     }
    },
    "baselined": true,
@@ -8716,7 +8782,7 @@
      "title": "Pokemon - Abyss Eye - Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 169.95
+     "price": 149.95
     },
     "pokemon-gem-pack-vol-5-chinese-booster-box": {
      "title": "Pokemon - Gem Pack Vol. 5 - Chinese Booster Box",
@@ -8734,7 +8800,7 @@
      "title": "Pokemon - Nihil Zero - Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 119.95
+     "price": 122.95
     },
     "pokemon-mega-symphonia-japanese-booster-box": {
      "title": "Pokemon - Mega Symphonia - Japanese Booster Box",
@@ -9238,7 +9304,7 @@
      "title": "MTG - Secrets of Strixhaven - Commander Deck - Witherbloom Pestilence",
      "game": "MTG",
      "available": true,
-     "price": 74.95
+     "price": 79.95
     },
     "mtg-secrets-of-strixhaven-bundle": {
      "title": "MTG - Secrets of Strixhaven - Bundle",
@@ -9449,6 +9515,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 319.95
+    },
+    "one-piece-card-game-eb04-egghead-crisis-extra-booster-japanese-booster-box": {
+     "title": "One Piece Card Game - EB04 - Egghead Crisis - Extra Booster - Japanese Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 115.95
+    },
+    "pokemon-mega-brave-japanese-booster-box": {
+     "title": "Pokemon - Mega Brave - Japanese Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 159.95
     }
    },
    "baselined": true,
@@ -9964,7 +10042,7 @@
     "one-piece-card-game-starter-deck-display-st-30-pre-order": {
      "title": "One Piece Card Game - Starter Deck  ST-30 - Luffy And Ace",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 59.95
     },
     "one-piece-tcg-zoro-sanji-starter-deck-st-12-pre-order": {
@@ -10344,6 +10422,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 199.99
+    },
+    "pre-order-mtg-streets-of-new-capenna-english-collector-booster-box": {
+     "title": "MTG - Streets of New Capenna - English Collector Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 349.95
     }
    },
    "baselined": true,
@@ -10836,6 +10920,18 @@
      "game": "Pokemon",
      "available": false,
      "price": 0.0
+    },
+    "sword-shield-vivid-voltage-elite-trainer-box": {
+     "title": "Sword & Shield: Vivid Voltage - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 79.99
+    },
+    "sword-shield-elite-trainer-box-plus-zamazenta": {
+     "title": "Sword & Shield - Elite Trainer Box Plus (Zamazenta)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 99.99
     }
    },
    "baselined": true,
@@ -11955,7 +12051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -13368,10 +13464,52 @@
      "game": "Pokemon",
      "available": true,
      "price": 85.99
+    },
+    "151-elite-trainer-box": {
+     "title": "151 Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1299.99
+    },
+    "celebrations-pokemon-center-elite-trainer-box": {
+     "title": "Celebrations Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 574.99
+    },
+    "ascended-heroes-pokemon-center-elite-trainer-box": {
+     "title": "Ascended Heroes Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 469.99
+    },
+    "surging-sparks-pokemon-center-elite-trainer-box-1": {
+     "title": "Surging Sparks Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 278.99
+    },
+    "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
+     "title": "Paldea Evolved Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 614.99
+    },
+    "phantasmal-flames-pokemon-center-elite-trainer-box": {
+     "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 317.99
+    },
+    "pokemon-day-2026-collection": {
+     "title": "Pokemon Day 2026 Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 36.99
     }
    },
    "baselined": true,
-   "check_cursor": 10
+   "check_cursor": 50
   }
  }
 }
