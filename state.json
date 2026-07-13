@@ -860,10 +860,16 @@
      "game": "MTG",
      "available": false,
      "price": 43.99
+    },
+    "one-piece-tcg-starter-deck-st24-tba": {
+     "title": "One Piece TCG: [ST-24] Green - Jewelry Bonney Starter Deck [English]",
+     "game": "One Piece",
+     "available": false,
+     "price": 10.99
     }
    },
    "baselined": true,
-   "check_cursor": 56
+   "check_cursor": 25
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2879,7 +2885,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41
+   "check_cursor": 81
   },
   "https://skyboxct.com": {
    "products": {
@@ -3947,7 +3953,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48
+   "check_cursor": 39
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5374,10 +5380,22 @@
      "game": "MTG",
      "available": false,
      "price": 250.0
+    },
+    "one-piece-the-time-of-battle-op-16-booster-12-box-case": {
+     "title": "One Piece The Time of Battle (OP-16) Booster 12-Box Case",
+     "game": "One Piece",
+     "available": false,
+     "price": 3524.75
+    },
+    "pok-mon-crown-zenith-collection-tin": {
+     "title": "Pok\u00e9mon Crown Zenith Collection Tin",
+     "game": "Pokemon",
+     "available": true,
+     "price": 139.75
     }
    },
    "baselined": true,
-   "check_cursor": 105
+   "check_cursor": 33
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6230,7 +6248,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48
+   "check_cursor": 17
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -6821,6 +6839,12 @@
      "game": "One Piece",
      "available": false,
      "price": 15.0
+    },
+    "four-emperors-booster-box-op-09-one-piece": {
+     "title": "Emperors in the New World Booster Box OP-09 [One Piece]",
+     "game": "One Piece",
+     "available": false,
+     "price": 175.0
     }
    },
    "baselined": true,
@@ -7379,10 +7403,22 @@
      "game": "Pokemon",
      "available": true,
      "price": 299.99
+    },
+    "magic-the-gathering-universes-beyond-final-fantasy-collector-commander-decks": {
+     "title": "Magic the Gathering: Universes Beyond: Final Fantasy: Collector Commander Decks",
+     "game": "MTG",
+     "available": true,
+     "price": 109.99
+    },
+    "magic-the-gathering-secrets-of-strixhaven-codex-bundle": {
+     "title": "Magic the Gathering: Secrets of Strixhaven: Codex Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 89.99
     }
    },
    "baselined": true,
-   "check_cursor": 44
+   "check_cursor": 4
   },
   "https://moonshotgamestore.com": {
    "products": {
@@ -8516,7 +8552,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58
+   "check_cursor": 14
   },
   "https://store.401games.ca": {
    "products": {
@@ -9375,8 +9411,8 @@
     "one-piece-cg-op-15-booster-box-pre-order": {
      "title": "One Piece CG OP-15 Adventure on KAMI\u2019S Island Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 329.95
+     "available": true,
+     "price": 349.95
     },
     "one-piece-cg-op-14-booster-box-pre-order-1": {
      "title": "One Piece CG OP-14 -The Azure Sea\u2019s Seven - Booster Box",
@@ -10155,7 +10191,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44
+   "check_cursor": 4
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -10647,7 +10683,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://exorgames.com": {
    "products": {
@@ -11657,7 +11693,7 @@
      "title": "Sun & Moon Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 704.23
+     "price": 706.85
     },
     "guardians-rising-booster-box": {
      "title": "Guardians Rising Booster Box",
@@ -11739,7 +11775,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -11747,7 +11783,7 @@
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 228.75
+     "price": 255.75
     },
     "prb-01-one-piece-card-the-best-booster-box-jp": {
      "title": "PRB-01 - One Piece Card the Best Booster Box (JP)",
@@ -11807,7 +11843,7 @@
      "title": "TMNT Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 102.99
+     "price": 103.75
     },
     "spiderman-play-booster-box": {
      "title": "Spiderman Play Booster Box",
@@ -11819,7 +11855,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 178.75
+     "price": 189.99
     },
     "lorwyn-eclipsed-play-booster-display": {
      "title": "Lorwyn Eclipsed Play Booster Display",
@@ -11843,13 +11879,13 @@
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 254.75
+     "price": 249.75
     },
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 264.5
+     "price": 269.99
     },
     "secrets-of-strixhaven-collector-booster-display": {
      "title": "Secrets of Strixhaven - Collector Booster Display",
@@ -11909,7 +11945,7 @@
      "title": "Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 208.25
+     "price": 208.75
     },
     "inferno-x-booster-box": {
      "title": "Inferno X Booster Box",
@@ -12017,7 +12053,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 419.75
+     "price": 419.99
     },
     "black-bolt-booster-box": {
      "title": "Black Bolt Booster Box",
@@ -12065,7 +12101,7 @@
      "title": "Avatar: The Last Airbender Collector Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 442.99
+     "price": 452.75
     },
     "lorwyn-eclipsed-collector-booster-box": {
      "title": "Lorwyn Eclipsed Collector Booster Box",
@@ -12089,7 +12125,7 @@
      "title": "Wings of the Captain Booster Box [OP06]",
      "game": "One Piece",
      "available": false,
-     "price": 385.75
+     "price": 386.75
     },
     "chilling-reign-booster-box-case": {
      "title": "Chilling Reign Booster Box Case",
@@ -12281,7 +12317,7 @@
      "title": "Japanese Ruler of the Black Flame Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 162.75
+     "price": 162.99
     },
     "lost-abyss-booster-box": {
      "title": "Japanese Lost Abyss Booster Box",
@@ -12305,7 +12341,7 @@
      "title": "Surging Sparks Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 197.75
+     "price": 195.75
     },
     "fates-collide-booster-box": {
      "title": "Fates Collide Booster Box",
@@ -12329,7 +12365,7 @@
      "title": "Roaring Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 4699.75
+     "price": 4658.75
     },
     "destined-rivals-european-half-booster-box": {
      "title": "Destined Rivals European Half Booster Box",
@@ -12395,13 +12431,13 @@
      "title": "Romance Dawn Booster Box [OP01] [Wave 2 - White]",
      "game": "One Piece",
      "available": false,
-     "price": 1479.99
+     "price": 1477.99
     },
     "unbroken-bonds-booster-box": {
      "title": "Unbroken Bonds Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2414.75
+     "price": 2814.75
     },
     "japanese-shiny-star-v-booster-box": {
      "title": "Japanese Shiny Star V Booster Box",
@@ -12425,7 +12461,7 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1199.75
+     "price": 1417.75
     },
     "pokemon-surging-sparks-booster-box": {
      "title": "Surging Sparks Booster Box",
@@ -12455,7 +12491,7 @@
      "title": "Unified Minds Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3893.75
+     "price": 4014.75
     },
     "darkness-ablaze-booster-box": {
      "title": "Darkness Ablaze Booster Box",
@@ -12473,7 +12509,7 @@
      "title": "Ultra Prism Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1461.99
+     "price": 1462.99
     },
     "rebel-clash-booster-box": {
      "title": "Rebel Clash Booster Box",
@@ -12707,7 +12743,7 @@
      "title": "Japanese Terastal Festival ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 104.99
+     "price": 124.99
     },
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
      "title": "Japanese Shiny Treasure ex High Class Booster Box",
@@ -12773,25 +12809,25 @@
      "title": "Sun & Moon Base Set Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 994.99
+     "price": 1004.99
     },
     "sword-shield-booster-box": {
      "title": "Sword & Shield Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 714.75
+     "price": 698.99
     },
     "one-piece-starter-deck-14-3d2y": {
      "title": "One Piece Starter Deck 14: 3D2Y",
      "game": "One Piece",
      "available": false,
-     "price": 21.99
+     "price": 21.75
     },
     "starter-deck-ex-luffy-ace": {
      "title": "Starter Deck EX: Luffy & Ace",
      "game": "One Piece",
      "available": false,
-     "price": 41.75
+     "price": 40.75
     },
     "one-piece-starter-deck-11-uta": {
      "title": "One Piece Starter Deck 11 - Uta",
@@ -12803,7 +12839,7 @@
      "title": "Starter Deck 19: BLACK Smoker",
      "game": "One Piece",
      "available": false,
-     "price": 49.75
+     "price": 48.75
     },
     "starter-deck-20-title-tba": {
      "title": "Starter Deck 20: YELLOW Charlotte Katakuri",
@@ -12839,7 +12875,7 @@
      "title": "Premium Card Collection -Best Selection Vol. 4-",
      "game": "One Piece",
      "available": true,
-     "price": 271.75
+     "price": 306.75
     },
     "one-piece-premium-card-collection-best-selection-vol-2": {
      "title": "One Piece Premium Card Collection Best Selection Vol. 2",
@@ -12851,7 +12887,7 @@
      "title": "Premium Card Collection -BANDAI CARD GAMES Fest. 23",
      "game": "One Piece",
      "available": false,
-     "price": 127.75
+     "price": 126.75
     },
     "double-pack-set-vol-11": {
      "title": "One Piece Double Pack Set Vol. 11",
@@ -12995,7 +13031,7 @@
      "title": "Mega Zygarde ex Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 49.75
+     "price": 51.75
     },
     "prismatic-evolutions-poster-collection": {
      "title": "Prismatic Evolutions Poster Collection",
@@ -13025,7 +13061,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 30.25
+     "price": 31.5
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -13037,19 +13073,19 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 929.75
+     "price": 959.99
     },
     "origins-proving-grounds-box-set": {
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 64.99
+     "price": 54.99
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
      "title": "Marvel Super Heroes Commander Deck - Doom Prevails",
      "game": "MTG",
      "available": true,
-     "price": 83.99
+     "price": 84.25
     },
     "final-fantasy-counter-blitz-commander-deck": {
      "title": "Final Fantasy Counter Blitz Commander Deck",
@@ -13061,7 +13097,7 @@
      "title": "Draconic Rage Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 127.5
+     "price": 128.99
     },
     "magic-the-gathering-blame-game-commander-deck": {
      "title": "Blame Game Commander Deck",
@@ -13134,10 +13170,16 @@
      "game": "MTG",
      "available": true,
      "price": 47.75
+    },
+    "final-fantasy-scions-spellcraft-commander-deck": {
+     "title": "Final Fantasy Scions & Spellcraft Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 64.25
     }
    },
    "baselined": true,
-   "check_cursor": 86
+   "check_cursor": 8
   }
  }
 }
