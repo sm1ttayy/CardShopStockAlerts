@@ -2975,7 +2975,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 118
+   "check_cursor": 158
   },
   "https://skyboxct.com": {
    "products": {
@@ -4118,10 +4118,16 @@
      "game": "One Piece",
      "available": false,
      "price": 42.0
+    },
+    "pokemon-tcg-scarlet-and-violet-151-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon TCG: Scarlet and Violet - 151 Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 1171.0
     }
    },
    "baselined": true,
-   "check_cursor": 42
+   "check_cursor": 20
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5599,7 +5605,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82
+   "check_cursor": 11
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6652,7 +6658,7 @@
     "origins-booster-box-riftbound": {
      "title": "Origins Booster Box [Riftbound]",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 240.0
     },
     "unleashed-booster-box-riftbound": {
@@ -8899,7 +8905,7 @@
     "shrouded-fable-booster-bundle": {
      "title": "Shrouded Fable Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 69.95
     },
     "marvel-super-heroes-avengers-assemble-commander-deck-preorder": {
@@ -12351,7 +12357,7 @@
      "title": "XY Phantom Forces Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2249.44
+     "price": 2240.53
     },
     "xy-primal-clash-booster-box": {
      "title": "XY Primal Clash Booster Box",
@@ -12493,7 +12499,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -12537,7 +12543,7 @@
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 113.75
+     "price": 112.75
     },
     "team-up-booster-box": {
      "title": "Team Up Booster Box",
@@ -12681,7 +12687,7 @@
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 554.75
+     "price": 539.75
     },
     "brilliant-stars-booster-box": {
      "title": "Brilliant Stars Booster Box",
@@ -13365,7 +13371,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 296.75
+     "price": 296.25
     },
     "crimson-invasion-booster-box": {
      "title": "Crimson Invasion Booster Box",
@@ -13383,7 +13389,7 @@
      "title": "Paradox Rift Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 298.99
+     "price": 289.75
     },
     "mtg-ravnica-remastered-collector-booster-box": {
      "title": "Ravnica Remastered Collector Booster Box",
@@ -13635,13 +13641,13 @@
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 264.75
+     "price": 263.99
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 99.99
+     "price": 98.75
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -13653,7 +13659,7 @@
      "title": "Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 179.75
+     "price": 174.99
     },
     "twilight-masquerade-elite-trainer-box": {
      "title": "Twilight Masquerade Elite Trainer Box",
@@ -13695,7 +13701,7 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 87.75
+     "price": 86.25
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -13707,7 +13713,7 @@
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 81.75
+     "price": 79.75
     },
     "paldean-fates-booster-bundle": {
      "title": "Paldean Fates Booster Bundle",
@@ -13737,13 +13743,13 @@
      "title": "151 Zapdos ex Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 128.75
+     "price": 127.25
     },
     "pokemon-151-poster-collection": {
      "title": "151 Poster Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 87.25
+     "price": 86.25
     },
     "mega-zygarde-ex-premium-collection": {
      "title": "Mega Zygarde ex Premium Collection",
@@ -13899,7 +13905,7 @@
      "title": "Trick or Trade BOOster Bundle (40 ct)",
      "game": "Pokemon",
      "available": true,
-     "price": 79.99
+     "price": 79.75
     },
     "prismatic-evolutions-accessory-pouch-special-collection": {
      "title": "Prismatic Evolutions Accessory Pouch Special Collection",
@@ -13911,13 +13917,13 @@
      "title": "151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 1299.99
+     "price": 1291.99
     },
     "celebrations-pokemon-center-elite-trainer-box": {
      "title": "Celebrations Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 574.99
+     "price": 567.75
     },
     "ascended-heroes-pokemon-center-elite-trainer-box": {
      "title": "Ascended Heroes Pokemon Center Elite Trainer Box",
@@ -13947,7 +13953,7 @@
      "title": "Pokemon Day 2026 Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 36.99
+     "price": 36.75
     },
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
@@ -13966,10 +13972,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 204.75
+    },
+    "prismatic-evolutions-pokemon-center-elite-trainer-box": {
+     "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 499.99
     }
    },
    "baselined": true,
-   "check_cursor": 23
+   "check_cursor": 63
   }
  }
 }
