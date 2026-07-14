@@ -204,7 +204,7 @@
     "pokemon-tcg-mega-evolution-4-chaos-rising-booster-bundle": {
      "title": "Pokemon TCG: Mega Evolution 4: Chaos Rising - Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 44.99
     },
     "pokemon-tcg-destined-rivals-booster-bundle-pre-order": {
@@ -1008,7 +1008,7 @@
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "[PREORDER] Riftbound: League of Legends TCG - Vendetta Showdown Decks [Zed vs Shen]",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 35.0
     },
     "riftbound-league-of-legends-tcg-unleashed-champion-deck-vex": {
@@ -2975,7 +2975,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78
+   "check_cursor": 118
   },
   "https://skyboxct.com": {
    "products": {
@@ -4121,7 +4121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2
+   "check_cursor": 42
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5599,7 +5599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42
+   "check_cursor": 82
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7707,6 +7707,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 169.99
+    },
+    "pokemon-tcg-mega-evolution-elite-trainer-box-pokemon-center-edition-gardevoir": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution: Elite Trainer Box - Pokemon Center Edition (Gardevoir)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 224.99
     }
    },
    "baselined": true,
@@ -8895,6 +8901,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 69.95
+    },
+    "marvel-super-heroes-avengers-assemble-commander-deck-preorder": {
+     "title": "Marvel Super Heroes Avengers Assemble Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 59.95
     }
    },
    "baselined": true,
@@ -10664,7 +10676,7 @@
     "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 109.95
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
@@ -12261,7 +12273,7 @@
      "title": "Emerging Powers Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1499.63
+     "price": 1493.69
     },
     "noble-victories-booster-box": {
      "title": "Noble Victories Booster Box",
@@ -12481,7 +12493,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -13957,7 +13969,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 100
+   "check_cursor": 23
   }
  }
 }
