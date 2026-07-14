@@ -2551,7 +2551,7 @@
      "title": "Sword & Shield: Battle Styles - Booster Box Display",
      "game": "Pokemon",
      "available": false,
-     "price": 270.0
+     "price": 275.0
     },
     "sword-shield-vivid-voltage-booster-box-display": {
      "title": "Sword & Shield: Vivid Voltage - Booster Box Display",
@@ -2975,7 +2975,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 161
+   "check_cursor": 201
   },
   "https://skyboxct.com": {
    "products": {
@@ -4121,7 +4121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4
+   "check_cursor": 44
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5599,7 +5599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33
+   "check_cursor": 73
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -5637,7 +5637,7 @@
      "title": "Pokemon Mega Evolution - Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 229.99
+     "price": 199.99
     },
     "pokemon-mega-evolution-pitch-black-booster-box-presale": {
      "title": "Pokemon Mega Evolution - Pitch Black Booster Box",
@@ -7115,14 +7115,15 @@
     "pokemon-tcg-me04-chaos-rising-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 65.0
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
      "title": "Pokemon TCG: Mega Greninja ex Premium Collection - Limit 5 Per Order",
      "game": "Pokemon",
      "available": false,
-     "price": 50.0
+     "price": 50.0,
+     "delisted": true
     },
     "magic-the-gathering-final-fantasy-commander-deck-display-collectors-edition": {
      "title": "Magic: the Gathering - FINAL FANTASY Commander Deck Display",
@@ -7246,7 +7247,7 @@
      "price": 84.99
     },
     "pokemon-tcg-mega-evolution-elite-trainer-box-pokemon-center-edition": {
-     "title": "Pok\u00e9mon TCG: Mega Evolution: Elite Trainer Box - Pokemon Center Edition",
+     "title": "Pok\u00e9mon TCG: Mega Evolution: Elite Trainer Box - Pokemon Center Edition (Lucario)",
      "game": "Pokemon",
      "available": true,
      "price": 299.99
@@ -7273,7 +7274,7 @@
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 94.99
+     "price": 79.99
     },
     "pokemon-tcg-prismatic-evolutions-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Booster Bundle",
@@ -8198,6 +8199,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 39.95
+    },
+    "pokemon-tcg-pitch-black-3-pack-blister-binacle-me05-pitch-black-me05": {
+     "title": "Pok\u00e9mon TCG: Pitch Black 3-Pack Blister [Binacle] - ME05: Pitch Black (ME05)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.99
     }
    },
    "baselined": true,
@@ -11877,6 +11884,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 54.95
+    },
+    "mtg-teenage-mutant-ninja-turtles-play-booster-box": {
+     "title": "MTG TEENAGE MUTANT NINJA TURTLES PLAY BOOSTER BOX",
+     "game": "MTG",
+     "available": true,
+     "price": 223.95
     }
    },
    "baselined": true,
@@ -12338,7 +12351,7 @@
      "title": "XY BREAKthrough Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2353.26
+     "price": 2343.94
     },
     "xy-breakpoint-booster-box": {
      "title": "XY BREAKpoint Booster Box",
@@ -12456,7 +12469,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -13932,7 +13945,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98
+   "check_cursor": 20
   }
  }
 }
