@@ -911,7 +911,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65
+   "check_cursor": 30
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2933,7 +2933,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 201
+   "check_cursor": 41
   },
   "https://skyboxct.com": {
    "products": {
@@ -4064,10 +4064,16 @@
      "game": "MTG",
      "available": false,
      "price": 1223.0
+    },
+    "2021-pokemon-japanese-25th-anniversary-collection-fa-pikachu-psa-11": {
+     "title": "2021 Pokemon Japanese 25th Anniversary Collection Fa/Pikachu PSA 10",
+     "game": "Pokemon",
+     "available": true,
+     "price": 125.0
     }
    },
    "baselined": true,
-   "check_cursor": 8
+   "check_cursor": 48
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5509,7 +5515,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6
+   "check_cursor": 46
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7510,7 +7516,7 @@
     "pokemon-tcg-chaos-rising-booster-display": {
      "title": "Pok\u00e9mon TCG: Chaos Rising: Booster Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 199.99
     },
     "cgc-9-volibear300-298-origins-6157704002": {
@@ -9756,6 +9762,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 99.95
+    },
+    "pokemon-scarlet-and-violet-151-elite-trainer-box-pokemon-center": {
+     "title": "Pokemon - Scarlet and Violet - 151 - Elite Trainer Box (POKEMON CENTER)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 1999.95
     }
    },
    "baselined": true,
@@ -10663,6 +10675,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 54.95
+    },
+    "pokemon-simplified-chinese-collect-151-gathering-slim-booster-box-pre-order": {
+     "title": "Pokemon Simplified Chinese \"Collect 151: Gathering\" Slim Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -11772,7 +11790,7 @@
      "title": "Mega Evolution Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 1309.01
+     "price": 1324.68
     },
     "base-set-booster-box-revised-unlimited-edition": {
      "title": "Base Set Booster Box [Revised Unlimited Edition]",
@@ -12286,7 +12304,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -13753,10 +13771,16 @@
      "game": "MTG",
      "available": true,
      "price": 53.99
+    },
+    "journey-together-pokemon-center-elite-trainer-box": {
+     "title": "Journey Together Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 204.75
     }
    },
    "baselined": true,
-   "check_cursor": 92
+   "check_cursor": 14
   }
  }
 }
