@@ -902,10 +902,16 @@
      "game": "Riftbound",
      "available": false,
      "price": 35.02
+    },
+    "one-piece-tcg-starter-deck-st23-tba": {
+     "title": "One Piece TCG: [ST-23] Red - Shanks Starter Deck [English]",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.99
     }
    },
    "baselined": true,
-   "check_cursor": 25
+   "check_cursor": 65
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2927,7 +2933,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 161
+   "check_cursor": 201
   },
   "https://skyboxct.com": {
    "products": {
@@ -4061,7 +4067,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52
+   "check_cursor": 8
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5503,7 +5509,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89
+   "check_cursor": 6
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -8128,8 +8134,8 @@
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 214.95
+     "available": true,
+     "price": 199.95
     },
     "pokemon-rebel-clash-booster-box": {
      "title": "Pokemon Rebel Clash Booster Box",
@@ -8153,13 +8159,13 @@
      "title": "Pokemon ME04 Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 72.95
+     "price": 69.95
     },
     "pokemon-perfect-order-elite-trainer-box": {
      "title": "Pokemon Perfect Order Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 69.99
+     "price": 69.95
     },
     "pokemon-go-pokemon-center-elite-trainer-box-plus": {
      "title": "Pokemon GO Pokemon Center Elite Trainer Box Plus",
@@ -8760,6 +8766,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 169.99
+    },
+    "avatar-the-last-airbender-bundle-case-6-boxes": {
+     "title": "Avatar The Last Airbender Bundle Case (6 Boxes)",
+     "game": "MTG",
+     "available": true,
+     "price": 319.95
     }
    },
    "baselined": true,
@@ -9720,6 +9732,30 @@
      "game": "Pokemon",
      "available": true,
      "price": 279.95
+    },
+    "one-piece-card-game-starter-deck-st24": {
+     "title": "One Piece Card Game - Starter Deck - ST24 Green Jewelry Bonney",
+     "game": "One Piece",
+     "available": false,
+     "price": 34.95
+    },
+    "one-piece-card-game-emperors-in-the-new-world-double-pack-set-vol-6": {
+     "title": "One Piece Card Game - Emperors in the New World - Double Pack Set - Vol.6",
+     "game": "One Piece",
+     "available": true,
+     "price": 189.95
+    },
+    "pokemon-scarlet-violet-paldean-fates-elite-trainer-box": {
+     "title": "Pokemon - Scarlet and Violet - Paldean Fates - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 799.95
+    },
+    "league-of-legends-riftbound-tcg-proving-grounds-box-set": {
+     "title": "Riftbound: League of Legends - Proving Grounds Box Set",
+     "game": "Riftbound",
+     "available": true,
+     "price": 99.95
     }
    },
    "baselined": true,
@@ -12120,7 +12156,7 @@
      "title": "XY Roaring Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3205.46
+     "price": 3205.38
     },
     "xy-ancient-origins-booster-box": {
      "title": "XY Ancient Origins Booster Box",
@@ -12250,7 +12286,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -13720,7 +13756,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52
+   "check_cursor": 92
   }
  }
 }
