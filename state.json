@@ -2930,10 +2930,52 @@
      "game": "Pokemon",
      "available": false,
      "price": 165.0
+    },
+    "starter-deck-08-monkey-d-luffy-st-08": {
+     "title": "Starter Deck 08: Monkey.D.Luffy [ST-08]",
+     "game": "One Piece",
+     "available": false,
+     "price": 20.0
+    },
+    "starter-deck-14-3d2y-st-14": {
+     "title": "Starter Deck 14: 3D2Y [ST-14]",
+     "game": "One Piece",
+     "available": false,
+     "price": 25.0
+    },
+    "celebrations-25th-anniversary-elite-trainer-box": {
+     "title": "Pokemon - Celebrations: 25th Anniversary - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 400.0
+    },
+    "sword-shield-brilliant-stars-elite-trainer-box": {
+     "title": "Sword & Shield: Brilliant Stars - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 170.0
+    },
+    "sword-shield-astral-radiance-elite-trainer-box": {
+     "title": "Sword & Shield: Astral Radiance - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 150.0
+    },
+    "crown-zenith-elite-trainer-box": {
+     "title": "Crown Zenith - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 350.0
+    },
+    "scarlet-and-violet-151-elite-trainer-box": {
+     "title": "Scarlet and Violet 151 - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 645.0
     }
    },
    "baselined": true,
-   "check_cursor": 41
+   "check_cursor": 81
   },
   "https://skyboxct.com": {
    "products": {
@@ -3162,7 +3204,7 @@
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 262.0
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -3679,7 +3721,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 194.0
+     "price": 171.0
     },
     "magic-the-gathering-the-hobbit-play-booster-box-pre-order": {
      "title": "Magic The Gathering: The Hobbit Play Booster Box (PRE-ORDER)",
@@ -4079,7 +4121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6
+   "check_cursor": 46
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5518,10 +5560,46 @@
      "game": "Pokemon",
      "available": true,
      "price": 139.75
+    },
+    "pokemon-crown-zenith-etbgaming-cards": {
+     "title": "Pok\u00e9mon Crown Zenith Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 359.75
+    },
+    "pokemon-sun-moon-elite-trainer-box": {
+     "title": "Pokemon Sun & Moon Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 294.75
+    },
+    "pokemon-shining-fates-etb": {
+     "title": "Pokemon Shining Fates Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 169.75
+    },
+    "pokemon-scarlet-violet-elite-trainer-box-presale": {
+     "title": "Pokemon Scarlet & Violet Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 149.75
+    },
+    "pokemon-sword-shield-rebel-clash-elite-trainer-box": {
+     "title": "Pokemon Sword & Shield Rebel Clash Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 349.75
+    },
+    "pokemon-scarlet-violet-destined-rivals-elite-trainer-box": {
+     "title": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 254.75
     }
    },
    "baselined": true,
-   "check_cursor": 24
+   "check_cursor": 64
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -8579,7 +8657,7 @@
      "title": "Duskmourn Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 154.95
+     "price": 159.95
     },
     "buy-mtg-bloomburrow-play-booster-box-display": {
      "title": "Bloomburrow Play Booster Box",
@@ -11209,6 +11287,24 @@
      "game": "Pokemon",
      "available": false,
      "price": 99.99
+    },
+    "one-piece-a-fist-of-divine-speed-op-11-booster-box": {
+     "title": "One Piece - A Fist of Divine Speed (OP-11) - Booster Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 174.99
+    },
+    "starter-deck-red-edward-newgate": {
+     "title": "One Piece Starter Deck - ST-15 - (Red) Edward.Newgate",
+     "game": "One Piece",
+     "available": false,
+     "price": 32.99
+    },
+    "sword-shield-fusion-strike-elite-trainer-box": {
+     "title": "Sword & Shield: Fusion Strike - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 179.99
     }
    },
    "baselined": true,
@@ -12328,7 +12424,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -12444,7 +12540,7 @@
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 479.75
+     "price": 484.99
     },
     "stellar-crown-half-booster-box": {
      "title": "Stellar Crown Half Booster Box",
@@ -12522,7 +12618,7 @@
      "title": "Brilliant Stars Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 633.75
+     "price": 630.75
     },
     "pokemon-evolving-skies-booster-box": {
      "title": "Evolving Skies Booster Box",
@@ -13804,7 +13900,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 96
+   "check_cursor": 18
   }
  }
 }
