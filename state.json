@@ -6,7 +6,7 @@
      "title": "One Piece TCG: The Time Of Battle Booster Display Box (OP-16)",
      "game": "One Piece",
      "available": true,
-     "price": 177.62
+     "price": 189.99
     },
     "one-piece-tcg-ib-05-illustration-box-vol-5-english": {
      "title": "One Piece TCG: [IB-05] Illustration Box Vol. 5 [English]",
@@ -1086,7 +1086,7 @@
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-collector-booster-box": {
      "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Collector Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 439.0
     },
     "magic-the-gathering-tarkir-dragonstorm-collector-booster-box": {
@@ -2947,7 +2947,7 @@
      "title": "Pokemon - Celebrations: 25th Anniversary - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 400.0
+     "price": 440.0
     },
     "sword-shield-brilliant-stars-elite-trainer-box": {
      "title": "Sword & Shield: Brilliant Stars - Elite Trainer Box",
@@ -2975,7 +2975,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121
+   "check_cursor": 161
   },
   "https://skyboxct.com": {
    "products": {
@@ -4121,7 +4121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25
+   "check_cursor": 4
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5599,7 +5599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104
+   "check_cursor": 33
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -5697,7 +5697,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 114.99
+     "price": 99.99
     },
     "pokemon-30th-celebration-elite-trainer-box-presale": {
      "title": "Pokemon 30th Celebration - Elite Trainer Box (Presale)",
@@ -6664,7 +6664,7 @@
     "spiritforge-booster-box-riftbound": {
      "title": "Spiritforged Booster Box [Riftbound]",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 150.0
     },
     "unleashed-champion-decks-riftbound": {
@@ -7097,7 +7097,8 @@
      "title": "One Piece TCG: OP-16 The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 194.99
+     "price": 194.99,
+     "delisted": true
     },
     "pokemon-sv10-destined-rivals-booster-box": {
      "title": "Pokemon: SV10 Destined Rivals Booster Box",
@@ -7133,7 +7134,8 @@
      "title": "Pokemon TCG: ME05 Pitch Black Bundle - Preorder",
      "game": "Pokemon",
      "available": false,
-     "price": 350.0
+     "price": 350.0,
+     "delisted": true
     }
    },
    "baselined": true,
@@ -8254,7 +8256,7 @@
     "pokemon-me05-pitch-black-booster-box": {
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 229.95
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
@@ -8284,8 +8286,8 @@
     "pokemon-me05-pitch-black-elite-trainer-box": {
      "title": "Pokemon ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 89.95
+     "available": true,
+     "price": 84.95
     },
     "pokemon-fusion-strike-elite-trainer-box": {
      "title": "Pokemon Fusion Strike Elite Trainer Box",
@@ -8308,8 +8310,8 @@
     "pokemon-me05-pitch-black-booster-bundle": {
      "title": "Pokemon ME05 Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 49.95
+     "available": true,
+     "price": 44.95
     },
     "pokemon-black-bolt-booster-bundle": {
      "title": "Pokemon Black Bolt Booster Bundle",
@@ -8874,6 +8876,12 @@
      "game": "MTG",
      "available": true,
      "price": 319.95
+    },
+    "shrouded-fable-booster-bundle": {
+     "title": "Shrouded Fable Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 69.95
     }
    },
    "baselined": true,
@@ -11317,6 +11325,18 @@
      "game": "Pokemon",
      "available": false,
      "price": 179.99
+    },
+    "starter-deck-purple-monkey-d-luffy": {
+     "title": "One Piece Starter Deck - ST-18 - (Purple) Monkey.D.Luffy",
+     "game": "One Piece",
+     "available": false,
+     "price": 44.99
+    },
+    "starter-deck-black-smoker": {
+     "title": "One Piece Starter Deck - ST-19 - (Black) Smoker",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.99
     }
    },
    "baselined": true,
@@ -12436,7 +12456,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -13912,7 +13932,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58
+   "check_cursor": 98
   }
  }
 }
