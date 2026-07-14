@@ -198,13 +198,13 @@
     "pokemon-tcg-mega-evolution-2-5-ascended-heroes-booster-bundle": {
      "title": "Pokemon TCG: Mega Evolutions 2.5 - Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 81.99
+     "available": true,
+     "price": 82.66
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-booster-bundle": {
      "title": "Pokemon TCG: Mega Evolution 4: Chaos Rising - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 44.99
     },
     "pokemon-tcg-destined-rivals-booster-bundle-pre-order": {
@@ -258,7 +258,7 @@
     "magic-the-gathering-secrets-of-strixhaven-play-booster-display-box": {
      "title": "Magic: The Gathering | Secrets of Strixhaven - Play Booster Display Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 136.46
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-display-box": {
@@ -480,8 +480,8 @@
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
      "title": "Pokemon TCG: Mega Greninja EX Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 47.99
+     "available": true,
+     "price": 51.97
     },
     "pokemon-tcg-first-partner-illustration-collection-series-2": {
      "title": "Pokemon TCG: First Partner Illustration Collection - Series 2",
@@ -1075,7 +1075,7 @@
      "title": "Magic: The Gathering - Marvel Super Heroes Collector Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 429.0
+     "price": 469.0
     },
     "magic-the-gathering-universes-beyond-spider-man-collector-booster-box": {
      "title": "Magic: The Gathering Universes Beyond: Spider-Man Collector Booster Box",
@@ -2975,7 +2975,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81
+   "check_cursor": 121
   },
   "https://skyboxct.com": {
    "products": {
@@ -4121,7 +4121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46
+   "check_cursor": 25
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5599,7 +5599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64
+   "check_cursor": 104
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -9323,7 +9323,7 @@
      "title": "One Piece Card Game - A Fist of Divine Speed Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 749.95
+     "price": 999.95
     },
     "one-piece-card-game-starter-deck-st37": {
      "title": "One Piece Card Game - Starter Deck - ST37 (Pre-Order)",
@@ -9437,7 +9437,7 @@
      "title": "Pokemon - First Partner Illustration Collection - Series 2",
      "game": "Pokemon",
      "available": true,
-     "price": 59.95
+     "price": 64.95
     },
     "pokemon-shining-fates-premium-collection-crobat-v": {
      "title": "Pokemon - Shining Fates - Premium Collection - Crobat V",
@@ -9864,6 +9864,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 1999.95
+    },
+    "pokemon-stellar-crystal-chinese-slim-booster-box": {
+     "title": "Pokemon - Stellar Crystal - Chinese Slim Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 54.95
     }
    },
    "baselined": true,
@@ -10499,8 +10505,8 @@
     "pokemon-mega-zygarde-ex-premium-collection-pre-order": {
      "title": "Pokemon Mega Zygarde ex Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 64.95
+     "available": true,
+     "price": 69.95
     },
     "mtg-magic-the-gathering-foundations-commander-deck-bundle-pre-order": {
      "title": "MTG Magic: The Gathering Foundations Commander Deck Bundle (Pre Order)",
@@ -10783,6 +10789,12 @@
      "game": "MTG",
      "available": true,
      "price": 189.95
+    },
+    "pokemon-mega-symphonia-japanese-booster-box-pre-order-copy": {
+     "title": "Pokemon Mega Symphonia Japanese Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -12424,7 +12436,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -12510,7 +12522,7 @@
      "title": "Lorwyn Eclipsed Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 125.75
+     "price": 125.25
     },
     "secrets-of-strixhaven-play-booster-display": {
      "title": "Secrets of Strixhaven Play Booster Display",
@@ -13900,7 +13912,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18
+   "check_cursor": 58
   }
  }
 }
