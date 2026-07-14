@@ -253,7 +253,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Play Booster Display Box",
      "game": "MTG",
      "available": true,
-     "price": 144.99
+     "price": 161.74
     },
     "magic-the-gathering-secrets-of-strixhaven-play-booster-display-box": {
      "title": "Magic: The Gathering | Secrets of Strixhaven - Play Booster Display Box",
@@ -505,19 +505,19 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 50.77
+     "price": 59.74
     },
     "magic-the-gathering-marvel-super-heroes-collector-commander-deck": {
      "title": "Magic: The Gathering | Marvel Super Heroes - Collector Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 189.99
+     "price": 131.04
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-deck-pre-order": {
      "title": "Magic: The Gathering | Secrets of Strixhaven - Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 35.99
+     "price": 40.37
     },
     "magic-the-gathering-edge-of-eternities-commander-deck-counter-intelligence": {
      "title": "Magic the Gathering: Edge of Eternities Commander Deck - Counter Intelligence",
@@ -529,7 +529,7 @@
      "title": "Magic the Gathering: Final Fantasy Commander Deck - Scions & Spellcraft",
      "game": "MTG",
      "available": false,
-     "price": 61.89
+     "price": 56.12
     },
     "magic-the-gathering-final-fantasy-commander-deck-limit-break": {
      "title": "Magic the Gathering: Final Fantasy Commander Deck - Limit Break",
@@ -541,7 +541,7 @@
      "title": "Magic the Gathering: Edge of Eternities Commander Deck - World Shaper",
      "game": "MTG",
      "available": false,
-     "price": 44.45
+     "price": 45.41
     },
     "magic-the-gathering-lorwyn-eclipsed-blight-curse-commander-deck-pre-order": {
      "title": "Magic: The Gathering - Lorwyn Eclipsed Blight Curse Commander Deck",
@@ -565,7 +565,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Booster Bundle",
      "game": "MTG",
      "available": false,
-     "price": 69.99
+     "price": 61.03
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-bundle": {
      "title": "Magic: The Gathering - Teenage Mutant Ninja Turtles - Bundle",
@@ -577,7 +577,7 @@
      "title": "Magic: The Gathering: Avatar: The Last Airbender Bundle",
      "game": "MTG",
      "available": true,
-     "price": 59.99
+     "price": 56.55
     },
     "magic-the-gathering-marvel-super-heroes-gift-bundle": {
      "title": "Magic: The Gathering | Marvel Super Heroes - Gift Bundle (Pre-Order)",
@@ -2975,7 +2975,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 201
+   "check_cursor": 38
   },
   "https://skyboxct.com": {
    "products": {
@@ -4121,7 +4121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44
+   "check_cursor": 23
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5599,7 +5599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73
+   "check_cursor": 2
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7819,7 +7819,7 @@
     "tla-collector-booster-box-moonshot-rips": {
      "title": "TLA: Collector Booster Box - Moonshot Rips",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 449.99
     },
     "dft-collector-booster-box-moonshot-rips": {
@@ -9565,7 +9565,7 @@
     "pokemon-mega-evolution-perfect-order-booster-box": {
      "title": "Pokemon - Mega Evolution - Perfect Order - Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 299.95
     },
     "pokemon-scarlet-and-violet-twilight-masquerade-elite-trainer-box": {
@@ -11890,6 +11890,12 @@
      "game": "MTG",
      "available": true,
      "price": 223.95
+    },
+    "pokemon-swsh3-darkness-ablaze-booster": {
+     "title": "POKEMON SWSH3 DARKNESS ABLAZE BOOSTER BOX",
+     "game": "Pokemon",
+     "available": false,
+     "price": 229.95
     }
    },
    "baselined": true,
@@ -12469,7 +12475,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://common-lands.com": {
    "products": {
@@ -12788,7 +12794,7 @@
     "innistrad-remastered-collector-booster-box": {
      "title": "Innistrad Remastered Collector Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 423.75
     },
     "avatar-the-last-airbender-collector-booster-box": {
@@ -13945,7 +13951,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20
+   "check_cursor": 60
   }
  }
 }
