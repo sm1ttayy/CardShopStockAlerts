@@ -911,7 +911,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70
+   "check_cursor": 0
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2933,7 +2933,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 201
+   "check_cursor": 41
   },
   "https://skyboxct.com": {
    "products": {
@@ -3739,7 +3739,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 461.0
+     "price": 462.0
     },
     "pokemon-tcg-mega-evolution-mega-brave-japanese-booster-box": {
      "title": "Pokemon TCG: Mega Evolution - Mega Brave Japanese Booster Box",
@@ -3757,7 +3757,7 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 124.0
+     "price": 123.0
     },
     "magic-the-gathering-avatar-the-last-airbender-collector-booster-box-pre-order": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Collector Booster Box",
@@ -3775,7 +3775,7 @@
      "title": "Magic The Gathering: Marvel Spider-Man Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 389.0
+     "price": 378.0
     },
     "pokemon-tcg-mega-evolution-booster-box-pre-order-1": {
      "title": "Pokemon TCG: Mega Evolution - Booster Box",
@@ -4051,7 +4051,7 @@
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 278.0
+     "price": 277.0
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
      "title": "Pokemon Scarlet and Violet: Paldean Fates Pokemon Center Elite Trainer Box",
@@ -4079,7 +4079,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88
+   "check_cursor": 6
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5521,7 +5521,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 95
+   "check_cursor": 24
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7623,7 +7623,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44
+   "check_cursor": 8
   },
   "https://moonshotgamestore.com": {
    "products": {
@@ -8112,6 +8112,12 @@
      "game": "Pokemon",
      "available": false,
      "price": 199.99
+    },
+    "pokemon-tcg-sword-shield-lost-origin-pokemon-center-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Sword & Shield-Lost Origin Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 39.95
     }
    },
    "baselined": true,
@@ -8793,7 +8799,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54
+   "check_cursor": 6
   },
   "https://store.401games.ca": {
    "products": {
@@ -10702,7 +10708,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44
+   "check_cursor": 0
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -11206,7 +11212,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 7
   },
   "https://exorgames.com": {
    "products": {
@@ -11746,7 +11752,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 1
   },
   "https://pokerand.net": {
    "products": {
@@ -12322,7 +12328,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -12330,7 +12336,7 @@
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 255.75
+     "price": 249.25
     },
     "prb-01-one-piece-card-the-best-booster-box-jp": {
      "title": "PRB-01 - One Piece Card the Best Booster Box (JP)",
@@ -12360,7 +12366,7 @@
      "title": "Marvel Super Heroes Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 461.75
+     "price": 474.75
     },
     "marvel-super-heroes-play-booster-box": {
      "title": "Marvel Super Heroes Play Booster Box",
@@ -12390,7 +12396,7 @@
      "title": "TMNT Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 103.75
+     "price": 106.99
     },
     "spiderman-play-booster-box": {
      "title": "Spiderman Play Booster Box",
@@ -12402,7 +12408,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 189.99
+     "price": 194.75
     },
     "lorwyn-eclipsed-play-booster-display": {
      "title": "Lorwyn Eclipsed Play Booster Display",
@@ -12426,13 +12432,13 @@
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 249.75
+     "price": 256.75
     },
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 269.99
+     "price": 274.75
     },
     "secrets-of-strixhaven-collector-booster-display": {
      "title": "Secrets of Strixhaven - Collector Booster Display",
@@ -12504,7 +12510,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 989.75
+     "price": 980.99
     },
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
@@ -12522,7 +12528,7 @@
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2564.75
+     "price": 2573.75
     },
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
@@ -12636,7 +12642,7 @@
      "title": "Perfect Order Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 209.75
+     "price": 204.5
     },
     "innistrad-remastered-collector-booster-box": {
      "title": "Innistrad Remastered Collector Booster Box",
@@ -12750,7 +12756,7 @@
      "title": "Mega Dream ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 114.75
+     "price": 113.75
     },
     "avatar-the-last-airbender-jumpstart-booster-display": {
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
@@ -13614,19 +13620,19 @@
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 59.75
+     "price": 54.99
     },
     "riftbound-worlds-bundle-2025": {
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 959.99
+     "price": 1083.75
     },
     "origins-proving-grounds-box-set": {
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 54.99
+     "price": 67.99
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
      "title": "Marvel Super Heroes Commander Deck - Doom Prevails",
@@ -13692,7 +13698,7 @@
      "title": "Marvel Super Heroes Play Booster Bundle",
      "game": "MTG",
      "available": false,
-     "price": 65.75
+     "price": 65.5
     },
     "final-fantasy-gift-bundle": {
      "title": "Final Fantasy Gift Bundle",
@@ -13704,7 +13710,7 @@
      "title": "Universes Beyond: FINAL FANTASY - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 118.99
+     "price": 119.75
     },
     "pokemon-151-alakazam-ex-collection-box": {
      "title": "151 Alakazam ex Collection Box",
@@ -13788,7 +13794,7 @@
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
      "game": "MTG",
      "available": true,
-     "price": 53.99
+     "price": 56.75
     },
     "journey-together-pokemon-center-elite-trainer-box": {
      "title": "Journey Together Pokemon Center Elite Trainer Box",
@@ -13798,7 +13804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56
+   "check_cursor": 96
   }
  }
 }
