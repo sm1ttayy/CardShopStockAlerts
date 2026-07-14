@@ -2933,7 +2933,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41
+   "check_cursor": 81
   },
   "https://skyboxct.com": {
    "products": {
@@ -4073,7 +4073,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48
+   "check_cursor": 28
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5515,7 +5515,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46
+   "check_cursor": 86
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10681,6 +10681,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 149.95
+    },
+    "mtg-reality-fracture-play-booster-box-pre-order": {
+     "title": "MTG Reality Fracture Play Booster Box (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 189.95
     }
    },
    "baselined": true,
@@ -12204,7 +12210,7 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 881.02
+     "price": 882.9
     },
     "xy-evolutions-booster-box-case": {
      "title": "XY Evolutions Booster Box Case",
@@ -12304,7 +12310,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40
+   "check_cursor": 0
   },
   "https://common-lands.com": {
    "products": {
@@ -13780,7 +13786,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14
+   "check_cursor": 54
   }
  }
 }
