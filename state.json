@@ -1100,7 +1100,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0
   },
   "https://www.stompinggroundstcg.com": {
@@ -2144,7 +2144,7 @@
      "title": "Universes Beyond: Assassin's Creed Beyond Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 105.0
+     "price": 109.0
     },
     "aether-revolt-booster-box-display": {
      "title": "Aether Revolt Booster Box Display",
@@ -2404,8 +2404,9 @@
     "pre-order-commander-masters-set-booster-display": {
      "title": "Commander Masters Set Booster Display",
      "game": "MTG",
-     "available": true,
-     "price": 615.0
+     "available": false,
+     "price": 615.0,
+     "unavail_since": 1784083591
     },
     "pre-order-commander-masters-draft-booster-display": {
      "title": "Commander Masters Draft Booster Display",
@@ -3435,7 +3436,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 238,
+   "check_cursor": 16,
    "error_streak": 0
   },
   "https://skyboxct.com": {
@@ -4708,7 +4709,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0
   },
   "https://theawesomecardshop.com": {
@@ -6367,7 +6368,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0
   },
   "https://cashcardsunlimited.com": {
@@ -7281,10 +7282,28 @@
      "game": "Pokemon",
      "available": true,
      "price": 24.99
+    },
+    "battlebond-booster-box-battlebond-bbd": {
+     "title": "Battlebond - Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 310.0
+    },
+    "korean-pokemon-tcg-clay-burst-booster-box": {
+     "title": "(Korean) Pok\u00e9mon TCG: Clay Burst Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 70.0
+    },
+    "korean-pokemon-tcg-stellar-miracle-booster-box": {
+     "title": "(Korean) Pok\u00e9mon TCG: Stellar Miracle Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 52.0
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0
   },
   "https://www.gamersgauntlet.net": {
@@ -7979,7 +7998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0
   },
   "https://safari-zone.com": {
@@ -8669,7 +8688,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0
   },
   "https://moonshotgamestore.com": {
@@ -8835,11 +8854,17 @@
      "available": false,
      "price": 429.99,
      "unavail_since": 1784083336
+    },
+    "pitch-black-booster-box-moonshot-rips": {
+     "title": "Pitch Black Booster Box - Moonshot Rips",
+     "game": "Pokemon",
+     "available": true,
+     "price": 200.0
     }
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1
+   "error_streak": 0
   },
   "https://superanimestore.com": {
    "products": {
@@ -9224,7 +9249,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1
+   "error_streak": 2
   },
   "https://geekerygames.com": {
    "products": {
@@ -9990,8 +10015,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
-   "error_streak": 1
+   "check_cursor": 10,
+   "error_streak": 2
   },
   "https://store.401games.ca": {
    "products": {
@@ -11011,7 +11036,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1
+   "error_streak": 2
   },
   "https://hobbiesville.com": {
    "products": {
@@ -12010,8 +12035,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
-   "error_streak": 1
+   "check_cursor": 7,
+   "error_streak": 2
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -12613,8 +12638,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
-   "error_streak": 1
+   "check_cursor": 19,
+   "error_streak": 2
   },
   "https://exorgames.com": {
    "products": {
@@ -13211,8 +13236,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
-   "error_streak": 1
+   "check_cursor": 36,
+   "error_streak": 2
   },
   "https://pokerand.net": {
    "products": {
@@ -13868,8 +13893,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
-   "error_streak": 1
+   "check_cursor": 40,
+   "error_streak": 2
   },
   "https://common-lands.com": {
    "products": {
@@ -15512,18 +15537,18 @@
     }
    },
    "baselined": true,
-   "check_cursor": 143,
-   "error_streak": 1
+   "check_cursor": 22,
+   "error_streak": 2
   },
   "https://www.undiscoveredrealm.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 1
+   "error_streak": 2
   },
   "https://sagaconcepts.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 1
+   "error_streak": 2
   }
  }
 }
