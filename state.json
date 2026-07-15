@@ -9707,7 +9707,7 @@
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 399.95,
+     "price": 409.95,
      "unavail_since": 1784083347
     },
     "phyrexia-all-will-be-one-set-booster-display": {
@@ -12140,9 +12140,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
-   "error_streak": 16,
-   "last_error": "t 'pokemon-tcg-mega-evolution-set-5-pitch-black-3-pack-blister-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 23,
+   "error_streak": 17,
+   "last_error": " product 'one-piece-card-game-premium-card-collection-cardfest-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -13366,6 +13366,13 @@
      "game": "MTG",
      "available": true,
      "price": 139.95
+    },
+    "pokemon-me2-5-ascended-heroes-elite-trainer-box": {
+     "title": "POKEMON ME2.5 ASCENDED HEROES ELITE TRAINER BOX",
+     "game": "Pokemon",
+     "available": false,
+     "price": 239.95,
+     "unavail_since": 1784159708
     }
    },
    "baselined": true,
@@ -13880,7 +13887,7 @@
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2849.29,
+     "price": 2838.0,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -13908,14 +13915,14 @@
      "title": "XY BREAKpoint Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1478.75,
+     "price": 1484.63,
      "unavail_since": 1784083349
     },
     "xy-fates-collide-booster-box": {
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2065.73,
+     "price": 2057.55,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
@@ -14027,7 +14034,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14130,7 +14137,7 @@
      "title": "Secrets of Strixhaven Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 137.75,
+     "price": 136.5,
      "unavail_since": 1784083350
     },
     "legacy-of-the-master-booster-box-op12": {
@@ -14158,7 +14165,7 @@
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 484.99,
+     "price": 474.75,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
@@ -14220,7 +14227,7 @@
      "title": "Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 207.75,
+     "price": 206.75,
      "unavail_since": 1784083350
     },
     "inferno-x-booster-box": {
@@ -14247,7 +14254,7 @@
      "title": "Brilliant Stars Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 630.75,
+     "price": 624.75,
      "unavail_since": 1784083350
     },
     "pokemon-evolving-skies-booster-box": {
@@ -14320,7 +14327,7 @@
      "title": "Raging Surf Booster Box (JP)",
      "game": "Pokemon",
      "available": false,
-     "price": 116.75,
+     "price": 115.75,
      "unavail_since": 1784083350
     },
     "gg-end-booster-box-jp": {
@@ -14341,7 +14348,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 404.75,
+     "price": 404.25,
      "unavail_since": 1784083350
     },
     "black-bolt-booster-box": {
@@ -14409,7 +14416,7 @@
      "title": "Assassin's Creed Beyond Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 118.99,
+     "price": 117.99,
      "unavail_since": 1784083350
     },
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
@@ -14430,7 +14437,7 @@
      "title": "Chilling Reign Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 3297.75,
+     "price": 3294.75,
      "unavail_since": 1784083350
     },
     "dungeons-dragons-battle-for-baldurs-gate-set-booster-box": {
@@ -14464,7 +14471,7 @@
      "title": "500 Years in the Future Booster Box [OP07]",
      "game": "One Piece",
      "available": false,
-     "price": 360.75,
+     "price": 359.99,
      "unavail_since": 1784083350
     },
     "memorial-collection-booster-box-eb01": {
@@ -14998,7 +15005,7 @@
      "title": "Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 498.75,
+     "price": 497.99,
      "unavail_since": 1784083350
     },
     "pokemon-scarlet-violet-booster-box": {
@@ -15745,10 +15752,16 @@
      "available": false,
      "price": 128.25,
      "unavail_since": 1784158890
+    },
+    "pokemon-sword-shield-ultra-premium-collection-charizard": {
+     "title": "Sword & Shield Ultra-Premium Collection [Charizard]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 598.5
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16306,6 +16319,13 @@
      "game": "MTG",
      "available": true,
      "price": 44.95
+    },
+    "one-piece-tcg-anime-25th-collection-eb-02-english-booster-box-24-packs": {
+     "title": "One Piece TCG Anime 25th Collection (EB-02) English Booster Box (24 Packs)",
+     "game": "One Piece",
+     "available": false,
+     "price": 178.95,
+     "unavail_since": 1784159721
     }
    },
    "baselined": true,
