@@ -1100,7 +1100,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 13,
    "error_streak": 0
   },
   "https://www.stompinggroundstcg.com": {
@@ -3436,7 +3436,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0
   },
   "https://skyboxct.com": {
@@ -4709,7 +4709,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0
   },
   "https://theawesomecardshop.com": {
@@ -6368,7 +6368,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 131,
+   "check_cursor": 26,
    "error_streak": 0
   },
   "https://cashcardsunlimited.com": {
@@ -7303,7 +7303,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 41,
    "error_streak": 0
   },
   "https://www.gamersgauntlet.net": {
@@ -7998,7 +7998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 6,
    "error_streak": 0
   },
   "https://safari-zone.com": {
@@ -8685,10 +8685,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 224.99
+    },
+    "one-piece-tcg-illustration-box-volume-4": {
+     "title": "One Piece TCG: Illustration Box Volume 4",
+     "game": "One Piece",
+     "available": false,
+     "price": 69.99,
+     "unavail_since": 1784086491
+    },
+    "one-piece-tcg-illustration-box-volume-8": {
+     "title": "One Piece TCG: Illustration Box: Volume 8",
+     "game": "One Piece",
+     "available": false,
+     "price": 22.99,
+     "unavail_since": 1784086491
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 32,
    "error_streak": 0
   },
   "https://moonshotgamestore.com": {
@@ -8864,7 +8878,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 0
+   "error_streak": 1
   },
   "https://superanimestore.com": {
    "products": {
@@ -9249,7 +9263,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 2
+   "error_streak": 3
   },
   "https://geekerygames.com": {
    "products": {
@@ -10015,8 +10029,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
-   "error_streak": 2
+   "check_cursor": 50,
+   "error_streak": 3
   },
   "https://store.401games.ca": {
    "products": {
@@ -11036,7 +11050,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 2
+   "error_streak": 3
   },
   "https://hobbiesville.com": {
    "products": {
@@ -12035,8 +12049,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
-   "error_streak": 2
+   "check_cursor": 47,
+   "error_streak": 3
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -12638,8 +12652,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
-   "error_streak": 2
+   "check_cursor": 59,
+   "error_streak": 3
   },
   "https://exorgames.com": {
    "products": {
@@ -13236,8 +13250,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
-   "error_streak": 2
+   "check_cursor": 31,
+   "error_streak": 3
   },
   "https://pokerand.net": {
    "products": {
@@ -13893,8 +13907,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
-   "error_streak": 2
+   "check_cursor": 0,
+   "error_streak": 3
   },
   "https://common-lands.com": {
    "products": {
@@ -15537,18 +15551,18 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
-   "error_streak": 2
+   "check_cursor": 62,
+   "error_streak": 3
   },
   "https://www.undiscoveredrealm.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 2
+   "error_streak": 3
   },
   "https://sagaconcepts.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 2
+   "error_streak": 3
   }
  }
 }
