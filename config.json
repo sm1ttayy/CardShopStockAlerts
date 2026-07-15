@@ -41,10 +41,11 @@
         "OP-17",
         { "q": "one piece starter deck", "min_price": 10 },
         { "q": "one piece premium collection", "min_price": 25 },
-        { "q": "one piece double pack", "min_price": 10 }
+        { "q": "one piece double pack", "min_price": 10 },
+        { "q": "one piece illustration box", "min_price": 18 }
       ],
       "include": "one ?piece",
-      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|ticket|tournament|prerelease|\\bevent\\b|damaged",
+      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|ticket|tournament|prerelease|\\bevent\\b|damaged|promotion card|\\bpsa\\b|\\bbgs\\b|\\bcgc\\b|graded",
       "min_price": 40,
       "max_price": 130,
       "deal_price": 100
@@ -114,6 +115,30 @@
       "handle": "one-piece-cg-op-17-booster-box-pre-order-copy",
       "game": "One Piece",
       "note": "OP-17 preorder, priced high (299.95 CAD)"
+    },
+    {
+      "store": "https://gamersguildaz.com",
+      "handle": "one-piece-tcg-ib-07-illustration-box-volume-7-english",
+      "game": "One Piece",
+      "note": "Illustration Box Vol. 7 @ $22.99 (releases 7/31)"
+    },
+    {
+      "store": "https://gamersguildaz.com",
+      "handle": "one-piece-tcg-ib-08-illustration-box-volume-8-english",
+      "game": "One Piece",
+      "note": "Illustration Box Vol. 8 @ $22.99 (releases 7/31)"
+    },
+    {
+      "store": "https://gamersguildaz.com",
+      "handle": "one-piece-tcg-ib-09-illustration-box-vol-9-english",
+      "game": "One Piece",
+      "note": "Illustration Box Vol. 9 @ $22.99"
+    },
+    {
+      "store": "https://gamersguildaz.com",
+      "handle": "one-piece-tcg-ib-10-illustration-box-vol-10-english",
+      "game": "One Piece",
+      "note": "Illustration Box Vol. 10 @ $22.99"
     }
   ]
 }
