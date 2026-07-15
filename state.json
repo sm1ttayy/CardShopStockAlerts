@@ -1100,7 +1100,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0
   },
   "https://www.stompinggroundstcg.com": {
@@ -3436,7 +3436,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 136,
+   "check_cursor": 176,
    "error_streak": 0
   },
   "https://skyboxct.com": {
@@ -3445,7 +3445,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 420.0
+     "price": 425.0
     },
     "one-piece-extra-booster-heroines-japanese-edition-box-eb-03": {
      "title": "One Piece: Extra Booster - Heroines Japanese Edition Box (EB-03)",
@@ -3457,7 +3457,7 @@
      "title": "One Piece TCG: Egghead Crisis Japanese Extra Booster Box (EB-04)",
      "game": "One Piece",
      "available": true,
-     "price": 94.0
+     "price": 89.0
     },
     "one-piece-tcg-adventure-on-kamis-island-japanese-booster-box-op-15": {
      "title": "One Piece TCG: Adventure on Kamis Island Japanese Booster Box (OP-15) (SALE)",
@@ -3497,7 +3497,7 @@
      "title": "One Piece TCG: Kingdoms of Intrigue Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 509.0,
+     "price": 514.0,
      "unavail_since": 1784083330
     },
     "ultimate-guard-collectors-case-one-piece-wooden-chest": {
@@ -4709,7 +4709,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 31,
    "error_streak": 0
   },
   "https://theawesomecardshop.com": {
@@ -6368,7 +6368,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 106,
+   "check_cursor": 6,
    "error_streak": 0
   },
   "https://cashcardsunlimited.com": {
@@ -7321,7 +7321,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0
   },
   "https://www.gamersgauntlet.net": {
@@ -8720,7 +8720,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 13,
    "error_streak": 0
   },
   "https://moonshotgamestore.com": {
@@ -8896,7 +8896,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 3
+   "error_streak": 4
   },
   "https://superanimestore.com": {
    "products": {
@@ -9281,7 +9281,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 5
+   "error_streak": 6
   },
   "https://geekerygames.com": {
    "products": {
@@ -10047,8 +10047,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
-   "error_streak": 5
+   "check_cursor": 18,
+   "error_streak": 6
   },
   "https://store.401games.ca": {
    "products": {
@@ -11068,7 +11068,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 5
+   "error_streak": 6
   },
   "https://hobbiesville.com": {
    "products": {
@@ -12067,8 +12067,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
-   "error_streak": 5
+   "check_cursor": 21,
+   "error_streak": 6
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -12670,8 +12670,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
-   "error_streak": 5
+   "check_cursor": 43,
+   "error_streak": 6
   },
   "https://exorgames.com": {
    "products": {
@@ -13268,8 +13268,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
-   "error_streak": 5
+   "check_cursor": 16,
+   "error_streak": 6
   },
   "https://pokerand.net": {
    "products": {
@@ -13925,8 +13925,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
-   "error_streak": 5
+   "check_cursor": 40,
+   "error_streak": 6
   },
   "https://common-lands.com": {
    "products": {
@@ -15569,18 +15569,18 @@
     }
    },
    "baselined": true,
-   "check_cursor": 142,
-   "error_streak": 5
+   "check_cursor": 21,
+   "error_streak": 6
   },
   "https://www.undiscoveredrealm.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 5
+   "error_streak": 6
   },
   "https://sagaconcepts.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 5
+   "error_streak": 6
   }
  }
 }
