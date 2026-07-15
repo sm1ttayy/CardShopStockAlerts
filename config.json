@@ -2,8 +2,8 @@
   "request_delay_ms": 250,
   "fx_to_usd": { "USD": 1.0, "CAD": 0.73 },
   "cap_exempt": "\\bcase\\b",
-  "sweep_match": "booster (box|display)",
-  "deal_match": "booster (box|display)",
+  "sweep_match": "booster (box|display)|\\(24 ?(ct|packs)\\)",
+  "deal_match": "booster (box|display)|\\(24 ?(ct|packs)\\)",
   "hard_max_usd": 500,
   "restock_cooldown_hours": 6,
   "dormant_days": 60,
@@ -31,7 +31,9 @@
     { "name": "Fusion Gaming Online", "url": "https://www.fusiongamingonline.com", "currency": "CAD" },
     { "name": "Exor Games",           "url": "https://exorgames.com",              "currency": "CAD" },
     { "name": "PokeRand",             "url": "https://pokerand.net",               "currency": "USD" },
-    { "name": "Common Lands",         "url": "https://common-lands.com",           "currency": "USD" }
+    { "name": "Common Lands",         "url": "https://common-lands.com",           "currency": "USD" },
+    { "name": "Undiscovered Realm",   "url": "https://www.undiscoveredrealm.com",  "currency": "USD" },
+    { "name": "Saga Concepts",        "url": "https://sagaconcepts.com",           "currency": "USD" }
   ],
   "games": {
     "One Piece": {

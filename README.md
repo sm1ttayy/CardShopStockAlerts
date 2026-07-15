@@ -2,7 +2,7 @@
 
 ![watcher status](https://github.com/sm1ttayy/CardShopStockAlerts/actions/workflows/watch.yml/badge.svg)
 
-Watches 17 vetted Shopify TCG stores for **new-set preorder listings**,
+Watches 19 vetted Shopify TCG stores for **new-set preorder listings**,
 **restocks**, and **price drops** (One Piece, Pokémon, Riftbound, MTG) and
 pings per-game Discord webhooks. A daily full-catalog sweep
 (`sweep.yml`, `--sweep`) pages every store's complete inventory for booster
