@@ -1121,7 +1121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0
   },
   "https://www.stompinggroundstcg.com": {
@@ -3457,7 +3457,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 220,
+   "check_cursor": 17,
    "error_streak": 0
   },
   "https://skyboxct.com": {
@@ -4730,7 +4730,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0
   },
   "https://theawesomecardshop.com": {
@@ -6396,7 +6396,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 138,
+   "check_cursor": 32,
    "error_streak": 0
   },
   "https://cashcardsunlimited.com": {
@@ -6955,9 +6955,9 @@
     "pokemon-mega-evolution-perfect-order-booster-box": {
      "title": "Pokemon Mega Evolution - Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 224.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 209.99,
+     "last_restock_alert": 1784149252
     },
     "pokemon-tcg-fusion-strike-booster-box": {
      "title": "Pokemon TCG: Fusion Strike Booster Box",
@@ -7333,7 +7333,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 264.99
+     "price": 254.99
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
      "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box",
@@ -7349,7 +7349,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 5,
    "error_streak": 0
   },
   "https://www.gamersgauntlet.net": {
@@ -8041,6 +8041,13 @@
      "available": false,
      "price": 35.0,
      "unavail_since": 1784083333
+    },
+    "one-piece-film-starter-deck": {
+     "title": "One Piece Film Starter Deck",
+     "game": "One Piece",
+     "available": false,
+     "price": 25.0,
+     "unavail_since": 1784149249
     }
    },
    "baselined": true,
@@ -8748,7 +8755,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 26,
    "error_streak": 0
   },
   "https://moonshotgamestore.com": {
@@ -8924,7 +8931,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 6
+   "error_streak": 7
   },
   "https://superanimestore.com": {
    "products": {
@@ -9309,7 +9316,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 13
+   "error_streak": 14
   },
   "https://geekerygames.com": {
    "products": {
@@ -10075,8 +10082,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
-   "error_streak": 13
+   "check_cursor": 34,
+   "error_streak": 14
   },
   "https://store.401games.ca": {
    "products": {
@@ -11096,7 +11103,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 13
+   "error_streak": 14
   },
   "https://hobbiesville.com": {
    "products": {
@@ -12095,8 +12102,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
-   "error_streak": 13
+   "check_cursor": 49,
+   "error_streak": 14
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -12698,8 +12705,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
-   "error_streak": 13
+   "check_cursor": 23,
+   "error_streak": 14
   },
   "https://exorgames.com": {
    "products": {
@@ -13296,8 +13303,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
-   "error_streak": 13
+   "check_cursor": 21,
+   "error_streak": 14
   },
   "https://pokerand.net": {
    "products": {
@@ -13953,8 +13960,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
-   "error_streak": 13
+   "check_cursor": 40,
+   "error_streak": 14
   },
   "https://common-lands.com": {
    "products": {
@@ -15597,18 +15604,18 @@
     }
    },
    "baselined": true,
-   "check_cursor": 140,
-   "error_streak": 13
+   "check_cursor": 19,
+   "error_streak": 14
   },
   "https://www.undiscoveredrealm.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 13
+   "error_streak": 14
   },
   "https://sagaconcepts.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 13
+   "error_streak": 14
   }
  }
 }
