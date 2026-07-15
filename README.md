@@ -11,6 +11,10 @@ boxes the top-10 search window misses. Prices get two-sided flags:
 
 ## How it works
 
+Stores are scanned **in parallel** (requests stay polite and serial within
+each store), and each store's alerts post to Discord the moment that store
+finishes — no waiting for the full run.
+
 Every run, per store:
 
 1. **Radar** — keyword searches (`search/suggest.json`) find new sealed-product
@@ -78,6 +82,16 @@ python watcher.py               # real run (posts if DISCORD_WEBHOOK_URL is set)
   📉 PRICE DROP alert.
 - **Run budget**: `max_active_checks_per_store` (default 40) rotates through
   unavailable products each run; config-seeded watches are always checked.
+  Items unavailable for `dormant_days` (60) leave the rotation entirely and
+  rely on the daily sweep.
+- **Hard ceiling**: nothing over `hard_max_usd` (500) ever alerts, period.
+- **Flap cooldown**: a product can fire at most one restock alert per
+  `restock_cooldown_hours` (6), so flickering inventory can't spam.
+- **Value board**: `python watcher.py --digest` posts each game's cheapest
+  in-stock booster boxes (`digest_top_n`) to that game's channel plus a
+  health summary (products tracked, failing stores) to the default webhook;
+  the sweep workflow runs it daily. A store that fails 3 consecutive runs
+  triggers a 🚨 STORE ERROR alert.
 
 ## Notes
 

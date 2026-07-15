@@ -29,7 +29,9 @@ jobs:
           DISCORD_WEBHOOK_POKEMON: ${{ secrets.DISCORD_WEBHOOK_POKEMON }}
           DISCORD_WEBHOOK_RIFTBOUND: ${{ secrets.DISCORD_WEBHOOK_RIFTBOUND }}
           DISCORD_WEBHOOK_MTG: ${{ secrets.DISCORD_WEBHOOK_MTG }}
-        run: python watcher.py --sweep
+        run: |
+          python watcher.py --sweep
+          python watcher.py --digest
 
       - name: Persist state
         run: |

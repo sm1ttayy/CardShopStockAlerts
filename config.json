@@ -4,6 +4,10 @@
   "cap_exempt": "\\bcase\\b",
   "sweep_match": "booster (box|display)",
   "deal_match": "booster (box|display)",
+  "hard_max_usd": 500,
+  "restock_cooldown_hours": 6,
+  "dormant_days": 60,
+  "digest_top_n": 8,
   "webhook_env": {
     "One Piece": "DISCORD_WEBHOOK_ONE_PIECE",
     "Pokemon": "DISCORD_WEBHOOK_POKEMON",
@@ -55,7 +59,7 @@
         { "q": "pokemon pitch black", "min_price": 15 }
       ],
       "include": "pok[eé]mon",
-      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|loose|plush|keychain|figure|pin badge|moncolle|charm|blind box|ticket|tournament|prerelease|\\bevent\\b|damaged",
+      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|loose|plush|keychain|figure|pin badge|moncolle|charm|blind box|ticket|tournament|prerelease|\\bevent\\b|damaged|\\d+a?/\\d+|\\bpsa\\b|\\bbgs\\b|\\bcgc\\b|graded",
       "min_price": 35,
       "max_price": 180,
       "deal_price": 150
@@ -75,13 +79,12 @@
     "MTG": {
       "queries": [
         "play booster box",
-        "collector booster box",
         "magic booster box",
         { "q": "magic commander deck", "min_price": 35 },
         { "q": "magic bundle", "min_price": 40 }
       ],
       "include": "magic|mtg",
-      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|ticket|tournament|prerelease|\\bevent\\b|damaged",
+      "exclude": "playmat|sleeve|binder|deck box|storage|acrylic|single|ticket|tournament|prerelease|\\bevent\\b|damaged|collector",
       "min_price": 80,
       "max_price": 160,
       "deal_price": 120
