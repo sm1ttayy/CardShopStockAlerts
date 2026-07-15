@@ -43,6 +43,7 @@ for _stream in (sys.stdout, sys.stderr):  # Windows consoles default to cp1252
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
 STATE_PATH = os.path.join(BASE_DIR, "state.json")
+MARKET_PATH = os.path.join(BASE_DIR, "market.json")
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) tcg-restock-watcher/1.0"
 TIMEOUT = 15
 SSL_CTX = ssl.create_default_context()
@@ -105,10 +106,12 @@ def fetch_product(store_url, handle):
 
 
 class PriceJudge:
-    """Price policy: suppress() hides anything over hard_max_usd entirely;
-    flag() marks ⚠️ above the per-game max_price and 💎 at/below the per-game
-    deal_price (deals only for titles matching deal_match). Thresholds are
-    USD; store prices are converted via config fx_to_usd first."""
+    """Price policy: suppress() hides anything over hard_max_usd entirely.
+    flag() prefers a live TCGplayer market anchor (market.json, built daily
+    by --market from tcgcsv.com): ⚠️ above market x over_multiplier,
+    💎 at/below market x deal_multiplier, neutral "market ~$X" otherwise.
+    Products without a market match fall back to the static per-game
+    max_price / deal_price. All thresholds USD via config fx_to_usd."""
 
     def __init__(self, config):
         self.fx = config.get("fx_to_usd", {"USD": 1.0})
@@ -119,6 +122,10 @@ class PriceJudge:
         self.exempt = re.compile(exempt, re.I) if exempt else None
         self.deal_match = re.compile(config.get("deal_match", "booster (box|display)"), re.I)
         self.hard_max = config.get("hard_max_usd", 0)
+        mcfg = config.get("market", {})
+        self.over_mult = mcfg.get("over_multiplier", 1.15)
+        self.deal_mult = mcfg.get("deal_multiplier", 0.9)
+        self.market = load_json(MARKET_PATH, {}).get("items", {})
 
     def usd(self, price, currency):
         return price * self.fx.get(currency, 1.0)
@@ -126,10 +133,21 @@ class PriceJudge:
     def suppress(self, price, currency):
         return bool(self.hard_max and price and self.usd(price, currency) > self.hard_max)
 
-    def flag(self, game, title, price, currency):
+    def market_price(self, key):
+        entry = self.market.get(key or "")
+        return entry.get("market") if entry else None
+
+    def flag(self, game, title, price, currency, key=None):
         if not price or (self.exempt and self.exempt.search(title)):
             return ""
         usd = self.usd(price, currency)
+        mkt = self.market_price(key)
+        if mkt:
+            if usd > mkt * self.over_mult:
+                return f"⚠️ ABOVE MARKET: ~{usd:.0f} USD vs TCGplayer ~{mkt:.0f}"
+            if usd <= mkt * self.deal_mult and self.deal_match.search(title):
+                return f"💎 BELOW MARKET: ~{usd:.0f} USD vs TCGplayer ~{mkt:.0f}"
+            return f"market ~{mkt:.0f} USD"
         cap = self.caps.get(game)
         if cap and usd > cap:
             return f"⚠️ OVER LIMIT: ~{usd:.0f} USD vs your {cap:.0f} cap"
@@ -167,7 +185,7 @@ def observe(products, fresh, baselined, judge, alerts, sname, cur, surl,
     now = int(time.time())
     url = f"{surl}/products/{handle}"
     too_expensive = judge.suppress(price, cur)
-    flag = judge.flag(game, title, price, cur)
+    flag = judge.flag(game, title, price, cur, key=f"{surl}|{handle}")
     if handle in products:
         w = products[handle]
         prev_price = w.get("price", 0.0)
@@ -404,7 +422,7 @@ def process_store(store, config, st, seeds, judge):
         prev_avail, prev_price = w.get("available"), w.get("price", 0.0)
         url = f"{surl}/products/{handle}"
         game = w.get("game", "")
-        price_flag = judge.flag(game, title, price, cur)
+        price_flag = judge.flag(game, title, price, cur, key=f"{surl}|{handle}")
         note = " · ".join(x for x in (w.get("note", ""), price_flag) if x)
         exc = excludes.get(game)
         muted = judge.suppress(price, cur) or (exc and exc.search(title))
@@ -556,12 +574,15 @@ def digest(dry_run=False):
                 usd = judge.usd(price, cur)
                 if judge.hard_max and usd > judge.hard_max:
                     continue
-                rows.append((usd, title, sname, f"{surl}/products/{handle}"))
+                mkt = judge.market_price(f"{surl}|{handle}")
+                rows.append((usd, title, sname, f"{surl}/products/{handle}", mkt))
         rows.sort(key=lambda r: r[0])
         if not rows:
             continue
-        body = "\n".join(f"**~${usd:.0f}** — [{title[:80]}]({url}) @ {sname}"
-                         for usd, title, sname, url in rows[:top_n])
+        body = "\n".join(
+            f"**~${usd:.0f}** — [{title[:80]}]({url}) @ {sname}"
+            + (f" (mkt ~${mkt:.0f})" if mkt else "")
+            for usd, title, sname, url, mkt in rows[:top_n])
         embed = {"title": f"📊 {game}: cheapest in-stock booster boxes",
                  "description": body[:4000]}
         print(f"\n{embed['title']}\n{body}")
@@ -582,6 +603,108 @@ def digest(dry_run=False):
     hook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
     if hook and not dry_run:
         post_embeds(hook, [{"title": "🩺 Watcher health", "description": status[:4000]}])
+
+
+GENERIC_TOKENS = {"booster", "box", "boxes", "display", "pack", "packs", "the", "of", "and",
+                  "a", "an", "tcg", "cg", "card", "cards", "game", "trading", "set", "sealed",
+                  "edition", "english", "en", "vol", "volume", "24", "24ct", "ct", "pre",
+                  "order", "preorder", "releases", "release", "new", "case"}
+SET_CODE_RE = re.compile(r"\b(?:op|ib|eb|st|dp|prb|sv|swsh|me|m)[\s\-]?\d+[a-z]?\b", re.I)
+
+
+def _tokens(s):
+    return set(re.sub(r"[^a-z0-9 ]", " ", s.lower()).split())
+
+
+def _codes(s):
+    return {re.sub(r"[\s\-]", "", c.lower()) for c in SET_CODE_RE.findall(s)}
+
+
+def build_market(dry_run=False):
+    """Build market.json: TCGplayer market prices (via tcgcsv.com's daily
+    mirror) matched to the tracked booster boxes/displays in state.json.
+    Only groups (sets) referenced by tracked titles are fetched. Run daily."""
+    config = load_json(CONFIG_PATH, None)
+    if config is None:
+        sys.exit(f"cannot read {CONFIG_PATH}")
+    state = load_json(STATE_PATH, {"stores": {}})
+    cats = config.get("market", {}).get("tcgplayer_categories", {})
+    deal_match = re.compile(config.get("deal_match", "booster (box|display)"), re.I)
+
+    # tracked items eligible for a market anchor, per game
+    tracked = {}  # game -> [(key, title)]
+    for surl, st in state["stores"].items():
+        for handle, w in st["products"].items():
+            title, game = w.get("title", ""), w.get("game", "")
+            if game and deal_match.search(title) and not w.get("delisted"):
+                tracked.setdefault(game, []).append((f"{surl}|{handle}", title))
+
+    items = {}
+    for game, cat_ids in cats.items():
+        rows = tracked.get(game, [])
+        if not rows:
+            continue
+        all_tokens = set().union(*(_tokens(t) for _, t in rows))
+        all_codes = set().union(*(_codes(t) for _, t in rows))
+        candidates = []  # (name, market, is_japan)
+        for cid in cat_ids:
+            try:
+                groups = http_json(f"https://tcgcsv.com/tcgplayer/{cid}/groups")["results"]
+            except Exception as e:
+                print(f"[warn] market: groups for category {cid} failed: {e}", file=sys.stderr)
+                continue
+            for g in groups:
+                ab = re.sub(r"[^a-z0-9]", "", (g.get("abbreviation") or "").lower())
+                sig = _tokens(g.get("name", "")) - GENERIC_TOKENS
+                if not ((ab and ab in all_codes) or (sig and sig <= all_tokens)):
+                    continue
+                gid = g["groupId"]
+                try:
+                    prods = {p["productId"]: p["name"]
+                             for p in http_json(f"https://tcgcsv.com/tcgplayer/{cid}/{gid}/products")["results"]}
+                    prices = http_json(f"https://tcgcsv.com/tcgplayer/{cid}/{gid}/prices")["results"]
+                except Exception as e:
+                    print(f"[warn] market: group {gid} failed: {e}", file=sys.stderr)
+                    continue
+                for pr in prices:
+                    name = prods.get(pr["productId"], "")
+                    low = name.lower()
+                    if not pr.get("marketPrice") or "booster" not in low:
+                        continue
+                    if not ("box" in low or "display" in low):
+                        continue
+                    candidates.append((name, pr["marketPrice"], cid == 85))
+                time.sleep(0.15)
+
+        # match each tracked product to its best market candidate
+        for key, title in rows:
+            t_tokens, t_codes = _tokens(title), _codes(title)
+            wants_japan = bool({"japanese", "japan", "jpn"} & t_tokens)
+            if {"chinese", "korean"} & t_tokens:
+                continue  # no TCGplayer market for these
+            best, best_score = None, 0.0
+            for name, market, is_japan in candidates:
+                if is_japan != wants_japan:
+                    continue
+                c_sig = _tokens(name) - GENERIC_TOKENS
+                c_codes = _codes(name)
+                overlap = len(c_sig & t_tokens) / len(c_sig) if c_sig else 0.0
+                code_hit = bool(c_codes & t_codes)
+                score = overlap + (0.6 if code_hit else 0.0)
+                if ("case" in name.lower()) != ("case" in title.lower()):
+                    continue
+                if score > best_score and (code_hit or overlap >= 0.75):
+                    best, best_score = (name, market), score
+            if best:
+                items[key] = {"market": best[1], "match": best[0]}
+
+    out = {"asof": time.strftime("%Y-%m-%d"), "items": items}
+    print(f"market anchors: {len(items)} matched of "
+          f"{sum(len(v) for v in tracked.values())} eligible tracked products")
+    if not dry_run:
+        with open(MARKET_PATH, "w", encoding="utf-8") as f:
+            json.dump(out, f, indent=1)
+    return out
 
 
 def test_alert():
@@ -612,9 +735,13 @@ if __name__ == "__main__":
                     help="full-catalog sweep instead of keyword radar (run daily)")
     ap.add_argument("--digest", action="store_true",
                     help="post the per-game value board + health summary (run daily)")
+    ap.add_argument("--market", action="store_true",
+                    help="rebuild market.json from TCGplayer data via tcgcsv.com (run daily)")
     args = ap.parse_args()
     if args.test_alert:
         test_alert()
+    elif args.market:
+        build_market(dry_run=args.dry_run)
     elif args.digest:
         digest(dry_run=args.dry_run)
     else:

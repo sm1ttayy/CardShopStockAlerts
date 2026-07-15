@@ -31,6 +31,7 @@ jobs:
           DISCORD_WEBHOOK_RIFTBOUND: ${{ secrets.DISCORD_WEBHOOK_RIFTBOUND }}
           DISCORD_WEBHOOK_MTG: ${{ secrets.DISCORD_WEBHOOK_MTG }}
         run: |
+          python watcher.py --market
           python watcher.py --sweep
           python watcher.py --digest
 
@@ -38,7 +39,7 @@ jobs:
         run: |
           git config user.name "restock-watcher"
           git config user.email "actions@users.noreply.github.com"
-          git add state.json
+          git add state.json market.json
           # commit first (rebase refuses unstaged changes), then rebase onto
           # anything pushed mid-run; -X theirs keeps our just-computed state
           git diff --staged --quiet || { git commit -m "update sweep state [skip ci]"; git pull --rebase -X theirs; git push; }

@@ -5,6 +5,16 @@
   "sweep_match": "booster (box|display)|\\(24 ?(ct|packs)\\)",
   "deal_match": "booster (box|display)|\\(24 ?(ct|packs)\\)",
   "hard_max_usd": 500,
+  "market": {
+    "over_multiplier": 1.15,
+    "deal_multiplier": 0.9,
+    "tcgplayer_categories": {
+      "One Piece": [68],
+      "Pokemon": [3, 85],
+      "Riftbound": [89],
+      "MTG": [1]
+    }
+  },
   "restock_cooldown_hours": 6,
   "dormant_days": 60,
   "digest_top_n": 8,
