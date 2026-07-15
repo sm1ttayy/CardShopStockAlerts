@@ -48,7 +48,7 @@ TIMEOUT = 15
 SSL_CTX = ssl.create_default_context()
 
 
-def http_json(url):
+def http_json(url, _retried=False):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT, context=SSL_CTX) as resp:
@@ -56,6 +56,14 @@ def http_json(url):
     except urllib.error.HTTPError as e:
         if e.code == 404:
             return None
+        if not _retried and e.code in (429, 430, 500, 502, 503):
+            time.sleep(2)
+            return http_json(url, _retried=True)
+        raise
+    except (urllib.error.URLError, TimeoutError, OSError):
+        if not _retried:  # transient network hiccups get one retry
+            time.sleep(2)
+            return http_json(url, _retried=True)
         raise
 
 
@@ -425,6 +433,7 @@ def process_store(store, config, st, seeds, judge):
         st["baselined"] = True
 
     store_failed = attempts > 0 and failures == attempts
+    st["last_error"] = errors[-1][-160:] if store_failed and errors else ""
     return sname, lines, alerts, errors, store_failed
 
 
@@ -454,6 +463,7 @@ def run(dry_run=False, do_sweep=False):
                         seeded.get(store["url"], {}), judge): store
             for store in config["stores"]
         }
+        outcomes = []
         for fut in as_completed(futures):
             store = futures[fut]
             st = slices[store["url"]]
@@ -465,16 +475,31 @@ def run(dry_run=False, do_sweep=False):
             for line in lines:
                 print(line)
             errors.extend(errs)
-            streak = st.get("error_streak", 0)
-            st["error_streak"] = streak + 1 if store_failed else 0
-            if st["error_streak"] == 3:
-                alerts.append(Alert("STORE ERROR", sname, f"{sname} unreachable",
-                                    0, "USD", store["url"],
-                                    "3 consecutive failed runs — store may be down, "
-                                    "blocked, or no longer on Shopify"))
+            outcomes.append((store, st, sname, store_failed))
             if alerts:
                 total_alerts += len(alerts)
                 dispatch(config, alerts, dry_run)  # ship immediately, per store
+
+    # streak accounting happens after the run: if most stores failed at once,
+    # the problem is on our side (runner IP throttled/blocked) — don't count
+    # it against individual stores or page the user about each one
+    failed = [o for o in outcomes if o[3]]
+    if outcomes and len(failed) > len(outcomes) / 2:
+        print(f"[warn] {len(failed)}/{len(outcomes)} stores failed this run — "
+              "treating as runner-side, streaks unchanged", file=sys.stderr)
+    else:
+        late_alerts = []
+        for store, st, sname, store_failed in outcomes:
+            streak = st.get("error_streak", 0)
+            st["error_streak"] = streak + 1 if store_failed else 0
+            if st["error_streak"] == 3:
+                late_alerts.append(Alert("STORE ERROR", sname, f"{sname} unreachable",
+                                         0, "USD", store["url"],
+                                         "3 consecutive failed runs — store may be down, "
+                                         "blocked, or no longer on Shopify"))
+        if late_alerts:
+            total_alerts += len(late_alerts)
+            dispatch(config, late_alerts, dry_run)
 
     if total_alerts:
         print(f"\n{total_alerts} alert(s) this run" + (" (dry run, not sent)" if dry_run else ""))
@@ -534,11 +559,11 @@ def digest(dry_run=False):
     total = sum(len(st["products"]) for st in state["stores"].values())
     active = sum(1 for st in state["stores"].values() for w in st["products"].values()
                  if w.get("available") is False and not w.get("delisted"))
-    failing = [store_meta.get(u, (u,))[0] for u, st in state["stores"].items()
-               if st.get("error_streak", 0) >= 3]
+    failing = [f"{store_meta.get(u, (u,))[0]} — {st.get('last_error', 'no error recorded')[-90:]}"
+               for u, st in state["stores"].items() if st.get("error_streak", 0) >= 3]
     status = f"tracking {total} products · {active} awaiting availability across {len(state['stores'])} stores"
     if failing:
-        status += f"\n🚨 failing stores: {', '.join(failing)}"
+        status += "\n🚨 failing stores:\n" + "\n".join(failing)
     print(f"\n🩺 {status}")
     hook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
     if hook and not dry_run:

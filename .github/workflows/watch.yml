@@ -2,7 +2,8 @@ name: TCG Restock Watcher
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 min (GitHub may add 5-15 min of delay at busy times)
+    - cron: "4,19,34,49 * * * *"   # every 15 min, offset from :00/:15/:30/:45 —
+                                   # GitHub's scheduler is least congested off the quarter-hours
   workflow_dispatch:          # manual "Run workflow" button
 
 permissions:
