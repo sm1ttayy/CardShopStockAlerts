@@ -1121,8 +1121,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
-   "error_streak": 0
+   "check_cursor": 90,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3457,8 +3458,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
-   "error_streak": 0
+   "check_cursor": 57,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -4730,8 +4732,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
-   "error_streak": 0
+   "check_cursor": 97,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6396,8 +6399,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
-   "error_streak": 0
+   "check_cursor": 72,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7349,8 +7353,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
-   "error_streak": 0
+   "check_cursor": 2,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8052,7 +8057,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 0
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8108,7 +8114,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 0
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -8755,8 +8762,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
-   "error_streak": 0
+   "check_cursor": 13,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
@@ -8931,7 +8939,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 7
+   "error_streak": 7,
+   "last_error": "Moonshot Games: product 'teenage-mutant-ninja-turtles-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -9316,7 +9325,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 14
+   "error_streak": 14,
+   "last_error": "Super Anime Store: product 'zombicide-the-boys-character-packs-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -10082,8 +10092,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
-   "error_streak": 14
+   "check_cursor": 74,
+   "error_streak": 14,
+   "last_error": "Geekery Games: product 'the-hobbit-play-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -11103,7 +11114,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 14
+   "error_streak": 14,
+   "last_error": "401 Games: product 'riftbound-league-of-legends-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://hobbiesville.com": {
    "products": {
@@ -12102,8 +12114,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
-   "error_streak": 14
+   "check_cursor": 16,
+   "error_streak": 14,
+   "last_error": "Hobbiesville: product 'mtg-marvels-spider-man-play-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -12705,8 +12718,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
-   "error_streak": 14
+   "check_cursor": 63,
+   "error_streak": 14,
+   "last_error": "Fusion Gaming Online: product 'the-hobbit-play-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://exorgames.com": {
    "products": {
@@ -13303,8 +13317,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
-   "error_streak": 14
+   "check_cursor": 16,
+   "error_streak": 14,
+   "last_error": "Exor Games: product 'one-piece-cg-op-02-paramount-war-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -13960,8 +13975,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
-   "error_streak": 14
+   "check_cursor": 0,
+   "error_streak": 14,
+   "last_error": "PokeRand: product 'xy-roaring-skies-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -15604,18 +15620,21 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
-   "error_streak": 14
+   "check_cursor": 59,
+   "error_streak": 14,
+   "last_error": "Common Lands: product 'korean-clay-burst-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 14
+   "error_streak": 14,
+   "last_error": "Undiscovered Realm: search 'magic bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://sagaconcepts.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 14
+   "error_streak": 14,
+   "last_error": "Saga Concepts: search 'magic bundle' failed: HTTP Error 429: Too Many Requests"
   }
  }
 }
