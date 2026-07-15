@@ -23,17 +23,17 @@
     { "name": "Gamers Gauntlet",      "url": "https://www.gamersgauntlet.net",     "currency": "USD" },
     { "name": "Safari Zone",          "url": "https://safari-zone.com",            "currency": "USD" },
     { "name": "Zulu's Games",         "url": "https://zulusgames.com",             "currency": "USD" },
-    { "name": "Moonshot Games",       "url": "https://moonshotgamestore.com",      "currency": "USD" },
-    { "name": "Super Anime Store",    "url": "https://superanimestore.com",        "currency": "USD" },
-    { "name": "Geekery Games",        "url": "https://geekerygames.com",           "currency": "USD" },
-    { "name": "401 Games",            "url": "https://store.401games.ca",          "currency": "CAD" },
-    { "name": "Hobbiesville",         "url": "https://hobbiesville.com",           "currency": "CAD" },
-    { "name": "Fusion Gaming Online", "url": "https://www.fusiongamingonline.com", "currency": "CAD" },
-    { "name": "Exor Games",           "url": "https://exorgames.com",              "currency": "CAD" },
-    { "name": "PokeRand",             "url": "https://pokerand.net",               "currency": "USD" },
-    { "name": "Common Lands",         "url": "https://common-lands.com",           "currency": "USD" },
-    { "name": "Undiscovered Realm",   "url": "https://www.undiscoveredrealm.com",  "currency": "USD" },
-    { "name": "Saga Concepts",        "url": "https://sagaconcepts.com",           "currency": "USD" }
+    { "name": "Moonshot Games",       "url": "https://moonshotgamestore.com",      "currency": "USD", "cloud": false },
+    { "name": "Super Anime Store",    "url": "https://superanimestore.com",        "currency": "USD", "cloud": false },
+    { "name": "Geekery Games",        "url": "https://geekerygames.com",           "currency": "USD", "cloud": false },
+    { "name": "401 Games",            "url": "https://store.401games.ca",          "currency": "CAD", "cloud": false },
+    { "name": "Hobbiesville",         "url": "https://hobbiesville.com",           "currency": "CAD", "cloud": false },
+    { "name": "Fusion Gaming Online", "url": "https://www.fusiongamingonline.com", "currency": "CAD", "cloud": false },
+    { "name": "Exor Games",           "url": "https://exorgames.com",              "currency": "CAD", "cloud": false },
+    { "name": "PokeRand",             "url": "https://pokerand.net",               "currency": "USD", "cloud": false },
+    { "name": "Common Lands",         "url": "https://common-lands.com",           "currency": "USD", "cloud": false },
+    { "name": "Undiscovered Realm",   "url": "https://www.undiscoveredrealm.com",  "currency": "USD", "cloud": false },
+    { "name": "Saga Concepts",        "url": "https://sagaconcepts.com",           "currency": "USD", "cloud": false }
   ],
   "games": {
     "One Piece": {

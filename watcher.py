@@ -447,21 +447,35 @@ def run(dry_run=False, do_sweep=False):
     errors = []
     total_alerts = 0
 
+    # WATCHER_PROFILE splits the fleet: "cloud" (GitHub Actions) takes stores
+    # reachable from datacenter IPs; "local" (home PC) takes the ones whose
+    # bot protection blocks cloud runners (config "cloud": false). Unset runs
+    # everything (manual use).
+    profile = os.environ.get("WATCHER_PROFILE", "").lower()
+    stores = config["stores"]
+    if profile == "cloud":
+        stores = [s for s in stores if s.get("cloud", True)]
+    elif profile == "local":
+        stores = [s for s in stores if not s.get("cloud", True)]
+    if not stores:
+        sys.exit(f"no stores match WATCHER_PROFILE={profile!r}")
+    print(f"profile: {profile or 'all'} — {len(stores)} store(s)")
+
     seeded = {}
     for w in config.get("watched", []):
         seeded.setdefault(w["store"], {})[w["handle"]] = w
 
     # pre-create each store's state slice so workers never touch shared dicts
     slices = {}
-    for store in config["stores"]:
+    for store in stores:
         slices[store["url"]] = state["stores"].setdefault(
             store["url"], {"products": {}, "baselined": False})
 
-    with ThreadPoolExecutor(max_workers=min(8, len(config["stores"]))) as pool:
+    with ThreadPoolExecutor(max_workers=min(8, len(stores))) as pool:
         futures = {
             pool.submit(process_store, store, config, slices[store["url"]],
                         seeded.get(store["url"], {}), judge): store
-            for store in config["stores"]
+            for store in stores
         }
         outcomes = []
         for fut in as_completed(futures):

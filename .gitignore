@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+local.env
+local.log
+local.log.tmp
