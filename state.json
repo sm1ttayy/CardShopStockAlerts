@@ -1100,7 +1100,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0
   },
   "https://www.stompinggroundstcg.com": {
@@ -3436,7 +3436,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 176,
+   "check_cursor": 216,
    "error_streak": 0
   },
   "https://skyboxct.com": {
@@ -4709,7 +4709,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0
   },
   "https://theawesomecardshop.com": {
@@ -6365,10 +6365,17 @@
      "available": false,
      "price": 39.75,
      "unavail_since": 1784083332
+    },
+    "pokemon-mega-evolution-pitch-black-booster-box": {
+     "title": "Pokemon Mega Evolution Pitch Black Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 299.75,
+     "unavail_since": 1784113390
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0
   },
   "https://cashcardsunlimited.com": {
@@ -7321,7 +7328,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 32,
    "error_streak": 0
   },
   "https://www.gamersgauntlet.net": {
@@ -8016,7 +8023,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 0,
    "error_streak": 0
   },
   "https://safari-zone.com": {
@@ -8720,7 +8727,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0
   },
   "https://moonshotgamestore.com": {
@@ -8896,7 +8903,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 4
+   "error_streak": 0
   },
   "https://superanimestore.com": {
    "products": {
@@ -9281,7 +9288,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 6
+   "error_streak": 7
   },
   "https://geekerygames.com": {
    "products": {
@@ -10047,8 +10054,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
-   "error_streak": 6
+   "check_cursor": 58,
+   "error_streak": 7
   },
   "https://store.401games.ca": {
    "products": {
@@ -11068,7 +11075,7 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 6
+   "error_streak": 7
   },
   "https://hobbiesville.com": {
    "products": {
@@ -12067,8 +12074,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
-   "error_streak": 6
+   "check_cursor": 61,
+   "error_streak": 7
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -12670,8 +12677,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
-   "error_streak": 6
+   "check_cursor": 15,
+   "error_streak": 7
   },
   "https://exorgames.com": {
    "products": {
@@ -13268,8 +13275,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
-   "error_streak": 6
+   "check_cursor": 11,
+   "error_streak": 7
   },
   "https://pokerand.net": {
    "products": {
@@ -13925,8 +13932,8 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
-   "error_streak": 6
+   "check_cursor": 0,
+   "error_streak": 7
   },
   "https://common-lands.com": {
    "products": {
@@ -15569,18 +15576,18 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
-   "error_streak": 6
+   "check_cursor": 61,
+   "error_streak": 7
   },
   "https://www.undiscoveredrealm.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 6
+   "error_streak": 7
   },
   "https://sagaconcepts.com": {
    "products": {},
    "baselined": true,
-   "error_streak": 6
+   "error_streak": 7
   }
  }
 }
