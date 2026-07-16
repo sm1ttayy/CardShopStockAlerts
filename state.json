@@ -664,7 +664,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Gift Bundle (Pre-Order)",
      "game": "MTG",
      "available": false,
-     "price": 89.99,
+     "price": 109.99,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle": {
@@ -1121,9 +1121,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-op-15-adventure-on-kamis-island-booster-box-japanese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3465,9 +3465,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 217,
+   "check_cursor": 257,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'urzas-legacy-draft-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -3606,14 +3606,14 @@
      "title": "Pokemon: Scarlet and Violet - Prismatic Evolutions Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 176.0,
+     "price": 178.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-amp-violet-151-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - 151 Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 622.0,
+     "price": 631.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-pre-order": {
@@ -3676,7 +3676,7 @@
      "title": "Pokemon Scarlet and Violet: Shrouded Fable Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 73.0,
+     "price": 68.0,
      "unavail_since": 1784083329
     },
     "pokemon-2024-trick-or-trade-booster-bundle-pre-order": {
@@ -3690,7 +3690,7 @@
      "title": "Pokemon TCG: Trick or Trade BOOster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 84.0,
+     "price": 68.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-stellar-crown-booster-bundle-pre-order": {
@@ -3711,7 +3711,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Obsidian Flames - Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 130.0,
+     "price": 129.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
@@ -3903,7 +3903,7 @@
      "title": "Pokemon Scarlet and Violet: Twilight Masquerade Booster Bundle Box",
      "game": "Pokemon",
      "available": false,
-     "price": 86.0,
+     "price": 85.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-starter-deck-st-23": {
@@ -4389,7 +4389,7 @@
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 341.0,
+     "price": 335.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -4564,7 +4564,7 @@
      "title": "Pokemon Scarlet and Violet: Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 310.0,
+     "price": 315.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paradise-dragona-japanese-booster-box": {
@@ -4693,7 +4693,7 @@
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 277.0,
+     "price": 275.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
@@ -4739,9 +4739,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 107,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'pokemon-tcg-mega-evolution-pitch-black-booster-bundle-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6406,9 +6406,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product 'one-piece-tcg-the-time-of-battle-op-16-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7360,9 +7360,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 26,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'pokemon-mega-evolution-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8070,9 +8070,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-draft-night-mtg' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8129,7 +8129,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -8783,9 +8783,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 11,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'magic-the-gathering-phyrexia-all-will-be-one-collector-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
