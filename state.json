@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
-   "error_streak": 24,
-   "last_error": "he-gathering-outlaws-of-thunder-junction-collector-booster-box-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 51,
+   "error_streak": 25,
+   "last_error": "duct 'pokemon-scarlet-and-violet-white-flare-elite-trainer-box-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -12749,6 +12749,13 @@
      "available": false,
      "price": 24.99,
      "unavail_since": 1784083349
+    },
+    "sword-shield-crown-zenith-elite-trainer-box": {
+     "title": "Sword & Shield: Crown Zenith - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 209.99,
+     "unavail_since": 1784162950
     }
    },
    "baselined": true,
@@ -14042,7 +14049,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15768,7 +15775,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
