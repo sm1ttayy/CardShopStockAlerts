@@ -12231,6 +12231,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 184.99
+    },
+    "pokemon-scarlet-violet-surging-sparks-elite-trainer-box-pre-order": {
+     "title": "Pokemon Scarlet & Violet Surging Sparks Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 149.99,
+     "unavail_since": 1784237117
     }
    },
    "baselined": true,
@@ -14136,7 +14143,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15892,7 +15899,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 129,
    "error_streak": 0,
    "last_error": ""
   },
