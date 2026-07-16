@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
-   "error_streak": 29,
-   "last_error": "uct 'pre-order-mtg-innistrad-midnight-hunt-english-collector-booster-box' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 32,
+   "error_streak": 30,
+   "last_error": "Hobbiesville: product 'one-piece-cg-st-24-starter-deck-pre-order-copy' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -14049,7 +14049,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15684,7 +15684,7 @@
      "title": "Journey Together Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 204.75
+     "price": 205.5
     },
     "prismatic-evolutions-pokemon-center-elite-trainer-box": {
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
@@ -15775,7 +15775,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 110,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16360,6 +16360,20 @@
      "game": "MTG",
      "available": true,
      "price": 54.95
+    },
+    "one-piece-tcg-starter-deck-27-marshall-d-teach-st-27-preorder": {
+     "title": "One Piece TCG Starter Deck 27: Marshall D. Teach (ST-27)",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.95,
+     "unavail_since": 1784165067
+    },
+    "one-piece-tcg-starter-deck-24-green-jewelry-bonney-st-24-preorder": {
+     "title": "One Piece TCG Starter Deck 24: Green Jewelry Bonney (ST-24)",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.95,
+     "unavail_since": 1784165067
     }
    },
    "baselined": true,
