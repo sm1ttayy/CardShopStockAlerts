@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
-   "error_streak": 27,
-   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-set-5-booster-box-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 25,
+   "error_streak": 28,
+   "last_error": "le: product 'one-piece-card-game-starter-deck-worst-generation-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -14049,7 +14049,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15775,7 +15775,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
