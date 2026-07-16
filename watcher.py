@@ -256,7 +256,7 @@ def post_embeds(webhook, embeds):
 
 def send_discord(webhook, alerts):
     icons = {"NEW LISTING": "🆕", "PREORDER/RESTOCK LIVE": "🟢", "PRICE CHANGE": "💲",
-             "PRICE DROP": "📉", "STORE ERROR": "🚨"}
+             "PRICE DROP": "📉", "STORE ERROR": "🚨", "SET ANNOUNCED": "📣"}
     embeds = []
     for a in alerts:
         price = f"{a.price:.2f} {a.currency}" if a.price else "price TBA"
@@ -630,6 +630,12 @@ def build_market(dry_run=False):
     state = load_json(STATE_PATH, {"stores": {}})
     cats = config.get("market", {}).get("tcgplayer_categories", {})
     deal_match = re.compile(config.get("deal_match", "booster (box|display)"), re.I)
+    # set-announcement radar: TCGplayer creates a group (set) well before
+    # stores list product — diff today's group lists against last run's
+    prev_groups = load_json(MARKET_PATH, {}).get("groups", {})
+    seen_groups = {}
+    announcements = []
+    announce_skip = re.compile(r"promo|token|art series|oversize|minigame", re.I)
 
     # tracked items eligible for a market anchor, per game
     tracked = {}  # game -> [(key, title)]
@@ -653,6 +659,18 @@ def build_market(dry_run=False):
             except Exception as e:
                 print(f"[warn] market: groups for category {cid} failed: {e}", file=sys.stderr)
                 continue
+            gmap = {str(g["groupId"]): g.get("name", "") for g in groups}
+            seen_groups[str(cid)] = gmap
+            old = prev_groups.get(str(cid))
+            if old is not None:  # first run just baselines
+                for gid, gname in gmap.items():
+                    if gid not in old and not announce_skip.search(gname):
+                        label = f"{game} (Japanese)" if cid == 85 else game
+                        announcements.append(Alert(
+                            "SET ANNOUNCED", "TCGplayer", f"{label}: {gname}", 0, "USD",
+                            f"https://www.tcgplayer.com/search/all/product?q={urllib.parse.quote(gname)}",
+                            "new set created on TCGplayer — preorders usually follow within days",
+                            game=game))
             for g in groups:
                 ab = re.sub(r"[^a-z0-9]", "", (g.get("abbreviation") or "").lower())
                 sig = _tokens(g.get("name", "")) - GENERIC_TOKENS
@@ -698,9 +716,11 @@ def build_market(dry_run=False):
             if best:
                 items[key] = {"market": best[1], "match": best[0]}
 
-    out = {"asof": time.strftime("%Y-%m-%d"), "items": items}
+    out = {"asof": time.strftime("%Y-%m-%d"), "items": items, "groups": seen_groups}
     print(f"market anchors: {len(items)} matched of "
           f"{sum(len(v) for v in tracked.values())} eligible tracked products")
+    if announcements:
+        dispatch(config, announcements, dry_run)
     if not dry_run:
         with open(MARKET_PATH, "w", encoding="utf-8") as f:
             json.dump(out, f, indent=1)
