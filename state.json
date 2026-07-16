@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
-   "error_streak": 30,
-   "last_error": "Hobbiesville: product 'one-piece-cg-st-24-starter-deck-pre-order-copy' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 72,
+   "error_streak": 31,
+   "last_error": "e: product 'unfinity-collector-booster-box-magic-the-gathering-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -14049,7 +14049,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15775,7 +15775,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
