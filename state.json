@@ -14136,7 +14136,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14336,7 +14336,7 @@
      "title": "Inferno X Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 116.99,
+     "price": 114.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-fusion-strike-booster-box": {
@@ -14401,7 +14401,7 @@
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 3449.99,
+     "price": 3497.49,
      "unavail_since": 1784083350
     },
     "legendary-heartbeat-booster-box-jp": {
@@ -14443,7 +14443,7 @@
      "title": "Fairy Rise Booster Box (JP)",
      "game": "Pokemon",
      "available": false,
-     "price": 269.75,
+     "price": 349.75,
      "unavail_since": 1784083350
     },
     "carrying-on-his-will-booster-box-op13": {
@@ -14546,7 +14546,7 @@
      "title": "Dungeons & Dragons Battle for Baldur's Gate Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 329.75,
+     "price": 335.49,
      "unavail_since": 1784083350
     },
     "crimson-vow-set-booster-box": {
@@ -14599,7 +14599,7 @@
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
      "available": false,
-     "price": 629.75,
+     "price": 659.75,
      "unavail_since": 1784083350
     },
     "journey-together-non-enhanced-booster-box": {
@@ -14907,7 +14907,7 @@
      "title": "Japanese Eevee Heroes Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 937.99,
+     "price": 937.75,
      "unavail_since": 1784083350
     },
     "steam-siege-booster-box": {
@@ -15037,7 +15037,7 @@
      "title": "Final Fantasy Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 224.25,
+     "price": 224.75,
      "unavail_since": 1784083350
     },
     "tarkir-dragonstorm-play-booster-box": {
@@ -15086,7 +15086,7 @@
      "title": "Japanese Night Wanderer Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 95.25,
+     "price": 91.99,
      "unavail_since": 1784083350
     },
     "pokemon-swsh-battle-styles-booster-box": {
@@ -15100,7 +15100,7 @@
      "title": "Final Fantasy Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1914.75,
+     "price": 1889.25,
      "unavail_since": 1784083350
     },
     "tarkir-dragonstorm-collector-booster-box": {
@@ -15275,7 +15275,7 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 236.75,
+     "price": 234.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-151-booster-box": {
@@ -15883,10 +15883,16 @@
      "game": "MTG",
      "available": true,
      "price": 152.5
+    },
+    "commander-legends-reap-the-tides-commander-deck": {
+     "title": "Commander Legends - Reap the Tides Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 153.25
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
