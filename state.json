@@ -9349,6 +9349,12 @@
      "available": false,
      "price": 29.99,
      "unavail_since": 1784158594
+    },
+    "pokemon-paradise-dragona-sv7a-booster-box-scarlet-violet-series-japanese": {
+     "title": "Pokemon Paradise Dragona SV7A Booster Box - Scarlet & Violet Series - Japanese",
+     "game": "Pokemon",
+     "available": true,
+     "price": 186.0
     }
    },
    "baselined": true,
@@ -12241,7 +12247,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14143,7 +14149,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14600,7 +14606,7 @@
      "title": "Premium Booster Booster Box [PRB01]",
      "game": "One Piece",
      "available": true,
-     "price": 924.99
+     "price": 924.75
     },
     "emperors-in-the-new-world-booster-box-op09": {
      "title": "Emperors in the New World Booster Box [OP09]",
@@ -15031,7 +15037,7 @@
      "title": "Awakening of the New Era Booster Box [OP05]",
      "game": "One Piece",
      "available": true,
-     "price": 1189.75
+     "price": 1164.75
     },
     "pokemon-s-v-obsidian-flames-booster-box": {
      "title": "Obsidian Flames Booster Box",
@@ -15585,7 +15591,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 31.5
+     "price": 31.49
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -15748,7 +15754,7 @@
      "title": "Paldea Evolved Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 614.99
+     "price": 609.99
     },
     "phantasmal-flames-pokemon-center-elite-trainer-box": {
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
@@ -15871,7 +15877,7 @@
      "title": "Twilight Masquerade Booster Box Case",
      "game": "Pokemon",
      "available": true,
-     "price": 2459.75
+     "price": 2449.99
     },
     "perfect-order-booster-bundle": {
      "title": "Perfect Order Booster Bundle",
@@ -15899,7 +15905,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 116,
    "error_streak": 0,
    "last_error": ""
   },
