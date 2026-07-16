@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
-   "error_streak": 20,
-   "last_error": " product 'riftbound-league-of-legends-chinese-slim-booster-box-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 37,
+   "error_streak": 21,
+   "last_error": "Hobbiesville: product 'one-piece-tcg-double-pack-set-volume-10-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -14042,7 +14042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15768,7 +15768,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16340,6 +16340,13 @@
      "available": false,
      "price": 19.95,
      "unavail_since": 1784160869
+    },
+    "one-piece-tcg-awakening-of-the-new-era-op-05-booster-box-24-packs": {
+     "title": "One Piece TCG Awakening of the New Era (OP-05) Booster Box (24 Packs)",
+     "game": "One Piece",
+     "available": false,
+     "price": 174.95,
+     "unavail_since": 1784161761
     }
    },
    "baselined": true,
