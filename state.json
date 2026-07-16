@@ -10130,10 +10130,17 @@
      "game": "MTG",
      "available": true,
      "price": 89.95
+    },
+    "mega-lucario-elite-trainer-box-me01": {
+     "title": "ME01 Mega Lucario Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 69.99,
+     "unavail_since": 1784241628
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12248,7 +12255,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12860,7 +12867,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14150,7 +14157,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14233,7 +14240,7 @@
      "title": "Spiderman Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 122.75
+     "price": 122.99
     },
     "the-time-of-battle-booster-box": {
      "title": "The Time of Battle Booster Box",
@@ -14633,7 +14640,7 @@
      "title": "Mega Dream ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 113.75,
+     "price": 112.99,
      "unavail_since": 1784083350
     },
     "avatar-the-last-airbender-jumpstart-booster-display": {
@@ -15282,7 +15289,7 @@
      "title": "Foundations Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 145.99,
+     "price": 144.99,
      "unavail_since": 1784083350
     },
     "japanese-vstar-universe-booster-box": {
@@ -15598,7 +15605,7 @@
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 54.75,
+     "price": 54.49,
      "unavail_since": 1784083350
     },
     "riftbound-worlds-bundle-2025": {
@@ -15906,7 +15913,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16582,7 +16589,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "",
+   "check_cursor": 0
   }
  }
 }
