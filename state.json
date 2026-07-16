@@ -10586,7 +10586,7 @@
      "title": "One Piece Card Game - Starter Deck - ST12 - Zoro & Sanji",
      "game": "One Piece",
      "available": true,
-     "price": 49.95
+     "price": 84.95
     },
     "one-piece-card-game-starter-deck-st28": {
      "title": "One Piece Card Game - Starter Deck - ST28 Green/Yellow Yamato",
@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
-   "error_streak": 17,
-   "last_error": " product 'one-piece-card-game-premium-card-collection-cardfest-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 63,
+   "error_streak": 18,
+   "last_error": " 'pre-order-magic-the-gathering-kaldheim-collector-booster-february-2022' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -13454,7 +13454,7 @@
      "title": "Mega Evolution Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 1324.68,
+     "price": 1319.43,
      "unavail_since": 1784083349
     },
     "base-set-booster-box-revised-unlimited-edition": {
@@ -13517,7 +13517,7 @@
      "title": "Gym Heroes Booster Box [Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 8247.96,
+     "price": 8215.29,
      "unavail_since": 1784083349
     },
     "gym-challenge-booster-box-1st-edition": {
@@ -13860,7 +13860,7 @@
      "title": "Legendary Treasures Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 14059.03,
+     "price": 14003.34,
      "unavail_since": 1784083349
     },
     "xy-booster-box": {
@@ -13881,7 +13881,7 @@
      "title": "Furious Fists Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3537.25,
+     "price": 3523.24,
      "unavail_since": 1784083349
     },
     "xy-phantom-forces-booster-box": {
@@ -14042,7 +14042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14300,14 +14300,14 @@
      "title": "Darkness Ablaze Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2279.75,
+     "price": 2224.75,
      "unavail_since": 1784083350
     },
     "destined-rivals-booster-box-case": {
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 3498.99,
+     "price": 3449.99,
      "unavail_since": 1784083350
     },
     "legendary-heartbeat-booster-box-jp": {
@@ -14867,7 +14867,7 @@
      "title": "Japanese Paradise Dragona Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 118.99,
+     "price": 118.75,
      "unavail_since": 1784083350
     },
     "ultra-prism-booster-box": {
@@ -15039,7 +15039,7 @@
      "title": "Crimson Invasion Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 684.99,
+     "price": 683.99,
      "unavail_since": 1784083350
     },
     "lost-thunder-booster-box": {
@@ -15769,7 +15769,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16334,6 +16334,13 @@
      "available": false,
      "price": 178.95,
      "unavail_since": 1784159721
+    },
+    "one-piece-tcg-starter-deck-st-04-animal-kingdom-pirates": {
+     "title": "One Piece TCG: Starter Deck [ST-04] Animal Kingdom Pirates",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.95,
+     "unavail_since": 1784160869
     }
    },
    "baselined": true,
