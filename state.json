@@ -12001,9 +12001,10 @@
     "pokemon-tcg-mega-evolution-set-5-pitch-black-3-pack-blister-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black -3 Pack Blister",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 27.95,
-     "last_restock_alert": 1784235035
+     "last_restock_alert": 1784235035,
+     "unavail_since": 1784240418
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-pitch-black-booster-box-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Box MAX 2",
@@ -14149,7 +14150,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15905,7 +15906,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16511,6 +16512,13 @@
      "available": false,
      "price": 199.99,
      "unavail_since": 1784238930
+    },
+    "pokemon-sword-shield-brilliant-stars-booster-box": {
+     "title": "Pokemon Sword & Shield: Brilliant Stars Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 129.95,
+     "unavail_since": 1784240432
     }
    },
    "baselined": true,
