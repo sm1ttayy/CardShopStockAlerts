@@ -1121,7 +1121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3462,10 +3462,24 @@
      "available": false,
      "price": 160.0,
      "unavail_since": 1784181957
+    },
+    "darkness-ablaze-elite-trainer-box": {
+     "title": "Sword & Shield: Darkness Ablaze - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 90.0,
+     "unavail_since": 1784243702
+    },
+    "scarlet-and-violet-obsidian-flames-elite-trainer-box": {
+     "title": "Scarlet and Violet: Obsidian Flames - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 330.0,
+     "unavail_since": 1784243702
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3546,7 +3560,7 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 210.0
+     "price": 207.0
     },
     "pokemon-tcg-gem-volume-5-booster-box-chinese": {
      "title": "Pokemon TCG: Gem Volume 5 Booster Box (Chinese)",
@@ -4221,11 +4235,11 @@
      "price": 25.0
     },
     "pokemon-tcg-mega-evolution-pitch-black-booster-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box (PRE-ORDER)",
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 250.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 258.0,
+     "last_restock_alert": 1784243702
     },
     "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box (PRE-ORDER)",
@@ -4739,7 +4753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6403,10 +6417,28 @@
      "available": false,
      "price": 299.75,
      "unavail_since": 1784113390
+    },
+    "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
+     "title": "Pokemon Mega Evolution Pitch Black Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.75
+    },
+    "pokemon-mega-evolution-pitch-black-6-pack-booster-bundle": {
+     "title": "Pokemon Mega Evolution: Pitch Black 6-Pack Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 62.75
+    },
+    "pokemon-mega-evolution-pitch-black-booster-bundle-25-box-case": {
+     "title": "Pokemon Mega Evolution Pitch Black Booster Bundle 25-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1624.75
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7350,7 +7382,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 99.99
+     "price": 89.99
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
      "title": "Pokemon Mega Evolution - Pitch Black Booster Bundle",
@@ -7360,7 +7392,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8783,7 +8815,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
