@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
-   "error_streak": 19,
-   "last_error": "Hobbiesville: product 'one-piece-cg-op-14-booster-box-pre-order-1' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 70,
+   "error_streak": 20,
+   "last_error": " product 'riftbound-league-of-legends-chinese-slim-booster-box-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -14042,7 +14042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14827,7 +14827,7 @@
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 294.75,
+     "price": 299.75,
      "unavail_since": 1784083350
     },
     "japanese-sky-legend-booster-box": {
@@ -15768,7 +15768,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
