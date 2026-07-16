@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
-   "error_streak": 28,
-   "last_error": "le: product 'one-piece-card-game-starter-deck-worst-generation-pre-order' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 65,
+   "error_streak": 29,
+   "last_error": "uct 'pre-order-mtg-innistrad-midnight-hunt-english-collector-booster-box' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -14049,7 +14049,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15775,7 +15775,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 110,
    "error_streak": 0,
    "last_error": ""
   },
