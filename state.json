@@ -1121,7 +1121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3455,10 +3455,17 @@
      "available": false,
      "price": 645.0,
      "unavail_since": 1784083329
+    },
+    "pokemon-go-elite-trainer-box": {
+     "title": "Pokemon GO - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 160.0,
+     "unavail_since": 1784181957
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 137,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4732,7 +4739,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6399,7 +6406,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 112,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7353,7 +7360,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8053,6 +8060,13 @@
      "available": false,
      "price": 25.0,
      "unavail_since": 1784149249
+    },
+    "one-piece-uta-starter-deck-st-11": {
+     "title": "One Piece Uta Starter Deck [ST-11]",
+     "game": "One Piece",
+     "available": false,
+     "price": 20.0,
+     "unavail_since": 1784181955
     }
    },
    "baselined": true,
@@ -8759,10 +8773,17 @@
      "available": false,
      "price": 22.99,
      "unavail_since": 1784086491
+    },
+    "one-piece-tcg-illustration-box-volume-7": {
+     "title": "One Piece TCG: Illustration Box: Volume 7",
+     "game": "One Piece",
+     "available": false,
+     "price": 22.99,
+     "unavail_since": 1784181956
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
