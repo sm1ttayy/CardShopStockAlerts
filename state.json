@@ -12148,9 +12148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
-   "error_streak": 18,
-   "last_error": " 'pre-order-magic-the-gathering-kaldheim-collector-booster-february-2022' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
+   "check_cursor": 30,
+   "error_streak": 19,
+   "last_error": "Hobbiesville: product 'one-piece-cg-op-14-booster-box-pre-order-1' failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -14042,7 +14042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14085,7 +14085,7 @@
      "title": "Marvel Super Heroes Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 474.75,
+     "price": 474.99,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-play-booster-box": {
@@ -14138,7 +14138,7 @@
      "title": "Lorwyn Eclipsed Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 125.25,
+     "price": 125.75,
      "unavail_since": 1784083350
     },
     "secrets-of-strixhaven-play-booster-display": {
@@ -14417,7 +14417,7 @@
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 399.75,
+     "price": 409.75,
      "unavail_since": 1784083350
     },
     "assassins-creed-beyond-booster-box": {
@@ -15059,7 +15059,7 @@
      "title": "Ravnica Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 979.99,
+     "price": 998.99,
      "unavail_since": 1784083350
     },
     "mtg-lost-caverns-of-ixalan-collector-booster-box": {
@@ -15099,9 +15099,8 @@
     "mtg-dominaria-united-collector-booster-box": {
      "title": "Dominaria United Collector Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 349.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 348.99
     },
     "mtg-assassins-creed-collector-booster-box": {
      "title": "Assassin's Creed Collector Booster Box",
@@ -15769,7 +15768,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
    "last_error": ""
   },
