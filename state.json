@@ -14136,7 +14136,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14315,7 +14315,7 @@
      "title": "Nihil Zero Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 77.75,
+     "price": 78.75,
      "unavail_since": 1784083350
     },
     "ninja-spinner-booster-box": {
@@ -14511,7 +14511,7 @@
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 398.75,
+     "price": 409.75,
      "unavail_since": 1784083350
     },
     "assassins-creed-beyond-booster-box": {
@@ -15214,7 +15214,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 2474.99,
+     "price": 2483.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-transformation-mask-booster-box": {
@@ -15892,7 +15892,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 89,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16544,6 +16544,12 @@
      "game": "MTG",
      "available": true,
      "price": 79.99
+    },
+    "riftbound-tcg-league-of-legends-set-5-radiance-booster-display-24ct": {
+     "title": "Riftbound TCG League Of Legends Set 5 Radiance Booster Display (24Ct)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 139.99
     }
    },
    "baselined": true,
