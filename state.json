@@ -14149,7 +14149,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14238,7 +14238,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 189.75,
+     "price": 189.99,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -14266,7 +14266,7 @@
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 237.75,
+     "price": 237.49,
      "unavail_since": 1784083350
     },
     "adventure-on-kamis-island-booster-box": {
@@ -15901,11 +15901,11 @@
      "title": "Commander Legends - Reap the Tides Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 153.25
+     "price": 151.99
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
