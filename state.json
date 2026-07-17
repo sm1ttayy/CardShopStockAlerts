@@ -13535,6 +13535,12 @@
      "available": false,
      "price": 239.95,
      "unavail_since": 1784159708
+    },
+    "riftbound-league-of-legends-tcg-vendetta-vault": {
+     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA VAULT PRE ORDER ^ JULY 31",
+     "game": "Riftbound",
+     "available": true,
+     "price": 49.95
     }
    },
    "baselined": true,
@@ -14196,7 +14202,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15952,7 +15958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
