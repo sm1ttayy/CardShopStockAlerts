@@ -1121,7 +1121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3481,7 +3481,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 213,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3562,7 +3562,7 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 207.0
+     "price": 200.0
     },
     "pokemon-tcg-gem-volume-5-booster-box-chinese": {
      "title": "Pokemon TCG: Gem Volume 5 Booster Box (Chinese)",
@@ -3580,19 +3580,19 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 45.0
+     "price": 44.0
     },
     "pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 91.0
+     "price": 89.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 42.0
+     "price": 44.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -3629,7 +3629,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - 151 Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 631.0,
+     "price": 633.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-pre-order": {
@@ -3643,7 +3643,7 @@
      "title": "Pokemon TCG: Sword and Shield - Evolving Skies Elite Trainer Box (Glaceon/Vaporeon/Sylveon/Espeon)",
      "game": "Pokemon",
      "available": false,
-     "price": 540.0,
+     "price": 525.0,
      "unavail_since": 1784083329
     },
     "pkm_go_etb": {
@@ -3734,7 +3734,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 262.0
+     "price": 289.0
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box (Chinese)",
@@ -3760,7 +3760,7 @@
      "title": "Riftbound TCG: League of Legends Proving Grounds Box Set",
      "game": "Riftbound",
      "available": true,
-     "price": 71.0
+     "price": 63.0
     },
     "riftbound-tcg-league-of-legends-spiritforged-championship-deck-fiora": {
      "title": "Riftbound TCG: League of Legends Spiritforged Championship Deck (Fiora)",
@@ -4081,7 +4081,7 @@
      "title": "Magic the Gathering: Universes Beyond - Final Fantasy Commander Deck (Revival Trance)",
      "game": "MTG",
      "available": true,
-     "price": 40.0
+     "price": 41.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-the-fantastic-four-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - The Fantastic Four",
@@ -4240,7 +4240,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 258.0,
+     "price": 252.0,
      "last_restock_alert": 1784243702
     },
     "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order": {
@@ -4641,7 +4641,7 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Silverquill Influence)",
      "game": "MTG",
      "available": true,
-     "price": 55.0
+     "price": 54.0
     },
     "magic-the-gathering-edge-of-eternities-commander-deck-counter-intelligence-pre-order": {
      "title": "Magic The Gathering: Edge of Eternities Commander Deck (Counter Intelligence)",
@@ -4752,10 +4752,16 @@
      "available": false,
      "price": 433.0,
      "unavail_since": 1784083329
+    },
+    "commander-masters-commander-deck-planeswalker-party-pre-order": {
+     "title": "Magic the Gathering: Commander Masters - Planeswalker Party Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 143.0
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6443,7 +6449,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 113,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7357,7 +7363,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black 3-Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 24.99
+     "price": 19.99
     },
     "battlebond-booster-box-battlebond-bbd": {
      "title": "Battlebond - Booster Box",
@@ -7381,7 +7387,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 254.99
+     "price": 224.99
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
      "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box",
@@ -7397,7 +7403,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8107,7 +8113,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8820,7 +8826,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
