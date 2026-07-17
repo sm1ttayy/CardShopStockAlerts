@@ -1121,7 +1121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3488,7 +3488,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 141,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3689,11 +3689,11 @@
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-pitch-black-booster-bundle-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box (PRE-ORDER)",
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 65.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 53.0,
+     "last_restock_alert": 1784313937
     },
     "pokemon-scarlet-and-violet-shrouded-fable-booster-bundle-pre-order": {
      "title": "Pokemon Scarlet and Violet: Shrouded Fable Booster Bundle",
@@ -3797,13 +3797,13 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 140.0
+     "price": 139.0
     },
     "magic-the-gathering-aetherdrift-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 115.0
+     "price": 113.0
     },
     "magic-the-gathering-reality-fracture-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Reality Fracture Play Booster Box (PRE-ORDER)",
@@ -3827,7 +3827,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 112.0,
+     "price": 114.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
@@ -3859,7 +3859,7 @@
      "title": "Magic The Gathering: Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 420.0,
+     "price": 430.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-collector-booster-box-pre-order": {
@@ -3908,7 +3908,7 @@
      "title": "Magic the Gathering: Foundations Jumpstart Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 94.0
+     "price": 99.0
     },
     "mtg_strxhvn_drftbooster": {
      "title": "Magic the Gathering: Strixhaven Draft Booster Box",
@@ -3926,7 +3926,7 @@
      "title": "Pokemon Scarlet and Violet: Twilight Masquerade Booster Bundle Box",
      "game": "Pokemon",
      "available": false,
-     "price": 85.0,
+     "price": 86.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-starter-deck-st-23": {
@@ -4010,7 +4010,7 @@
      "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 56.0
+     "price": 53.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-2-box": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box",
@@ -4028,7 +4028,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Prismatic Evolutions Accessory Pouch Special Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 88.0
+     "price": 84.0
     },
     "pkm_celebration_ultraprem": {
      "title": "Pokemon TCG: Celebrations - Ultra-Premium Collection Box",
@@ -4076,13 +4076,13 @@
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 74.0
+     "price": 63.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-doom-prevails-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Doom Prevails",
      "game": "MTG",
      "available": true,
-     "price": 105.0
+     "price": 92.0
     },
     "magic-the-gathering-universed-beyond-final-fantasy-commander-deck-revival-trance-pre-order": {
      "title": "Magic the Gathering: Universes Beyond - Final Fantasy Commander Deck (Revival Trance)",
@@ -4094,7 +4094,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - The Fantastic Four",
      "game": "MTG",
      "available": true,
-     "price": 63.0
+     "price": 59.0
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-deck-quandrix-unlimited-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Quandrix Unlimited)",
@@ -4106,7 +4106,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Wakanda Forever",
      "game": "MTG",
      "available": true,
-     "price": 84.0
+     "price": 53.0
     },
     "magic-the-gathering-secrets-of-strixhaven-bundle-box-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Bundle Box",
@@ -4130,7 +4130,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 48.0
+     "price": 47.0
     },
     "magic-the-gathering-aetherdrift-bundle-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Bundle",
@@ -4166,7 +4166,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Pizza Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 89.0
+     "price": 88.0
     },
     "one-piece-tcg-double-pack-volume-9-set": {
      "title": "One Piece TCG: Double Pack Volume 9 Set",
@@ -4251,11 +4251,11 @@
      "last_restock_alert": 1784243702
     },
     "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box (PRE-ORDER)",
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 110.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 95.0,
+     "last_restock_alert": 1784313939
     },
     "pokemon-tcg-mega-evolution-pitch-black-checklane-blister-slowpoke-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Checklane Blister (Slowpoke) (PRE-ORDER)",
@@ -4265,18 +4265,18 @@
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-pitch-black-3-pack-blister-binnacle-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Pitch Black 3 Pack Blister (Binnacle) (PRE-ORDER)",
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black 3 Pack Blister (Binnacle)",
      "game": "Pokemon",
-     "available": false,
-     "price": 35.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 31.0,
+     "last_restock_alert": 1784313939
     },
     "pokemon-tcg-mega-evolution-pitch-black-build-and-battle-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Pitch Black Build and Battle Box (PRE-ORDER)",
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Build and Battle Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 63.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 51.0,
+     "last_restock_alert": 1784313939
     },
     "pokemon-tcg-sparkling-fantasy-chinese-booster-box": {
      "title": "Pokemon TCG: Sparkling Fantasy Chinese Booster Box",
@@ -4765,10 +4765,16 @@
      "game": "MTG",
      "available": true,
      "price": 143.0
+    },
+    "magic-the-gathering-marvel-super-heroes-gift-bundle-box-pre-order": {
+     "title": "Magic the Gathering: Marvel Super Heroes Gift Bundle Box",
+     "game": "MTG",
+     "available": true,
+     "price": 123.0
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6456,7 +6462,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8312,8 +8318,9 @@
     "pokemon-tcg-perfect-order-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Perfect Order: Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 39.99
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1784313942
     },
     "pokemon-tcg-journey-together-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Journey Together: Booster Bundle",
@@ -8833,7 +8840,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
