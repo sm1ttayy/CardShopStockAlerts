@@ -1121,7 +1121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 138,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1204,8 +1204,9 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "[PREORDER] Riftbound: League of Legends TCG - Vendetta Booster Box",
      "game": "Riftbound",
-     "available": true,
-     "price": 130.0
+     "available": false,
+     "price": 130.0,
+     "unavail_since": 1784286069
     },
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
@@ -1334,8 +1335,9 @@
     "magic-the-gathering-foundations-jumpstart-booster-box": {
      "title": "Magic: The Gathering Foundations Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 83.0
+     "available": false,
+     "price": 85.0,
+     "unavail_since": 1784286072
     },
     "magic-the-gathering-secrets-of-strixhaven-play-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Play Booster Box",
@@ -3479,7 +3481,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 133,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4753,7 +4755,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4892,8 +4894,9 @@
     "pokemon-mega-evolution-chaos-rising-booster-box": {
      "title": "Pokemon Mega Evolution Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 249.75
+     "available": false,
+     "price": 229.75,
+     "unavail_since": 1784286070
     },
     "2022-pok-mon-silver-tempest-booster-box": {
      "title": "Pokemon Sword & Shield Silver Tempest Booster Box",
@@ -5091,14 +5094,16 @@
     "magic-the-gathering-lorwyn-eclipsed-play-booster-box": {
      "title": "Magic The Gathering Lorwyn Eclipsed Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 109.75
+     "available": false,
+     "price": 109.75,
+     "unavail_since": 1784286071
     },
     "magic-the-gathering-secrets-of-strixhaven-play-booster-box": {
      "title": "Magic the Gathering Secrets of Strixhaven Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 159.75
+     "available": false,
+     "price": 159.75,
+     "unavail_since": 1784286070
     },
     "magic-the-gathering-marvel-super-heroes-play-booster-box": {
      "title": "Magic the Gathering Marvel Super Heroes Play Booster Box",
@@ -6414,9 +6419,9 @@
     "pokemon-mega-evolution-pitch-black-booster-box": {
      "title": "Pokemon Mega Evolution Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 299.75,
-     "unavail_since": 1784113390
+     "available": true,
+     "price": 259.75,
+     "last_restock_alert": 1784286069
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
      "title": "Pokemon Mega Evolution Pitch Black Elite Trainer Box",
@@ -6438,7 +6443,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 141,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7392,7 +7397,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8102,7 +8107,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8815,7 +8820,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
