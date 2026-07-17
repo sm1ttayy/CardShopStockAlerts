@@ -9458,8 +9458,9 @@
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 199.95
+     "available": false,
+     "price": 199.95,
+     "unavail_since": 1784316318
     },
     "pokemon-rebel-clash-booster-box": {
      "title": "Pokemon Rebel Clash Booster Box",
@@ -9478,8 +9479,9 @@
     "pokemon-me05-pitch-black-booster-box": {
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 229.95
+     "available": false,
+     "price": 229.95,
+     "unavail_since": 1784316318
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
      "title": "Pokemon ME04 Chaos Rising Elite Trainer Box",
@@ -9510,8 +9512,9 @@
     "pokemon-me05-pitch-black-elite-trainer-box": {
      "title": "Pokemon ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 84.95
+     "available": false,
+     "price": 84.95,
+     "unavail_since": 1784316319
     },
     "pokemon-fusion-strike-elite-trainer-box": {
      "title": "Pokemon Fusion Strike Elite Trainer Box",
@@ -9530,14 +9533,16 @@
     "pokemon-me04-chaos-rising-booster-bundle": {
      "title": "Pokemon ME04 Chaos Rising Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 37.95
+     "available": false,
+     "price": 37.95,
+     "unavail_since": 1784316320
     },
     "pokemon-me05-pitch-black-booster-bundle": {
      "title": "Pokemon ME05 Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 44.95
+     "available": false,
+     "price": 44.95,
+     "unavail_since": 1784316320
     },
     "pokemon-black-bolt-booster-bundle": {
      "title": "Pokemon Black Bolt Booster Bundle",
@@ -10197,7 +10202,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10407,8 +10412,9 @@
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
      "title": "Pokemon - Mega Evolution - Chaos Rising - Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 59.95
+     "available": false,
+     "price": 59.95,
+     "unavail_since": 1784316312
     },
     "pokemon-scarlet-and-violet-journey-together-booster-bundle": {
      "title": "Pokemon - Scarlet and Violet - Journey Together - Booster Bundle",
@@ -10444,7 +10450,7 @@
      "title": "Riftbound: League of Legends - Spiritforged Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 219.95
+     "price": 229.95
     },
     "league-of-legends-riftbound-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends - Origins Booster Box",
@@ -10456,7 +10462,7 @@
      "title": "Riftbound: League of Legends - Unleashed Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 149.95
+     "price": 179.95
     },
     "riftbound-league-of-legends-radiance-booster-box": {
      "title": "Riftbound: League of Legends - Radiance Booster Box (Pre-Order)",
@@ -12947,6 +12953,12 @@
      "available": false,
      "price": 209.99,
      "unavail_since": 1784162950
+    },
+    "marvel-super-heroes-gift-bundle": {
+     "title": "Marvel Super Heroes - Gift Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 149.99
     }
    },
    "baselined": true,
@@ -14246,7 +14258,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16002,9 +16014,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 81,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'mtg-ravnica-remastered-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -16632,9 +16644,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 3
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-scarlet-violet-booster-box-sv01' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 43
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -16688,6 +16700,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 139.99
+    },
+    "pokemon-tcg-mega-evolution-02-5-ascended-heroes-booster-bundle": {
+     "title": "Pokemon TCG Mega Evolution 02.5 Ascended Heroes Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 79.99
     }
    },
    "baselined": true,
