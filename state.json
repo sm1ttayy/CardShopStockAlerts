@@ -9018,7 +9018,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'teenage-mutant-ninja-turtles-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -9417,7 +9417,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'zombicide-the-boys-character-packs-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -10202,9 +10202,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'teenage-mutant-ninja-turtles-play-booster-display-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -11254,6 +11254,12 @@
      "available": false,
      "price": 39.95,
      "unavail_since": 1784255107
+    },
+    "pokemon-sword-and-shield-elite-trainer-box-plus-zamazenta": {
+     "title": "Pokemon - Sword And Shield Elite Trainer Box Plus - Zamazenta",
+     "game": "Pokemon",
+     "available": true,
+     "price": 549.95
     }
    },
    "baselined": true,
@@ -12344,9 +12350,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-evolution-elite-trainer-box-lucario-max-2-wave-2-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -13600,9 +13606,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-sv9-journey-together-booster-bundle-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -14258,9 +14264,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'xy-roaring-skies-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -16032,9 +16038,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'korean-lost-abyss-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'perfect-order-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -16663,8 +16669,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-sword-shield-darkness-ablaze-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 47
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-marvel-super-heroes-jumpstart-booster-box-24-packs-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 11
   },
   "https://sagaconcepts.com": {
    "products": {
