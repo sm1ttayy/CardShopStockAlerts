@@ -12297,6 +12297,12 @@
      "available": false,
      "price": 59.95,
      "unavail_since": 1784244007
+    },
+    "pokemon-combined-powers-premium-collection-pre-order": {
+     "title": "Pokemon Combined Powers Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 189.95
     }
    },
    "baselined": true,
@@ -14208,7 +14214,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15964,7 +15970,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 0,
    "last_error": ""
   },
