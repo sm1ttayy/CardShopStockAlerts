@@ -11260,6 +11260,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 549.95
+    },
+    "pokemon-paldea-collection-quaxly": {
+     "title": "Pokemon - Paldea Collection - Quaxly",
+     "game": "Pokemon",
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1784321709
     }
    },
    "baselined": true,
@@ -12508,7 +12515,7 @@
      "title": "Monkey.D.Luffy (Starter Deck 11: Uta Deck Battle) [Winner] [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 172.2,
+     "price": 179.5,
      "unavail_since": 1784083349
     },
     "monkey-d-luffy-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -14277,7 +14284,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16051,7 +16058,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
