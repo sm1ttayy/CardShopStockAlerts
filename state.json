@@ -9018,7 +9018,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'teenage-mutant-ninja-turtles-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -9417,7 +9417,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'zombicide-the-boys-character-packs-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -10202,9 +10202,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -12344,9 +12344,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-cg-st-24-starter-deck-pre-order-copy' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -13600,9 +13600,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-swsh3-darkness-ablaze-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -14258,9 +14258,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'neo-genesis-booster-box-unlimited-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -16014,9 +16014,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'mtg-ravnica-remastered-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'pokemon-terastal-festival-ex-booster-box-sv8a' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -16645,8 +16645,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-scarlet-violet-booster-box-sv01' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 43
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-innistrad-remastered-play-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 7
   },
   "https://sagaconcepts.com": {
    "products": {
