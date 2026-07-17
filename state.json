@@ -12373,6 +12373,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 54.95
+    },
+    "mtg-star-trek-play-booster-box-pre-order": {
+     "title": "MTG Star Trek Play Booster Box (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 209.95
     }
    },
    "baselined": true,
@@ -14310,7 +14316,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16084,7 +16090,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 118,
    "error_streak": 0,
    "last_error": ""
   },
