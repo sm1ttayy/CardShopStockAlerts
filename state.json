@@ -9018,7 +9018,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'teenage-mutant-ninja-turtles-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -9417,7 +9417,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'zombicide-the-boys-character-packs-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -10202,9 +10202,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -12344,9 +12344,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 29,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-cg-st-24-starter-deck-pre-order-copy' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -13600,9 +13600,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'pokemon-swsh3-darkness-ablaze-booster' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -13712,7 +13712,7 @@
      "title": "Team Rocket Booster Box [1st Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 13496.66,
+     "price": 13443.2,
      "unavail_since": 1784083349
     },
     "gym-heroes-booster-box-1st-edition": {
@@ -14104,14 +14104,14 @@
      "title": "XY Phantom Forces Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2240.53,
+     "price": 2249.44,
      "unavail_since": 1784083349
     },
     "xy-primal-clash-booster-box": {
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2838.0,
+     "price": 2849.29,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -14132,7 +14132,7 @@
      "title": "XY BREAKthrough Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2353.26,
+     "price": 2343.94,
      "unavail_since": 1784083349
     },
     "xy-breakpoint-booster-box": {
@@ -14258,9 +14258,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'neo-genesis-booster-box-unlimited-edition' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -14268,7 +14268,7 @@
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 267.25,
+     "price": 274.75,
      "unavail_since": 1784083350
     },
     "prb-01-one-piece-card-the-best-booster-box-jp": {
@@ -14328,7 +14328,7 @@
      "title": "Unleashed Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 122.75,
+     "price": 125.75,
      "unavail_since": 1784083350
     },
     "tmnt-play-booster-box": {
@@ -14341,13 +14341,13 @@
      "title": "Spiderman Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 122.99
+     "price": 123.75
     },
     "the-time-of-battle-booster-box": {
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 193.75,
+     "price": 193.99,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -14382,7 +14382,7 @@
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 239.99,
+     "price": 270.75,
      "unavail_since": 1784083350
     },
     "secrets-of-strixhaven-collector-booster-display": {
@@ -14537,7 +14537,7 @@
      "title": "Triple Beat Booster Box (JP)",
      "game": "Pokemon",
      "available": false,
-     "price": 154.99,
+     "price": 154.75,
      "unavail_since": 1784083350
     },
     "scarlet-ex-booster-box-jp": {
@@ -14715,7 +14715,7 @@
      "title": "Premium Booster Booster Box [PRB01]",
      "game": "One Piece",
      "available": true,
-     "price": 924.75
+     "price": 924.99
     },
     "emperors-in-the-new-world-booster-box-op09": {
      "title": "Emperors in the New World Booster Box [OP09]",
@@ -14864,7 +14864,7 @@
      "title": "Japanese Stellar Miracle Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 93.99,
+     "price": 91.75,
      "unavail_since": 1784083350
     },
     "ruler-of-the-black-flame-booster-box": {
@@ -15165,9 +15165,9 @@
     "tarkir-dragonstorm-play-booster-box": {
      "title": "Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 132.49,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 132.75,
+     "last_restock_alert": 1784317008
     },
     "mtg-return-to-ravnica-booster-box": {
      "title": "Return to Ravnica Booster Box",
@@ -15536,7 +15536,7 @@
      "title": "Double Pack Set Volume 5",
      "game": "One Piece",
      "available": false,
-     "price": 34.99,
+     "price": 36.99,
      "unavail_since": 1784083350
     },
     "double-pack-set-vol-8-display": {
@@ -15713,7 +15713,7 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 1294.75,
+     "price": 1408.75,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
@@ -15929,7 +15929,7 @@
      "title": "Unfinity - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 179.75
+     "price": 184.75
     },
     "rivals-of-ixalan-booster-box": {
      "title": "Rivals of Ixalan - Booster Box",
@@ -16011,12 +16011,30 @@
      "game": "MTG",
      "available": true,
      "price": 147.75
+    },
+    "pokemon-go-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 247.75
+    },
+    "double-masters-booster-box": {
+     "title": "Double Masters - Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 949.75
+    },
+    "commander-legends-arm-for-battle-commander-deck": {
+     "title": "Commander Legends - Arm for Battle Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 60.75
     }
    },
    "baselined": true,
-   "check_cursor": 121,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'pokemon-terastal-festival-ex-booster-box-sv8a' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 20,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -16644,8 +16662,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-innistrad-remastered-play-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 7
   },
   "https://sagaconcepts.com": {
