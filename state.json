@@ -14303,7 +14303,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14495,9 +14495,9 @@
     "chaos-rising-booster-box": {
      "title": "Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 196.49,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 186.25,
+     "last_restock_alert": 1784328023
     },
     "inferno-x-booster-box": {
      "title": "Inferno X Booster Box",
@@ -14657,9 +14657,9 @@
     "perfect-order-booster-box": {
      "title": "Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 183.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 170.75,
+     "last_restock_alert": 1784328042
     },
     "innistrad-remastered-collector-booster-box": {
      "title": "Innistrad Remastered Collector Booster Box",
@@ -16077,7 +16077,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
