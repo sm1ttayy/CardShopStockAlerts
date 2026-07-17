@@ -10172,7 +10172,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12294,7 +12294,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12374,19 +12374,19 @@
      "title": "Riftbound: League of Legends TCG: Spiritforged - Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 149.99
+     "price": 209.99
     },
     "riftbound-league-of-legends-tcg-unleashed-booster-box": {
      "title": "Riftbound: League of Legends TCG: Unleashed - Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 179.99
+     "price": 159.99
     },
     "riftbound-league-of-legends-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends TCG: Origins - Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 269.99,
+     "price": 399.99,
      "unavail_since": 1784083349
     },
     "riftbound-league-of-legends-tcg-unleashed-champion-deck-vex": {
@@ -12906,7 +12906,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14202,7 +14202,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15226,7 +15226,7 @@
      "title": "Lost Caverns of Ixalan Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1188.75,
+     "price": 1194.75,
      "unavail_since": 1784083350
     },
     "mtg-fallout-collector-booster-box": {
@@ -15958,7 +15958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 94,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16576,7 +16576,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
