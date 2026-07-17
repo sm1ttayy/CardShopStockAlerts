@@ -13609,6 +13609,13 @@
      "game": "MTG",
      "available": true,
      "price": 94.95
+    },
+    "pokemon-sv6-twilight-masquerade-booster-box": {
+     "title": "POKEMON SV6 TWILIGHT MASQUERADE BOOSTER BOX",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1784319007
     }
    },
    "baselined": true,
@@ -14270,7 +14277,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14470,7 +14477,7 @@
      "title": "Inferno X Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 114.75,
+     "price": 109.99,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-fusion-strike-booster-box": {
@@ -15234,7 +15241,7 @@
      "title": "Final Fantasy Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1837.75,
+     "price": 1826.25,
      "unavail_since": 1784083350
     },
     "tarkir-dragonstorm-collector-booster-box": {
@@ -15267,7 +15274,7 @@
      "title": "Crimson Invasion Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 683.99,
+     "price": 679.99,
      "unavail_since": 1784083350
     },
     "lost-thunder-booster-box": {
@@ -16044,7 +16051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 123,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
