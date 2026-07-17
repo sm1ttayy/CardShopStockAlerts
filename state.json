@@ -12344,7 +12344,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14258,7 +14258,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16032,9 +16032,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 60,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'korean-lost-abyss-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -16662,9 +16662,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 7
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-sword-shield-darkness-ablaze-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 47
   },
   "https://sagaconcepts.com": {
    "products": {
