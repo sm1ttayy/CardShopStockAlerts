@@ -9018,7 +9018,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'teenage-mutant-ninja-turtles-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -9417,7 +9417,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'zombicide-the-boys-character-packs-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -10202,9 +10202,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'secrets-of-strixhaven-play-booster-display-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -12350,9 +12350,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 28,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-tcg-kingdoms-of-intrigue-case-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -13603,12 +13603,18 @@
      "game": "Riftbound",
      "available": true,
      "price": 49.95
+    },
+    "mtg-the-hobbit-bundle": {
+     "title": "MTG THE HOBBIT BUNDLE PRE ORDER ^ AUG 7",
+     "game": "MTG",
+     "available": true,
+     "price": 94.95
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 32,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'pokemon-sv8-5-prismatic-evolutions-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -13683,7 +13689,7 @@
      "title": "Base Set Booster Box [Revised Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 0.0,
+     "price": 373.41,
      "unavail_since": 1784083349
     },
     "jungle-booster-box-1st-edition": {
@@ -14019,7 +14025,7 @@
      "title": "Emerging Powers Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1499.63,
+     "price": 1493.69,
      "unavail_since": 1784083349
     },
     "noble-victories-booster-box": {
@@ -14103,7 +14109,7 @@
      "title": "Furious Fists Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3523.24,
+     "price": 3537.25,
      "unavail_since": 1784083349
     },
     "xy-phantom-forces-booster-box": {
@@ -14264,9 +14270,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'xy-roaring-skies-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -14687,7 +14693,7 @@
      "title": "March of the Machine Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 253.75,
+     "price": 254.75,
      "unavail_since": 1784083350
     },
     "the-brothers-war-set-booster-box": {
@@ -14747,7 +14753,7 @@
      "title": "Mega Dream ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 112.99,
+     "price": 109.99,
      "unavail_since": 1784083350
     },
     "avatar-the-last-airbender-jumpstart-booster-display": {
@@ -15214,7 +15220,7 @@
      "title": "Japanese Night Wanderer Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 94.99,
+     "price": 92.99,
      "unavail_since": 1784083350
     },
     "pokemon-swsh-battle-styles-booster-box": {
@@ -15706,13 +15712,13 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 31.49
+     "price": 29.49
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 54.25,
+     "price": 44.75,
      "unavail_since": 1784083350
     },
     "riftbound-worlds-bundle-2025": {
@@ -15833,7 +15839,7 @@
      "title": "Trick or Trade BOOster Bundle (40 ct)",
      "game": "Pokemon",
      "available": true,
-     "price": 64.75
+     "price": 69.75
     },
     "prismatic-evolutions-accessory-pouch-special-collection": {
      "title": "Prismatic Evolutions Accessory Pouch Special Collection",
@@ -16038,9 +16044,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'japanese-detective-pikachu-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -16668,9 +16674,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-tarkir-dragonstorm-play-booster-box-30-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 15
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
