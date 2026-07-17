@@ -12294,7 +12294,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14202,7 +14202,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15958,7 +15958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16571,6 +16571,13 @@
      "available": false,
      "price": 129.95,
      "unavail_since": 1784240432
+    },
+    "pokemon-tcg-sword-shield-fusion-strike-booster-box": {
+     "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 139.95,
+     "unavail_since": 1784250332
     }
    },
    "baselined": true,
