@@ -12991,6 +12991,13 @@
      "game": "MTG",
      "available": true,
      "price": 149.99
+    },
+    "one-piece-emperors-in-the-new-world-op-09-booster-box": {
+     "title": "One Piece - Emperors in the New World (OP-09) - Booster Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 249.99,
+     "unavail_since": 1784328304
     }
    },
    "baselined": true,
@@ -14303,7 +14310,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16077,7 +16084,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
