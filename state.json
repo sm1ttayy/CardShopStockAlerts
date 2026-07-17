@@ -13004,6 +13004,13 @@
      "available": false,
      "price": 249.99,
      "unavail_since": 1784328304
+    },
+    "sword-shield-elite-trainer-box-plus-zacian": {
+     "title": "Sword & Shield - Elite Trainer Box Plus (Zacian)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 99.99,
+     "unavail_since": 1784331908
     }
    },
    "baselined": true,
@@ -14316,7 +14323,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16090,7 +16097,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 113,
    "error_streak": 0,
    "last_error": ""
   },
