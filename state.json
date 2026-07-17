@@ -11274,6 +11274,12 @@
      "available": false,
      "price": 89.95,
      "unavail_since": 1784321709
+    },
+    "mtg-universes-beyond-marvel-super-heroes-bundle": {
+     "title": "MTG - Universes Beyond: Marvel Super Heroes - Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 89.95
     }
    },
    "baselined": true,
@@ -14291,7 +14297,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16065,7 +16071,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
