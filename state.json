@@ -337,7 +337,7 @@
      "title": "Magic: The Gathering | The Hobbit - Play Booster Display Box (Pre-Order)",
      "game": "MTG",
      "available": false,
-     "price": 209.7,
+     "price": 159.99,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-reality-fracture-play-booster-display-box": {
@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3502,7 +3502,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 123,
+   "check_cursor": 163,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3714,7 +3714,7 @@
      "title": "Pokemon Scarlet and Violet: Shrouded Fable Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 68.0,
+     "price": 73.0,
      "unavail_since": 1784083329
     },
     "pokemon-2024-trick-or-trade-booster-bundle-pre-order": {
@@ -3728,7 +3728,7 @@
      "title": "Pokemon TCG: Trick or Trade BOOster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 68.0,
+     "price": 67.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-stellar-crown-booster-bundle-pre-order": {
@@ -3749,7 +3749,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Obsidian Flames - Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 129.0,
+     "price": 121.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
@@ -4789,7 +4789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6477,7 +6477,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 113,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7645,9 +7645,9 @@
     "origins-booster-box-riftbound": {
      "title": "Origins Booster Box [Riftbound]",
      "game": "Riftbound",
-     "available": false,
-     "price": 240.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 260.0,
+     "last_restock_alert": 1784383854
     },
     "unleashed-booster-box-riftbound": {
      "title": "Unleashed Booster Box [Riftbound] (5/8)",
@@ -8388,9 +8388,9 @@
     "pokemon-tcg-perfect-order-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Perfect Order: Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 39.99,
-     "unavail_since": 1784313942
+     "last_restock_alert": 1784383852
     },
     "pokemon-tcg-journey-together-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Journey Together: Booster Bundle",
@@ -8907,6 +8907,12 @@
      "available": false,
      "price": 22.99,
      "unavail_since": 1784181956
+    },
+    "pokemon-tcg-first-partner-illustration-collection-series-2": {
+     "title": "Pok\u00e9mon TCG: First Partner Illustration Collection (Series 2)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 34.99
     }
    },
    "baselined": true,
