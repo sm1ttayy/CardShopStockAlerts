@@ -9796,9 +9796,9 @@
     "edge-of-eternities-play-booster-display": {
      "title": "Edge of Eternities Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 129.95,
-     "unavail_since": 1784083347
+     "available": true,
+     "price": 139.95,
+     "last_restock_alert": 1784332816
     },
     "mega-evolution-enhanced-booster-display": {
      "title": "ME01 Mega Evolution Booster Box",
@@ -14323,7 +14323,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16097,7 +16097,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 108,
    "error_streak": 0,
    "last_error": ""
   },
