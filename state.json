@@ -11287,6 +11287,13 @@
      "game": "MTG",
      "available": true,
      "price": 64.95
+    },
+    "one-piece-card-game-illustration-box-vol-6": {
+     "title": "One Piece Card Game - Illustration Box Vol.6",
+     "game": "One Piece",
+     "available": false,
+     "price": 109.95,
+     "unavail_since": 1784342409
     }
    },
    "baselined": true,
@@ -14336,7 +14343,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16110,7 +16117,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
