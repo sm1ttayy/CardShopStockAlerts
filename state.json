@@ -12380,6 +12380,12 @@
      "game": "MTG",
      "available": true,
      "price": 209.95
+    },
+    "pokemon-tcg-scarlet-violet-elite-trainer-box-koraidon-pre-order": {
+     "title": "Pok\u00e9mon TCG: Scarlet And Violet Elite Trainer Box (Koraidon)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 199.99
     }
    },
    "baselined": true,
@@ -14324,7 +14330,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16098,7 +16104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
