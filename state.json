@@ -14189,7 +14189,7 @@
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2849.29,
+     "price": 2838.0,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -14336,7 +14336,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14453,7 +14453,7 @@
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 209.99,
+     "price": 215.99,
      "last_restock_alert": 1784317833
     },
     "adventure-on-kamis-island-booster-box": {
@@ -16110,7 +16110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 103,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
