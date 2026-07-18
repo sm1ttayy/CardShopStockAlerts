@@ -2429,7 +2429,7 @@
      "title": "Scarlet and Violet: Paldea Evolved - Booster Box Display",
      "game": "Pokemon",
      "available": false,
-     "price": 460.0,
+     "price": 500.0,
      "unavail_since": 1784083329
     },
     "pre-order-commander-masters-collector-booster-display": {
@@ -3166,7 +3166,7 @@
      "title": "Innistrad: Crimson Vow Set Booster Box Display",
      "game": "MTG",
      "available": true,
-     "price": 200.0
+     "price": 220.0
     },
     "starter-deck-20-yellow-charlotte-katakuri-st-20": {
      "title": "Starter Deck 20: YELLOW Charlotte Katakuri [ST-20]",
@@ -4303,7 +4303,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 171.0,
+     "price": 174.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-the-hobbit-play-booster-box-pre-order": {
@@ -5610,9 +5610,9 @@
     "pokemon-mega-evolution-phantasmal-flames-booster-box": {
      "title": "Pokemon Mega Evolution Phantasmal Flames Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 449.75,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 499.75,
+     "last_restock_alert": 1784371559
     },
     "one-piece-tcg-carrying-on-his-will-op-13-booster-box": {
      "title": "One Piece TCG Carrying On His Will (OP-13) Booster Box",
@@ -6477,7 +6477,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6745,7 +6745,7 @@
      "title": "Magic: The Gathering The Hobbit - Play Booster Box (Presale)",
      "game": "MTG",
      "available": true,
-     "price": 199.99
+     "price": 169.99
     },
     "magic-the-gathering-marvel-super-heroes-collector-booster-box": {
      "title": "Magic: The Gathering Marvel Super Heroes - Collector Booster Box",
@@ -7273,9 +7273,9 @@
     "sword-shielld-vivid-voltage-booster-box": {
      "title": "Sword & Shield - Vivid Voltage Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 289.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 345.0,
+     "last_restock_alert": 1784371561
     },
     "mega-dream-ex-booster-box-m2a-high-class-pack-mega-dream-ex-m2a": {
      "title": "Mega Dream ex Booster Box (Japanese)",
@@ -8153,7 +8153,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8186,7 +8186,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 65.0,
-     "unavail_since": 1784083333
+     "unavail_since": 1784083333,
+     "delisted": true
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
      "title": "Pokemon TCG: Mega Greninja ex Premium Collection",
