@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3509,7 +3509,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 201,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4796,7 +4796,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6484,7 +6484,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 138,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7447,10 +7447,22 @@
      "game": "Pokemon",
      "available": true,
      "price": 145.0
+    },
+    "sword-shield-chilling-reign-elite-trainer-box": {
+     "title": "Sword & Shield - Chilling Reign Elite Trainer Box - Pokemon TCG",
+     "game": "Pokemon",
+     "available": true,
+     "price": 120.0
+    },
+    "celebrations-elite-trainer-box-pokemon-tcg": {
+     "title": "Celebrations Elite Trainer Box - Celebrations (CLB)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 440.0
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8930,7 +8942,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
