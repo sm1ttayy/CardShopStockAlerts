@@ -10095,9 +10095,10 @@
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 39.95,
-     "last_restock_alert": 1784235034
+     "last_restock_alert": 1784235034,
+     "unavail_since": 1784379011
     },
     "unova-poster-collection-sv-black-bolt": {
      "title": "Unova Poster Collection - SV: Black Bolt",
@@ -10270,6 +10271,12 @@
      "available": false,
      "price": 69.99,
      "unavail_since": 1784241628
+    },
+    "avatar-the-last-airbender-play-booster-case-6-boxes": {
+     "title": "Avatar The Last Airbender Play Booster Case (6 Boxes)",
+     "game": "MTG",
+     "available": true,
+     "price": 729.95
     }
    },
    "baselined": true,
@@ -11357,6 +11364,20 @@
      "available": false,
      "price": 109.95,
      "unavail_since": 1784342409
+    },
+    "one-piece-card-game-illustration-box-vol-9": {
+     "title": "One Piece Card Game - Illustration Box Vol.9 (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1784379009
+    },
+    "one-piece-card-game-illustration-box-vol-8": {
+     "title": "One Piece Card Game - Illustration Box Vol.8 (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1784379009
     }
    },
    "baselined": true,
@@ -12623,7 +12644,7 @@
      "title": "Monkey.D.Luffy (Starter Deck 11: Uta Deck Battle) [Winner] [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 179.5,
+     "price": 172.2,
      "unavail_since": 1784083349
     },
     "monkey-d-luffy-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -13818,7 +13839,7 @@
      "title": "Mega Evolution Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 1319.43,
+     "price": 1328.35,
      "unavail_since": 1784083349
     },
     "base-set-booster-box-revised-unlimited-edition": {
@@ -13881,7 +13902,7 @@
      "title": "Gym Heroes Booster Box [Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 8215.29,
+     "price": 8247.96,
      "unavail_since": 1784083349
     },
     "gym-challenge-booster-box-1st-edition": {
@@ -14406,7 +14427,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14416,7 +14437,7 @@
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 274.75,
+     "price": 254.99,
      "unavail_since": 1784083350
     },
     "prb-01-one-piece-card-the-best-booster-box-jp": {
@@ -14495,7 +14516,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 193.99,
+     "price": 199.75,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -14530,21 +14551,21 @@
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 270.75,
+     "price": 234.75,
      "unavail_since": 1784083350
     },
     "secrets-of-strixhaven-collector-booster-display": {
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 469.75,
+     "price": 484.75,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
      "title": "Stellar Crown Half Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 224.99
+     "price": 299.49
     },
     "twilight-masqueade-half-booster-box": {
      "title": "Twilight Masqueade Half Booster Box",
@@ -14734,7 +14755,7 @@
      "title": "White Flare Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 123.75,
+     "price": 119.99,
      "unavail_since": 1784083350
     },
     "fusion-arts-booster-box": {
@@ -14802,7 +14823,7 @@
      "title": "Wings of the Captain Booster Box [OP06]",
      "game": "One Piece",
      "available": false,
-     "price": 386.75,
+     "price": 388.75,
      "unavail_since": 1784083350
     },
     "chilling-reign-booster-box-case": {
@@ -14850,7 +14871,7 @@
      "title": "Memorial Collection Booster Box [EB01]",
      "game": "One Piece",
      "available": false,
-     "price": 981.75,
+     "price": 974.99,
      "unavail_since": 1784083350
     },
     "paramount-war-booster-box-op02": {
@@ -14924,7 +14945,7 @@
      "title": "25th Anniversary Collection Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 384.75,
+     "price": 389.75,
      "unavail_since": 1784083350
     },
     "japanese-crimson-haze-booster-box": {
@@ -15089,7 +15110,7 @@
      "title": "Mega Evolution Enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 324.75
+     "price": 324.99
     },
     "japanese-violet-ex-booster-box": {
      "title": "Japanese Violet ex Booster Box",
@@ -15149,14 +15170,14 @@
      "title": "Romance Dawn Booster Box [OP01] [Wave 2 - White]",
      "game": "One Piece",
      "available": false,
-     "price": 1477.99,
+     "price": 1399.99,
      "unavail_since": 1784083350
     },
     "unbroken-bonds-booster-box": {
      "title": "Unbroken Bonds Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2774.75,
+     "price": 2814.75,
      "unavail_since": 1784083350
     },
     "japanese-shiny-star-v-booster-box": {
@@ -15538,7 +15559,7 @@
      "title": "Foundations Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 144.99,
+     "price": 144.75,
      "unavail_since": 1784083350
     },
     "japanese-vstar-universe-booster-box": {
@@ -15621,7 +15642,7 @@
      "title": "Starter Deck 20: YELLOW Charlotte Katakuri",
      "game": "One Piece",
      "available": false,
-     "price": 52.99,
+     "price": 60.25,
      "unavail_since": 1784083350
     },
     "one-piece-3d2y-starter-deck-display": {
@@ -15635,7 +15656,7 @@
      "title": "One Piece Starter Deck 12 - Zoro and Sanji",
      "game": "One Piece",
      "available": false,
-     "price": 56.75,
+     "price": 54.75,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-6-absolute-justice": {
@@ -15812,7 +15833,7 @@
      "title": "151 Poster Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 86.75
+     "price": 89.25
     },
     "mega-zygarde-ex-premium-collection": {
      "title": "Mega Zygarde ex Premium Collection",
@@ -15854,14 +15875,14 @@
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 44.75,
+     "price": 41.75,
      "unavail_since": 1784083350
     },
     "riftbound-worlds-bundle-2025": {
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 1408.75,
+     "price": 1219.75,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
@@ -15943,14 +15964,14 @@
      "title": "Final Fantasy Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 229.75,
+     "price": 237.99,
      "unavail_since": 1784083350
     },
     "universes-beyond-final-fantasy-bundle": {
      "title": "Universes Beyond: FINAL FANTASY - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 116.75,
+     "price": 119.75,
      "unavail_since": 1784083350
     },
     "pokemon-151-alakazam-ex-collection-box": {
@@ -16023,7 +16044,7 @@
      "title": "Pokemon Day 2026 Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 38.49
+     "price": 38.75
     },
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
@@ -16077,7 +16098,7 @@
      "title": "Unfinity - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 184.75
+     "price": 184.99
     },
     "rivals-of-ixalan-booster-box": {
      "title": "Rivals of Ixalan - Booster Box",
@@ -16089,7 +16110,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 61.99
+     "price": 65.75
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -16114,7 +16135,7 @@
      "title": "One Piece Illustration Box Vol. 4",
      "game": "One Piece",
      "available": false,
-     "price": 87.25,
+     "price": 81.75,
      "unavail_since": 1784158890
     },
     "one-piece-illustration-box-vol-2": {
@@ -16180,7 +16201,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16872,6 +16893,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 79.99
+    },
+    "magic-the-gathering-ccg-universes-beyond-star-trek-commander-deck-d": {
+     "title": "Magic the Gathering CCG Universes Beyond Star Trek We are the Borg Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 74.99
     }
    },
    "baselined": true,
