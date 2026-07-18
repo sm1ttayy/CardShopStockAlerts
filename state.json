@@ -11378,6 +11378,20 @@
      "available": false,
      "price": 0.0,
      "unavail_since": 1784379009
+    },
+    "one-piece-card-game-illustration-box-vol-10": {
+     "title": "One Piece Card Game - Illustration Box Vol.10 (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1784379306
+    },
+    "one-piece-card-game-illustration-box-vol-7": {
+     "title": "One Piece Card Game - Illustration Box Vol.7 (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1784379306
     }
    },
    "baselined": true,
@@ -12483,6 +12497,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 199.99
+    },
+    "pokemon-sv-temporal-forces-half-booster-box": {
+     "title": "Pokemon SV Temporal Forces Half Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 189.95,
+     "unavail_since": 1784379307
     }
    },
    "baselined": true,
@@ -13811,7 +13832,7 @@
      "title": "Pokemon Base Set (Shadowless) [1st Edition] Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 0.0,
+     "price": 373.41,
      "unavail_since": 1784083349
     },
     "pokemon-base-set-shadowless-unlimited-edition-booster-box": {
@@ -14336,7 +14357,7 @@
      "title": "XY Evolutions Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1867.96,
+     "price": 1875.38,
      "unavail_since": 1784083349
     },
     "sun-moon-booster-box": {
@@ -14427,7 +14448,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14692,7 +14713,7 @@
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 3497.49,
+     "price": 3414.75,
      "unavail_since": 1784083350
     },
     "legendary-heartbeat-booster-box-jp": {
@@ -14789,7 +14810,7 @@
      "title": "Innistrad Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 444.75,
+     "price": 404.49,
      "unavail_since": 1784083350
     },
     "avatar-the-last-airbender-collector-booster-box": {
@@ -14890,7 +14911,7 @@
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
      "available": false,
-     "price": 659.75,
+     "price": 685.99,
      "unavail_since": 1784083350
     },
     "journey-together-non-enhanced-booster-box": {
@@ -14917,7 +14938,7 @@
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 84.75,
+     "price": 83.75,
      "unavail_since": 1784083350
     },
     "japanese-forbidden-light-booster-box-sm6": {
@@ -15103,7 +15124,7 @@
      "title": "Destined Rivals European Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 284.75,
+     "price": 314.75,
      "unavail_since": 1784083350
     },
     "mega-evolution-booster-box": {
@@ -15123,7 +15144,7 @@
      "title": "Japanese Future Flash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 94.75,
+     "price": 89.99,
      "unavail_since": 1784083350
     },
     "japanese-battle-partners-booster-box": {
@@ -15198,7 +15219,7 @@
      "title": "Japanese Eevee Heroes Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 937.75,
+     "price": 899.75,
      "unavail_since": 1784083350
     },
     "steam-siege-booster-box": {
@@ -15328,7 +15349,7 @@
      "title": "Final Fantasy Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 224.75,
+     "price": 224.99,
      "unavail_since": 1784083350
     },
     "tarkir-dragonstorm-play-booster-box": {
@@ -15411,7 +15432,7 @@
      "title": "Cosmic Eclipse Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 4999.75,
+     "price": 5016.75,
      "unavail_since": 1784083350
     },
     "prismatic-evolutions-super-premium-collection": {
@@ -15424,7 +15445,7 @@
      "title": "Crimson Invasion Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 679.99,
+     "price": 679.75,
      "unavail_since": 1784083350
     },
     "lost-thunder-booster-box": {
@@ -16201,7 +16222,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
