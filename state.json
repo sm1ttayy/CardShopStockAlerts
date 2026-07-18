@@ -9992,9 +9992,10 @@
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 79.95,
-     "last_restock_alert": 1784320809
+     "last_restock_alert": 1784320809,
+     "unavail_since": 1784333711
     },
     "paldean-fates-booster-bundle-display-10-bundles": {
      "title": "Paldean Fates Booster Bundle Display (10 Bundles)",
@@ -14323,7 +14324,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16097,7 +16098,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 103,
    "error_streak": 0,
    "last_error": ""
   },
