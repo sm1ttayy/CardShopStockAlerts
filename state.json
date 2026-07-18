@@ -1128,7 +1128,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 92,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3495,7 +3495,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 132,
+   "check_cursor": 172,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4781,7 +4781,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6469,7 +6469,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7420,10 +7420,22 @@
      "game": "Pokemon",
      "available": true,
      "price": 59.99
+    },
+    "champions-path-elite-trainer-box-champions-path-chp": {
+     "title": "Pokemon TCG: Champion's Path Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 215.0
+    },
+    "pos-vivid-voltage-elite-trainer-box-swsh04-vivid-voltage": {
+     "title": "Sword & Shield - Vivid Voltage Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 145.0
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8150,14 +8162,16 @@
     "pokemon-sv10-destined-rivals-booster-box": {
      "title": "Pokemon: SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 530.99
+     "available": false,
+     "price": 530.99,
+     "unavail_since": 1784353712
     },
     "pokemon-tcg-me04-chaos-rising-booster-box": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 194.99
+     "available": false,
+     "price": 174.99,
+     "unavail_since": 1784353712
     },
     "pokemon-tcg-me04-chaos-rising-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Elite Trainer Box",
@@ -8167,12 +8181,11 @@
      "unavail_since": 1784083333
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
-     "title": "Pokemon TCG: Mega Greninja ex Premium Collection - Limit 5 Per Order",
+     "title": "Pokemon TCG: Mega Greninja ex Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 50.0,
-     "delisted": true,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 40.0,
+     "delisted": true
     },
     "magic-the-gathering-final-fantasy-commander-deck-display-collectors-edition": {
      "title": "Magic: the Gathering - FINAL FANTASY Commander Deck Display",
@@ -8187,6 +8200,47 @@
      "price": 350.0,
      "delisted": true,
      "unavail_since": 1784083329
+    },
+    "pokemon-tcg-me03-perfect-order-booster-box": {
+     "title": "Pokemon TCG: ME03 Perfect Order Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 159.99,
+     "unavail_since": 1784353712
+    },
+    "pokemon-tcg-me05-pitch-black-booster-box": {
+     "title": "Pokemon TCG: ME05 Pitch Black Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 179.99,
+     "unavail_since": 1784353712
+    },
+    "pokemon-tcg-30th-anniversary-elite-trainer-box": {
+     "title": "Pokemon TCG: 30th Anniversary Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 80.0,
+     "unavail_since": 1784353712
+    },
+    "pokemon-tcg-me05-pitch-black-elite-trainer-box": {
+     "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 65.0,
+     "unavail_since": 1784353712
+    },
+    "pokemon-tcg-pitch-black-booster-bundle": {
+     "title": "Pokemon TCG: Pitch Black Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 38.0
+    },
+    "pokemon-tcg-first-partner-illustration-collection-series-3": {
+     "title": "Pokemon TCG: First Partner Illustration Collection - Series 2",
+     "game": "Pokemon",
+     "available": false,
+     "price": 30.0,
+     "unavail_since": 1784353713
     }
    },
    "baselined": true,
@@ -8847,7 +8901,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
