@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3280,7 +3280,7 @@
      "title": "Mega Evolution Elite Trainer Box [Lucario]",
      "game": "Pokemon",
      "available": false,
-     "price": 110.0,
+     "price": 120.0,
      "unavail_since": 1784083329
     },
     "mega-evolution-perfect-order-elite-trainer-box": {
@@ -3499,10 +3499,17 @@
      "available": false,
      "price": 135.0,
      "unavail_since": 1784306559
+    },
+    "starter-deck-19-black-smoker-st-19": {
+     "title": "Starter Deck 19: BLACK Smoker [ST-19]",
+     "game": "One Piece",
+     "available": false,
+     "price": 50.0,
+     "unavail_since": 1784410151
     }
    },
    "baselined": true,
-   "check_cursor": 161,
+   "check_cursor": 201,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4789,7 +4796,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4928,9 +4935,9 @@
     "pokemon-mega-evolution-chaos-rising-booster-box": {
      "title": "Pokemon Mega Evolution Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 229.75,
-     "unavail_since": 1784286070
+     "last_restock_alert": 1784410153
     },
     "2022-pok-mon-silver-tempest-booster-box": {
      "title": "Pokemon Sword & Shield Silver Tempest Booster Box",
@@ -6477,7 +6484,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 138,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7443,7 +7450,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8923,7 +8930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
