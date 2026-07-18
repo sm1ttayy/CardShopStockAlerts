@@ -11281,6 +11281,12 @@
      "game": "MTG",
      "available": true,
      "price": 89.95
+    },
+    "mtg-bloomburrow-commander-decks-animated-army-pre-order": {
+     "title": "MTG - Bloomburrow - Commander Deck - Animated Army",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
     }
    },
    "baselined": true,
@@ -14330,7 +14336,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16104,7 +16110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
