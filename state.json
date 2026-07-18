@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3509,7 +3509,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3762,8 +3762,9 @@
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
-     "available": true,
-     "price": 289.0
+     "available": false,
+     "price": 268.0,
+     "unavail_since": 1784417507
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box (Chinese)",
@@ -3813,7 +3814,7 @@
      "title": "Magic The Gathering: Lorwyn Eclipsed Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 136.0
+     "price": 157.0
     },
     "magic-the-gathering-tarkir-dragonstorm-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Tarkir Dragonstorm Play Booster Box",
@@ -4038,7 +4039,7 @@
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box",
      "game": "Pokemon",
      "available": true,
-     "price": 45.0
+     "price": 43.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-3-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 3 Box (PRE-ORDER)",
@@ -4796,7 +4797,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6484,7 +6485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7462,7 +7463,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8447,8 +8448,9 @@
     "riftbound-league-of-legends-tcg-origins-proving-grounds": {
      "title": "Riftbound TCG: Origins: Proving Grounds",
      "game": "Riftbound",
-     "available": true,
-     "price": 54.99
+     "available": false,
+     "price": 54.99,
+     "unavail_since": 1784417511
     },
     "riftbound-tcg-spiritforged-booster-display": {
      "title": "Riftbound TCG: Spiritforged: Booster Display",
@@ -8942,7 +8944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
