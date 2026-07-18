@@ -14448,7 +14448,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15308,7 +15308,7 @@
      "title": "Japanese Paradigm Trigger Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 179.99,
+     "price": 162.75,
      "unavail_since": 1784083350
     },
     "pokemon-chilling-reign-booster-box": {
@@ -16071,7 +16071,7 @@
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 519.25
+     "price": 518.99
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
@@ -16219,10 +16219,22 @@
      "game": "MTG",
      "available": true,
      "price": 60.75
+    },
+    "black-bolt-pokemon-center-elite-trainer-box": {
+     "title": "Black Bolt Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 293.99
+    },
+    "lost-origin-pokemon-center-elite-trainer-box": {
+     "title": "Lost Origin Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 395.75
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 123,
    "error_streak": 0,
    "last_error": ""
   },
