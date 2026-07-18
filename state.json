@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 115,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3502,7 +3502,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 161,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4789,7 +4789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6477,7 +6477,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7443,7 +7443,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8913,10 +8913,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 34.99
+    },
+    "one-piece-tcg-illustration-box-volume-1": {
+     "title": "One Piece TCG: Illustration Box Volume 1",
+     "game": "One Piece",
+     "available": false,
+     "price": 173.99,
+     "unavail_since": 1784406686
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
