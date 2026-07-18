@@ -501,7 +501,7 @@
      "unavail_since": 1784083331
     },
     "one-piece-tcg-title-tba-starter-deck-st-33": {
-     "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-33)",
+     "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-33) (Pre-Order)",
      "game": "One Piece",
      "available": false,
      "price": 11.99,
@@ -1106,7 +1106,7 @@
      "unavail_since": 1784135885
     },
     "one-piece-tcg-title-tba-starter-deck-st-31": {
-     "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-31)",
+     "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-31) (Pre-Order)",
      "game": "One Piece",
      "available": false,
      "price": 11.99,
@@ -1125,10 +1125,17 @@
      "available": false,
      "price": 10.99,
      "unavail_since": 1784322236
+    },
+    "one-piece-tcg-title-tba-starter-deck-st-37": {
+     "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-37) (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 16.99,
+     "unavail_since": 1784359257
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3495,7 +3502,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 172,
+   "check_cursor": 212,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3504,8 +3511,9 @@
     "one-piece-tcg-carrying-on-his-will-booster-box-pre-order": {
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 429.0
+     "available": false,
+     "price": 429.0,
+     "unavail_since": 1784359255
     },
     "one-piece-extra-booster-heroines-japanese-edition-box-eb-03": {
      "title": "One Piece: Extra Booster - Heroines Japanese Edition Box (EB-03)",
@@ -4781,7 +4789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6469,7 +6477,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7435,7 +7443,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8901,7 +8909,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
