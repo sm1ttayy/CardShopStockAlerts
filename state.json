@@ -11910,8 +11910,9 @@
     "magic-the-gathering-modern-masters-2015-edition-booster-box": {
      "title": "Magic the Gathering Modern Masters 2015 Edition Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 499.95
+     "available": false,
+     "price": 499.95,
+     "unavail_since": 1784412916
     },
     "magic-the-gathering-outlaws-of-thunder-junction-collector-booster-box-pre-order": {
      "title": "Magic the Gathering: Outlaws of Thunder Junction Collector Booster Box",
@@ -12692,7 +12693,7 @@
      "title": "Monkey.D.Luffy (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 154.3,
+     "price": 155.2,
      "unavail_since": 1784083349
     },
     "portgas-d-ace-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -12706,7 +12707,7 @@
      "title": "Sabo (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 25.1,
+     "price": 24.6,
      "unavail_since": 1784083349
     },
     "kaido-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -13156,6 +13157,19 @@
      "available": false,
      "price": 99.99,
      "unavail_since": 1784331908
+    },
+    "scarlet-violet-paldea-evolved-elite-trainer-box": {
+     "title": "Scarlet & Violet: Paldea Evolved - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 79.99,
+     "unavail_since": 1784412911
+    },
+    "bloomburrow-commander-deck-squirreled-away": {
+     "title": "Bloomburrow - Commander Deck (Squirreled Away)",
+     "game": "MTG",
+     "available": true,
+     "price": 99.99
     }
    },
    "baselined": true,
@@ -13936,14 +13950,14 @@
      "title": "Gym Challenge Booster Box [Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 10455.82,
+     "price": 10497.4,
      "unavail_since": 1784083349
     },
     "gym-heroes-booster-box-unlimited-edition": {
      "title": "Gym Heroes Booster Box [Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 8247.96,
+     "price": 8215.29,
      "unavail_since": 1784083349
     },
     "gym-challenge-booster-box-1st-edition": {
@@ -14468,7 +14482,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15376,7 +15390,7 @@
      "title": "Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 132.75,
+     "price": 132.49,
      "last_restock_alert": 1784317008
     },
     "mtg-return-to-ravnica-booster-box": {
@@ -15772,7 +15786,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 89.99
+     "price": 88.49
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -15814,7 +15828,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 169.99
+     "price": 189.99
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -15832,7 +15846,7 @@
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 84.75
+     "price": 85.99
     },
     "destined-rivals-booster-bundle": {
      "title": "Destined Rivals Booster Bundle",
@@ -15910,7 +15924,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 29.49
+     "price": 23.49
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -15937,7 +15951,7 @@
      "title": "Marvel Super Heroes Commander Deck - Doom Prevails",
      "game": "MTG",
      "available": true,
-     "price": 94.75
+     "price": 93.99
     },
     "final-fantasy-counter-blitz-commander-deck": {
      "title": "Final Fantasy Counter Blitz Commander Deck",
@@ -15949,7 +15963,7 @@
      "title": "Draconic Rage Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 128.99
+     "price": 124.99
     },
     "magic-the-gathering-blame-game-commander-deck": {
      "title": "Blame Game Commander Deck",
@@ -16254,7 +16268,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 123,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
