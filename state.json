@@ -13841,6 +13841,13 @@
      "available": false,
      "price": 0.0,
      "unavail_since": 1784319007
+    },
+    "pokemon-swsh4-vivid-voltage-booster": {
+     "title": "POKEMON SWSH4 VIVID VOLTAGE BOOSTER BOX",
+     "game": "Pokemon",
+     "available": false,
+     "price": 229.95,
+     "unavail_since": 1784421308
     }
    },
    "baselined": true,
@@ -14502,7 +14509,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16288,7 +16295,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 118,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
