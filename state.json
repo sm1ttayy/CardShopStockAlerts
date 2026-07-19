@@ -1135,9 +1135,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-dp-13-double-pack-set-vol-13' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3509,9 +3509,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 203,
+   "check_cursor": 243,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'the-lord-of-the-rings-tales-of-middle-earth-special-edition-collector-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -4797,9 +4797,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'pkm_celebration_etb' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -4991,8 +4991,9 @@
     "pokemon-scarlet-violet-ruler-of-the-black-flame-japanese-booster-box": {
      "title": "Pokemon Scarlet & Violet Ruler of the Black Flame Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 159.75
+     "available": false,
+     "price": 159.75,
+     "unavail_since": 1784458050
     },
     "pokemon-mega-evolution-elite-trainer-box": {
      "title": "Pokemon Mega Evolution Elite Trainer Box",
@@ -6485,7 +6486,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 132,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7463,9 +7464,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 27,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'pokemon-mega-evolution-perfect-order-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8173,9 +8174,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'sword-shield-base-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8249,7 +8250,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 80.0,
-     "unavail_since": 1784353712
+     "unavail_since": 1784353712,
+     "delisted": true
     },
     "pokemon-tcg-me05-pitch-black-elite-trainer-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
@@ -8958,7 +8960,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
