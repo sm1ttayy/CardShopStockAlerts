@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1239,8 +1239,9 @@
     "riftbound-league-of-legends-tcg-vendetta-vault": {
      "title": "[PREORDER] Riftbound: League of Legends TCG - Vendetta Vault",
      "game": "Riftbound",
-     "available": true,
-     "price": 55.0
+     "available": false,
+     "price": 55.0,
+     "unavail_since": 1784475662
     },
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "[PREORDER] Riftbound: League of Legends TCG - Vendetta Showdown Decks [Zed vs Shen]",
@@ -3391,7 +3392,7 @@
      "unavail_since": 1784083329
     },
     "mega-evolution-pitch-black-3-pack-blister": {
-     "title": "[PREORDER] Mega Evolution: Pitch Black - 3-Pack Blister [Binacle]",
+     "title": "Mega Evolution: Pitch Black - 3-Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
      "price": 29.0
@@ -3509,7 +3510,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 148,
+   "check_cursor": 188,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3721,7 +3722,7 @@
      "title": "Pokemon Scarlet and Violet: Shrouded Fable Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 73.0,
+     "price": 70.0,
      "unavail_since": 1784083329
     },
     "pokemon-2024-trick-or-trade-booster-bundle-pre-order": {
@@ -3749,7 +3750,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Bundle Box",
      "game": "Pokemon",
      "available": false,
-     "price": 82.0,
+     "price": 73.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-amp-violet-obsidian-flames-booster-bundle-pre-order": {
@@ -3949,7 +3950,7 @@
      "title": "Pokemon Scarlet and Violet: Twilight Masquerade Booster Bundle Box",
      "game": "Pokemon",
      "available": false,
-     "price": 86.0,
+     "price": 84.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-starter-deck-st-23": {
@@ -4797,7 +4798,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6518,7 +6519,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7496,7 +7497,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8206,7 +8207,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8295,8 +8296,9 @@
     "pokemon-tcg-pitch-black-booster-bundle": {
      "title": "Pokemon TCG: Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 38.0
+     "available": false,
+     "price": 38.0,
+     "unavail_since": 1784475662
     },
     "pokemon-tcg-first-partner-illustration-collection-series-3": {
      "title": "Pokemon TCG: First Partner Illustration Collection - Series 2",
@@ -8992,7 +8994,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
