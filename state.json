@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 92,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3509,7 +3509,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
+   "check_cursor": 148,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3591,7 +3591,7 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 205.0
+     "price": 200.0
     },
     "pokemon-tcg-gem-volume-5-booster-box-chinese": {
      "title": "Pokemon TCG: Gem Volume 5 Booster Box (Chinese)",
@@ -3609,7 +3609,7 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 44.0
+     "price": 43.0
     },
     "pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
@@ -3679,14 +3679,14 @@
      "title": "Pokemon TCG: Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 170.0,
+     "price": 166.0,
      "unavail_since": 1784083329
     },
     "pokemon-celebrations-elite-trainer-box-pokemon-center-exclusive": {
      "title": "Pokemon Celebrations Elite Trainer Box (Pokemon Center Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 596.0,
+     "price": 595.0,
      "unavail_since": 1784083329
     },
     "pkm_generation_elite_box": {
@@ -4732,7 +4732,7 @@
      "title": "Pokemon TCG: Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 260.0,
+     "price": 257.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-white-flare-pokemon-center-elite-trainer-box": {
@@ -4797,7 +4797,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 95,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6483,10 +6483,42 @@
      "game": "Pokemon",
      "available": true,
      "price": 1499.75
+    },
+    "pokemon-mega-evolution-pitch-black-3-pack-blister-pack": {
+     "title": "Pokemon Mega Evolution Pitch Black 3-Pack Blister Pack",
+     "game": "Pokemon",
+     "available": true,
+     "price": 34.75
+    },
+    "pokemon-mega-evolution-pitch-black-booster-6-box-case": {
+     "title": "Pokemon Mega Evolution Pitch Black Booster 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1649.75
+    },
+    "pokemon-mega-evolution-pitch-black-elite-trainer-10-box-case": {
+     "title": "Pokemon Mega Evolution Pitch Black Elite Trainer 10-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 989.75
+    },
+    "pokemon-mega-evolution-pitch-black-checklane-blister": {
+     "title": "Pokemon Mega Evolution Pitch Black Checklane Blister",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1784472215
+    },
+    "pokemon-mega-evolution-pitch-black-checklane-blister-box": {
+     "title": "Pokemon Mega Evolution Pitch Black Checklane 16-Blister Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1784472215
     }
    },
    "baselined": true,
-   "check_cursor": 106,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7464,7 +7496,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8960,7 +8992,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
