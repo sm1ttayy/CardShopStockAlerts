@@ -14566,7 +14566,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15350,9 +15350,9 @@
     "pokemon-surging-sparks-booster-box": {
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 299.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 293.25,
+     "last_restock_alert": 1784479824
     },
     "japanese-sky-legend-booster-box": {
      "title": "Japanese Sky Legend Booster Box",
@@ -15677,9 +15677,9 @@
     "pokemon-s-v-temporal-forces-booster-box": {
      "title": "Temporal Forces Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 321.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 318.99,
+     "last_restock_alert": 1784479824
     },
     "pokemon-japanese-clay-burst-booster-box": {
      "title": "Japanese Clay Burst Booster Box",
@@ -15858,7 +15858,7 @@
      "title": "Perfect Order Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 123.99
+     "price": 123.25
     },
     "white-flare-pokemon-center-elite-trainer-box": {
      "title": "White Flare Pokemon Center Elite Trainer Box",
@@ -16349,10 +16349,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 395.75
+    },
+    "pokemon-surging-sparks-booster-bundle": {
+     "title": "Surging Sparks Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 67.49
     }
    },
    "baselined": true,
-   "check_cursor": 123,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
