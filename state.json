@@ -9551,8 +9551,9 @@
     "pokemon-tcg-pitch-black-3-pack-blister-binacle-me05-pitch-black-me05": {
      "title": "Pok\u00e9mon TCG: Pitch Black 3-Pack Blister [Binacle] - ME05: Pitch Black (ME05)",
      "game": "Pokemon",
-     "available": true,
-     "price": 29.99
+     "available": false,
+     "price": 29.99,
+     "unavail_since": 1784477411
     },
     "one-piece-tcg-illustration-box-vol-4": {
      "title": "One Piece TCG: Illustration Box Vol. 4",
@@ -14565,7 +14566,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16351,7 +16352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
