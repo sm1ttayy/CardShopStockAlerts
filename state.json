@@ -10047,8 +10047,9 @@
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 99.95
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1784480112
     },
     "foundations-jumpstart-booster-display": {
      "title": "Foundations Jumpstart Booster Box",
@@ -14566,7 +14567,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16358,7 +16359,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
