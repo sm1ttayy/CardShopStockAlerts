@@ -11199,8 +11199,9 @@
     "one-piece-card-game-eb04-egghead-crisis-extra-booster-japanese-booster-box": {
      "title": "One Piece Card Game - EB04 - Egghead Crisis - Extra Booster - Japanese Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 115.95
+     "available": false,
+     "price": 115.95,
+     "unavail_since": 1784499305
     },
     "pokemon-mega-brave-japanese-booster-box": {
      "title": "Pokemon - Mega Brave - Japanese Booster Box",
@@ -12202,8 +12203,9 @@
     "magic-the-gathering-lorwyn-eclipsed-bundle-pre-order-copy": {
      "title": "Magic The Gathering - Lorwyn Eclipsed - Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 79.95
+     "available": false,
+     "price": 79.95,
+     "unavail_since": 1784499314
     },
     "pre-order-magic-the-gathering-kaldheim-collector-booster-february-2022": {
      "title": "Magic The Gathering Kaldheim Bundle",
@@ -14446,7 +14448,7 @@
      "title": "XY BREAKthrough Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2353.26,
+     "price": 2343.94,
      "unavail_since": 1784083349
     },
     "xy-breakpoint-booster-box": {
@@ -14572,7 +14574,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15960,7 +15962,7 @@
      "title": "Scarlet & Violet Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 144.75
+     "price": 104.75
     },
     "silver-tempest-booster-bundle": {
      "title": "Silver Tempest Booster Bundle",
@@ -16014,7 +16016,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 23.49
+     "price": 21.75
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -16041,7 +16043,7 @@
      "title": "Marvel Super Heroes Commander Deck - Doom Prevails",
      "game": "MTG",
      "available": true,
-     "price": 93.99
+     "price": 90.99
     },
     "final-fantasy-counter-blitz-commander-deck": {
      "title": "Final Fantasy Counter Blitz Commander Deck",
@@ -16065,7 +16067,7 @@
      "title": "Planar Portal Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 153.49
+     "price": 149.75
     },
     "magic-the-gathering-deadly-disguise-commander-deck": {
      "title": "Deadly Disguise Commander Deck",
@@ -16177,7 +16179,7 @@
      "title": "Paldea Evolved Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 609.99
+     "price": 607.25
     },
     "phantasmal-flames-pokemon-center-elite-trainer-box": {
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
@@ -16361,10 +16363,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 67.49
+    },
+    "dungeons-of-death-commander-deck": {
+     "title": "Dungeons of Death Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 101.75
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
