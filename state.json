@@ -26,7 +26,7 @@
      "title": "One Piece TCG: [OP-09] Emperors in the New World - Booster Box [Japanese]",
      "game": "One Piece",
      "available": false,
-     "price": 114.25,
+     "price": 643.33,
      "unavail_since": 1784083330
     },
     "one-piece-tcg-op-08-two-legends-booster-box-japanese": {
@@ -706,7 +706,7 @@
      "title": "One Piece TCG: Double Pack Set Volume 11 (DP-11)",
      "game": "One Piece",
      "available": false,
-     "price": 27.27,
+     "price": 23.87,
      "unavail_since": 1784083332
     },
     "one-piece-tcg-double-pack-volume-10-dp-10": {
@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 105,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3510,7 +3510,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 169,
+   "check_cursor": 209,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3519,9 +3519,9 @@
     "one-piece-tcg-carrying-on-his-will-booster-box-pre-order": {
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 425.0,
-     "unavail_since": 1784359255
+     "last_restock_alert": 1784587256
     },
     "one-piece-extra-booster-heroines-japanese-edition-box-eb-03": {
      "title": "One Piece: Extra Booster - Heroines Japanese Edition Box (EB-03)",
@@ -4798,7 +4798,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6519,7 +6519,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7503,7 +7503,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8999,7 +8999,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
