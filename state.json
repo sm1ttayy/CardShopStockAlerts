@@ -1135,9 +1135,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
-   "error_streak": 1,
-   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-ib-05-illustration-box-vol-5-english' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 93,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3510,9 +3510,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 181,
-   "error_streak": 1,
-   "last_error": "Stomping Grounds TCG: product 'riftbound-league-of-legends-tcg-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 221,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -4798,7 +4798,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6519,7 +6519,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 120,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7503,7 +7503,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8213,9 +8213,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
-   "error_streak": 1,
-   "last_error": "Gamers Gauntlet: product 'sword-shield-base-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 16,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8999,7 +8999,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
