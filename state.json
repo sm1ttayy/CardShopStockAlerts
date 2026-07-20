@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3510,7 +3510,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 129,
+   "check_cursor": 169,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3715,7 +3715,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 53.0,
+     "price": 45.0,
      "last_restock_alert": 1784313937
     },
     "pokemon-scarlet-and-violet-shrouded-fable-booster-bundle-pre-order": {
@@ -4271,7 +4271,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 252.0,
+     "price": 220.0,
      "last_restock_alert": 1784243702
     },
     "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order": {
@@ -4798,7 +4798,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5103,9 +5103,9 @@
     "pokemon-mega-evolution-phantasmal-flames-booster-bundle-box": {
      "title": "Pokemon Mega Evolution Phantasmal Flames Booster Bundle Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 69.75,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 84.75,
+     "last_restock_alert": 1784583324
     },
     "pokemon-mega-evolution-6-pack-booster-bundle": {
      "title": "Pokemon Mega Evolution Booster Bundle Box",
@@ -6519,7 +6519,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 132,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7503,7 +7503,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8999,7 +8999,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
