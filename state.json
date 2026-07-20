@@ -14593,7 +14593,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15377,9 +15377,10 @@
     "pokemon-surging-sparks-booster-box": {
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 293.25,
-     "last_restock_alert": 1784479824
+     "last_restock_alert": 1784479824,
+     "unavail_since": 1784510723
     },
     "japanese-sky-legend-booster-box": {
      "title": "Japanese Sky Legend Booster Box",
@@ -16397,7 +16398,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
