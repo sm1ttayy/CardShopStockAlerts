@@ -12616,6 +12616,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 219.95
+    },
+    "pokemon-go-pin-collection-bulbasaur": {
+     "title": "Pokemon GO Pin Collection - Bulbasaur",
+     "game": "Pokemon",
+     "available": true,
+     "price": 64.95
+    },
+    "pokemon-go-pin-collection-squirtle-pre-order": {
+     "title": "Pokemon GO Pin Collection - Squirtle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 74.95
     }
    },
    "baselined": true,
@@ -14580,7 +14592,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16384,7 +16396,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
