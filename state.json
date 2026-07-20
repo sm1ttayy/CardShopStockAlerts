@@ -14593,7 +14593,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16398,7 +16398,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16713,8 +16713,9 @@
     "magic-the-gathering-marvels-spider-man-play-booster-box-30-boosters-pre-order": {
      "title": "Magic the Gathering Marvel's Spider-Man Play Booster Box (30 Boosters)",
      "game": "MTG",
-     "available": true,
-     "price": 129.95
+     "available": false,
+     "price": 129.95,
+     "unavail_since": 1784512229
     },
     "magic-the-gathering-marvel-super-heroes-play-booster-box-30-booster-packs-pre-order": {
      "title": "Magic: The Gathering Marvel Super Heroes Play Booster Box (30 Booster Packs)",
