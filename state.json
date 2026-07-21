@@ -1135,9 +1135,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 55,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'pokemon-tcg-mega-evolutions-2-5-ascended-heroes-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3510,9 +3510,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 197,
+   "check_cursor": 237,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'scarlet-violet-prismatic-evolutions-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -3592,7 +3592,7 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 205.0
+     "price": 204.0
     },
     "pokemon-tcg-gem-volume-5-booster-box-chinese": {
      "title": "Pokemon TCG: Gem Volume 5 Booster Box (Chinese)",
@@ -3610,19 +3610,19 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 44.0
     },
     "pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 91.0
+     "price": 89.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 44.0
+     "price": 43.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -3993,7 +3993,7 @@
      "title": "One Piece TCG: Uta Starter Deck (ST-16)",
      "game": "One Piece",
      "available": false,
-     "price": 52.0,
+     "price": 61.0,
      "unavail_since": 1784083331
     },
     "one-piece-tcg-yellow-charlotte-katakuri-starter-deck-st-20": {
@@ -4798,9 +4798,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-lorwyn-eclipsed-collector-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6519,9 +6519,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 158,
+   "check_cursor": 51,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7503,9 +7503,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 34,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'pre-sale-murders-at-karlov-manor-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8215,7 +8215,7 @@
    "baselined": true,
    "check_cursor": 9,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'double-pack-set-11-the-time-of-battle-op-16-one-piece' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8318,7 +8318,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -9001,9 +9001,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 7,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'mtg-unstable-bstr' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
