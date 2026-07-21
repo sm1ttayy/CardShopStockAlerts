@@ -1135,7 +1135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3510,7 +3510,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 113,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3736,7 +3736,7 @@
      "title": "Pokemon TCG: Trick or Trade BOOster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 67.0,
+     "price": 68.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-stellar-crown-booster-bundle-pre-order": {
@@ -3750,7 +3750,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Bundle Box",
      "game": "Pokemon",
      "available": false,
-     "price": 73.0,
+     "price": 81.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-amp-violet-obsidian-flames-booster-bundle-pre-order": {
@@ -4798,7 +4798,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6519,7 +6519,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 131,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7509,7 +7509,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9004,10 +9004,24 @@
      "available": false,
      "price": 79.99,
      "unavail_since": 1784423155
+    },
+    "one-piece-tcg-film-edition-starter-deck-st-05": {
+     "title": "One Piece TCG:Film Edition Starter Deck [ST-05]",
+     "game": "One Piece",
+     "available": false,
+     "price": 11.99,
+     "unavail_since": 1784655528
+    },
+    "one-piece-tcg-animal-kingdom-pirates-starter-deck-st-04": {
+     "title": "One Piece TCG: Animal Kingdom Pirates Starter Deck [ST-04]",
+     "game": "One Piece",
+     "available": false,
+     "price": 22.99,
+     "unavail_since": 1784655528
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
