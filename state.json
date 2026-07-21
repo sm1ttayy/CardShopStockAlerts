@@ -169,11 +169,11 @@
      "unavail_since": 1784083329
     },
     "pok-mon-tcg-mega-evolution-5-pitch-black-elite-trainer-box": {
-     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Elite Trainer Box (Pre-Order)",
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 89.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 82.99,
+     "last_restock_alert": 1784632910
     },
     "pokemon-paldea-evolved-pokemon-center-elite-trainer-box-copy": {
      "title": "Pok\u00e9mon - Obsidian Flames - Pok\u00e9mon Center Elite Trainer Box",
@@ -997,11 +997,11 @@
      "unavail_since": 1784083331
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-3-booster-blister": {
-     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - 3-Booster Blister (Pre-Order)",
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - 3-Booster Blister",
      "game": "Pokemon",
-     "available": false,
-     "price": 19.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 21.33,
+     "last_restock_alert": 1784632978
     },
     "magic-the-gathering-final-fantasy-commander-deck-counter-blitz": {
      "title": "Magic the Gathering: Final Fantasy Commander Deck - Counter Blitz",
@@ -1135,9 +1135,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'pokemon-tcg-mega-evolutions-2-5-ascended-heroes-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3510,9 +3510,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 157,
+   "check_cursor": 197,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'scarlet-violet-prismatic-evolutions-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -3777,7 +3777,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 184.0,
+     "price": 183.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -4436,7 +4436,7 @@
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 335.0,
+     "price": 341.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -4583,7 +4583,7 @@
      "title": "Magic the Gathering: Innistrad Remastered Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 282.0,
+     "price": 293.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-royal-bloodlines-booster-box-op10-pre-order": {
@@ -4740,7 +4740,7 @@
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 275.0,
+     "price": 278.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
@@ -4798,9 +4798,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-lorwyn-eclipsed-collector-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6519,9 +6519,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 118,
+   "check_cursor": 158,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7215,9 +7215,9 @@
     "magic-the-gathering-tarkir-dragonstorm-play-booster-box": {
      "title": "Magic: The Gathering Tarkir: Dragonstorm Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 129.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 149.99,
+     "last_restock_alert": 1784632935
     },
     "journey-together-booster-box-sv-journey-together": {
      "title": "2025 Pokemon SV - Journey Together Enhanced Booster Box",
@@ -7503,9 +7503,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'pre-sale-murders-at-karlov-manor-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8213,9 +8213,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'double-pack-set-11-the-time-of-battle-op-16-one-piece' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8239,7 +8239,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 174.99,
-     "unavail_since": 1784353712
+     "unavail_since": 1784353712,
+     "delisted": true
     },
     "pokemon-tcg-me04-chaos-rising-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Elite Trainer Box",
@@ -8303,7 +8304,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 38.0,
-     "unavail_since": 1784475662
+     "unavail_since": 1784475662,
+     "delisted": true
     },
     "pokemon-tcg-first-partner-illustration-collection-series-3": {
      "title": "Pokemon TCG: First Partner Illustration Collection - Series 2",
@@ -8316,7 +8318,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -8726,7 +8728,7 @@
      "title": "Magic The Gathering: Outlaws of Thunder Junction: Bundle",
      "game": "MTG",
      "available": false,
-     "price": 49.99,
+     "price": 94.99,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-throne-of-eldraine-bundle": {
@@ -8999,9 +9001,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 19,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'mtg-unstable-bstr' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
