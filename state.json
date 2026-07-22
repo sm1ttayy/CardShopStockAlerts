@@ -1135,9 +1135,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-ib-05-illustration-box-vol-6-english' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3516,9 +3516,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 269,
+   "check_cursor": 57,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'white-flare-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -4804,9 +4804,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-teenage-mutant-ninja-turtles-collector-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6526,9 +6526,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 136,
+   "check_cursor": 28,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7519,7 +7519,7 @@
    "baselined": true,
    "check_cursor": 18,
    "error_streak": 0,
-   "last_error": " Cards Unlimited: product 'magic-the-gathering-final-fantasy-collector-booster-box-japanese-cassius-marsh-stream-only' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8229,7 +8229,7 @@
    "baselined": true,
    "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-codex-bundle-mtg' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8337,7 +8337,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -9034,9 +9034,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 39,
    "error_streak": 0,
-   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
