@@ -1132,10 +1132,17 @@
      "available": false,
      "price": 16.99,
      "unavail_since": 1784359257
+    },
+    "one-piece-tcg-op-17-the-worlds-strongest-warriors-display-box-english": {
+     "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Display Box [English] (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 119.76,
+     "unavail_since": 1784755136
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3516,7 +3523,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4804,7 +4811,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6526,7 +6533,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 118,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7088,7 +7095,7 @@
      "title": "Pokemon Mega Evolution - Perfect Order Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 209.99,
+     "price": 169.99,
      "last_restock_alert": 1784149252
     },
     "pokemon-tcg-fusion-strike-booster-box": {
@@ -7465,7 +7472,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 224.99
+     "price": 214.99
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
      "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box",
@@ -9034,7 +9041,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
