@@ -664,7 +664,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 109.99,
+     "price": 81.21,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle": {
@@ -1135,9 +1135,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-ib-05-illustration-box-vol-6-english' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2977,9 +2977,8 @@
     "sword-shield-brilliant-stars-booster-box-display": {
      "title": "Sword & Shield: Brilliant Stars - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
-     "price": 600.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 615.0
     },
     "sword-shield-fusion-strike-booster-box-display": {
      "title": "Sword & Shield: Fusion Strike - Booster Box Display",
@@ -2999,7 +2998,7 @@
      "title": "Sword & Shield: Vivid Voltage - Booster Box Display",
      "game": "Pokemon",
      "available": false,
-     "price": 305.0,
+     "price": 345.0,
      "unavail_since": 1784083329
     },
     "sword-shield-darkness-ablaze-booster-box-display": {
@@ -3398,7 +3397,7 @@
      "price": 29.0
     },
     "universes-beyond-doctor-who-collector-booster-display": {
-     "title": "avatar collector box",
+     "title": "Universes Beyond: Doctor Who Collector Booster Box Display",
      "game": "MTG",
      "available": false,
      "price": 950.0,
@@ -3517,9 +3516,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 229,
+   "check_cursor": 269,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'white-flare-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -3771,7 +3770,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 268.0,
+     "price": 272.0,
      "unavail_since": 1784417507
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -3858,7 +3857,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 114.0,
+     "price": 119.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
@@ -3890,7 +3889,7 @@
      "title": "Magic The Gathering: Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 430.0,
+     "price": 462.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-collector-booster-box-pre-order": {
@@ -3904,7 +3903,7 @@
      "title": "Magic The Gathering: Edge of Eternities Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 749.0,
+     "price": 778.0,
      "unavail_since": 1784083329
     },
     "mtg_cl_bldrgt_cbb": {
@@ -4429,7 +4428,7 @@
      "title": "Magic The Gathering: Marvel Spider-Man Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 378.0,
+     "price": 397.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-booster-box-pre-order-1": {
@@ -4443,7 +4442,7 @@
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 341.0,
+     "price": 340.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -4747,7 +4746,7 @@
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 278.0,
+     "price": 281.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
@@ -4781,7 +4780,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - 151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1313.0,
+     "price": 1107.0,
      "unavail_since": 1784083329
     },
     "pokemon-sword-and-shield-silver-tempest-pokemon-center-elite-trainer-box": {
@@ -4805,9 +4804,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 18,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-teenage-mutant-ninja-turtles-collector-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6527,9 +6526,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 136,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6759,7 +6758,8 @@
      "game": "Riftbound",
      "available": false,
      "price": 150.0,
-     "unavail_since": 1784083329
+     "unavail_since": 1784083329,
+     "delisted": true
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-box": {
      "title": "Magic: The Gathering Avatar The Last Airbender Play Booster Box",
@@ -7517,9 +7517,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 18,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": " Cards Unlimited: product 'magic-the-gathering-final-fantasy-collector-booster-box-japanese-cassius-marsh-stream-only' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8227,9 +8227,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-codex-bundle-mtg' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8246,7 +8246,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 530.99,
-     "unavail_since": 1784353712
+     "unavail_since": 1784353712,
+     "delisted": true
     },
     "pokemon-tcg-me04-chaos-rising-booster-box": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
@@ -8290,14 +8291,16 @@
      "game": "Pokemon",
      "available": false,
      "price": 159.99,
-     "unavail_since": 1784353712
+     "unavail_since": 1784353712,
+     "delisted": true
     },
     "pokemon-tcg-me05-pitch-black-booster-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box",
      "game": "Pokemon",
      "available": false,
      "price": 179.99,
-     "unavail_since": 1784353712
+     "unavail_since": 1784353712,
+     "delisted": true
     },
     "pokemon-tcg-30th-anniversary-elite-trainer-box": {
      "title": "Pokemon TCG: 30th Anniversary Elite Trainer Box",
@@ -8311,7 +8314,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 65.0,
-     "unavail_since": 1784353712
+     "unavail_since": 1784353712,
+     "delisted": true
     },
     "pokemon-tcg-pitch-black-booster-bundle": {
      "title": "Pokemon TCG: Pitch Black Booster Bundle",
@@ -8326,13 +8330,14 @@
      "game": "Pokemon",
      "available": false,
      "price": 30.0,
-     "unavail_since": 1784353713
+     "unavail_since": 1784353713,
+     "delisted": true
     }
    },
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -9029,9 +9034,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
