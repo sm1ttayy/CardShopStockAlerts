@@ -1148,7 +1148,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1443,8 +1443,9 @@
     "magic-the-gathering-secrets-of-strixhaven-commander-decks-set-of-5": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Commander Decks [Set of 5]",
      "game": "MTG",
-     "available": true,
-     "price": 190.0
+     "available": false,
+     "price": 190.0,
+     "unavail_since": 1784829018
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-turtle-commander-deck": {
      "title": "Magic: The Gathering - Teenage Mutant Ninja Turtles Commander Deck Turtle Power!",
@@ -1456,7 +1457,7 @@
      "title": "Magic: The Gathering Edge of Eternities Commander Deck Bundle [Set of 2]",
      "game": "MTG",
      "available": true,
-     "price": 69.0
+     "price": 62.0
     },
     "aetherdrift-commander-deck-bundle-set-of-2": {
      "title": "Magic: The Gathering Aetherdrift Commander Deck Bundle [Set of 2]",
@@ -3527,10 +3528,16 @@
      "available": false,
      "price": 65.0,
      "unavail_since": 1784695011
+    },
+    "magic-the-gathering-marvel-super-heroes-commander-decks-set-of-4": {
+     "title": "Magic: The Gathering - Marvel Super Heroes Commander Decks [Set of 4]",
+     "game": "MTG",
+     "available": true,
+     "price": 220.0
     }
    },
    "baselined": true,
-   "check_cursor": 200,
+   "check_cursor": 240,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4051,16 +4058,16 @@
      "unavail_since": 1784083332
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection-box-pre-order": {
-     "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box",
+     "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 53.0
+     "price": 45.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-2-box": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 42.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-3-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 3 Box (PRE-ORDER)",
@@ -4072,7 +4079,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Prismatic Evolutions Accessory Pouch Special Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 84.0
+     "price": 81.0
     },
     "pkm_celebration_ultraprem": {
      "title": "Pokemon TCG: Celebrations - Ultra-Premium Collection Box",
@@ -4553,7 +4560,7 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 294.0,
+     "price": 282.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-anime-25th-collection-japanese-booster-box-eb02": {
@@ -4817,7 +4824,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6539,7 +6546,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 116,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9051,7 +9058,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
