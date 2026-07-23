@@ -1142,7 +1142,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1219,8 +1219,9 @@
     "riftbound-league-of-legends-tcg-unleashed-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Unleashed Booster Box Display",
      "game": "Riftbound",
-     "available": true,
-     "price": 115.0
+     "available": false,
+     "price": 115.0,
+     "unavail_since": 1784781530
     },
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "[PREORDER] Riftbound: League of Legends TCG - Vendetta Booster Box",
@@ -3281,7 +3282,7 @@
      "title": "Mega Evolution: Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 89.0
+     "price": 78.0
     },
     "mega-evolution-elite-trainer-box-lucario": {
      "title": "Mega Evolution Elite Trainer Box [Lucario]",
@@ -3347,7 +3348,7 @@
      "title": "Mega Evolution: Perfect Order - Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 40.0
+     "price": 38.0
     },
     "scarlet-violet-paldean-fates-booster-bundle": {
      "title": "Scarlet & Violet: Paldean Fates - Booster Bundle",
@@ -3360,7 +3361,7 @@
      "title": "Mega Evolution: Chaos Rising - Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 41.0
+     "price": 40.0
     },
     "white-flare-booster-bundle": {
      "title": "White Flare Booster Bundle",
@@ -3523,7 +3524,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 160,
+   "check_cursor": 200,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3635,7 +3636,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 42.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -3647,7 +3648,7 @@
      "title": "Pokemon Scarlet and Violet: Twilight Masquerade Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 378.0
+     "price": 386.0
     },
     "pokemon-scarlet-and-violet-stellar-crown-booster-box-pre-order": {
      "title": "Pokemon Scarlet and Violet: Stellar Crown Booster Box",
@@ -4811,7 +4812,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6533,7 +6534,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 130,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9038,10 +9039,17 @@
      "available": false,
      "price": 22.99,
      "unavail_since": 1784655528
+    },
+    "pokemon-tcg-pokemon-go-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Pok\u00e9mon GO Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 119.99,
+     "unavail_since": 1784781521
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
