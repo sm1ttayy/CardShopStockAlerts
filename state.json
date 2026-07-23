@@ -1148,7 +1148,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 100,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3537,7 +3537,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 154,
+   "check_cursor": 194,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4824,7 +4824,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6546,7 +6546,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 129,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8262,24 +8262,22 @@
      "title": "Pokemon: SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 530.99,
+     "price": 525.0,
      "unavail_since": 1784353712,
      "delisted": true
     },
     "pokemon-tcg-me04-chaos-rising-booster-box": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 174.99,
-     "unavail_since": 1784353712,
+     "available": true,
+     "price": 184.99,
      "delisted": true
     },
     "pokemon-tcg-me04-chaos-rising-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 65.0,
-     "unavail_since": 1784083333,
      "delisted": true
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
@@ -8306,32 +8304,30 @@
     "pokemon-tcg-me03-perfect-order-booster-box": {
      "title": "Pokemon TCG: ME03 Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 159.99,
-     "unavail_since": 1784353712,
      "delisted": true
     },
     "pokemon-tcg-me05-pitch-black-booster-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 179.99,
-     "unavail_since": 1784353712,
+     "available": true,
+     "price": 184.99,
      "delisted": true
     },
     "pokemon-tcg-30th-anniversary-elite-trainer-box": {
      "title": "Pokemon TCG: 30th Anniversary Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 80.0,
-     "delisted": true
+     "available": false,
+     "price": 150.0,
+     "delisted": true,
+     "unavail_since": 1784850181
     },
     "pokemon-tcg-me05-pitch-black-elite-trainer-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 65.0,
-     "unavail_since": 1784353712,
+     "available": true,
+     "price": 70.0,
      "delisted": true
     },
     "pokemon-tcg-pitch-black-booster-bundle": {
@@ -8349,6 +8345,12 @@
      "price": 30.0,
      "unavail_since": 1784353713,
      "delisted": true
+    },
+    "pokemon-tcg-me03-perfect-order-elite-trainer-box": {
+     "title": "Pokemon TCG: ME03 Perfect Order Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 60.0
     }
    },
    "baselined": true,
@@ -9058,7 +9060,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
