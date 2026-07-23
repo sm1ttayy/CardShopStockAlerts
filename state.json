@@ -83,7 +83,8 @@
      "available": false,
      "price": 119.76,
      "note": "OP-17 booster box @ $119.76 (MSRP)",
-     "unavail_since": 1784083331
+     "unavail_since": 1784083331,
+     "delisted": true
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-booster-display-box": {
      "title": "Pokemon TCG: Mega Evolution 4: Chaos Rising - Booster Display Box",
@@ -533,7 +534,8 @@
      "game": "One Piece",
      "available": false,
      "price": 11.99,
-     "unavail_since": 1784083331
+     "unavail_since": 1784083331,
+     "delisted": true
     },
     "premium-card-collection-live-action-edition-one-piece-promotion-cards-op-pr": {
      "title": "Premium Card Collection -Live Action Edition - One Piece Promotion Cards (OP-PR)",
@@ -693,7 +695,8 @@
      "game": "One Piece",
      "available": false,
      "price": 11.99,
-     "unavail_since": 1784083331
+     "unavail_since": 1784083331,
+     "delisted": true
     },
     "one-piece-tcg-dp-08-double-pack-volume-9-english": {
      "title": "One Piece TCG: [DP-09] Double Pack Set Volume 9 [English]",
@@ -1103,21 +1106,24 @@
      "game": "One Piece",
      "available": false,
      "price": 11.99,
-     "unavail_since": 1784135885
+     "unavail_since": 1784135885,
+     "delisted": true
     },
     "one-piece-tcg-title-tba-starter-deck-st-31": {
      "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-31) (Pre-Order)",
      "game": "One Piece",
      "available": false,
      "price": 11.99,
-     "unavail_since": 1784135885
+     "unavail_since": 1784135885,
+     "delisted": true
     },
     "one-piece-tcg-title-tba-starter-deck-st-34": {
      "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-34)",
      "game": "One Piece",
      "available": false,
      "price": 11.99,
-     "unavail_since": 1784135885
+     "unavail_since": 1784135885,
+     "delisted": true
     },
     "one-piece-tcg-starter-deck-st28-tba": {
      "title": "One Piece TCG: [ST-28] Green-Yellow - Yamato Starter Deck [English]",
@@ -1142,9 +1148,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-title-tba-starter-deck-st-37' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3524,9 +3530,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'innistrad-midnight-hunt-set-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -3680,7 +3686,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 79.0,
+     "price": 76.0,
      "unavail_since": 1784083329
     },
     "pkm_ss_evolvskies_elite_gvse": {
@@ -3778,7 +3784,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 272.0,
+     "price": 270.0,
      "unavail_since": 1784417507
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -3791,7 +3797,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 183.0,
+     "price": 181.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -3897,7 +3903,7 @@
      "title": "Magic The Gathering: Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 462.0,
+     "price": 441.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-collector-booster-box-pre-order": {
@@ -4296,11 +4302,11 @@
      "last_restock_alert": 1784313939
     },
     "pokemon-tcg-mega-evolution-pitch-black-checklane-blister-slowpoke-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Pitch Black Checklane Blister (Slowpoke) (PRE-ORDER)",
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Checklane Blister (Slowpoke) (SALE)",
      "game": "Pokemon",
-     "available": false,
-     "price": 15.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 9.0,
+     "last_restock_alert": 1784805818
     },
     "pokemon-tcg-mega-evolution-pitch-black-3-pack-blister-binnacle-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Pitch Black 3 Pack Blister (Binnacle)",
@@ -4326,7 +4332,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 174.0,
+     "price": 170.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-the-hobbit-play-booster-box-pre-order": {
@@ -4367,9 +4373,8 @@
     "pokemon-tcg-gem-volume-4-booster-box-chinese": {
      "title": "Pokemon TCG: Gem Volume 4 Booster Box (Chinese)",
      "game": "Pokemon",
-     "available": false,
-     "price": 53.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 53.0
     },
     "magic-the-gathering-secrets-of-strixhaven-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Play Booster Box",
@@ -4394,7 +4399,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 462.0,
+     "price": 452.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-mega-brave-japanese-booster-box": {
@@ -4415,14 +4420,14 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 123.0,
+     "price": 136.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-avatar-the-last-airbender-collector-booster-box-pre-order": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 472.0,
+     "price": 497.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-marvel-spider-man-play-booster-box-pre-order": {
@@ -4597,7 +4602,7 @@
      "title": "Magic the Gathering: Innistrad Remastered Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 293.0,
+     "price": 310.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-royal-bloodlines-booster-box-op10-pre-order": {
@@ -4625,7 +4630,7 @@
      "title": "Pokemon Scarlet and Violet: Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 315.0,
+     "price": 312.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paradise-dragona-japanese-booster-box": {
@@ -4667,7 +4672,7 @@
      "title": "Magic the Gathering: Duskmourn: House of Horror Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 777.0,
+     "price": 776.0,
      "unavail_since": 1784083329
     },
     "2021-pokemon-japanese-25th-anniversary-collection-fa-pikachu-psa-17": {
@@ -4788,14 +4793,14 @@
      "title": "Pokemon TCG: Scarlet and Violet - 151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1107.0,
+     "price": 1311.0,
      "unavail_since": 1784083329
     },
     "pokemon-sword-and-shield-silver-tempest-pokemon-center-elite-trainer-box": {
      "title": "Pokemon Sword and Shield: Silver Tempest Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 433.0,
+     "price": 430.0,
      "unavail_since": 1784083329
     },
     "commander-masters-commander-deck-planeswalker-party-pre-order": {
@@ -4812,9 +4817,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 18,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-tarkir-dragonstorm-collector-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5703,9 +5708,9 @@
     "magic-the-gathering-marvels-spider-man-play-booster-box": {
      "title": "Magic: The Gathering Marvel's Spider-Man Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 169.75,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 139.75,
+     "last_restock_alert": 1784805794
     },
     "magic-the-gathering-edge-of-eternities-collector-booster-box": {
      "title": "Magic: The Gathering Edge of Eternities Collector Booster Box",
@@ -6534,9 +6539,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 101,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6826,9 +6831,8 @@
     "magic-the-gathering-lorwyn-eclipsed-collector-booster-box": {
      "title": "Magic: The Gathering Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 395.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 424.99
     },
     "magic-the-gathering-final-fantasy-collector-booster-box": {
      "title": "Magic: The Gathering Final Fantasy Collector Booster Box",
@@ -7141,9 +7145,8 @@
     "magic-the-gathering-avatar-the-last-airbender-collector-booster-box": {
      "title": "Magic: The Gathering Avatar The Last Airbender Collector Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 424.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 499.99
     },
     "pokemon-mega-evolution-phantasmal-flames-booster-box": {
      "title": "Pokemon Mega Evolution - Phantasmal Flames Booster Box",
@@ -7291,9 +7294,8 @@
     "dominaria-remastered-collector-booster-box-1": {
      "title": "Dominaria Remastered Collector Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 524.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 574.99
     },
     "dominaria-united-collector-booster-box": {
      "title": "Dominaria United Collector Booster Box",
@@ -7525,9 +7527,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 14,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": " Cards Unlimited: product 'magic-the-gathering-final-fantasy-collector-booster-box-japanese-cassius-marsh-stream-only' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8235,9 +8237,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-collector-booster-box-mtg' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8345,7 +8347,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -8491,9 +8493,9 @@
     "pokemon-tcg-ascended-heroes-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 79.99,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1784805801
     },
     "pokemon-tcg-prismatic-evolutions-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Booster Bundle",
@@ -9049,9 +9051,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
