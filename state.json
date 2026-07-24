@@ -1168,7 +1168,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3557,7 +3557,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4844,7 +4844,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6572,7 +6572,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 142,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8336,9 +8336,10 @@
     "pokemon-tcg-me03-perfect-order-booster-box": {
      "title": "Pokemon TCG: ME03 Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 159.99,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1784877654
     },
     "pokemon-tcg-me05-pitch-black-booster-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box",
@@ -9140,7 +9141,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
