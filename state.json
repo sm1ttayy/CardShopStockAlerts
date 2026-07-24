@@ -748,11 +748,11 @@
      "unavail_since": 1784083332
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-booster-bundle": {
-     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Bundle (Pre-Order)",
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 51.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 39.69,
+     "last_restock_alert": 1784892088
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-booster-display": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
@@ -1168,9 +1168,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 128,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'pokemon-tcg-scarlet-ex-sv1s-booster-box-japanese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3557,9 +3557,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120,
+   "check_cursor": 160,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'pre-order-march-of-the-machine-draft-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -3898,7 +3898,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 119.0,
+     "price": 107.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
@@ -3951,7 +3951,7 @@
      "title": "Magic the Gathering: Commander Legends - Battle for Baldur&#x27;s Gate Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 630.0,
+     "price": 625.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-innistrad-remastered-collector-booster-box-pre-order": {
@@ -3965,7 +3965,7 @@
      "title": "Magic The Gathering: Innistrad - Midnight Hunt Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 261.0,
+     "price": 265.0,
      "unavail_since": 1784083329
     },
     "mtg_unfinity_cbb": {
@@ -4054,14 +4054,14 @@
      "title": "One Piece TCG: Edward Newgate Starter Deck (ST-15)",
      "game": "One Piece",
      "available": false,
-     "price": 60.0,
+     "price": 63.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-black-smoker-starter-deck-pre-order": {
      "title": "One Piece TCG: Black Smoker Starter Deck (ST-19)",
      "game": "One Piece",
      "available": false,
-     "price": 51.0,
+     "price": 63.0,
      "unavail_since": 1784083329
     },
     "2022-one-piece-japanese-25th-anniversary-premium-card-collection-brook-psa-10": {
@@ -4359,7 +4359,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 170.0,
+     "price": 166.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-the-hobbit-play-booster-box-pre-order": {
@@ -4394,7 +4394,7 @@
      "title": "One Piece TCG: Adventure on Kamis Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 284.0,
+     "price": 267.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-gem-volume-4-booster-box-chinese": {
@@ -4461,14 +4461,14 @@
      "title": "Magic The Gathering: Marvel Spider-Man Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 121.0,
+     "price": 131.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-marvel-spider-man-collector-booster-box-pre-order": {
      "title": "Magic The Gathering: Marvel Spider-Man Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 397.0,
+     "price": 415.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-booster-box-pre-order-1": {
@@ -4566,14 +4566,14 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 524.0,
+     "price": 511.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-anime-25th-collection-booster-box-eb02-pre-order": {
      "title": "One Piece TCG: Anime 25th Collection Booster Box (EB02)",
      "game": "One Piece",
      "available": false,
-     "price": 903.0,
+     "price": 880.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box-pre-order": {
@@ -4608,7 +4608,7 @@
      "title": "One Piece TCG: Emperors in the New World Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 661.0,
+     "price": 683.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-terrastrial-festival-japanese-booster-box": {
@@ -4844,9 +4844,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'one-piece-tcg-extra-booster-box-eb-03-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6572,9 +6572,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6771,9 +6771,9 @@
     "journey-together-booster-bundle-sv09": {
      "title": "2025 Pokemon SV - Journey Together Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 47.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1784892091
     },
     "s-chinese-league-of-legends-riftbound-tcg-spiritforged-jumbo-booster-box": {
      "title": "(S-Chinese) League of Legends Riftbound TCG: Spiritforged Jumbo Booster Box",
@@ -7021,9 +7021,9 @@
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
      "title": "Magic: The Gathering Marvel Super Heroes - Jumpstart Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 119.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 159.99,
+     "last_restock_alert": 1784892100
     },
     "korean-pokemon-tcg-future-flash-booster-box": {
      "title": "(Korean) Pok\u00e9mon TCG: Future Flash Booster Box",
@@ -7566,9 +7566,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'mega-brave-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8276,9 +8276,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'yellow-charlotte-katakuri-starter-deck-st-20-one-piece-copy' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8415,7 +8415,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -9141,9 +9141,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
