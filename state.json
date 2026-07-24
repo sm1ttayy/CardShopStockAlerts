@@ -1168,7 +1168,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3557,7 +3557,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3690,7 +3690,7 @@
      "price": 357.0
     },
     "pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Chaos Rising Elite Trainer Box",
+     "title": "Pokemon TCG: Mega Evolution - Chaos Rising Elite Trainer Box (SALE)",
      "game": "Pokemon",
      "available": true,
      "price": 70.0
@@ -3727,28 +3727,28 @@
      "title": "Pokemon TCG: Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 164.0,
+     "price": 176.0,
      "unavail_since": 1784083329
     },
     "pokemon-celebrations-elite-trainer-box-pokemon-center-exclusive": {
      "title": "Pokemon Celebrations Elite Trainer Box (Pokemon Center Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 595.0,
+     "price": 596.0,
      "unavail_since": 1784083329
     },
     "pkm_generation_elite_box": {
      "title": "Pokemon TCG: Generations Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3678.0,
+     "price": 5260.0,
      "unavail_since": 1784083329
     },
     "pkm_celebration_etb": {
      "title": "Pokemon TCG: Celebrations - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 446.0,
+     "price": 432.0,
      "unavail_since": 1784083329
     },
     "pkm_shining_legends_etb": {
@@ -3769,7 +3769,7 @@
      "title": "Pokemon Scarlet and Violet: Shrouded Fable Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 70.0,
+     "price": 73.0,
      "unavail_since": 1784083329
     },
     "pokemon-2024-trick-or-trade-booster-bundle-pre-order": {
@@ -3783,7 +3783,7 @@
      "title": "Pokemon TCG: Trick or Trade BOOster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 73.0,
+     "price": 75.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-stellar-crown-booster-bundle-pre-order": {
@@ -3797,7 +3797,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Bundle Box",
      "game": "Pokemon",
      "available": false,
-     "price": 81.0,
+     "price": 82.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-amp-violet-obsidian-flames-booster-bundle-pre-order": {
@@ -4772,14 +4772,14 @@
      "title": "Pokemon Scarlet and Violet Pokemon Center Elite Trainer Box (Koraidon)",
      "game": "Pokemon",
      "available": false,
-     "price": 310.0,
+     "price": 304.0,
      "unavail_since": 1784083329
     },
     "pkm_go_etb_plus": {
      "title": "Pokemon TCG: Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 257.0,
+     "price": 256.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-white-flare-pokemon-center-elite-trainer-box": {
@@ -4844,7 +4844,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6569,10 +6569,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 399.75
+    },
+    "pokemon-mega-greninja-ex-premium-collection-box": {
+     "title": "Pokemon Mega Greninja ex Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 59.75
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 88,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8411,6 +8417,13 @@
      "available": false,
      "price": 35.0,
      "unavail_since": 1784855606
+    },
+    "pokemon-sv8-5-prismatic-evolutions-booster-bundle-1": {
+     "title": "Pokemon: SV8.5 Prismatic Evolutions - Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 75.0,
+     "unavail_since": 1784913220
     }
    },
    "baselined": true,
@@ -9142,7 +9155,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
