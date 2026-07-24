@@ -277,7 +277,7 @@
      "title": "Riftbound TCG: League of Legends: Unleashed - Display Box",
      "game": "Riftbound",
      "available": false,
-     "price": 119.65,
+     "price": 129.51,
      "unavail_since": 1784083329
     },
     "riftbound-league-of-legends-tcg-origins-proving-grounds": {
@@ -297,7 +297,7 @@
      "title": "Magic: The Gathering | Secrets of Strixhaven - Play Booster Display Box",
      "game": "MTG",
      "available": true,
-     "price": 136.46
+     "price": 130.18
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-display-box": {
      "title": "Magic: The Gathering: Avatar: The Last Airbender Play Booster Display Box",
@@ -755,10 +755,10 @@
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-booster-display": {
-     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display (Pre-Order)",
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 219.99,
+     "price": 190.62,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
@@ -1145,10 +1145,30 @@
      "available": false,
      "price": 119.76,
      "unavail_since": 1784755136
+    },
+    "pokemon-tcg-mega-evolution-5-pitch-black-elite-trainer-box-copy": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 159.99,
+     "unavail_since": 1784855603
+    },
+    "magic-the-gathering-star-trek-play-booster-box": {
+     "title": "Magic: The Gathering | Star Trek - Play Booster Box (Pre-Order)",
+     "game": "MTG",
+     "available": false,
+     "price": 209.7,
+     "unavail_since": 1784855605
+    },
+    "magic-the-gathering-universes-beyond-assassins-creed-beyond-booster-pre-order": {
+     "title": "Magic the Gathering: Universes Beyond: Assassins Creed Beyond Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 169.99
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1390,9 +1410,9 @@
     "salamence-ex-reshiram-ex": {
      "title": "Pokemon - Salamence ex & Reshiram ex Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 95.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1784855603
     },
     "mega-evolution-ascended-heroes-first-partners-deluxe-pin-collection": {
      "title": "Pok\u00e9mon - Mega Evolution: Ascended Heroes - First Partners Deluxe Pin Collection",
@@ -1423,9 +1443,9 @@
     "pokemon-mega-evolution-ascended-heroes-collection": {
      "title": "Pokemon - Mega Evolution: Ascended Heroes Collection [Erika]",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 35.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1784855603
     },
     "mega-evolution-ascended-heroes-premium-poster-collection": {
      "title": "Pok\u00e9mon - Mega Evolution: Ascended Heroes - Premium Poster Collection Mega Lucario & Mega Gardevoir [Set Of 2]",
@@ -1436,9 +1456,9 @@
     "pokemon-mega-venusaur-ex-premium-collection": {
      "title": "Pokemon: Mega Venusaur EX Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 75.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1784855603
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-decks-set-of-5": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Commander Decks [Set of 5]",
@@ -3409,7 +3429,7 @@
      "title": "Mega Evolution: Pitch Black - 3-Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 29.0
+     "price": 21.0
     },
     "universes-beyond-doctor-who-collector-booster-display": {
      "title": "Universes Beyond: Doctor Who Collector Booster Box Display",
@@ -3537,7 +3557,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 194,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3763,7 +3783,7 @@
      "title": "Pokemon TCG: Trick or Trade BOOster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 68.0,
+     "price": 73.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-stellar-crown-booster-bundle-pre-order": {
@@ -4824,7 +4844,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6543,10 +6563,16 @@
      "available": false,
      "price": 0.0,
      "unavail_since": 1784472215
+    },
+    "pokemon-arceus-vstar-ultra-premium-collection-box": {
+     "title": "Pokemon Arceus VSTAR Ultra-Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 399.75
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7531,6 +7557,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 180.0
+    },
+    "pokemon-30th-celebration-tech-sticker-collection-presale": {
+     "title": "Pokemon 30th Celebration - Tech Sticker Collection (Presale)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 79.99
     }
    },
    "baselined": true,
@@ -7709,9 +7741,9 @@
     "prismatic-evolutions-booster-bundle-pokemon": {
      "title": "Prismatic Evolutions Booster Bundle [Pokemon]",
      "game": "Pokemon",
-     "available": false,
-     "price": 75.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 85.0,
+     "last_restock_alert": 1784855603
     },
     "black-bolt-booster-bundle-pokemon": {
      "title": "Black Bolt Booster Bundle [Pokemon]",
@@ -8351,6 +8383,32 @@
      "game": "Pokemon",
      "available": true,
      "price": 60.0
+    },
+    "pokemon-s-v-151-blooming-waters-premium-collection": {
+     "title": "Pokemon: S&V:151 Blooming Waters Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 350.0
+    },
+    "pokemon-tcg-2-5-ascended-heroes-premium-poster-collection-set": {
+     "title": "Pokemon TCG: 2.5 Ascended Heroes Premium Poster Collection Set",
+     "game": "Pokemon",
+     "available": false,
+     "price": 290.0,
+     "unavail_since": 1784855603
+    },
+    "pokemon-tcg-me05-pitch-black-3-pack-blister": {
+     "title": "Pokemon TCG: ME05 Pitch Black 3 Pack Blister",
+     "game": "Pokemon",
+     "available": true,
+     "price": 18.0
+    },
+    "pokemon-tcg-me05-pitch-black-booster-bundle": {
+     "title": "Pokemon TCG: ME05 Pitch Black Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 35.0,
+     "unavail_since": 1784855606
     }
    },
    "baselined": true,
@@ -8446,7 +8504,7 @@
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Elite Trainer Box - Pokemon Center Edition",
      "game": "Pokemon",
      "available": true,
-     "price": 499.99
+     "price": 489.99
     },
     "pokemon-tcg-ascended-heroes-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Elite Trainer Box",
@@ -8496,8 +8554,9 @@
     "pokemon-tcg-journey-together-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Journey Together: Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 44.99
+     "available": false,
+     "price": 44.99,
+     "unavail_since": 1784855601
     },
     "pokemon-tcg-ascended-heroes-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Booster Bundle",
@@ -8509,8 +8568,9 @@
     "pokemon-tcg-prismatic-evolutions-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 99.99
+     "available": false,
+     "price": 79.99,
+     "unavail_since": 1784855601
     },
     "pokemon-tcg-destined-rivals-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Destined Rivals: Booster Bundle",
@@ -8665,8 +8725,9 @@
     "pokemon-tcg-prismatic-evolutions-super-premium-collection": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Super-Premium Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 299.99
+     "available": false,
+     "price": 269.99,
+     "unavail_since": 1784855602
     },
     "pokemon-tcg-ascended-heroes-premium-poster-collection": {
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Premium Poster Collection",
@@ -9057,10 +9118,29 @@
      "available": false,
      "price": 119.99,
      "unavail_since": 1784781521
+    },
+    "pokemon-tcg-151-elite-trainer-box-1": {
+     "title": "Pok\u00e9mon TCG: 151: Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 604.99,
+     "unavail_since": 1784855601
+    },
+    "pokemon-tcg-obsidian-flames-pokemon-center-elite-trainer-box-1": {
+     "title": "Pok\u00e9mon TCG: Obsidian Flames: Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 704.99
+    },
+    "pokemon-tcg-paldean-fates-elite-trainer-box-pokemon-center-edition": {
+     "title": "Pok\u00e9mon TCG: Paldean Fates: Elite Trainer Box - Pok\u00e9mon Center Edition",
+     "game": "Pokemon",
+     "available": true,
+     "price": 609.99
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
