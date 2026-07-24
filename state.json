@@ -1168,9 +1168,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 128,
+   "check_cursor": 58,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'pokemon-tcg-scarlet-ex-sv1s-booster-box-japanese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3557,9 +3557,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 160,
+   "check_cursor": 200,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'pre-order-march-of-the-machine-draft-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -4844,9 +4844,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'one-piece-tcg-extra-booster-box-eb-03-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6572,9 +6572,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 115,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7568,7 +7568,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'mega-brave-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8278,7 +8278,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'yellow-charlotte-katakuri-starter-deck-st-20-one-piece-copy' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8415,7 +8415,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -9141,9 +9141,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 45,
    "error_streak": 0,
-   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
