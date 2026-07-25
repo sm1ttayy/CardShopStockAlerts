@@ -256,7 +256,7 @@
      "title": "Pokemon Scarlet and Violet 3.5 151 Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 204.0,
+     "price": 177.37,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-4-5-paldean-fates-booster-bundle": {
@@ -1168,7 +1168,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3557,7 +3557,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 106,
+   "check_cursor": 146,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4844,7 +4844,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6578,7 +6578,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 116,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6731,7 +6731,7 @@
      "title": "Pokemon Mega Evolution - Ascended Heroes Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 89.99
+     "price": 79.99
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle-presale": {
      "title": "Pokemon Mega Evolution - Pitch Black Booster Bundle",
@@ -6896,7 +6896,7 @@
      "title": "Pokemon TCG: First Partner Illustration Collection (Series 2)",
      "game": "Pokemon",
      "available": true,
-     "price": 44.99
+     "price": 37.99
     },
     "prismatic-evolutions-super-premium-collection": {
      "title": "2025 Pokemon Prismatic Evolutions Super Premium Collection SV",
@@ -6932,7 +6932,7 @@
      "title": "2025 Pokemon Prismatic Evolutions Poster Collection SV",
      "game": "Pokemon",
      "available": true,
-     "price": 49.99
+     "price": 39.99
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-decks": {
      "title": "Magic: The Gathering Secrets of Strixhaven - Commander Deck",
@@ -7526,7 +7526,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 59.99
+     "price": 44.99
     },
     "champions-path-elite-trainer-box-champions-path-chp": {
      "title": "Pokemon TCG: Champion's Path Elite Trainer Box",
@@ -8279,6 +8279,12 @@
      "available": false,
      "price": 20.0,
      "unavail_since": 1784181955
+    },
+    "obsidian-flames-pokemon-center-elite-trainer-box": {
+     "title": "Obsidian Flames Pok\u00e9mon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 750.0
     }
    },
    "baselined": true,
@@ -8506,8 +8512,9 @@
     "pokemon-tcg-perfect-order-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: Perfect Order: Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 64.99
+     "available": false,
+     "price": 64.99,
+     "unavail_since": 1784962763
     },
     "pokemon-tcg-destined-rivals-sv10-elite-trainer-box-pokemon-center": {
      "title": "Pok\u00e9mon TCG: Destined Rivals (SV10): Elite Trainer Box - Pok\u00e9mon Center",
@@ -8740,9 +8747,9 @@
     "pokemon-tcg-prismatic-evolutions-super-premium-collection": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Super-Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 269.99,
-     "unavail_since": 1784855602
+     "last_restock_alert": 1784962764
     },
     "pokemon-tcg-ascended-heroes-premium-poster-collection": {
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Premium Poster Collection",
@@ -9152,10 +9159,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 609.99
+    },
+    "pokemon-tcg-mega-greninja-ex-premium-collection": {
+     "title": "Pok\u00e9mon TCG: Mega Greninja Ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 44.99
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
