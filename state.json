@@ -1170,7 +1170,7 @@
    "baselined": true,
    "check_cursor": 88,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'pokemon-paldea-evolved-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3559,7 +3559,7 @@
    "baselined": true,
    "check_cursor": 226,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'sun-moon-unbroken-bonds-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -4426,7 +4426,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 452.0,
+     "price": 457.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-mega-brave-japanese-booster-box": {
@@ -4580,7 +4580,7 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 282.0,
+     "price": 281.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-anime-25th-collection-japanese-booster-box-eb02": {
@@ -4657,7 +4657,7 @@
      "title": "Pokemon Scarlet and Violet: Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 312.0,
+     "price": 325.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paradise-dragona-japanese-booster-box": {
@@ -4793,7 +4793,7 @@
      "title": "Pokemon Scarlet and Violet: Paldean Fates Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 632.0,
+     "price": 646.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-bloomburrow-collector-booster-box-pre-order": {
@@ -4844,9 +4844,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 106,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'riftbound-tcg-league-of-legends-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -5244,9 +5244,9 @@
     "magic-the-gathering-aetherdrift-play-booster-box": {
      "title": "Magic the Gathering Aetherdrift Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 119.75,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 109.75,
+     "last_restock_alert": 1784976600
     },
     "magic-the-gathering-marvels-spider-man-collector-booster-box": {
      "title": "Magic: The Gathering Marvel's Spider-Man Collector Booster Box",
@@ -6580,7 +6580,7 @@
    "baselined": true,
    "check_cursor": 50,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7574,7 +7574,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'one-piece-card-game-carrying-on-his-will-booster-box-op-13' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8288,9 +8288,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-play-booster-box-mtg' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8409,7 +8409,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 290.0,
-     "unavail_since": 1784855603
+     "unavail_since": 1784855603,
+     "delisted": true
     },
     "pokemon-tcg-me05-pitch-black-3-pack-blister": {
      "title": "Pokemon TCG: ME05 Pitch Black 3 Pack Blister",
@@ -8422,20 +8423,22 @@
      "game": "Pokemon",
      "available": false,
      "price": 35.0,
-     "unavail_since": 1784855606
+     "unavail_since": 1784855606,
+     "delisted": true
     },
     "pokemon-sv8-5-prismatic-evolutions-booster-bundle-1": {
      "title": "Pokemon: SV8.5 Prismatic Evolutions - Booster Bundle",
      "game": "Pokemon",
      "available": false,
      "price": 75.0,
-     "unavail_since": 1784913220
+     "unavail_since": 1784913220,
+     "delisted": true
     }
    },
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -9170,7 +9173,7 @@
    "baselined": true,
    "check_cursor": 48,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
