@@ -1169,7 +1169,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3559,9 +3559,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 94,
+   "error_streak": 1,
+   "last_error": "Stomping Grounds TCG: product 'magic-2015-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -4847,7 +4847,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6581,7 +6581,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 112,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9175,7 +9175,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
