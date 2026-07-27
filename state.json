@@ -5,8 +5,9 @@
     "one-piece-tcg-title-tba-booster-display-box-op-16": {
      "title": "One Piece TCG: The Time Of Battle Booster Display Box (OP-16)",
      "game": "One Piece",
-     "available": true,
-     "price": 189.99
+     "available": false,
+     "price": 189.99,
+     "unavail_since": 1785160845
     },
     "one-piece-tcg-ib-05-illustration-box-vol-5-english": {
      "title": "One Piece TCG: [IB-05] Illustration Box Vol. 5 [English]",
@@ -1169,9 +1170,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
+   "check_cursor": 45,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'pokemon-tcg-mega-evolution-3-perfect-order-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3559,9 +3560,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 254,
+   "check_cursor": 50,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'two-legends-double-pack-set-volume-5-display-dp-05' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -4847,9 +4848,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 97,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'one-piece-tcg-title-tba-booster-box-op-14-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6587,9 +6588,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7584,7 +7585,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'one-piece-card-game-carrying-on-his-will-booster-box-op-13' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8299,9 +8300,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 19,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-play-booster-box-mtg' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8449,7 +8450,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -9182,9 +9183,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 27,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'one-piece-tcg-illustration-box-volume-8' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
