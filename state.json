@@ -14881,7 +14881,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15371,7 +15371,7 @@
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 83.99,
+     "price": 85.99,
      "unavail_since": 1784083350
     },
     "japanese-forbidden-light-booster-box-sm6": {
@@ -16507,7 +16507,7 @@
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 518.99
+     "price": 518.75
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
@@ -16668,7 +16668,7 @@
      "title": "Lost Origin Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 395.75
+     "price": 393.75
     },
     "pokemon-surging-sparks-booster-bundle": {
      "title": "Surging Sparks Booster Bundle",
@@ -16742,10 +16742,16 @@
      "game": "MTG",
      "available": true,
      "price": 184.75
+    },
+    "stellar-crown-pokemon-center-elite-trainer-box": {
+     "title": "Stellar Crown Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 179.75
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17380,6 +17386,20 @@
      "available": false,
      "price": 49.95,
      "unavail_since": 1785187570
+    },
+    "pokemon-tcg-paldean-fates-elite-trainer-box-etb": {
+     "title": "Pokemon TCG Paldean Fates Elite Trainer Box ETB",
+     "game": "Pokemon",
+     "available": false,
+     "price": 44.95,
+     "unavail_since": 1785192330
+    },
+    "pokemon-tcg-vivid-voltage-elite-trainer-box-etb": {
+     "title": "Pokemon TCG Vivid Voltage Elite Trainer Box ETB",
+     "game": "Pokemon",
+     "available": false,
+     "price": 64.95,
+     "unavail_since": 1785192330
     }
    },
    "baselined": true,
