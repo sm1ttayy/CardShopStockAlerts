@@ -11702,6 +11702,12 @@
      "game": "MTG",
      "available": true,
      "price": 229.95
+    },
+    "mtg-unfinity-english-draft-booster-box": {
+     "title": "MTG - Unfinity - English Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 189.95
     }
    },
    "baselined": true,
@@ -14881,7 +14887,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16751,7 +16757,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
