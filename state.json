@@ -14887,7 +14887,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16754,10 +16754,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 179.75
+    },
+    "dominaria-united-draft-booster-box": {
+     "title": "Dominaria United - Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 189.75
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
