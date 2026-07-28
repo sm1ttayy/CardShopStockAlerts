@@ -10586,7 +10586,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11715,6 +11715,12 @@
      "game": "MTG",
      "available": true,
      "price": 189.95
+    },
+    "pokemon-first-partner-illustration-collection-series-1": {
+     "title": "Pokemon - First Partner Illustration Collection - Series 1",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.95
     }
    },
    "baselined": true,
@@ -12883,7 +12889,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13559,6 +13565,12 @@
     },
     "edge-of-eternities-commander-deck-counter-intelligence": {
      "title": "Edge of Eternities - Commander Deck (Counter Intelligence)",
+     "game": "MTG",
+     "available": true,
+     "price": 79.99
+    },
+    "edge-of-eternities-commander-deck-world-shaper": {
+     "title": "Edge of Eternities - Commander Deck (World Shaper)",
      "game": "MTG",
      "available": true,
      "price": 79.99
@@ -14895,7 +14907,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16777,7 +16789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
