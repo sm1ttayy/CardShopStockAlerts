@@ -10752,8 +10752,9 @@
     "riftbound-vendetta-pre-rift-kit": {
      "title": "Riftbound Vendetta Pre Rift Kit",
      "game": "Riftbound",
-     "available": true,
-     "price": 29.95
+     "available": false,
+     "price": 29.95,
+     "unavail_since": 1785276011
     },
     "mega-venusaur-ex-premium-collection": {
      "title": "Mega Venusaur ex Premium Collection",
@@ -15160,7 +15161,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17048,7 +17049,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 94,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
