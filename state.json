@@ -10586,7 +10586,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11727,6 +11727,12 @@
      "game": "MTG",
      "available": true,
      "price": 109.95
+    },
+    "mtg-universes-beyond-marvel-super-heroes-gift-bundle": {
+     "title": "MTG - Universes Beyond: Marvel Super Heroes - Gift Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -12895,7 +12901,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14913,7 +14919,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16795,7 +16801,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 125,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17454,9 +17460,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 5
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-wings-of-the-captain-op-06-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 45
   },
   "https://sagaconcepts.com": {
    "products": {
