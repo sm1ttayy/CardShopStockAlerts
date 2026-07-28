@@ -14907,7 +14907,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16789,7 +16789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17438,6 +17438,13 @@
      "available": false,
      "price": 64.95,
      "unavail_since": 1785192330
+    },
+    "magic-the-gathering-core-2021-booster-box-36-packs": {
+     "title": "Magic The Gathering: Core 2021 Booster Box (36 Packs)",
+     "game": "MTG",
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1785201330
     }
    },
    "baselined": true,
