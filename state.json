@@ -1170,9 +1170,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-starter-deck-st23-tba' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3043,7 +3043,7 @@
      "title": "Sword & Shield: Darkness Ablaze - Booster Box Display",
      "game": "Pokemon",
      "available": false,
-     "price": 350.0,
+     "price": 400.0,
      "unavail_since": 1784083329
     },
     "ikoria-lair-of-behemoths-booster-box-display": {
@@ -3560,9 +3560,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 195,
+   "check_cursor": 235,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'sword-shield-vivid-voltage-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -4051,7 +4051,7 @@
      "title": "One Piece TCG: YELLOW Charlotte Katakuri Starter Deck (ST-20)",
      "game": "One Piece",
      "available": false,
-     "price": 52.0,
+     "price": 62.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-edward-newgate-starter-deck-pre-order": {
@@ -4584,7 +4584,7 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 281.0,
+     "price": 279.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-anime-25th-collection-japanese-booster-box-eb02": {
@@ -4831,7 +4831,7 @@
      "title": "Pokemon Sword and Shield: Silver Tempest Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 430.0,
+     "price": 420.0,
      "unavail_since": 1784083329
     },
     "commander-masters-commander-deck-planeswalker-party-pre-order": {
@@ -4848,9 +4848,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 97,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'pokemon-tcg-151-horizon-gem-volume-2-booster-box-chinese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6588,9 +6588,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7585,7 +7585,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'one-piece-card-game-carrying-on-his-will-booster-box-op-13' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8300,9 +8300,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'sword-shield-base-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8450,7 +8450,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -9183,9 +9183,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 33,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
