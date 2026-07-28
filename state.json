@@ -11923,6 +11923,12 @@
      "game": "MTG",
      "available": true,
      "price": 249.95
+    },
+    "mtg-aetherdrift-bundle": {
+     "title": "MTG - Aetherdrift - Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 59.95
     }
    },
    "baselined": true,
@@ -15154,7 +15160,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17042,7 +17048,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 94,
    "error_streak": 0,
    "last_error": ""
   },
