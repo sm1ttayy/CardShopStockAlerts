@@ -10375,9 +10375,9 @@
     "prismatic-evolutions-poster-collection-1": {
      "title": "Prismatic Evolutions Poster Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 39.95,
-     "unavail_since": 1785207609
+     "last_restock_alert": 1785256517
     },
     "prismatic-evolutions-super-premium-collection": {
      "title": "Prismatic Evolutions Super Premium Collection",
@@ -10587,7 +10587,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14947,7 +14947,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16829,7 +16829,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17504,7 +17504,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 18
+   "check_cursor": 3
   },
   "https://sagaconcepts.com": {
    "products": {
