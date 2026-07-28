@@ -12013,9 +12013,9 @@
     "league-of-legends-riftbound-tcg-unleashed-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Unleashed Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 179.95,
-     "unavail_since": 1784083348
+     "available": true,
+     "price": 159.95,
+     "last_restock_alert": 1785198015
     },
     "league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Origins Booster Box",
@@ -12870,8 +12870,9 @@
     "pokemon-pitch-black-build-and-battle-pre-order": {
      "title": "Pokemon Pitch Black Build And Battle (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 34.95
+     "available": false,
+     "price": 34.95,
+     "unavail_since": 1785198014
     }
    },
    "baselined": true,
@@ -14887,7 +14888,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16760,10 +16761,16 @@
      "game": "MTG",
      "available": true,
      "price": 189.75
+    },
+    "core-set-2021-booster-box": {
+     "title": "Core Set 2021 - Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 189.99
     }
    },
    "baselined": true,
-   "check_cursor": 114,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
