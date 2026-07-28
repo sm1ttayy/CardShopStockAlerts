@@ -1191,7 +1191,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3591,7 +3591,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3846,7 +3846,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 270.0,
+     "price": 322.0,
      "unavail_since": 1784417507
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -3859,7 +3859,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 181.0,
+     "price": 202.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -4923,7 +4923,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6626,8 +6626,9 @@
     "pokemon-mega-evolution-pitch-black-elite-trainer-10-box-case": {
      "title": "Pokemon Mega Evolution Pitch Black Elite Trainer 10-Box Case",
      "game": "Pokemon",
-     "available": true,
-     "price": 989.75
+     "available": false,
+     "price": 989.75,
+     "unavail_since": 1785280657
     },
     "pokemon-mega-evolution-pitch-black-checklane-blister": {
      "title": "Pokemon Mega Evolution Pitch Black Checklane Blister",
@@ -6663,7 +6664,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8882,9 +8883,10 @@
     "pokemon-tcg-prismatic-evolutions-super-premium-collection": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Super-Premium Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 269.99,
-     "last_restock_alert": 1784962764
+     "last_restock_alert": 1784962764,
+     "unavail_since": 1785280658
     },
     "pokemon-tcg-ascended-heroes-premium-poster-collection": {
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Premium Poster Collection",
@@ -9031,16 +9033,16 @@
     "pokemon-tcg-pitch-black-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Pitch Black: Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 26.94,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 34.99,
+     "last_restock_alert": 1785280659
     },
     "pokemon-tcg-pitch-black-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: Pitch Black: Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 64.99,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1785280657
     },
     "riftbound-tcg-vendetta-the-vendetta-vault": {
      "title": "Riftbound TCG: Vendetta: the Vendetta Vault",
@@ -9347,7 +9349,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
