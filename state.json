@@ -9355,12 +9355,6 @@
      "game": "Pokemon",
      "available": true,
      "price": 200.0
-    },
-    "hob-play-booster-box-moonshot-rips-preorder": {
-     "title": "HOB: Play Booster Box - Moonshot Rips (Preorder)",
-     "game": "MTG",
-     "available": true,
-     "price": 169.99
     }
    },
    "baselined": true,
@@ -10009,10 +10003,9 @@
     "marvel-super-heroes-jumpstart-booster-box-preorder": {
      "title": "Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 139.95,
-     "last_restock_alert": 1784235037,
-     "unavail_since": 1785245405
+     "last_restock_alert": 1784235037
     },
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island Booster Box",
@@ -10591,13 +10584,6 @@
      "available": false,
      "price": 29.95,
      "unavail_since": 1785187221
-    },
-    "star-trek-play-booster-box-preorder": {
-     "title": "Star Trek Play Booster Box - Preorder",
-     "game": "MTG",
-     "available": false,
-     "price": 129.95,
-     "unavail_since": 1785245405
     }
    },
    "baselined": true,
@@ -11364,9 +11350,8 @@
     "one-piece-card-game-set-20-booster-box": {
      "title": "One Piece Card Game - Set 20 Booster Box (Pre-Order)",
      "game": "One Piece",
-     "available": false,
-     "price": 249.95,
-     "unavail_since": 1785245414
+     "available": true,
+     "price": 249.95
     },
     "one-piece-card-game-set-19-booster-box": {
      "title": "One Piece Card Game - Set 19 Booster Box (Pre-Order)",
@@ -13188,10 +13173,9 @@
     "the-hobbit-play-booster-display": {
      "title": "The Hobbit - Play Booster Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 249.99,
-     "last_restock_alert": 1785187236,
-     "unavail_since": 1785245408
+     "last_restock_alert": 1785187236
     },
     "double-pack-set-vol-8": {
      "title": "Double Pack Set Vol. 8",
@@ -13615,7 +13599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14287,7 +14271,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17610,67 +17594,6 @@
      "game": "MTG",
      "available": true,
      "price": 59.99
-    },
-    "magic-the-gathering-ccg-universes-beyond-avatar-the-last-airbender-play-booster-display-30-mtgaib-pb": {
-     "title": "Magic the Gathering CCG Universes Beyond Avatar The Last Airbender Play Booster Display (30) MTGAIB-PB",
-     "game": "MTG",
-     "available": true,
-     "price": 128.99
-    },
-    "magic-the-gathering-ccg-zhalfir-play-booster-display-30": {
-     "title": "Magic the Gathering CCG Zhalfir Play Booster Display (30)",
-     "game": "MTG",
-     "available": true,
-     "price": 179.99
-    },
-    "magic-the-gathering-ccg-nauctis-the-sunken-realm-play-booster-display-30": {
-     "title": "Magic the Gathering CCG Nauctis The Sunken Realm Play Booster Display (30)",
-     "game": "MTG",
-     "available": true,
-     "price": 179.99
-    },
-    "magic-the-gathering-ccg-kamigawa-titanbreach-play-booster-display-30": {
-     "title": "Magic the Gathering CCG Kamigawa Titanbreach Play Booster Display (30)",
-     "game": "MTG",
-     "available": true,
-     "price": 179.99
-    },
-    "magic-the-gathering-ccg-universes-beyond-star-trek-play-booster-display-30": {
-     "title": "Magic the Gathering CCG Universes Beyond Star Trek Play Booster Display (30)",
-     "game": "MTG",
-     "available": true,
-     "price": 154.99
-    },
-    "one-piece-tcg-extra-booster-eb-06-24ct-bjp2884793": {
-     "title": "One Piece TCG Extra Booster Display EB-06 (24 Packs) Title TBA OP-EB06",
-     "game": "One Piece",
-     "available": true,
-     "price": 339.99
-    },
-    "magic-the-gathering-ccg-edge-of-eternities-play-booster-display-30": {
-     "title": "Magic the Gathering CCG Edge of Eternities Play Booster Display (30)",
-     "game": "MTG",
-     "available": false,
-     "price": 124.99,
-     "unavail_since": 1785245503
-    },
-    "one-piece-tcg-extra-booster-eb-05-24ct": {
-     "title": "One Piece TCG Extra Booster Display EB-05 (24 Packs) Title TBA OP-EB05",
-     "game": "One Piece",
-     "available": true,
-     "price": 339.99
-    },
-    "one-piece-tcg-title-tba-booster-op-18-24ct-op-18-bb": {
-     "title": "One Piece TCG Booster (OP-18) (24CT) Title TBA OP-18-BB",
-     "game": "One Piece",
-     "available": true,
-     "price": 259.99
-    },
-    "magic-the-gathering-ccg-universes-beyond-avatar-the-last-airbender-jumpstart-booster-display-24-mtgaib-pb": {
-     "title": "Magic the Gathering CCG Universes Beyond Avatar The Last Airbender Jumpstart Booster Display (24) MTGAIB-PB",
-     "game": "MTG",
-     "available": true,
-     "price": 96.69
     }
    },
    "baselined": true,
