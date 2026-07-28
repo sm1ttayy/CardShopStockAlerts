@@ -9360,7 +9360,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -9773,7 +9773,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'zombicide-the-boys-character-packs-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -10586,9 +10586,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 33,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'the-hobbit-play-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -12901,9 +12901,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-tcg-double-pack-set-volume-10-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -14255,9 +14255,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'riftbound-league-of-legends-tcg-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -14919,9 +14919,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 19,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'steam-siege-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -16801,7 +16801,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17460,8 +17460,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-avatar-the-last-airbender-commander-bundle' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
