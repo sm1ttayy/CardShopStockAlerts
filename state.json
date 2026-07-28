@@ -14941,7 +14941,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16823,7 +16823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 116,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17486,6 +17486,13 @@
      "available": false,
      "price": 59.95,
      "unavail_since": 1785242738
+    },
+    "pokemon-tcg-evolving-skies-elite-trainer-box-etb": {
+     "title": "Pokemon TCG Evolving Skies Elite Trainer Box (ETB)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 59.95,
+     "unavail_since": 1785253525
     }
    },
    "baselined": true,
