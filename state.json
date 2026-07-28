@@ -10756,7 +10756,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13086,7 +13086,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13771,6 +13771,24 @@
      "game": "MTG",
      "available": true,
      "price": 79.99
+    },
+    "marvel-super-heroes-commander-deck-doom-prevails": {
+     "title": "Marvel Super Heroes Commander Deck - Doom Prevails",
+     "game": "MTG",
+     "available": true,
+     "price": 129.99
+    },
+    "marvel-super-heroes-commander-deck-the-fantastic-four": {
+     "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
+     "game": "MTG",
+     "available": true,
+     "price": 99.99
+    },
+    "marvel-super-heroes-commander-deck-wakanda-forever": {
+     "title": "Marvel Super Heroes Commander Deck - Wakanda Forever",
+     "game": "MTG",
+     "available": true,
+     "price": 89.99
     }
    },
    "baselined": true,
@@ -15122,7 +15140,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17010,7 +17028,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 110,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
