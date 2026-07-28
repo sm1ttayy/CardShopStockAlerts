@@ -10538,9 +10538,10 @@
     "prismatic-evolutions-poster-collection-1": {
      "title": "Prismatic Evolutions Poster Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 39.95,
-     "last_restock_alert": 1785256517
+     "last_restock_alert": 1785256517,
+     "unavail_since": 1785271809
     },
     "prismatic-evolutions-super-premium-collection": {
      "title": "Prismatic Evolutions Super Premium Collection",
@@ -15146,7 +15147,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17034,7 +17035,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
