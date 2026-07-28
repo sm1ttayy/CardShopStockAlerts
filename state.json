@@ -1170,9 +1170,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-starter-deck-st23-tba' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3560,9 +3560,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 235,
+   "check_cursor": 19,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'sword-shield-vivid-voltage-booster-box-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -3570,7 +3570,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 451.0,
+     "price": 452.0,
      "last_restock_alert": 1784587256,
      "unavail_since": 1784996007
     },
@@ -3617,7 +3617,7 @@
      "title": "One Piece TCG: Premium Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 941.0,
+     "price": 946.0,
      "unavail_since": 1784083330
     },
     "one-piece-tcg-kingdoms-of-intrigue-booster-box-pre-order": {
@@ -4078,7 +4078,7 @@
      "title": "One Piece Card Game: Premium Card Collection 25th Anniversary Edition (Japanese)",
      "game": "One Piece",
      "available": false,
-     "price": 809.0,
+     "price": 790.0,
      "unavail_since": 1784083332
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection-box-pre-order": {
@@ -4281,7 +4281,7 @@
      "title": "One Piece TCG: Double Pack Volume 5 Set",
      "game": "One Piece",
      "available": false,
-     "price": 39.0,
+     "price": 40.0,
      "unavail_since": 1784083332
     },
     "one-piece-tcg-double-pack-volume-3-set-pre-order": {
@@ -4493,7 +4493,7 @@
      "title": "One Piece TCG: The Best Premium Booster Volume 2 Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 419.0,
+     "price": 420.0,
      "unavail_since": 1784083330
     },
     "pokemon-scarlet-and-violet-black-bolt-japanese-booster-box": {
@@ -4848,9 +4848,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 49,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'pokemon-tcg-151-horizon-gem-volume-2-booster-box-chinese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6588,9 +6588,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7585,7 +7585,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'one-piece-card-game-carrying-on-his-will-booster-box-op-13' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8300,9 +8300,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 17,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'sword-shield-base-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8450,7 +8450,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -9183,9 +9183,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
