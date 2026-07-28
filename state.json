@@ -9940,9 +9940,9 @@
     "riftbound-vendetta-booster-box": {
      "title": "Riftbound Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 119.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1785261611
     },
     "riftbound-origins-proving-grounds-box-set": {
      "title": "Riftbound Origins Proving Grounds Box Set",
@@ -9961,16 +9961,16 @@
     "riftbound-vendetta-vault-bundle": {
      "title": "Riftbound Vendetta Vault Bundle",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 34.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1785261611
     },
     "riftbound-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound Vendetta Showdown Decks: Zed vs Shen",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 24.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1785261612
     },
     "the-hobbit-play-booster-box-preorder": {
      "title": "The Hobbit Play Booster Box - Preorder",
@@ -10584,6 +10584,12 @@
      "available": false,
      "price": 29.95,
      "unavail_since": 1785187221
+    },
+    "riftbound-vendetta-pre-rift-kit": {
+     "title": "Riftbound Vendetta Pre Rift Kit",
+     "game": "Riftbound",
+     "available": true,
+     "price": 29.95
     }
    },
    "baselined": true,
@@ -14947,7 +14953,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16826,10 +16832,16 @@
      "game": "MTG",
      "available": true,
      "price": 189.99
+    },
+    "sea-sky-premium-collection": {
+     "title": "Sea & Sky Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 384.99
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
