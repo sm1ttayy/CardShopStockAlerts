@@ -9761,6 +9761,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 179.99
+    },
+    "pokemon-tcg-sword-shield-elite-trainer-box-plus-zacian": {
+     "title": "Pok\u00e9mon TCG: Sword & Shield Elite Trainer Box Plus Zacian",
+     "game": "Pokemon",
+     "available": false,
+     "price": 79.99,
+     "unavail_since": 1785198615
     }
    },
    "baselined": true,
@@ -10579,7 +10586,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12876,7 +12883,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14888,7 +14895,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16770,7 +16777,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 111,
    "error_streak": 0,
    "last_error": ""
   },
