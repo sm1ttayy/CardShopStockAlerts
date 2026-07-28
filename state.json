@@ -11910,6 +11910,12 @@
      "available": false,
      "price": 199.95,
      "unavail_since": 1785242712
+    },
+    "mtg-zendikar-rising-set-booster-box": {
+     "title": "MTG - Zendikar Rising - Set Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 249.95
     }
    },
    "baselined": true,
@@ -15116,7 +15122,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17004,7 +17010,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
