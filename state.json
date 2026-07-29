@@ -15216,7 +15216,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17135,7 +17135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17806,6 +17806,12 @@
      "available": false,
      "price": 59.95,
      "unavail_since": 1785253525
+    },
+    "riftbound-tcg-vendetta-booster-box": {
+     "title": "Riftbound TCG Vendetta Booster Box",
+     "game": "Riftbound",
+     "available": true,
+     "price": 129.95
     }
    },
    "baselined": true,
