@@ -14525,6 +14525,12 @@
      "available": false,
      "price": 89.95,
      "unavail_since": 1785333906
+    },
+    "mtg-core-2020-booster": {
+     "title": "MTG CORE 2020 BOOSTER BOX",
+     "game": "MTG",
+     "available": true,
+     "price": 199.95
     }
    },
    "baselined": true,
@@ -15198,7 +15204,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15300,7 +15306,7 @@
      "title": "Secrets of Strixhaven Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 141.49,
+     "price": 139.75,
      "unavail_since": 1784083350
     },
     "legacy-of-the-master-booster-box-op12": {
@@ -15484,7 +15490,7 @@
      "title": "Scarlet ex Booster Box (JP)",
      "game": "Pokemon",
      "available": false,
-     "price": 94.75,
+     "price": 93.75,
      "unavail_since": 1784083350
     },
     "raging-surf-booster-box-jp": {
@@ -15512,7 +15518,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 429.99,
+     "price": 409.75,
      "unavail_since": 1784083350
     },
     "black-bolt-booster-box": {
@@ -15580,14 +15586,14 @@
      "title": "Assassin's Creed Beyond Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 118.99,
+     "price": 124.75,
      "unavail_since": 1784083350
     },
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
      "title": "The Lord of the Rings: Tales of Middle-earth Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 488.49,
+     "price": 479.75,
      "unavail_since": 1784083350
     },
     "wings-of-the-captain-booster-box-op06": {
@@ -15601,7 +15607,7 @@
      "title": "Chilling Reign Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 3294.75,
+     "price": 3199.75,
      "unavail_since": 1784083350
     },
     "dungeons-dragons-battle-for-baldurs-gate-set-booster-box": {
@@ -16031,7 +16037,7 @@
      "title": "Ultra Prism Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1463.99,
+     "price": 1581.25,
      "unavail_since": 1784083350
     },
     "rebel-clash-booster-box": {
@@ -16705,7 +16711,7 @@
      "title": "Aetherdrift Commander Deck - Eternal Might",
      "game": "MTG",
      "available": true,
-     "price": 45.75
+     "price": 45.99
     },
     "edge-of-eternities-commander-deck-counter-intelligence": {
      "title": "Edge of Eternities Counter Intelligence Commander Deck",
@@ -17108,10 +17114,16 @@
      "available": false,
      "price": 30.75,
      "unavail_since": 1785333928
+    },
+    "commander-2020-deck-ruthless-regiment": {
+     "title": "Commander 2020 Deck - Ruthless Regiment",
+     "game": "MTG",
+     "available": true,
+     "price": 79.75
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
