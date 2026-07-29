@@ -13109,6 +13109,12 @@
      "available": false,
      "price": 34.95,
      "unavail_since": 1785198014
+    },
+    "pre-order-pokemon-celebrations-ultra-premium-collection-october-2021": {
+     "title": "Pokemon Celebrations Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1999.99
     }
    },
    "baselined": true,
@@ -15172,7 +15178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17060,7 +17066,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 113,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
