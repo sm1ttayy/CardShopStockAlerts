@@ -297,8 +297,9 @@
     "magic-the-gathering-secrets-of-strixhaven-play-booster-display-box": {
      "title": "Magic: The Gathering | Secrets of Strixhaven - Play Booster Display Box",
      "game": "MTG",
-     "available": true,
-     "price": 130.18
+     "available": false,
+     "price": 130.18,
+     "unavail_since": 1785344057
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-display-box": {
      "title": "Magic: The Gathering: Avatar: The Last Airbender Play Booster Display Box",
@@ -622,7 +623,7 @@
      "title": "Magic the Gathering: Edge of Eternities Commander Deck - World Shaper",
      "game": "MTG",
      "available": false,
-     "price": 45.41,
+     "price": 49.83,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-lorwyn-eclipsed-blight-curse-commander-deck-pre-order": {
@@ -648,7 +649,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Booster Bundle",
      "game": "MTG",
      "available": false,
-     "price": 56.55,
+     "price": 50.33,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-bundle": {
@@ -1188,10 +1189,17 @@
      "available": false,
      "price": 69.99,
      "unavail_since": 1785267939
+    },
+    "riftbound-tcg-league-of-legends-vendetta-showdown-decks-zed-versus-shen": {
+     "title": "Riftbound TCG: League of Legends: Vendetta - Showdown Decks: Zed Versus Shen (Pre-Order)",
+     "game": "Riftbound",
+     "available": false,
+     "price": 34.99,
+     "unavail_since": 1785344056
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2195,7 +2203,7 @@
      "title": "Duskmourn: House of Horror Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 155.0,
+     "price": 179.0,
      "unavail_since": 1784083329
     },
     "duskmourn-house-of-horror-collector-booster-box": {
@@ -2263,8 +2271,9 @@
     "modern-horizons-3-play-booster-box": {
      "title": "Modern Horizons 3 Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 265.0
+     "available": false,
+     "price": 265.0,
+     "unavail_since": 1785344060
     },
     "modern-horizons-3-collector-booster-box": {
      "title": "Modern Horizons 3 Collector Booster Box",
@@ -2311,8 +2320,9 @@
     "outlaws-of-thunder-junction-play-booster-box": {
      "title": "Outlaws of Thunder Junction Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 175.0
+     "available": false,
+     "price": 175.0,
+     "unavail_since": 1785344060
     },
     "outlaws-of-thunder-junction-collector-booster-box": {
      "title": "Outlaws of Thunder Junction Collector Booster Box",
@@ -3591,7 +3601,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 107,
+   "check_cursor": 147,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3734,7 +3744,7 @@
      "title": "Pokemon: Scarlet and Violet - Prismatic Evolutions Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 178.0,
+     "price": 176.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-amp-violet-151-elite-trainer-box-pre-order": {
@@ -3769,21 +3779,21 @@
      "title": "Pokemon Celebrations Elite Trainer Box (Pokemon Center Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 666.0,
+     "price": 697.0,
      "unavail_since": 1784083329
     },
     "pkm_generation_elite_box": {
      "title": "Pokemon TCG: Generations Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 5260.0,
+     "price": 683.0,
      "unavail_since": 1784083329
     },
     "pkm_celebration_etb": {
      "title": "Pokemon TCG: Celebrations - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 418.0,
+     "price": 417.0,
      "unavail_since": 1784083329
     },
     "pkm_shining_legends_etb": {
@@ -3846,7 +3856,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 322.0,
+     "price": 309.0,
      "unavail_since": 1784417507
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -3903,14 +3913,14 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 155.0,
+     "price": 157.0,
      "unavail_since": 1785267925
     },
     "magic-the-gathering-aetherdrift-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 110.0
+     "price": 109.0
     },
     "magic-the-gathering-reality-fracture-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Reality Fracture Play Booster Box (PRE-ORDER)",
@@ -3941,7 +3951,7 @@
      "title": "Magic The Gathering: Edge of Eternities Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 173.0,
+     "price": 178.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-marvel-super-heroes-collector-booster-box-pre-order": {
@@ -4183,7 +4193,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 67.0
+     "price": 65.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-doom-prevails-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Doom Prevails",
@@ -4273,7 +4283,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Pizza Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 84.0
+     "price": 89.0
     },
     "one-piece-tcg-double-pack-volume-9-set": {
      "title": "One Piece TCG: Double Pack Volume 9 Set",
@@ -4382,7 +4392,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Build and Battle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 51.0,
+     "price": 52.0,
      "last_restock_alert": 1784313939
     },
     "pokemon-tcg-sparkling-fantasy-chinese-booster-box": {
@@ -4616,7 +4626,7 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 279.0,
+     "price": 278.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-anime-25th-collection-japanese-booster-box-eb02": {
@@ -4665,7 +4675,7 @@
      "title": "Magic the Gathering: Innistrad Remastered Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 294.0,
+     "price": 289.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-royal-bloodlines-booster-box-op10-pre-order": {
@@ -4808,7 +4818,7 @@
      "title": "Pokemon Scarlet and Violet Pokemon Center Elite Trainer Box (Koraidon)",
      "game": "Pokemon",
      "available": false,
-     "price": 304.0,
+     "price": 310.0,
      "unavail_since": 1784083329
     },
     "pkm_go_etb_plus": {
@@ -4876,7 +4886,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Gift Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 84.0
+     "price": 88.0
     },
     "one-piece-tcg-premium-card-collection-film-red-edition": {
      "title": "One Piece TCG: Premium Card Collection Film Red Edition",
@@ -4889,7 +4899,7 @@
      "title": "Pokemon: Scarlet and Violet - Prismatic Evolutions Poster Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 40.0
     },
     "pokemon-scarlet-and-violet-battle-partners-japanese-collection-file-set-lillie": {
      "title": "Pokemon Scarlet and Violet: Battle Partners Japanese Collection File Set (Lillie)",
@@ -4907,7 +4917,7 @@
      "title": "Magic the Gathering The Lord of the Rings: Tales of Middle-earth Jumpstart Volume 2 Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 346.0
+     "price": 367.0
     },
     "magic-the-gathering-lorwyn-eclipsed-commander-deck-dance-of-the-elements-pre-order": {
      "title": "Magic The Gathering: Lorwyn Eclipsed Commander Deck - Dance of the Elements",
@@ -4923,7 +4933,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5279,7 +5289,7 @@
      "title": "Magic the Gathering Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 139.75
+     "price": 129.75
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-box": {
      "title": "Magic The Gathering Avatar The Last Airbender Play Booster Box",
@@ -6664,7 +6674,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8572,6 +8582,13 @@
      "available": false,
      "price": 155.0,
      "unavail_since": 1785267924
+    },
+    "riftbound-tcg-vendetta-savage-bundle": {
+     "title": "Riftbound TCG: Vendetta Savage Bundle",
+     "game": "Riftbound",
+     "available": false,
+     "price": 300.0,
+     "unavail_since": 1785344050
     }
    },
    "baselined": true,
@@ -9356,7 +9373,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
