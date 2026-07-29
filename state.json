@@ -1191,9 +1191,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-dp-08-double-pack-volume-9-english' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3591,9 +3591,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 241,
+   "check_cursor": 27,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'tempest-draft-booster-box-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -4923,9 +4923,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-edge-of-eternities-play-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6664,9 +6664,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 128,
+   "check_cursor": 22,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product 'one-piece-tcg-two-legends-double-pack' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7662,7 +7662,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'one-piece-card-game-carrying-on-his-will-booster-box-op-13' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8420,9 +8420,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-draft-night-mtg' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8577,7 +8577,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'magic-the-gathering-the-hobbit-play-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -9356,9 +9356,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'magic-the-gathering-zendikar-rising-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
