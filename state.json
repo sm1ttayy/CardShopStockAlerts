@@ -14472,7 +14472,7 @@
      "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA VAULT PRE ORDER ^ JULY 31",
      "game": "Riftbound",
      "available": false,
-     "price": 49.95,
+     "price": 64.95,
      "unavail_since": 1785187225
     },
     "mtg-the-hobbit-bundle": {
@@ -14537,6 +14537,12 @@
      "game": "MTG",
      "available": true,
      "price": 229.95
+    },
+    "mtg-marvel-super-heroes-bundle": {
+     "title": "MTG MARVEL SUPER HEROES BUNDLE",
+     "game": "MTG",
+     "available": true,
+     "price": 89.95
     }
    },
    "baselined": true,
@@ -15210,7 +15216,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17129,7 +17135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
