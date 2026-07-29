@@ -1199,7 +1199,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3601,7 +3601,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 187,
+   "check_cursor": 227,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4933,7 +4933,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6674,7 +6674,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 99,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9370,10 +9370,17 @@
      "game": "MTG",
      "available": true,
      "price": 84.99
+    },
+    "one-piece-tcg-double-pack-set-volume-12": {
+     "title": "One Piece TCG: Double Pack Set: Volume 12",
+     "game": "One Piece",
+     "available": false,
+     "price": 11.99,
+     "unavail_since": 1785354456
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
