@@ -12315,8 +12315,9 @@
     "league-of-legends-riftbound-tcg-vendetta-vault-pre-order": {
      "title": "League of Legends Riftbound TCG: Vendetta Vault (Pre Order)",
      "game": "Riftbound",
-     "available": true,
-     "price": 64.95
+     "available": false,
+     "price": 64.95,
+     "unavail_since": 1785354911
     },
     "league-of-legends-riftbound-tcg-proving-grounds-box-set-pre-order": {
      "title": "League of Legends Riftbound TCG: Proving Grounds Box Set",
@@ -15245,7 +15246,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17164,7 +17165,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
