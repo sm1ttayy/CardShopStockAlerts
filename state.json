@@ -1191,9 +1191,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-dp-08-double-pack-volume-9-english' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3591,9 +3591,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 201,
+   "check_cursor": 241,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'tempest-draft-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -3980,7 +3980,7 @@
      "title": "Magic The Gathering: Edge of Eternities Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 787.0,
+     "price": 751.0,
      "unavail_since": 1784083329
     },
     "mtg_cl_bldrgt_cbb": {
@@ -4693,7 +4693,7 @@
      "title": "Pokemon Scarlet and Violet: Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 325.0,
+     "price": 315.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paradise-dragona-japanese-booster-box": {
@@ -4822,14 +4822,14 @@
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 281.0,
+     "price": 280.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
      "title": "Pokemon Scarlet and Violet: Paldean Fates Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 646.0,
+     "price": 644.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-bloomburrow-collector-booster-box-pre-order": {
@@ -4923,9 +4923,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 7,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-edge-of-eternities-play-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6664,9 +6664,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 128,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product 'one-piece-tcg-two-legends-double-pack' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6844,7 +6844,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 79.99,
-     "unavail_since": 1784083329
+     "unavail_since": 1784083329,
+     "delisted": true
     },
     "pokemon-mega-evolution-booster-bundle": {
      "title": "Pokemon Mega Evolution - Booster Bundle",
@@ -7661,7 +7662,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'one-piece-card-game-carrying-on-his-will-booster-box-op-13' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8419,9 +8420,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-draft-night-mtg' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8576,7 +8577,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'magic-the-gathering-the-hobbit-play-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -8717,9 +8718,9 @@
     "pokemon-tcg-journey-together-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Journey Together: Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 44.99,
-     "unavail_since": 1784855601
+     "last_restock_alert": 1785325045
     },
     "pokemon-tcg-ascended-heroes-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Booster Bundle",
@@ -9355,9 +9356,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 18,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'magic-the-gathering-zendikar-rising-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
