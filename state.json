@@ -10514,9 +10514,10 @@
     "journey-together-booster-bundle": {
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 47.95,
-     "last_restock_alert": 1785333911
+     "last_restock_alert": 1785333911,
+     "unavail_since": 1785337812
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -15209,7 +15210,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17128,7 +17129,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 96,
    "error_streak": 0,
    "last_error": ""
   },
