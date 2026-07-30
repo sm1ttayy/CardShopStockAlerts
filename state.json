@@ -13937,9 +13937,9 @@
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Showdown Decks - Zed vs Shen",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 39.99,
-     "unavail_since": 1785377712
+     "last_restock_alert": 1785378611
     }
    },
    "baselined": true,
@@ -15322,7 +15322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17248,7 +17248,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
