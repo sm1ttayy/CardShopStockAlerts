@@ -14649,6 +14649,13 @@
      "game": "MTG",
      "available": true,
      "price": 89.95
+    },
+    "one-piece-cg-dp06-double-pack-set-vol-6": {
+     "title": "ONE PIECE CG DP06 DOUBLE PACK SET VOL 6",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.95,
+     "unavail_since": 1785429605
     }
    },
    "baselined": true,
@@ -14764,7 +14771,7 @@
      "title": "Team Rocket Booster Box [1st Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 13368.32,
+     "price": 13474.34,
      "unavail_since": 1784083349
     },
     "gym-heroes-booster-box-1st-edition": {
@@ -15322,7 +15329,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17267,7 +17274,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
