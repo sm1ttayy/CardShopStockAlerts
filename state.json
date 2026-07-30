@@ -15301,7 +15301,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15845,8 +15845,9 @@
     "phantasmal-flames-booster-box": {
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 439.75
+     "available": false,
+     "price": 434.49,
+     "unavail_since": 1785376822
     },
     "korean-blue-sky-stream-booster-box": {
      "title": "Korean Blue Sky Stream Booster Box",
@@ -17220,7 +17221,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
