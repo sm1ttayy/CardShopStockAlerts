@@ -9896,9 +9896,9 @@
     "pokemon-trading-card-game-pitch-black-booster-box-me05-pitch-black-me05": {
      "title": "Pokemon Trading Card Game: Pitch Black Booster Box - ME05: Pitch Black (ME05) LIMIT 1 PER PERSON.",
      "game": "Pokemon",
-     "available": false,
-     "price": 240.0,
-     "unavail_since": 1784083341
+     "available": true,
+     "price": 189.99,
+     "last_restock_alert": 1785429310
     },
     "pokemon-abyss-eye-m5-booster-box-mega-series-japanese": {
      "title": "Pok\u00e9mon Abyss Eye M5 Booster Box - Mega Series - Japanese",
@@ -10186,10 +10186,9 @@
     "riftbound-vendetta-booster-box": {
      "title": "Riftbound Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 119.95,
-     "last_restock_alert": 1785261611,
-     "unavail_since": 1785285910
+     "last_restock_alert": 1785429310
     },
     "riftbound-origins-proving-grounds-box-set": {
      "title": "Riftbound Origins Proving Grounds Box Set",
@@ -15323,7 +15322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17268,7 +17267,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
