@@ -15370,7 +15370,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17313,10 +17313,16 @@
      "game": "MTG",
      "available": true,
      "price": 219.25
+    },
+    "kaldheim-phantom-premonition-commander-deck": {
+     "title": "Kaldheim - Phantom Premonition Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 89.75
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
