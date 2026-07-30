@@ -15322,7 +15322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17248,7 +17248,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 117,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17935,9 +17935,9 @@
     "magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs": {
      "title": "Magic: The Gathering The Hobbit Play Booster Box (30 Booster Packs)",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 169.95,
-     "unavail_since": 1785378327
+     "last_restock_alert": 1785378928
     }
    },
    "baselined": true,
