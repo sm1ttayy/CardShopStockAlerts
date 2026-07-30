@@ -15178,14 +15178,14 @@
      "title": "XY Ancient Origins Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1225.42,
+     "price": 1235.14,
      "unavail_since": 1784083349
     },
     "xy-breakthrough-booster-box": {
      "title": "XY BREAKthrough Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2382.94,
+     "price": 2401.84,
      "unavail_since": 1784083349
     },
     "xy-breakpoint-booster-box": {
@@ -15206,28 +15206,28 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 874.5,
+     "price": 881.44,
      "unavail_since": 1784083349
     },
     "xy-evolutions-booster-box-case": {
      "title": "XY Evolutions Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 11057.75,
+     "price": 11145.44,
      "unavail_since": 1784083349
     },
     "xy-evolutions-booster-box": {
      "title": "XY Evolutions Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1857.55,
+     "price": 1872.28,
      "unavail_since": 1784083349
     },
     "sun-moon-booster-box": {
      "title": "Sun & Moon Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 699.87,
+     "price": 705.42,
      "unavail_since": 1784083349
     },
     "guardians-rising-booster-box": {
@@ -15323,7 +15323,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15705,14 +15705,14 @@
      "title": "Assassin's Creed Beyond Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 124.75,
+     "price": 129.75,
      "unavail_since": 1784083350
     },
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
      "title": "The Lord of the Rings: Tales of Middle-earth Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 479.75,
+     "price": 484.75,
      "unavail_since": 1784083350
     },
     "wings-of-the-captain-booster-box-op06": {
@@ -15760,7 +15760,7 @@
      "title": "500 Years in the Future Booster Box [OP07]",
      "game": "One Piece",
      "available": false,
-     "price": 359.75,
+     "price": 349.99,
      "unavail_since": 1784083350
     },
     "memorial-collection-booster-box-eb01": {
@@ -15786,7 +15786,7 @@
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
      "available": false,
-     "price": 674.99,
+     "price": 689.75,
      "unavail_since": 1784083350
     },
     "journey-together-non-enhanced-booster-box": {
@@ -15813,7 +15813,7 @@
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 84.99,
+     "price": 85.99,
      "unavail_since": 1784083350
     },
     "japanese-forbidden-light-booster-box-sm6": {
@@ -17258,10 +17258,16 @@
      "game": "MTG",
      "available": true,
      "price": 199.75
+    },
+    "kamigawa-neon-dynasty-draft-booster-box": {
+     "title": "Kamigawa: Neon Dynasty - Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 219.25
     }
    },
    "baselined": true,
-   "check_cursor": 113,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
