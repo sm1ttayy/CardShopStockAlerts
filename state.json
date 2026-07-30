@@ -13923,16 +13923,16 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 169.99,
-     "unavail_since": 1785377711
+     "last_restock_alert": 1785378310
     },
     "riftbound-league-of-legends-tcg-vendetta-vendetta-vault": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Vendetta Vault",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 59.99,
-     "unavail_since": 1785377712
+     "last_restock_alert": 1785378311
     },
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Showdown Decks - Zed vs Shen",
@@ -15322,7 +15322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17248,7 +17248,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17931,6 +17931,13 @@
      "game": "Riftbound",
      "available": true,
      "price": 129.95
+    },
+    "magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs": {
+     "title": "Magic: The Gathering The Hobbit Play Booster Box (30 Booster Packs)",
+     "game": "MTG",
+     "available": false,
+     "price": 169.95,
+     "unavail_since": 1785378327
     }
    },
    "baselined": true,
