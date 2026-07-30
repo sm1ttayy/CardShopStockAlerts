@@ -10896,7 +10896,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15370,7 +15370,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17218,8 +17218,9 @@
     "final-fantasy-commander-deck-revival-trance": {
      "title": "Final Fantasy Commander Deck [Revival Trance]",
      "game": "MTG",
-     "available": true,
-     "price": 35.99
+     "available": false,
+     "price": 35.99,
+     "unavail_since": 1785438628
     },
     "marvel-super-heroes-gift-bundle": {
      "title": "Marvel Super Heroes - Gift Bundle",
@@ -17315,7 +17316,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
