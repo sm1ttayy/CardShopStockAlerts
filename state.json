@@ -15329,7 +15329,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17274,7 +17274,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 92,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17956,7 +17956,7 @@
      "title": "Riftbound: League of Legends TCG Vendetta Vault",
      "game": "Riftbound",
      "available": true,
-     "price": 129.95
+     "price": 34.95
     },
     "magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs": {
      "title": "Magic: The Gathering The Hobbit Play Booster Box (30 Booster Packs) (Pre Order)",
@@ -18052,8 +18052,9 @@
     "magic-the-gathering-universes-beyond-marvel-super-heroes-the-fantastic-four-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes The Fantastic Four Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 43.99
+     "available": false,
+     "price": 43.99,
+     "unavail_since": 1785434730
     },
     "magic-the-gathering-universes-beyond-marvel-super-heroes-doom-prevails-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Doom Prevails Commander Deck",
