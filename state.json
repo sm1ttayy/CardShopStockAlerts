@@ -10053,9 +10053,9 @@
     "chaos-rising-booster-box": {
      "title": "Pokemon ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 189.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1785436207
     },
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon Perfect Order Booster Box",
@@ -10081,9 +10081,9 @@
     "pokemon-me05-pitch-black-booster-box": {
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 189.95,
-     "unavail_since": 1784316318
+     "available": true,
+     "price": 184.95,
+     "last_restock_alert": 1785436207
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
      "title": "Pokemon ME04 Chaos Rising Elite Trainer Box",
@@ -15329,7 +15329,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17274,7 +17274,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
