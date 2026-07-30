@@ -13919,6 +13919,27 @@
      "game": "MTG",
      "available": true,
      "price": 89.99
+    },
+    "riftbound-league-of-legends-tcg-vendetta-booster-box": {
+     "title": "Riftbound: League of Legends TCG: Vendetta - Booster Box",
+     "game": "Riftbound",
+     "available": false,
+     "price": 169.99,
+     "unavail_since": 1785377711
+    },
+    "riftbound-league-of-legends-tcg-vendetta-vendetta-vault": {
+     "title": "Riftbound: League of Legends TCG: Vendetta - Vendetta Vault",
+     "game": "Riftbound",
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1785377712
+    },
+    "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
+     "title": "Riftbound: League of Legends TCG: Vendetta - Showdown Decks - Zed vs Shen",
+     "game": "Riftbound",
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1785377712
     }
    },
    "baselined": true,
@@ -15301,7 +15322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17218,10 +17239,16 @@
      "game": "MTG",
      "available": true,
      "price": 78.75
+    },
+    "shrouded-fable-illustration-collection-kingambit": {
+     "title": "Shrouded Fable Illustration Collection [Kingambit]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 51.99
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
