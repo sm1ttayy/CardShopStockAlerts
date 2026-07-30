@@ -15323,7 +15323,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15536,8 +15536,9 @@
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 546.75
+     "available": false,
+     "price": 533.99,
+     "unavail_since": 1785428425
     },
     "brilliant-stars-booster-box": {
      "title": "Brilliant Stars Booster Box",
@@ -17267,7 +17268,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 108,
    "error_streak": 0,
    "last_error": ""
   },
