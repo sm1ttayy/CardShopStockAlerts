@@ -1241,9 +1241,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'pokemon-tcg-mega-evolution-4-chaos-rising-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3643,9 +3643,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'innistrad-midnight-hunt-japanese-set-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -3807,7 +3807,7 @@
      "title": "Pokemon TCG: Sword and Shield - Evolving Skies Elite Trainer Box (Glaceon/Vaporeon/Sylveon/Espeon)",
      "game": "Pokemon",
      "available": false,
-     "price": 525.0,
+     "price": 530.0,
      "unavail_since": 1784083329
     },
     "pkm_go_etb": {
@@ -3828,14 +3828,14 @@
      "title": "Pokemon TCG: Generations Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 683.0,
+     "price": 4358.0,
      "unavail_since": 1784083329
     },
     "pkm_celebration_etb": {
      "title": "Pokemon TCG: Celebrations - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 417.0,
+     "price": 413.0,
      "unavail_since": 1784083329
     },
     "pkm_shining_legends_etb": {
@@ -4982,9 +4982,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'pokemon-scarlet-and-violet-paradise-dragona-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6723,9 +6723,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 125,
+   "check_cursor": 165,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product 'pokemon-white-flare-japanese-booster-box-sv11w' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -6856,9 +6856,9 @@
     "scarlet-violet-prismatic-evolutions-pokemon-center-elite-trainer-box": {
      "title": "2025 Pokemon Prismatic Evolutions Elite Trainer Box SV",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 174.99,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1785410680
     },
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
      "title": "Pokemon Mega Evolution - Chaos Rising Booster Bundle",
@@ -7526,7 +7526,7 @@
      "title": "Mega Dream ex Booster Box (Japanese)",
      "game": "Pokemon",
      "available": false,
-     "price": 99.99,
+     "price": 100.0,
      "unavail_since": 1784083329
     },
     "scarlet-violet-paradox-rift-booster-box": {
@@ -7721,7 +7721,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'one-piece-card-game-carrying-on-his-will-booster-box-op-13' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8479,9 +8479,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 7,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'carrying-on-his-will-booster-box-op-13-one-piece' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8643,7 +8643,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'riftbound-tcg-vendetta-savage-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -9429,9 +9429,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'pokemon-tcg-prismatic-evolutions-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
