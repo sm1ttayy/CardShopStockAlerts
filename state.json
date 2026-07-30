@@ -10698,9 +10698,9 @@
     "prismatic-evolutions-tech-sticker-collection-case": {
      "title": "Prismatic Evolutions Tech Sticker Collection Set of 3",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 119.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1785448208
     },
     "modern-horizons-3-play-booster-case-6-boxes": {
      "title": "Modern Horizons 3 Play Booster Case (6 Boxes)",
@@ -15369,7 +15369,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17321,7 +17321,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 123,
    "error_streak": 0,
    "last_error": ""
   },
