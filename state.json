@@ -15212,7 +15212,7 @@
      "title": "Guardians Rising Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1324.21,
+     "price": 1334.71,
      "unavail_since": 1784083349
     },
     "pokemon-mega-dream-ex-m2a-japanese-booster-box": {
@@ -15301,7 +15301,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17220,7 +17220,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17894,6 +17894,12 @@
     },
     "riftbound-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG Vendetta Booster Box",
+     "game": "Riftbound",
+     "available": true,
+     "price": 129.95
+    },
+    "riftbound-league-of-legends-tcg-vendetta-vault": {
+     "title": "Riftbound: League of Legends TCG Vendetta Vault",
      "game": "Riftbound",
      "available": true,
      "price": 129.95
