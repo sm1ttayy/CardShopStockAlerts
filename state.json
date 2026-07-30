@@ -15323,7 +15323,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16248,7 +16248,7 @@
      "title": "Ravnica Allegiance Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 154.75,
+     "price": 154.25,
      "unavail_since": 1784083350
     },
     "mtg-ravnica-remastered-draft-booster-box": {
@@ -16350,7 +16350,7 @@
      "title": "Lost Caverns of Ixalan Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1007.49,
+     "price": 1199.75,
      "unavail_since": 1784083350
     },
     "mtg-fallout-collector-booster-box": {
@@ -17267,7 +17267,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 109,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18038,8 +18038,9 @@
     "magic-the-gathering-universes-beyond-marvel-super-heroes-avengers-assemble-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Avengers Assemble Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 59.99
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1785421852
     },
     "magic-the-gathering-universes-beyond-marvel-super-heroes-the-fantastic-four-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes The Fantastic Four Commander Deck",
