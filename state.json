@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3643,7 +3643,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 231,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4982,7 +4982,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6723,7 +6723,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8638,6 +8638,46 @@
      "available": false,
      "price": 300.0,
      "unavail_since": 1785344050
+    },
+    "pokemon-sv08-surging-sparks-booster-box-11-8-24": {
+     "title": "Pokemon TCG: SV08 Surging Sparks Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 260.0
+    },
+    "pokemon-sv09-journey-together-booster-box-not-enhanced-no-promo-1": {
+     "title": "Pokemon: SV09 Journey Together Booster Box - NOT Enhanced // NO PROMO",
+     "game": "Pokemon",
+     "available": true,
+     "price": 240.0
+    },
+    "pokemon-sv09-journey-together-booster-box-enhanced-1": {
+     "title": "Pokemon: SV09 Journey Together Booster Box - Enhanced",
+     "game": "Pokemon",
+     "available": false,
+     "price": 215.0,
+     "unavail_since": 1785437401
+    },
+    "pokemon-sv07-stellar-crown-booster-box-1": {
+     "title": "Pokemon: SV07 Stellar Crown - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 260.0,
+     "unavail_since": 1785437401
+    },
+    "pokemon-scarlet-violet-booster-box": {
+     "title": "Pokemon: SV01 Scarlet & Violet Base Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 250.0,
+     "unavail_since": 1785437401
+    },
+    "pokemon-sv06-twilight-masquerade-booster-box-5-24-24": {
+     "title": "Pokemon TCG: SV06 Twilight Masquerade Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 325.0,
+     "unavail_since": 1785437401
     }
    },
    "baselined": true,
@@ -9429,7 +9469,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
