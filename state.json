@@ -10226,10 +10226,9 @@
     "riftbound-vendetta-booster-box": {
      "title": "Riftbound Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 119.95,
-     "last_restock_alert": 1785429310,
-     "unavail_since": 1785436816
+     "last_restock_alert": 1785429310
     },
     "riftbound-origins-proving-grounds-box-set": {
      "title": "Riftbound Origins Proving Grounds Box Set",
@@ -15370,7 +15369,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17322,7 +17321,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
