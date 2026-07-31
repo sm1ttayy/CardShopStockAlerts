@@ -11755,11 +11755,11 @@
      "price": 99.95
     },
     "pokemon-mega-evolution-pitch-black-build-and-battle-kit": {
-     "title": "Pokemon - Mega Evolution - Pitch Black - Build and Battle Kit (Pre-Order)",
+     "title": "Pokemon - Mega Evolution - Pitch Black - Build and Battle Kit",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 59.95,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1785515436
     },
     "vaughan-events-riftbound-vendetta-5k": {
      "title": "Vaughan Events - Riftbound Vendetta 5k!",
@@ -15584,7 +15584,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16531,7 +16531,7 @@
      "title": "Dominaria Remastered Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 278.49,
+     "price": 278.25,
      "unavail_since": 1784083350
     },
     "japanese-night-wanderer-booster-box": {
@@ -17548,7 +17548,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 103,
    "error_streak": 0,
    "last_error": ""
   },
