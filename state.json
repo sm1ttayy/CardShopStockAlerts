@@ -15600,7 +15600,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15715,10 +15715,9 @@
     "pitch-black-booster-box": {
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 244.99,
-     "last_restock_alert": 1784317833,
-     "unavail_since": 1785187237
+     "available": true,
+     "price": 187.49,
+     "last_restock_alert": 1785526241
     },
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island Booster Box",
@@ -15813,9 +15812,8 @@
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 479.75,
-     "unavail_since": 1785428425
+     "available": true,
+     "price": 528.25
     },
     "brilliant-stars-booster-box": {
      "title": "Brilliant Stars Booster Box",
@@ -16595,7 +16593,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 296.25
+     "price": 262.99
     },
     "crimson-invasion-booster-box": {
      "title": "Crimson Invasion Booster Box",
@@ -17564,7 +17562,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
