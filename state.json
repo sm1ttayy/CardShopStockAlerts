@@ -12199,6 +12199,13 @@
      "game": "MTG",
      "available": true,
      "price": 59.95
+    },
+    "one-piece-card-game-premium-card-collection-best-selection-vol-6": {
+     "title": "One Piece Card Game - Premium Card Collection - Best Selection Vol. 6 (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 119.95,
+     "unavail_since": 1785513305
     }
    },
    "baselined": true,
@@ -15552,7 +15559,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17516,7 +17523,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
