@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 89,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 215,
+   "check_cursor": 255,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5007,7 +5007,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 88,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6762,7 +6762,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6771,8 +6771,9 @@
     "pos-one-piece-tcg-the-time-of-battle-booster-box-op16": {
      "title": "One Piece TCG - The Time of Battle Booster Box (OP16)",
      "game": "One Piece",
-     "available": true,
-     "price": 204.99
+     "available": false,
+     "price": 204.99,
+     "unavail_since": 1785473286
     },
     "one-piece-card-game-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Card Game - Carrying On His Will Booster Box (OP-13)",
@@ -9558,7 +9559,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
