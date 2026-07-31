@@ -12233,8 +12233,9 @@
     "one-piece-card-game-starter-deck-st31-red-monkey-d-luffy": {
      "title": "One Piece Card Game - Starter Deck - ST31 RED Monkey.D.Luffy",
      "game": "One Piece",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1785529504
     },
     "one-piece-card-game-starter-deck-st34-purple-katakuri": {
      "title": "One Piece Card Game - Starter Deck - ST34 PURPLE Katakuri",
@@ -15602,7 +15603,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17564,7 +17565,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 95,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
