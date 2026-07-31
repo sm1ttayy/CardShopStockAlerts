@@ -1241,9 +1241,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "mers Guild AZ: product 'pokemon-blooming-legends-eevee-friends-quicksand-card-display-charm-gift-box-boosters-chinese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3644,9 +3644,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 115,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'magic-the-gathering-teenage-mutant-ninja-turtles-turtle-commander-deck' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -4515,7 +4515,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 457.0,
+     "price": 452.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-mega-brave-japanese-booster-box": {
@@ -5043,9 +5043,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-avatar-the-last-airbender-play-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6798,9 +6798,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 126,
+   "check_cursor": 166,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product 'riftbound-league-of-legends-unleashed-booster-6-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7828,7 +7828,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'mega-dream-ex-booster-box-m2a-high-class-pack-mega-dream-ex-m2a' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8586,9 +8586,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'wings-of-the-captain-double-pack-set-3' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8791,7 +8791,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'riftbound-tcg-vendetta-savage-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -9595,9 +9595,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'magic-the-gathering-modern-horizons-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
