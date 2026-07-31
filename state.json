@@ -15499,7 +15499,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17457,7 +17457,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18144,9 +18144,10 @@
     "magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs": {
      "title": "Magic: The Gathering The Hobbit Play Booster Box (30 Booster Packs) (Pre Order)",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 169.95,
-     "last_restock_alert": 1785378928
+     "last_restock_alert": 1785378928,
+     "unavail_since": 1785484251
     },
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-english-booster-box-24-packs": {
      "title": "One Piece TCG OP-17  The World's Strongest Warriors English Booster Box (24 Packs) (Pre Order)",
