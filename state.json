@@ -13292,9 +13292,10 @@
     "one-piece-card-game-illustration-box-vol-8-pre-order": {
      "title": "One Piece Card Game - Illustration Box Vol.8",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 69.95,
-     "last_restock_alert": 1785503708
+     "last_restock_alert": 1785503708,
+     "unavail_since": 1785515706
     },
     "pokemon-temporal-forces-elite-trainer-box-walking-wake-pre-order": {
      "title": "Pokemon Temporal Forces Elite Trainer Box - Walking Wake",
@@ -15584,7 +15585,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17548,7 +17549,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 103,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
