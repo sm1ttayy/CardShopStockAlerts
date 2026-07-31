@@ -11285,7 +11285,7 @@
      "title": "Riftbound: League of Legends - Origins Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 349.95
+     "price": 399.95
     },
     "riftbound-league-of-legends-unleashed-booster-box": {
      "title": "Riftbound: League of Legends - Unleashed Booster Box",
@@ -11777,8 +11777,9 @@
     "riftbound-league-of-legends-showdown-deck-vendetta-zed-vs-shen": {
      "title": "Riftbound: League of Legends - Showdown Deck - Vendetta Zed vs Shen (Pre-Order)",
      "game": "Riftbound",
-     "available": true,
-     "price": 36.95
+     "available": false,
+     "price": 36.95,
+     "unavail_since": 1785503714
     },
     "mtg-innistrad-remastered-english-play-booster-box": {
      "title": "MTG - Innistrad Remastered - Play Booster Box",
@@ -12538,7 +12539,7 @@
      "unavail_since": 1784083348
     },
     "league-of-legends-riftbound-tcg-vendetta-vault-pre-order": {
-     "title": "League of Legends Riftbound TCG: Vendetta Vault (Pre Order)",
+     "title": "League of Legends Riftbound TCG: Vendetta Vault",
      "game": "Riftbound",
      "available": false,
      "price": 64.95,
@@ -12552,7 +12553,7 @@
      "unavail_since": 1785187224
     },
     "riftbound-league-of-legends-vendetta-zed-vs-shen-showdown-deck-set-pre-order": {
-     "title": "Riftbound: League of Legends Vendetta Zed vs. Shen Showdown Deck Set (Pre Order)",
+     "title": "Riftbound: League of Legends Vendetta Zed vs. Shen Showdown Deck Set",
      "game": "Riftbound",
      "available": true,
      "price": 34.95
@@ -13257,11 +13258,11 @@
      "unavail_since": 1784235032
     },
     "one-piece-card-game-illustration-box-vol-8-pre-order": {
-     "title": "One Piece Card Game - Illustration Box Vol.8 (Pre Order)",
+     "title": "One Piece Card Game - Illustration Box Vol.8",
      "game": "One Piece",
-     "available": false,
-     "price": 59.95,
-     "unavail_since": 1784235032
+     "available": true,
+     "price": 69.95,
+     "last_restock_alert": 1785503708
     },
     "pokemon-temporal-forces-elite-trainer-box-walking-wake-pre-order": {
      "title": "Pokemon Temporal Forces Elite Trainer Box - Walking Wake",
@@ -13284,11 +13285,11 @@
      "unavail_since": 1784237117
     },
     "one-piece-card-game-illustration-box-vol-7-pre-order": {
-     "title": "One Piece Card Game - Illustration Box Vol.7 (Pre Order)",
+     "title": "One Piece Card Game - Illustration Box Vol.7",
      "game": "One Piece",
-     "available": false,
-     "price": 59.95,
-     "unavail_since": 1784244007
+     "available": true,
+     "price": 69.95,
+     "last_restock_alert": 1785503708
     },
     "pokemon-combined-powers-premium-collection-pre-order": {
      "title": "Pokemon Combined Powers Premium Collection",
@@ -13389,6 +13390,19 @@
      "game": "Pokemon",
      "available": true,
      "price": 64.95
+    },
+    "one-piece-cg-op-16-booster-box-pre-order": {
+     "title": "One Piece CG OP-16 The Time Of Battle Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 299.95
+    },
+    "league-of-legends-riftbound-tcg-vendetta-booster-box-pre-order": {
+     "title": "League of Legends Riftbound TCG: Vendetta Booster Box",
+     "game": "Riftbound",
+     "available": false,
+     "price": 169.95,
+     "unavail_since": 1785503712
     }
    },
    "baselined": true,
@@ -14383,11 +14397,11 @@
      "price": 149.95
     },
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
-     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA BOOSTER BOX (LIMIT 6) PRE ORDER ^ JULY 31",
+     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA BOOSTER BOX (LIMIT 6)",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 169.95,
-     "unavail_since": 1785187224
+     "last_restock_alert": 1785503712
     },
     "riftbound-league-of-legends-tcg-spiritforged-booster-box": {
      "title": "RIFTBOUND LEAGUE OF LEGENDS TCG SPIRITFORGED BOOSTER DISPLAY (LIMIT 2)",
@@ -14671,10 +14685,10 @@
      "unavail_since": 1784083349
     },
     "riftbound-league-of-legends-tcg-vendetta-zed-vs-shen-showdown-deck": {
-     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA ZED VS SHEN SHOWDOWN DECK PRE ORDER ^ JULY 31",
+     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA ZED VS SHEN SHOWDOWN DECK",
      "game": "Riftbound",
      "available": true,
-     "price": 39.95
+     "price": 37.95
     },
     "mtg-marvel-super-heroes-jumpstart-booster-box": {
      "title": "MTG MARVEL SUPER HEROES JUMPSTART BOOSTER BOX",
@@ -14757,11 +14771,11 @@
      "unavail_since": 1784159708
     },
     "riftbound-league-of-legends-tcg-vendetta-vault": {
-     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA VAULT PRE ORDER ^ JULY 31",
+     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG VENDETTA VAULT",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 64.95,
-     "unavail_since": 1785187225
+     "last_restock_alert": 1785503713
     },
     "mtg-the-hobbit-bundle": {
      "title": "MTG THE HOBBIT BUNDLE PRE ORDER ^ AUG 7",
@@ -15511,7 +15525,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17466,10 +17480,16 @@
      "game": "MTG",
      "available": true,
      "price": 83.99
+    },
+    "phantasmal-flames-ultra-premium-collection-mega-charizard-x": {
+     "title": "Mega Charizard X ex Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 233.99
     }
    },
    "baselined": true,
-   "check_cursor": 115,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
