@@ -11772,7 +11772,8 @@
      "game": "Riftbound",
      "available": false,
      "price": 49.95,
-     "unavail_since": 1785420913
+     "unavail_since": 1785420913,
+     "delisted": true
     },
     "riftbound-league-of-legends-showdown-deck-vendetta-zed-vs-shen": {
      "title": "Riftbound: League of Legends - Showdown Deck - Vendetta Zed vs Shen (Pre-Order)",
@@ -15552,7 +15553,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17516,7 +17517,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
