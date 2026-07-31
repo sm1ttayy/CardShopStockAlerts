@@ -10180,6 +10180,20 @@
      "available": false,
      "price": 79.99,
      "unavail_since": 1785198615
+    },
+    "pokemon-tcg-sword-shield-darkness-ablaze-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Sword & Shield-Darkness Ablaze Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 39.95,
+     "unavail_since": 1785522909
+    },
+    "pokemon-tcg-sword-shield-elite-trainer-box-plus-zamazenta": {
+     "title": "Pok\u00e9mon TCG: Sword & Shield Elite Trainer Box Plus Zamazenta",
+     "game": "Pokemon",
+     "available": false,
+     "price": 79.99,
+     "unavail_since": 1785522909
     }
    },
    "baselined": true,
@@ -15586,7 +15600,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17550,7 +17564,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 123,
    "error_streak": 0,
    "last_error": ""
   },
