@@ -772,14 +772,14 @@
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-vendetta-the-vendetta-vault": {
-     "title": "Riftbound TCG: League of Legends: Vendetta: The Vendetta Vault (Pre-Order)",
+     "title": "Riftbound TCG: League of Legends: Vendetta: The Vendetta Vault",
      "game": "Riftbound",
      "available": false,
      "price": 34.99,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-vendetta-display-box": {
-     "title": "Riftbound TCG: League of Legends: Vendetta - Display Box (Pre-Order)",
+     "title": "Riftbound TCG: League of Legends: Vendetta - Display Box",
      "game": "Riftbound",
      "available": false,
      "price": 120.0,
@@ -1081,7 +1081,7 @@
      "unavail_since": 1784083333
     },
     "one-piece-tcg-ib-08-illustration-box-volume-8-english": {
-     "title": "One Piece TCG: [IB-08] Illustration Box Vol. 8 [English] (Pre-Order)",
+     "title": "One Piece TCG: [IB-08] Illustration Box Vol. 8 [English]",
      "game": "One Piece",
      "available": false,
      "price": 22.99,
@@ -1097,7 +1097,7 @@
      "note": "Illustration Box Vol. 10 @ $22.99"
     },
     "one-piece-tcg-ib-07-illustration-box-volume-7-english": {
-     "title": "One Piece TCG: [IB-07] Illustration Box Vol. 7 [English] (Pre-Order)",
+     "title": "One Piece TCG: [IB-07] Illustration Box Vol. 7 [English]",
      "game": "One Piece",
      "available": false,
      "price": 22.99,
@@ -1191,7 +1191,7 @@
      "unavail_since": 1785267939
     },
     "riftbound-tcg-league-of-legends-vendetta-showdown-decks-zed-versus-shen": {
-     "title": "Riftbound TCG: League of Legends: Vendetta - Showdown Decks: Zed Versus Shen (Pre-Order)",
+     "title": "Riftbound TCG: League of Legends: Vendetta - Showdown Decks: Zed Versus Shen",
      "game": "Riftbound",
      "available": false,
      "price": 34.99,
@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1418,8 +1418,9 @@
     "magic-the-gathering-aetherdrift-play-booster-box-1": {
      "title": "Magic: The Gathering Aetherdrift Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 105.0
+     "available": false,
+     "price": 105.0,
+     "unavail_since": 1785460679
     },
     "magic-the-gathering-marvel-super-heroes-collector-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Collector Booster Box",
@@ -2362,9 +2363,9 @@
     "outlaws-of-thunder-junction-play-booster-box": {
      "title": "Outlaws of Thunder Junction Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 175.0,
-     "unavail_since": 1785344060
+     "available": true,
+     "price": 185.0,
+     "last_restock_alert": 1785460679
     },
     "outlaws-of-thunder-junction-collector-booster-box": {
      "title": "Outlaws of Thunder Junction Collector Booster Box",
@@ -3643,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 175,
+   "check_cursor": 215,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3898,7 +3899,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 309.0,
+     "price": 310.0,
      "unavail_since": 1784417507
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -4149,7 +4150,7 @@
      "title": "One Piece TCG: Black Smoker Starter Deck (ST-19)",
      "game": "One Piece",
      "available": false,
-     "price": 63.0,
+     "price": 61.0,
      "unavail_since": 1784083329
     },
     "2022-one-piece-japanese-25th-anniversary-premium-card-collection-brook-psa-10": {
@@ -4235,7 +4236,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 65.0
+     "price": 64.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-doom-prevails-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Doom Prevails",
@@ -4434,7 +4435,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Build and Battle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 52.0,
+     "price": 47.0,
      "last_restock_alert": 1784313939
     },
     "pokemon-tcg-sparkling-fantasy-chinese-booster-box": {
@@ -4461,7 +4462,7 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 509.0,
+     "price": 504.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-carrying-on-his-will-japanese-booster-box-op-13": {
@@ -4979,10 +4980,34 @@
      "available": false,
      "price": 554.0,
      "unavail_since": 1785357604
+    },
+    "magic-the-gathering-murders-at-karlov-manor-play-booster-box-pre-order": {
+     "title": "Magic the Gathering: Murders at Karlov Manor Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 142.0
+    },
+    "magic-the-gathering-modern-horizons-3-play-booster-pre-order": {
+     "title": "Magic the Gathering: Modern Horizons 3 Play Booster",
+     "game": "MTG",
+     "available": true,
+     "price": 300.0
+    },
+    "mtg_2022_strtr_cmndr_gd": {
+     "title": "Magic the Gathering: Grave Danger Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 42.0
+    },
+    "mtg_2022_strtr_cmndr_ci": {
+     "title": "Magic the Gathering: Chaos Incarnate Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 42.0
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6720,10 +6745,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 249.75
+    },
+    "riftbound-league-of-legends-vendetta-booster-box": {
+     "title": "Riftbound League of Legends Vendetta Booster Box",
+     "game": "Riftbound",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1785460669
+    },
+    "riftbound-league-of-legends-vendetta-booster-6-box-case": {
+     "title": "Riftbound League of Legends Vendetta Booster 6-Box Case",
+     "game": "Riftbound",
+     "available": false,
+     "price": 0.0,
+     "unavail_since": 1785460669
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6833,7 +6872,7 @@
      "title": "Pokemon 30th Celebration - Elite Trainer Box (Presale)",
      "game": "Pokemon",
      "available": true,
-     "price": 219.99
+     "price": 197.99
     },
     "moltres-zapdos-articuno-sm210-elite-trainer-box-promo-2019-pokemon-psa-9": {
      "title": "Moltres & Zapdos & Articuno SM210 Elite Trainer Box Promo - 2019 Pokemon - PSA 9",
@@ -6923,9 +6962,10 @@
     "journey-together-booster-bundle-sv09": {
      "title": "2025 Pokemon SV - Journey Together Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 47.0,
-     "last_restock_alert": 1784892091
+     "last_restock_alert": 1784892091,
+     "unavail_since": 1785460668
     },
     "s-chinese-league-of-legends-riftbound-tcg-spiritforged-jumbo-booster-box": {
      "title": "(S-Chinese) League of Legends Riftbound TCG: Spiritforged Jumbo Booster Box",
@@ -7618,20 +7658,20 @@
      "title": "Pokemon 30th Celebration - Knock Out Collection (Presale)",
      "game": "Pokemon",
      "available": true,
-     "price": 39.99
+     "price": 29.99
     },
     "pokemon-30th-celebration-poster-collection-presale": {
      "title": "Pokemon 30th Celebration - Poster Collection (Presale)",
      "game": "Pokemon",
      "available": true,
-     "price": 79.99
+     "price": 74.99
     },
     "pokemon-mega-evolutions-elite-trainer-box": {
      "title": "Pokemon Mega Evolution - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 108.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 114.99,
+     "last_restock_alert": 1785460668
     },
     "pokemon-mega-evolution-pitch-black-3-pack-blister-binacle": {
      "title": "Pokemon Mega Evolution - Pitch Black 3-Pack Blister [Binacle]",
@@ -7715,7 +7755,37 @@
      "title": "Pokemon 30th Celebration - Tech Sticker Collection (Presale)",
      "game": "Pokemon",
      "available": true,
-     "price": 79.99
+     "price": 59.99
+    },
+    "scarlet-violet-base-set-booster-bundle": {
+     "title": "Scarlet & Violet - Base Set Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 110.0
+    },
+    "pos-celebrations-ultra-premium-collection": {
+     "title": "Pokemon TCG Celebrations Ultra-Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1299.99
+    },
+    "first-partner-illustration-collection-series-1": {
+     "title": "Pokemon TCG: First Partner Illustration Collection (Series 1)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 69.99
+    },
+    "pokemon-mega-evolution-pitch-black-build-battle-box": {
+     "title": "Pokemon Mega Evolution - Pitch Black Build & Battle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 48.99
+    },
+    "magic-the-gathering-marvel-super-heroes-gift-bundle": {
+     "title": "Magic: The Gathering Marvel Super Heroes - Gift Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 96.99
     }
    },
    "baselined": true,
@@ -8097,7 +8167,7 @@
      "title": "Prismatic Evolutions Super Premium Collection [Pok\u00e9mon]",
      "game": "Pokemon",
      "available": true,
-     "price": 325.0
+     "price": 270.0
     },
     "mega-zygarde-ex-premium-collection-pokemon": {
      "title": "Mega Zygarde ex Premium Collection [Pokemon]",
@@ -8663,7 +8733,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 260.0,
-     "unavail_since": 1785437401
+     "unavail_since": 1785437401,
+     "delisted": true
     },
     "pokemon-scarlet-violet-booster-box": {
      "title": "Pokemon: SV01 Scarlet & Violet Base Booster Box",
@@ -9094,7 +9165,7 @@
      "title": "Magic the Gathering: Dark Ascension: Bundle",
      "game": "MTG",
      "available": true,
-     "price": 109.99
+     "price": 94.99
     },
     "magic-the-gathering-outlaws-of-thunder-junction-bundle": {
      "title": "Magic The Gathering: Outlaws of Thunder Junction: Bundle",
@@ -9466,10 +9537,28 @@
      "available": false,
      "price": 11.99,
      "unavail_since": 1785354456
+    },
+    "magic-the-gathering-gatecrash-bundle": {
+     "title": "Magic the Gathering: Gatecrash: Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 51.99
+    },
+    "magic-the-gathering-guilds-of-ravnica-bundle": {
+     "title": "Magic the Gathering: Guilds of Ravnica: Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 59.99
+    },
+    "magic-the-gathering-kaladesh-bundle": {
+     "title": "Magic the Gathering: Kaladesh: Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 189.99
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
