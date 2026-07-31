@@ -15552,7 +15552,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17516,7 +17516,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18211,8 +18211,9 @@
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-english-booster-box-24-packs": {
      "title": "One Piece TCG OP-17  The World's Strongest Warriors English Booster Box (24 Packs) (Pre Order)",
      "game": "One Piece",
-     "available": true,
-     "price": 324.95
+     "available": false,
+     "price": 324.95,
+     "unavail_since": 1785509141
     }
    },
    "baselined": true,
