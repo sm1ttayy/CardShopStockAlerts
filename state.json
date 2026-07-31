@@ -12642,8 +12642,9 @@
     "magic-the-gathering-lorwyn-eclipsed-play-booster-box-pre-order": {
      "title": "Magic The Gathering - Lorwyn Eclipsed - Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 179.95
+     "available": false,
+     "price": 179.95,
+     "unavail_since": 1785517212
     },
     "mtg-duskmourn-house-of-horror-play-booster-box-pre-order": {
      "title": "MTG - Duskmourn: House of Horror - Play Booster Box",
@@ -15585,7 +15586,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17549,7 +17550,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
