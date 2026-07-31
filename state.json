@@ -15600,7 +15600,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17564,7 +17564,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 115,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18245,8 +18245,9 @@
     "riftbound-league-of-legends-tcg-vendetta-vault": {
      "title": "Riftbound: League of Legends TCG Vendetta Vault",
      "game": "Riftbound",
-     "available": true,
-     "price": 34.95
+     "available": false,
+     "price": 34.95,
+     "unavail_since": 1785525048
     },
     "magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs": {
      "title": "Magic: The Gathering The Hobbit Play Booster Box (30 Booster Packs) (Pre Order)",
