@@ -10416,9 +10416,10 @@
     "marvel-super-heroes-play-booster-box-preorder": {
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 119.95,
-     "last_restock_alert": 1784235037
+     "last_restock_alert": 1784235037,
+     "unavail_since": 1785480313
     },
     "teenage-mutant-ninja-turtles-play-booster-display-preorder": {
      "title": "Teenage Mutant Ninja Turtles Play Booster Box",
@@ -15474,7 +15475,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17432,7 +17433,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 111,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18133,7 +18134,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 43
+   "check_cursor": 9
   },
   "https://sagaconcepts.com": {
    "products": {
