@@ -14943,6 +14943,12 @@
      "available": false,
      "price": 24.95,
      "unavail_since": 1785429605
+    },
+    "mtg-avatar-the-last-airbender-play-booster-box": {
+     "title": "MTG AVATAR THE LAST AIRBENDER PLAY BOOSTER BOX",
+     "game": "MTG",
+     "available": true,
+     "price": 229.95
     }
    },
    "baselined": true,
@@ -15616,7 +15622,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17578,7 +17584,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
