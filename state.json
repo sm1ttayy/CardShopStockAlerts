@@ -10062,9 +10062,10 @@
     "pokemon-trading-card-game-pitch-black-booster-box-me05-pitch-black-me05": {
      "title": "Pokemon Trading Card Game: Pitch Black Booster Box - ME05: Pitch Black (ME05) LIMIT 1 PER PERSON.",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 189.99,
-     "last_restock_alert": 1785429310
+     "last_restock_alert": 1785429310,
+     "unavail_since": 1785529209
     },
     "pokemon-abyss-eye-m5-booster-box-mega-series-japanese": {
      "title": "Pok\u00e9mon Abyss Eye M5 Booster Box - Mega Series - Japanese",
@@ -10389,9 +10390,10 @@
     "riftbound-vendetta-vault-bundle": {
      "title": "Riftbound Vendetta Vault Bundle",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 34.95,
-     "last_restock_alert": 1785261611
+     "last_restock_alert": 1785261611,
+     "unavail_since": 1785529210
     },
     "riftbound-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound Vendetta Showdown Decks: Zed vs Shen",
@@ -15600,7 +15602,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17562,7 +17564,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
