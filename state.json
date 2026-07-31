@@ -13415,6 +13415,20 @@
      "game": "Pokemon",
      "available": true,
      "price": 119.99
+    },
+    "pokemon-obsidian-flames-booster-box-pre-order": {
+     "title": "Pokemon Scarlet And Violet Obsidian Flames Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 549.99,
+     "unavail_since": 1785505506
+    },
+    "pre-order-pokemon-shining-fates-premium-collection-dragapult-v-february-2021": {
+     "title": "Pokemon Shining Fates Premium Collection Dragapult V",
+     "game": "Pokemon",
+     "available": false,
+     "price": 164.95,
+     "unavail_since": 1785505508
     }
    },
    "baselined": true,
@@ -15537,7 +15551,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15803,7 +15817,7 @@
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 3398.99,
+     "price": 3376.75,
      "unavail_since": 1784083350
     },
     "legendary-heartbeat-booster-box-jp": {
@@ -17501,7 +17515,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 107,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
