@@ -11315,9 +11315,9 @@
     "riftbound-league-of-legends-vendetta-booster-box": {
      "title": "Riftbound: League of Legends - Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 169.95,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1785512410
     },
     "league-of-legends-riftbound-tcg-origins-chinese-slim-booster-box": {
      "title": "Riftbound: League of Legends - Origins Chinese Slim Booster Box",
@@ -11770,17 +11770,16 @@
     "riftbound-league-of-legends-vendetta-vault": {
      "title": "Riftbound: League of Legends - Vendetta Vault",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 54.95,
-     "unavail_since": 1785420913,
      "delisted": true
     },
     "riftbound-league-of-legends-showdown-deck-vendetta-zed-vs-shen": {
      "title": "Riftbound: League of Legends - Showdown Deck - Vendetta Zed vs Shen",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 36.95,
-     "unavail_since": 1785503714
+     "last_restock_alert": 1785512411
     },
     "mtg-innistrad-remastered-english-play-booster-box": {
      "title": "MTG - Innistrad Remastered - Play Booster Box",
@@ -15553,7 +15552,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17517,7 +17516,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
