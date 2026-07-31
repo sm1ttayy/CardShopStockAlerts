@@ -15472,7 +15472,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17421,10 +17421,16 @@
      "game": "MTG",
      "available": true,
      "price": 89.75
+    },
+    "commander-2021-deck-silverquill-statement": {
+     "title": "Commander 2021 Deck - Silverquill Statement",
+     "game": "MTG",
+     "available": true,
+     "price": 83.99
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 107,
    "error_streak": 0,
    "last_error": ""
   },
