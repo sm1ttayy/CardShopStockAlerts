@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3654,7 +3654,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 473.0,
+     "price": 452.0,
      "last_restock_alert": 1784587256,
      "unavail_since": 1784996007
     },
@@ -3822,7 +3822,7 @@
      "title": "Pokemon Celebrations Elite Trainer Box (Pokemon Center Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 697.0,
+     "price": 692.0,
      "unavail_since": 1784083329
     },
     "pkm_generation_elite_box": {
@@ -3836,7 +3836,7 @@
      "title": "Pokemon TCG: Celebrations - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 413.0,
+     "price": 412.0,
      "unavail_since": 1784083329
     },
     "pkm_shining_legends_etb": {
@@ -4117,13 +4117,13 @@
      "title": "One Piece TCG: Starter Deck - Black Marshall (ST-27)",
      "game": "One Piece",
      "available": true,
-     "price": 45.0
+     "price": 46.0
     },
     "one-piece-tcg-starter-deck-st-25-pre-order": {
      "title": "One Piece TCG: Starter Deck - Blue Buggy (ST-25)",
      "game": "One Piece",
      "available": true,
-     "price": 47.0
+     "price": 46.0
     },
     "one-piece-tcg-uta-starter-deck-st-16-pre-order": {
      "title": "One Piece TCG: Uta Starter Deck (ST-16)",
@@ -4163,7 +4163,7 @@
      "title": "One Piece Card Game: Premium Card Collection 25th Anniversary Edition (Japanese)",
      "game": "One Piece",
      "available": false,
-     "price": 790.0,
+     "price": 778.0,
      "unavail_since": 1784083332
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection-box-pre-order": {
@@ -4578,7 +4578,7 @@
      "title": "One Piece TCG: The Best Premium Booster Volume 2 Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 420.0,
+     "price": 418.0,
      "unavail_since": 1784083330
     },
     "pokemon-scarlet-and-violet-black-bolt-japanese-booster-box": {
@@ -4868,7 +4868,7 @@
      "title": "Pokemon TCG: Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 257.0,
+     "price": 236.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-white-flare-pokemon-center-elite-trainer-box": {
@@ -5015,23 +5015,35 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 40.0
+     "price": 39.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 35.0
+     "price": 33.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
      "game": "One Piece",
      "available": true,
      "price": 29.0
+    },
+    "one-piece-tcg-illustration-box-volume-8": {
+     "title": "One Piece TCG: Illustration Box Volume 8",
+     "game": "One Piece",
+     "available": true,
+     "price": 95.0
+    },
+    "one-piece-tcg-illustration-box-volume-7": {
+     "title": "One Piece TCG: Illustration Box Volume 7",
+     "game": "One Piece",
+     "available": true,
+     "price": 105.0
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6786,7 +6798,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9583,7 +9595,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
