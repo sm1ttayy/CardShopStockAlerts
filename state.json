@@ -12133,9 +12133,9 @@
     "one-piece-card-game-illustration-box-vol-8": {
      "title": "One Piece Card Game - Illustration Box Vol.8",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 69.95,
-     "unavail_since": 1784379009
+     "last_restock_alert": 1785514206
     },
     "one-piece-card-game-illustration-box-vol-10": {
      "title": "One Piece Card Game - Illustration Box Vol.10 (Pre-Order)",
@@ -12201,11 +12201,11 @@
      "price": 59.95
     },
     "one-piece-card-game-premium-card-collection-best-selection-vol-6": {
-     "title": "One Piece Card Game - Premium Card Collection - Best Selection Vol. 6 (Pre-Order)",
+     "title": "One Piece Card Game - Premium Card Collection - Best Selection Vol. 6",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 119.95,
-     "unavail_since": 1785513305
+     "last_restock_alert": 1785514205
     },
     "one-piece-card-game-starter-deck-st33-blue-kuzan": {
      "title": "One Piece Card Game - Starter Deck - ST33 BLUE Kuzan",
@@ -15584,7 +15584,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17548,7 +17548,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
