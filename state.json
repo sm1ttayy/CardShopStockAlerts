@@ -13287,9 +13287,10 @@
     "one-piece-card-game-illustration-box-vol-7-pre-order": {
      "title": "One Piece Card Game - Illustration Box Vol.7",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 69.95,
-     "last_restock_alert": 1785503708
+     "last_restock_alert": 1785503708,
+     "unavail_since": 1785506406
     },
     "pokemon-combined-powers-premium-collection-pre-order": {
      "title": "Pokemon Combined Powers Premium Collection",
@@ -15551,7 +15552,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17515,7 +17516,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 103,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
