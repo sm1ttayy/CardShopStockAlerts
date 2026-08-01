@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 207,
+   "check_cursor": 247,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5043,7 +5043,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6804,7 +6804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9186,7 +9186,7 @@
      "title": "Magic the Gathering: Edge of Eternities: Commander Decks",
      "game": "MTG",
      "available": true,
-     "price": 64.99
+     "price": 79.99
     },
     "magic-the-gathering-dominaria-united-commander-decks": {
      "title": "Magic the Gathering: Dominaria United: Commander Decks",
@@ -9607,10 +9607,17 @@
      "game": "MTG",
      "available": true,
      "price": 189.99
+    },
+    "magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-commander-decks": {
+     "title": "Magic The Gathering: The Lord of the Rings: Tales of Middle-earth: Commander Decks",
+     "game": "MTG",
+     "available": false,
+     "price": 49.99,
+     "unavail_since": 1785592769
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
