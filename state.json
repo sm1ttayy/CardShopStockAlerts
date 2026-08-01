@@ -15632,7 +15632,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17597,10 +17597,34 @@
      "game": "Pokemon",
      "available": true,
      "price": 47.25
+    },
+    "pitch-black-elite-trainer-box-pokemon-center": {
+     "title": "Pitch Black Elite Trainer Box \u2014 Pokemon Center",
+     "game": "Pokemon",
+     "available": true,
+     "price": 129.75
+    },
+    "vendetta-booster-display": {
+     "title": "Vendetta Booster Display",
+     "game": "Riftbound",
+     "available": true,
+     "price": 130.75
+    },
+    "vendetta-vault-bundle": {
+     "title": "Vendetta Vault Bundle",
+     "game": "Riftbound",
+     "available": true,
+     "price": 39.49
+    },
+    "vendetta-showdown-decks-zed-vs-shen": {
+     "title": "Vendetta Showdown Decks: Zed vs Shen",
+     "game": "Riftbound",
+     "available": true,
+     "price": 27.25
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
