@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 187,
+   "check_cursor": 227,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5043,7 +5043,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6804,7 +6804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8569,14 +8569,16 @@
     "illustration-box-vol-8-one-piece-07-31": {
      "title": "Illustration Box Vol.8 [One Piece] (07/31)",
      "game": "One Piece",
-     "available": true,
-     "price": 50.0
+     "available": false,
+     "price": 50.0,
+     "unavail_since": 1785547149
     },
     "illustration-box-vol-7-one-piece-07-31": {
      "title": "Illustration Box Vol.7 [One Piece] (07/31)",
      "game": "One Piece",
-     "available": true,
-     "price": 50.0
+     "available": false,
+     "price": 50.0,
+     "unavail_since": 1785547149
     },
     "perfect-order-booster-bundle-pokemon": {
      "title": "Perfect Order Booster Bundle [Pokemon]",
@@ -9608,7 +9610,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
