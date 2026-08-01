@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,9 +3644,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 127,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'mirrodin-besieged-draft-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -5043,9 +5043,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'one-piece-tcg-op11-booster-box-title-tba-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6804,9 +6804,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 97,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product 'mtg-phyrexia-all-will-be-one-set-booster-boxtrading-cards' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7834,7 +7834,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'mega-dream-ex-booster-box-m2a-high-class-pack-mega-dream-ex-m2a' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8601,9 +8601,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'surging-sparks-booster-bundle-pokemon' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8806,7 +8806,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'riftbound-tcg-vendetta-savage-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -9281,7 +9281,7 @@
      "last_restock_alert": 1785280657
     },
     "riftbound-tcg-vendetta-the-vendetta-vault": {
-     "title": "Riftbound TCG: Vendetta: the Vendetta Vault",
+     "title": "Riftbound TCG: Vendetta: Vault",
      "game": "Riftbound",
      "available": false,
      "price": 34.99,
@@ -9610,7 +9610,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
