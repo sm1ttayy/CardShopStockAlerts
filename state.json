@@ -1241,9 +1241,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 105,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-op-11-double-pack-set-volume-07-dp-7' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3644,9 +3644,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'dominaria-united-collector-booster-box-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -5043,9 +5043,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 16,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'pkm_go_etb' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6846,9 +6846,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product 'magic-mtg-commander-legends-draft-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7876,7 +7876,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'mega-brave-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8643,9 +8643,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 16,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'secrets-of-strixhaven-draft-night-mtg' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -8848,7 +8848,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'riftbound-tcg-vendetta-savage-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -9660,9 +9660,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'pokemon-tcg-reward-round-csv4-slim-chinese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
