@@ -11070,7 +11070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15632,7 +15632,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17245,8 +17245,9 @@
     "phantasmal-flames-pokemon-center-elite-trainer-box": {
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 299.75
+     "available": false,
+     "price": 299.75,
+     "unavail_since": 1785630643
     },
     "pokemon-day-2026-collection": {
      "title": "Pokemon Day 2026 Collection",
@@ -17624,7 +17625,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
