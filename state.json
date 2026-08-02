@@ -13608,8 +13608,9 @@
     "one-piece-double-pack-vol-14-pre-order": {
      "title": "One Piece Double Pack Vol. 14 (Pre Order)",
      "game": "One Piece",
-     "available": true,
-     "price": 21.95
+     "available": false,
+     "price": 21.95,
+     "unavail_since": 1785695707
     }
    },
    "baselined": true,
@@ -15738,7 +15739,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17732,7 +17733,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
