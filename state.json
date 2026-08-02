@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5055,7 +5055,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6858,7 +6858,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 140,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8658,6 +8658,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 300.0
+    },
+    "evolving-skies-pokemon-center-elite-trainer-box-jolteon-flareon-umbreon-leafeon": {
+     "title": "Evolving Skies Pok\u00e9mon Center Elite Trainer Box (Jolteon/Flareon/Umbreon/Leafeon)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1200.0
     }
    },
    "baselined": true,
@@ -9692,7 +9698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
