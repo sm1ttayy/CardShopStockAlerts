@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 144,
+   "check_cursor": 184,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5043,7 +5043,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 95,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6690,7 +6690,7 @@
      "title": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 254.75
+     "price": 159.75
     },
     "one-piece-tcg-illustration-box-volume-1": {
      "title": "One Piece TCG Illustration Box Volume 1",
@@ -6801,10 +6801,52 @@
      "game": "Pokemon",
      "available": true,
      "price": 1349.75
+    },
+    "one-piece-blue-kuzan-starter-deck-33": {
+     "title": "One Piece Blue Kuzan Starter Deck 33",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.75,
+     "unavail_since": 1785645827
+    },
+    "one-piece-red-black-sabo-starter-deck-35": {
+     "title": "One Piece Red Black Sabo Starter Deck 35",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.75,
+     "unavail_since": 1785645827
+    },
+    "one-piece-purple-charlotte-katakuri-starter-deck-34": {
+     "title": "One Piece Purple Charlotte Katakuri Starter Deck 34",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.75,
+     "unavail_since": 1785645827
+    },
+    "one-piece-green-roronoa-zoro-starter-deck-32": {
+     "title": "One Piece Green Roronoa Zoro Starter Deck 32",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.75,
+     "unavail_since": 1785645827
+    },
+    "one-piece-yellow-eustass-captian-kid-starter-deck-36": {
+     "title": "One Piece Yellow Eustass \"Captian\" Kid Starter Deck 36",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.75,
+     "unavail_since": 1785645827
+    },
+    "one-piece-ex-luffy-ace-starter-deck-30-copy": {
+     "title": "One Piece Red Monkey D. Luffy Starter Deck 31",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.75,
+     "unavail_since": 1785645827
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9618,7 +9660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
