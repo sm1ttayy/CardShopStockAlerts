@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 103,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 144,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5043,7 +5043,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6804,7 +6804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 133,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8934,8 +8934,9 @@
     "pokemon-tcg-chaos-rising-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Chaos Rising: Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 37.99
+     "available": false,
+     "price": 37.99,
+     "unavail_since": 1785633437
     },
     "pokemon-tcg-perfect-order-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Perfect Order: Booster Bundle",
@@ -9617,7 +9618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
