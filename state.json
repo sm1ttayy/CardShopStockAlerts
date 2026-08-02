@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 99,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 164,
+   "check_cursor": 204,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5043,7 +5043,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6846,7 +6846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 128,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6988,7 +6988,7 @@
      "title": "Pokemon Mega Evolution - Chaos Rising Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 44.99
+     "price": 39.99
     },
     "pokemon-scarlet-violet-destined-rivals-booster-bundle": {
      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle",
@@ -8843,6 +8843,13 @@
      "available": false,
      "price": 325.0,
      "unavail_since": 1785437401
+    },
+    "pokemon-tcg-me05-pitch-black-booster-box-etb-combo": {
+     "title": "Pokemon TCG: ME05 Pitch Black Booster Box & ETB Combo",
+     "game": "Pokemon",
+     "available": false,
+     "price": 230.0,
+     "unavail_since": 1785683626
     }
    },
    "baselined": true,
@@ -9660,7 +9667,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
