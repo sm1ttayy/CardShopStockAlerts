@@ -9839,6 +9839,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 200.0
+    },
+    "mega-evolution-5-pitch-black-build-battle-box": {
+     "title": "Mega Evolution 5: Pitch Black - Build & Battle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 60.0
     }
    },
    "baselined": true,
@@ -15695,7 +15701,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16748,7 +16754,7 @@
      "title": "Universes Beyond Assassin's Creed Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 119.75,
+     "price": 124.75,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-united-collector-booster-box": {
@@ -17688,7 +17694,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 112,
    "error_streak": 0,
    "last_error": ""
   },
