@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3822,7 +3822,7 @@
      "title": "Pokemon Celebrations Elite Trainer Box (Pokemon Center Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 692.0,
+     "price": 690.0,
      "unavail_since": 1784083329
     },
     "pkm_generation_elite_box": {
@@ -3836,7 +3836,7 @@
      "title": "Pokemon TCG: Celebrations - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 412.0,
+     "price": 397.0,
      "unavail_since": 1784083329
     },
     "pkm_shining_legends_etb": {
@@ -4725,7 +4725,7 @@
      "title": "One Piece TCG: Royal Blood Booster Box (OP10)",
      "game": "One Piece",
      "available": false,
-     "price": 254.0,
+     "price": 256.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-supercharged-breaker-japanese-booster-box-pre-order": {
@@ -5040,10 +5040,22 @@
      "game": "One Piece",
      "available": true,
      "price": 58.0
+    },
+    "pokemon-scarlet-and-violet-twilight-masquerade-elite-trainer-box-pre-order": {
+     "title": "Pokemon Scarlet and Violet: Twilight Masquerade Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 120.0
+    },
+    "pkm_ss_lostorigin_etb": {
+     "title": "Pokemon TCG: Sword and Shield - Lost Origin Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 226.0
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6846,7 +6858,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 100,
+   "check_cursor": 140,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8856,6 +8868,13 @@
      "available": false,
      "price": 230.0,
      "unavail_since": 1785683626
+    },
+    "one-piece-tcg-one-of-each-starter-deck-bundle": {
+     "title": "One Piece TCG: One of each Starter Deck Bundle",
+     "game": "One Piece",
+     "available": false,
+     "price": 95.0,
+     "unavail_since": 1785695588
     }
    },
    "baselined": true,
@@ -9673,7 +9692,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
