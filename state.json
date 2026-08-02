@@ -11138,7 +11138,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13582,7 +13582,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15707,7 +15707,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17689,8 +17689,9 @@
     "vendetta-vault-bundle": {
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
-     "available": true,
-     "price": 39.49
+     "available": false,
+     "price": 39.49,
+     "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
      "title": "Vendetta Showdown Decks: Zed vs Shen",
@@ -17700,7 +17701,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 130,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18404,7 +18405,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 12
+   "check_cursor": 11
   },
   "https://sagaconcepts.com": {
    "products": {
