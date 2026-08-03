@@ -11448,7 +11448,7 @@
      "title": "Riftbound: League of Legends - Vendetta Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 169.95,
+     "price": 179.95,
      "last_restock_alert": 1785512410
     },
     "league-of-legends-riftbound-tcg-origins-chinese-slim-booster-box": {
@@ -11903,7 +11903,7 @@
      "title": "Riftbound: League of Legends - Vendetta Vault",
      "game": "Riftbound",
      "available": true,
-     "price": 54.95,
+     "price": 59.95,
      "delisted": true
     },
     "riftbound-league-of-legends-showdown-deck-vendetta-zed-vs-shen": {
@@ -15765,7 +15765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15775,7 +15775,7 @@
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 294.75,
+     "price": 289.99,
      "unavail_since": 1784083350
     },
     "prb-01-one-piece-card-the-best-booster-box-jp": {
@@ -15827,21 +15827,22 @@
      "title": "Premium Booster Vol. 2 - Booster Box (PRB02)",
      "game": "One Piece",
      "available": false,
-     "price": 391.99,
+     "price": 391.75,
      "unavail_since": 1784083350
     },
     "unleashed-booster-display": {
      "title": "Unleashed Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 141.75,
+     "price": 139.99,
      "unavail_since": 1784083350
     },
     "tmnt-play-booster-box": {
      "title": "TMNT Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 112.75
+     "available": false,
+     "price": 116.49,
+     "unavail_since": 1785760248
     },
     "spiderman-play-booster-box": {
      "title": "Spiderman Play Booster Box",
@@ -15853,7 +15854,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 206.25,
+     "price": 206.75,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -15881,7 +15882,7 @@
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 190.99,
+     "price": 191.25,
      "last_restock_alert": 1785526241
     },
     "adventure-on-kamis-island-booster-box": {
@@ -15978,7 +15979,7 @@
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 528.25,
+     "price": 469.75,
      "unavail_since": 1785718251
     },
     "brilliant-stars-booster-box": {
@@ -16188,7 +16189,7 @@
      "title": "March of the Machine Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 302.75,
+     "price": 319.49,
      "unavail_since": 1784083350
     },
     "the-brothers-war-set-booster-box": {
@@ -16248,7 +16249,7 @@
      "title": "Mega Dream ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 107.75,
+     "price": 106.75,
      "unavail_since": 1784083350
     },
     "avatar-the-last-airbender-jumpstart-booster-display": {
@@ -16309,9 +16310,10 @@
     "phantasmal-flames-booster-box": {
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 411.99,
-     "last_restock_alert": 1785606645
+     "available": false,
+     "price": 409.75,
+     "last_restock_alert": 1785606645,
+     "unavail_since": 1785760243
     },
     "korean-blue-sky-stream-booster-box": {
      "title": "Korean Blue Sky Stream Booster Box",
@@ -16324,7 +16326,7 @@
      "title": "Two Legends Booster Box [OP08]",
      "game": "One Piece",
      "available": false,
-     "price": 258.75,
+     "price": 253.75,
      "unavail_since": 1784083350
     },
     "spanish-hgss-half-booster-box": {
@@ -16537,7 +16539,7 @@
      "title": "Japanese Eevee Heroes Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 894.75,
+     "price": 805.75,
      "unavail_since": 1784083350
     },
     "steam-siege-booster-box": {
@@ -16704,7 +16706,7 @@
      "title": "Kamigawa: Neon Dynasty Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 397.75,
+     "price": 449.75,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-remastered-draft-booster-box": {
@@ -16772,7 +16774,7 @@
      "title": "Lost Thunder Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1514.75,
+     "price": 1630.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-v-paradox-rift-booster-box": {
@@ -16832,7 +16834,7 @@
      "title": "Assassin's Creed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 606.99,
+     "price": 606.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-lost-origin-booster-box": {
@@ -16955,14 +16957,14 @@
      "title": "One Piece Starter Deck 14: 3D2Y",
      "game": "One Piece",
      "available": false,
-     "price": 19.49,
+     "price": 19.25,
      "unavail_since": 1784083350
     },
     "starter-deck-ex-luffy-ace": {
      "title": "Starter Deck EX: Luffy & Ace",
      "game": "One Piece",
      "available": false,
-     "price": 39.49,
+     "price": 40.75,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-11-uta": {
@@ -16976,14 +16978,14 @@
      "title": "Starter Deck 19: BLACK Smoker",
      "game": "One Piece",
      "available": false,
-     "price": 55.75,
+     "price": 52.75,
      "unavail_since": 1784083350
     },
     "starter-deck-20-title-tba": {
      "title": "Starter Deck 20: YELLOW Charlotte Katakuri",
      "game": "One Piece",
      "available": false,
-     "price": 58.75,
+     "price": 57.99,
      "unavail_since": 1784083350
     },
     "one-piece-3d2y-starter-deck-display": {
@@ -16997,7 +16999,7 @@
      "title": "One Piece Starter Deck 12 - Zoro and Sanji",
      "game": "One Piece",
      "available": false,
-     "price": 55.75,
+     "price": 55.99,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-6-absolute-justice": {
@@ -17018,7 +17020,7 @@
      "title": "Premium Card Collection -Best Selection Vol. 4-",
      "game": "One Piece",
      "available": false,
-     "price": 274.99,
+     "price": 274.75,
      "unavail_since": 1784158616
     },
     "one-piece-premium-card-collection-best-selection-vol-2": {
@@ -17039,7 +17041,7 @@
      "title": "One Piece Double Pack Set Vol. 11",
      "game": "One Piece",
      "available": false,
-     "price": 25.99,
+     "price": 26.75,
      "unavail_since": 1784083350
     },
     "double-pack-set-volume-5": {
@@ -17126,13 +17128,13 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 90.49
+     "price": 91.99
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 84.99
+     "price": 85.75
     },
     "destined-rivals-booster-bundle": {
      "title": "Destined Rivals Booster Bundle",
@@ -17210,7 +17212,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 23.75
+     "price": 24.49
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -17223,7 +17225,7 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 1024.99,
+     "price": 1188.99,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
@@ -17255,7 +17257,7 @@
      "title": "Blame Game Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 106.75
+     "price": 113.75
     },
     "planar-portal-commander-deck": {
      "title": "Planar Portal Commander Deck",
@@ -17292,21 +17294,21 @@
      "title": "Secrets of Strixhaven - Codex Bundle",
      "game": "MTG",
      "available": false,
-     "price": 122.75,
+     "price": 121.99,
      "unavail_since": 1784083350
     },
     "marvel-superheroes-play-booster-bundle": {
      "title": "Marvel Super Heroes Play Booster Bundle",
      "game": "MTG",
      "available": false,
-     "price": 47.99,
+     "price": 47.75,
      "unavail_since": 1784083350
     },
     "final-fantasy-gift-bundle": {
      "title": "Final Fantasy Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 286.75,
+     "price": 284.75,
      "unavail_since": 1784083350
     },
     "universes-beyond-final-fantasy-bundle": {
@@ -17465,21 +17467,21 @@
      "title": "One Piece Card Game Illustration Box Vol. 1",
      "game": "One Piece",
      "available": false,
-     "price": 285.25,
+     "price": 285.49,
      "unavail_since": 1785187236
     },
     "one-piece-illustration-box-vol-3": {
      "title": "One Piece Illustration Box Vol. 3",
      "game": "One Piece",
      "available": false,
-     "price": 93.99,
+     "price": 89.75,
      "unavail_since": 1784158890
     },
     "one-piece-illustration-box-vol-4": {
      "title": "One Piece Illustration Box Vol. 4",
      "game": "One Piece",
      "available": false,
-     "price": 76.75,
+     "price": 77.75,
      "unavail_since": 1784158890
     },
     "one-piece-illustration-box-vol-2": {
@@ -17511,7 +17513,7 @@
      "title": "Adventures in the Forgotten Realms - Bundle Gift Edition",
      "game": "MTG",
      "available": false,
-     "price": 163.99,
+     "price": 163.75,
      "unavail_since": 1785187570
     },
     "adventures-in-the-forgotten-realms": {
@@ -17621,7 +17623,7 @@
      "title": "Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 83.49,
+     "price": 82.75,
      "unavail_since": 1785187243
     },
     "core-set-2020-booster-box": {
@@ -17707,7 +17709,7 @@
      "title": "Kamigawa: Neon Dynasty - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 216.99
+     "price": 218.75
     },
     "kaldheim-phantom-premonition-commander-deck": {
      "title": "Kaldheim - Phantom Premonition Commander Deck",
@@ -17743,13 +17745,13 @@
      "title": "Vendetta Booster Display",
      "game": "Riftbound",
      "available": true,
-     "price": 141.99
+     "price": 146.75
     },
     "vendetta-vault-bundle": {
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 39.49,
+     "price": 39.75,
      "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
@@ -17757,10 +17759,16 @@
      "game": "Riftbound",
      "available": true,
      "price": 17.75
+    },
+    "innistrad-crimson-vow-draft-booster-box": {
+     "title": "Innistrad: Crimson Vow - Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 141.75
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
