@@ -13624,6 +13624,13 @@
      "available": false,
      "price": 29.99,
      "unavail_since": 1785718210
+    },
+    "one-piece-cg-st-32-starter-deck-pre-order": {
+     "title": "One Piece CG ST-32 Starter Deck",
+     "game": "One Piece",
+     "available": false,
+     "price": 17.95,
+     "unavail_since": 1785722709
     }
    },
    "baselined": true,
@@ -15758,7 +15765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17753,7 +17760,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
    "last_error": ""
   },
