@@ -1241,9 +1241,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-the-hobbit-play-booster-display-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -3644,9 +3644,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 168,
+   "check_cursor": 208,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'scourge-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -3892,7 +3892,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Obsidian Flames - Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 121.0,
+     "price": 128.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
@@ -4882,7 +4882,7 @@
      "title": "Pokemon Scarlet and Violet: Paldean Fates Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 644.0,
+     "price": 635.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-bloomburrow-collector-booster-box-pre-order": {
@@ -5055,9 +5055,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'pokemon-sword-and-shield-silver-tempest-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6858,9 +6858,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 96,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product 'mtg-phyrexia-all-will-be-one-set-booster-boxtrading-cards' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -7578,7 +7578,8 @@
      "game": "MTG",
      "available": false,
      "price": 214.99,
-     "unavail_since": 1784083329
+     "unavail_since": 1784083329,
+     "delisted": true
     },
     "magic-the-gathering-foundations-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Foundations - Jumpstart Booster Box",
@@ -7888,7 +7889,7 @@
    "baselined": true,
    "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'mega-dream-ex-booster-box-m2a-high-class-pack-mega-dream-ex-m2a' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -8667,9 +8668,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product '500-years-in-the-futures-booster-box-op-07-one-piece' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -8886,7 +8887,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'riftbound-tcg-vendetta-savage-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -9698,9 +9699,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'one-piece-tcg-starter-deck-yamato' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
