@@ -10516,9 +10516,9 @@
     "the-hobbit-play-booster-box-preorder": {
      "title": "The Hobbit Play Booster Box - Preorder",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 169.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1785784811
     },
     "the-hobbit-collector-booster-box-preorder": {
      "title": "The Hobbit Collector Booster Box - Preorder",
@@ -11162,6 +11162,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 64.95
+    },
+    "the-hobbit-bundle-preorder": {
+     "title": "The Hobbit Bundle - Preorder",
+     "game": "MTG",
+     "available": true,
+     "price": 69.95
     }
    },
    "baselined": true,
@@ -15767,7 +15773,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17770,7 +17776,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
