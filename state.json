@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 248,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5055,7 +5055,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6858,7 +6858,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 136,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8693,9 +8693,10 @@
     "pokemon-tcg-me04-chaos-rising-booster-box": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 184.99,
-     "delisted": true
+     "available": false,
+     "price": 169.99,
+     "delisted": true,
+     "unavail_since": 1785777645
     },
     "pokemon-tcg-me04-chaos-rising-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Elite Trainer Box",
@@ -9699,7 +9700,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
