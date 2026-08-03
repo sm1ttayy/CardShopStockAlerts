@@ -13617,6 +13617,13 @@
      "available": false,
      "price": 21.95,
      "unavail_since": 1785695707
+    },
+    "one-piece-card-game-starter-deck-navy-pre-order": {
+     "title": "One Piece Card Game - Starter Deck - Navy",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.99,
+     "unavail_since": 1785718210
     }
    },
    "baselined": true,
@@ -15745,7 +15752,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15957,8 +15964,9 @@
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 528.25
+     "available": false,
+     "price": 528.25,
+     "unavail_since": 1785718251
     },
     "brilliant-stars-booster-box": {
      "title": "Brilliant Stars Booster Box",
@@ -16289,7 +16297,7 @@
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 419.25,
+     "price": 411.99,
      "last_restock_alert": 1785606645
     },
     "korean-blue-sky-stream-booster-box": {
@@ -17045,7 +17053,7 @@
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 264.75
+     "price": 258.99
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
@@ -17093,7 +17101,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 189.25
+     "price": 188.99
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -17111,7 +17119,7 @@
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 82.75
+     "price": 84.99
     },
     "destined-rivals-booster-bundle": {
      "title": "Destined Rivals Booster Bundle",
@@ -17129,7 +17137,7 @@
      "title": "Paldea Evolved Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 132.25
+     "price": 129.25
     },
     "scarlet-violet-booster-bundle": {
      "title": "Scarlet & Violet Booster Bundle",
@@ -17183,7 +17191,7 @@
      "title": "151 Ultra Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 957.99
+     "price": 949.75
     },
     "pitch-black-3-pack-blister-binacle": {
      "title": "Pitch Black 3 Pack Blister [Binacle]",
@@ -17347,7 +17355,7 @@
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 278.99
+     "price": 277.99
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
      "title": "Paldea Evolved Pokemon Center Elite Trainer Box",
@@ -17390,7 +17398,7 @@
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 477.99
+     "price": 477.75
     },
     "jumpstart-booster-box": {
      "title": "Jumpstart - Booster Box",
@@ -17432,7 +17440,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 59.25
+     "price": 57.99
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -17563,7 +17571,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 47.75
+     "price": 47.25
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -17716,7 +17724,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 128.49
+     "price": 127.49
     },
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
@@ -17735,11 +17743,11 @@
      "title": "Vendetta Showdown Decks: Zed vs Shen",
      "game": "Riftbound",
      "available": true,
-     "price": 18.99
+     "price": 17.75
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
