@@ -11171,7 +11171,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13222,9 +13222,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-pitch-black-booster-box-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Box MAX 2",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 269.95,
-     "last_restock_alert": 1785335115
+     "last_restock_alert": 1785335115,
+     "unavail_since": 1785785417
     },
     "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box",
@@ -13642,7 +13643,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15773,7 +15774,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17776,7 +17777,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 123,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
