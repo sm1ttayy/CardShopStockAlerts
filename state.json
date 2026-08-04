@@ -11285,6 +11285,12 @@
      "game": "MTG",
      "available": true,
      "price": 74.95
+    },
+    "the-hobbit-play-booster-case-6-boxes": {
+     "title": "The Hobbit Play Booster Case (6 Boxes)",
+     "game": "MTG",
+     "available": true,
+     "price": 929.95
     }
    },
    "baselined": true,
@@ -15934,7 +15940,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17944,10 +17950,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 183.99
+    },
+    "pitch-black-build-battle-box": {
+     "title": "Pitch Black Build & Battle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 38.75
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
