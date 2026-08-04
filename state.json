@@ -10558,7 +10558,7 @@
      "title": "Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 139.95,
+     "price": 114.95,
      "last_restock_alert": 1784235037
     },
     "adventure-on-kamis-island-booster-box": {
@@ -10592,10 +10592,9 @@
     "marvel-super-heroes-play-booster-box-preorder": {
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 119.95,
-     "last_restock_alert": 1784235037,
-     "unavail_since": 1785480313
+     "available": true,
+     "price": 124.95,
+     "last_restock_alert": 1785802811
     },
     "teenage-mutant-ninja-turtles-play-booster-display-preorder": {
      "title": "Teenage Mutant Ninja Turtles Play Booster Box",
@@ -10815,9 +10814,9 @@
     "foundations-jumpstart-booster-display": {
      "title": "Foundations Jumpstart Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 84.95,
-     "unavail_since": 1785463211
+     "last_restock_alert": 1785802812
     },
     "buy-mtg-foundations-play-booster-display": {
      "title": "Foundations Play Booster Box",
@@ -15788,7 +15787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17791,7 +17790,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
