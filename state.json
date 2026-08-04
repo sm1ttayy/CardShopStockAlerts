@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3651,7 +3651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3906,7 +3906,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 310.0,
+     "price": 305.0,
      "unavail_since": 1784417507
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -3919,7 +3919,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 202.0,
+     "price": 231.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -5059,10 +5059,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 226.0
+    },
+    "riftbound-league-of-legends-tcg-vendetta-booster-box": {
+     "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
+     "game": "Riftbound",
+     "available": true,
+     "price": 154.0
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6865,7 +6871,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9720,7 +9726,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
