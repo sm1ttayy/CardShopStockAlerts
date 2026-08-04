@@ -13652,6 +13652,18 @@
      "available": false,
      "price": 17.95,
      "unavail_since": 1785722709
+    },
+    "one-piece-cg-eb-05-booster-box-pre-order": {
+     "title": "One Piece CG EB-05 Booster Box (Pre Order)",
+     "game": "One Piece",
+     "available": true,
+     "price": 299.95
+    },
+    "one-piece-cg-op-18-booster-box-pre-order": {
+     "title": "One Piece CG OP-18 Booster Box (Pre Order)",
+     "game": "One Piece",
+     "available": true,
+     "price": 269.95
     }
    },
    "baselined": true,
@@ -15787,7 +15799,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17790,7 +17802,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
