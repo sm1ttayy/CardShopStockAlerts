@@ -13783,6 +13783,20 @@
      "game": "One Piece",
      "available": true,
      "price": 269.95
+    },
+    "one-piece-cg-st-26-starter-deck-pre-order-copy-copy": {
+     "title": "One Piece CG ST-26 Starter Deck - Monkey D. Luffy",
+     "game": "One Piece",
+     "available": false,
+     "price": 54.95,
+     "unavail_since": 1785879310
+    },
+    "one-piece-cg-st-27-starter-deck-pre-order": {
+     "title": "One Piece CG ST-27 Starter Deck - Marshall D. Teach",
+     "game": "One Piece",
+     "available": false,
+     "price": 54.95,
+     "unavail_since": 1785879310
     }
    },
    "baselined": true,
@@ -15918,7 +15932,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17931,7 +17945,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18636,7 +18650,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 45
+   "check_cursor": 13
   },
   "https://sagaconcepts.com": {
    "products": {
