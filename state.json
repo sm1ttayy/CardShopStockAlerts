@@ -12147,8 +12147,9 @@
     "one-piece-card-game-romance-dawn-booster-box": {
      "title": "One Piece Card Game - Romance Dawn Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 2199.95
+     "available": false,
+     "price": 2199.95,
+     "unavail_since": 1785868203
     },
     "one-piece-card-game-kingdoms-of-intrigue-booster-box": {
      "title": "One Piece Card Game - Kingdoms of Intrigue Booster Box",
@@ -15916,7 +15917,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17923,7 +17924,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
