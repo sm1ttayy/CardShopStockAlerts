@@ -11289,7 +11289,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13787,7 +13787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15919,7 +15919,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16401,7 +16401,7 @@
      "title": "Mega Dream ex Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 108.49,
+     "price": 119.99,
      "last_restock_alert": 1785873977
     },
     "avatar-the-last-airbender-jumpstart-booster-display": {
@@ -17923,10 +17923,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 127.75
+    },
+    "storm-emeralda-booster-box": {
+     "title": "Storm Emeralda Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 183.99
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
