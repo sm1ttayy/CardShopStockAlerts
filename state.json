@@ -1241,7 +1241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 97,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3644,7 +3644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 188,
+   "check_cursor": 228,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5055,7 +5055,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6858,7 +6858,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8894,7 +8894,8 @@
      "game": "One Piece",
      "available": false,
      "price": 95.0,
-     "unavail_since": 1785695588
+     "unavail_since": 1785695588,
+     "delisted": true
     }
    },
    "baselined": true,
@@ -9712,7 +9713,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
