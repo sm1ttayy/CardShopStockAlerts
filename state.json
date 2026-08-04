@@ -15729,7 +15729,7 @@
      "title": "XY Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2766.16,
+     "price": 2794.52,
      "unavail_since": 1784083349
     },
     "flashfire-booster-box": {
@@ -15916,7 +15916,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16122,9 +16122,8 @@
     "pokemon-s-s-fusion-strike-booster-box": {
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 976.99,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 992.49
     },
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
@@ -16143,9 +16142,8 @@
     "pokemon-evolving-skies-booster-box": {
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 2409.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 2510.49
     },
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
@@ -16786,16 +16784,16 @@
     "pokemon-chilling-reign-booster-box": {
      "title": "Chilling Reign Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 496.49,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 499.99,
+     "last_restock_alert": 1785865536
     },
     "pokemon-swsh-astral-radiance-booster-box": {
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 414.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 421.75,
+     "last_restock_alert": 1785865536
     },
     "pokemon-sword-shield-vivid-voltage-booster-box": {
      "title": "Vivid Voltage Booster Box",
@@ -16899,7 +16897,7 @@
      "title": "Scarlet & Violet Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 314.75
+     "price": 333.0
     },
     "cosmic-eclipse-booster-box": {
      "title": "Cosmic Eclipse Booster Box",
@@ -17916,10 +17914,16 @@
      "game": "MTG",
      "available": true,
      "price": 141.75
+    },
+    "pokemon-charizard-ex-super-premium-collection": {
+     "title": "Charizard ex Super-Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 127.75
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
    "last_error": ""
   },
