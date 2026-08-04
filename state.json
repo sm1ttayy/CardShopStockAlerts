@@ -14368,9 +14368,10 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 169.99,
-     "last_restock_alert": 1785378310
+     "last_restock_alert": 1785378310,
+     "unavail_since": 1785802209
     },
     "riftbound-league-of-legends-tcg-vendetta-vendetta-vault": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Vendetta Vault",
@@ -15786,7 +15787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17789,7 +17790,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
