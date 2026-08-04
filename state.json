@@ -11271,8 +11271,9 @@
     "pokemon-me05-pitch-black-booster-bundle-case-25-bundles": {
      "title": "Pokemon ME05 Pitch Black Booster Bundle Case (25 Bundles)",
      "game": "Pokemon",
-     "available": true,
-     "price": 799.95
+     "available": false,
+     "price": 799.95,
+     "unavail_since": 1785873923
     },
     "riftbound-vendetta-showdown-decks-zed-vs-shen-display": {
      "title": "Riftbound Vendetta Showdown Decks: Zed vs Shen Display",
@@ -11288,7 +11289,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13786,7 +13787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15918,7 +15919,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16399,9 +16400,9 @@
     "mega-dream-ex-booster-box": {
      "title": "Mega Dream ex Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 106.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 108.49,
+     "last_restock_alert": 1785873977
     },
     "avatar-the-last-airbender-jumpstart-booster-display": {
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
@@ -17925,7 +17926,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18630,7 +18631,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 42
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
