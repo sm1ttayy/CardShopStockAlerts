@@ -10640,9 +10640,8 @@
     "the-hobbit-collector-booster-box-preorder": {
      "title": "The Hobbit Collector Booster Box - Preorder",
      "game": "MTG",
-     "available": false,
-     "price": 455.95,
-     "unavail_since": 1784083347
+     "available": true,
+     "price": 749.95
     },
     "reality-fracture-collector-booster-box-preorder": {
      "title": "Reality Fracture Collector Booster Box - Preorder",
@@ -11285,11 +11284,11 @@
      "title": "The Hobbit Bundle - Preorder",
      "game": "MTG",
      "available": true,
-     "price": 69.95
+     "price": 74.95
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13787,7 +13786,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15919,7 +15918,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17932,7 +17931,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 105,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18637,7 +18636,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 5
+   "check_cursor": 45
   },
   "https://sagaconcepts.com": {
    "products": {
