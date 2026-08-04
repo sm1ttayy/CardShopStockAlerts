@@ -12883,8 +12883,9 @@
     "mtg-bloomburrow-english-play-booster-box-pre-order": {
      "title": "MTG - Bloomburrow - English Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 224.95
+     "available": false,
+     "price": 224.95,
+     "unavail_since": 1785866121
     },
     "mtg-secrets-of-strixhaven-play-booster-box-pre-order": {
      "title": "MTG Secrets of Strixhaven - Play Booster Box",
@@ -13785,7 +13786,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15916,7 +15917,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17923,7 +17924,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
