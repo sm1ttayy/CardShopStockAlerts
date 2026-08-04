@@ -11134,8 +11134,9 @@
     "pokemon-me05-pitch-black-elite-trainer-box-case-10-boxes": {
      "title": "Pokemon ME05 Pitch Black Elite Trainer Box Case (10 Boxes)",
      "game": "Pokemon",
-     "available": true,
-     "price": 699.95
+     "available": false,
+     "price": 699.95,
+     "unavail_since": 1785804306
     },
     "ascended-heroes-collection-erika": {
      "title": "Ascended Heroes Collection - Erika",
@@ -15800,7 +15801,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17803,7 +17804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
