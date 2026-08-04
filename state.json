@@ -12491,6 +12491,12 @@
      "game": "One Piece",
      "available": true,
      "price": 39.95
+    },
+    "one-piece-card-game-set-09-booster-box": {
+     "title": "One Piece Card Game - Emperors in the New World Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 899.95
     }
    },
    "baselined": true,
@@ -13773,7 +13779,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14486,10 +14492,9 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 169.99,
-     "last_restock_alert": 1785378310,
-     "unavail_since": 1785802209
+     "last_restock_alert": 1785860114
     },
     "riftbound-league-of-legends-tcg-vendetta-vendetta-vault": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Vendetta Vault",
@@ -15347,7 +15352,7 @@
      "title": "Team Rocket Booster Box [1st Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 13474.34,
+     "price": 13355.93,
      "unavail_since": 1784083349
     },
     "gym-heroes-booster-box-1st-edition": {
@@ -15905,7 +15910,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17908,7 +17913,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18583,8 +18588,9 @@
     "riftbound-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG Vendetta Booster Box",
      "game": "Riftbound",
-     "available": true,
-     "price": 129.95
+     "available": false,
+     "price": 129.95,
+     "unavail_since": 1785860153
     },
     "riftbound-league-of-legends-tcg-vendetta-vault": {
      "title": "Riftbound: League of Legends TCG Vendetta Vault",
