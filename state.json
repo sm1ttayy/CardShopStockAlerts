@@ -11319,7 +11319,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13846,7 +13846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15978,7 +15978,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17998,7 +17998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 105,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18701,9 +18701,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-8-monkey-d-luffy-st-08' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 43
+   "error_streak": 2,
+   "last_error": "Undiscovered Realm: product 'pokemon-unified-minds-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 83
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -18830,7 +18830,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
+   "error_streak": 2,
    "last_error": "Saga Concepts: product 'magic-the-gathering-universes-beyond-marvel-super-heroes-the-fantastic-four-commander-deck' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
