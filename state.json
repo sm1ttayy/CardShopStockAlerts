@@ -11319,7 +11319,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13846,7 +13846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15308,7 +15308,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15978,7 +15978,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17380,7 +17380,7 @@
      "title": "151 Zapdos ex Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 122.75
+     "price": 121.75
     },
     "pokemon-151-poster-collection": {
      "title": "151 Poster Collection",
@@ -17404,7 +17404,7 @@
      "title": "Mega Greninja ex Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 50.99
+     "price": 48.75
     },
     "blooming-waters-premium-collection": {
      "title": "Blooming Waters Premium Collection",
@@ -17982,7 +17982,7 @@
      "title": "Charizard ex Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 127.75
+     "price": 124.99
     },
     "storm-emeralda-booster-box": {
      "title": "Storm Emeralda Booster Box",
@@ -17998,7 +17998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18701,9 +18701,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-royal-blood-op-10-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 35
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 26
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -18830,8 +18830,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
-   "last_error": "Saga Concepts: product 'magic-the-gathering-universes-beyond-marvel-super-heroes-the-fantastic-four-commander-deck' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
