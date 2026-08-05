@@ -15958,7 +15958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17978,7 +17978,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18804,9 +18804,9 @@
     "riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en": {
      "title": "Riftbound TCG League Of Legends Set 3 Unleashed Booster Display (24Ct) UVSRB03BD01EN",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 119.99,
-     "unavail_since": 1785873642
+     "last_restock_alert": 1785950435
     }
    },
    "baselined": true,
