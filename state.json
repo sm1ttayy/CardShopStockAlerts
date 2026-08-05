@@ -15985,7 +15985,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16508,9 +16508,9 @@
     "japanese-crimson-haze-booster-box": {
      "title": "Japanese Crimson Haze Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 123.75,
-     "unavail_since": 1784083350
+     "last_restock_alert": 1785969940
     },
     "surging-sparks-booster-box-case-sealed": {
      "title": "Surging Sparks Booster Box Case [Sealed]",
@@ -18011,7 +18011,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
