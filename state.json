@@ -13843,6 +13843,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 349.95
+    },
+    "one-piece-card-game-double-pack-vol-3-pre-order": {
+     "title": "One Piece Card Game - Double Pack Vol.3 - Wings Of The Captain",
+     "game": "One Piece",
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1785969307
     }
    },
    "baselined": true,
@@ -15978,7 +15985,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18004,7 +18011,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 97,
    "error_streak": 0,
    "last_error": ""
   },
