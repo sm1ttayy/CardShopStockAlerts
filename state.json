@@ -15957,7 +15957,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17935,8 +17935,9 @@
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
      "game": "Riftbound",
-     "available": true,
-     "price": 139.99
+     "available": false,
+     "price": 139.99,
+     "unavail_since": 1785952827
     },
     "vendetta-vault-bundle": {
      "title": "Vendetta Vault Bundle",
@@ -17977,7 +17978,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 107,
    "error_streak": 0,
    "last_error": ""
   },
