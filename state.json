@@ -10000,7 +10000,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -10428,7 +10428,7 @@
    "baselined": true,
    "check_cursor": 7,
    "error_streak": 0,
-   "last_error": "me Store: product 'magic-the-gathering-universes-beyond-warhammer-40k-collectors-edition-commander-deck-tyranid-swarm' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -11294,9 +11294,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'pokemon-destined-rivals-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -13813,9 +13813,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 24,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-cg-eb-06-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -15278,7 +15278,7 @@
    "baselined": true,
    "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'mtg-innistrad-crimson-vow-collector-booster' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -15946,9 +15946,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'gym-heroes-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -17965,9 +17965,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 156,
+   "check_cursor": 68,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'universes-beyond-final-fantasy-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -18668,8 +18668,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'riftbound-unleashed-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   },
   "https://sagaconcepts.com": {
