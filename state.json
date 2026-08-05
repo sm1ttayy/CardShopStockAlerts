@@ -1240,7 +1240,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 115,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3656,7 +3656,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 243,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3699,9 +3699,9 @@
     "one-piece-tcg-extra-booster-box-eb-03-pre-order": {
      "title": "One Piece: Extra Booster - Heroines Edition Box (EB-03)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 341.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1785969395
     },
     "one-piece-tcg-title-tba-booster-box-op-14-pre-order": {
      "title": "One Piece TCG: The Azure Seas Seven Booster Box (OP-14)",
@@ -5074,7 +5074,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6883,7 +6883,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 139,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9826,7 +9826,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
