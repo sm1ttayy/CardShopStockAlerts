@@ -13846,7 +13846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15978,7 +15978,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17995,10 +17995,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 35.75
+    },
+    "streets-of-new-capenna-draft-booster-box": {
+     "title": "Streets of New Capenna - Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 129.99
     }
    },
    "baselined": true,
-   "check_cursor": 120,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
