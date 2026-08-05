@@ -13392,9 +13392,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 49.95,
-     "last_restock_alert": 1785945908
+     "last_restock_alert": 1785945908,
+     "unavail_since": 1785946513
     },
     "mtg-ultimate-masters-english-booster-box": {
      "title": "MTG - Ultimate Masters - English Booster Box",
@@ -15957,7 +15958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17977,7 +17978,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
