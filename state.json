@@ -10450,7 +10450,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11333,17 +11333,10 @@
      "game": "Pokemon",
      "available": true,
      "price": 164.95
-    },
-    "star-trek-play-booster-box-preorder": {
-     "title": "Star Trek Play Booster Box - Preorder",
-     "game": "MTG",
-     "available": false,
-     "price": 129.95,
-     "unavail_since": 1786023004
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13761,9 +13754,8 @@
     "one-piece-cg-op-21-booster-box-pre-order": {
      "title": "One Piece CG OP-21 Booster Box (Pre Order)",
      "game": "One Piece",
-     "available": false,
-     "price": 279.95,
-     "unavail_since": 1786023003
+     "available": true,
+     "price": 259.95
     },
     "pokemon-shining-fates-mad-party-pin-collection-galarian-mr-rime-pre-order": {
      "title": "Pokemon - Shining Fates - Mad Party Pin Collection - Galarian Mr. Rime",
@@ -14618,7 +14610,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15346,7 +15338,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15361,9 +15353,8 @@
     "pre-order-pokemon-abyss-eye-m5-japanese-booster-box": {
      "title": "Pok\u00e9mon Abyss Eye M5 Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 79.99,
-     "unavail_since": 1786023003
+     "available": true,
+     "price": 79.99
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-box": {
      "title": "Pok\u00e9mon TCG: Mega Evolution Perfect Order - Booster Box",
@@ -16012,9 +16003,8 @@
     "pokemon-storm-emeralda-m6-japanese-booster-box": {
      "title": "[PRE ORDER] Pok\u00e9mon Storm Emeralda M6 Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 149.99,
-     "unavail_since": 1786023003
+     "available": true,
+     "price": 149.99
     }
    },
    "baselined": true,
