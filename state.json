@@ -10450,7 +10450,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11333,10 +11333,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 164.95
+    },
+    "star-trek-play-booster-box-preorder": {
+     "title": "Star Trek Play Booster Box - Preorder",
+     "game": "MTG",
+     "available": false,
+     "price": 129.95,
+     "unavail_since": 1786023004
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13754,8 +13761,9 @@
     "one-piece-cg-op-21-booster-box-pre-order": {
      "title": "One Piece CG OP-21 Booster Box (Pre Order)",
      "game": "One Piece",
-     "available": true,
-     "price": 259.95
+     "available": false,
+     "price": 279.95,
+     "unavail_since": 1786023003
     },
     "pokemon-shining-fates-mad-party-pin-collection-galarian-mr-rime-pre-order": {
      "title": "Pokemon - Shining Fates - Mad Party Pin Collection - Galarian Mr. Rime",
@@ -13876,7 +13884,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14610,7 +14618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15338,7 +15346,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15353,8 +15361,9 @@
     "pre-order-pokemon-abyss-eye-m5-japanese-booster-box": {
      "title": "Pok\u00e9mon Abyss Eye M5 Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 79.99
+     "available": false,
+     "price": 79.99,
+     "unavail_since": 1786023003
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-box": {
      "title": "Pok\u00e9mon TCG: Mega Evolution Perfect Order - Booster Box",
@@ -16003,12 +16012,13 @@
     "pokemon-storm-emeralda-m6-japanese-booster-box": {
      "title": "[PRE ORDER] Pok\u00e9mon Storm Emeralda M6 Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 149.99
+     "available": false,
+     "price": 149.99,
+     "unavail_since": 1786023003
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18040,9 +18050,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 62,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'legacy-of-the-master-booster-box-op12' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -18743,9 +18753,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 6
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-st-03-seven-warlords-of-the-sea' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 46
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -18872,8 +18882,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'magic-the-gathering-universes-beyond-marvel-super-heroes-the-fantastic-four-commander-deck' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
