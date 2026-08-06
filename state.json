@@ -11337,7 +11337,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13877,7 +13877,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16009,7 +16009,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18041,9 +18041,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 144,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'the-brothers-war-set-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -18744,9 +18744,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 6
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-st-03-seven-warlords-of-the-sea' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 46
   },
   "https://sagaconcepts.com": {
    "products": {
