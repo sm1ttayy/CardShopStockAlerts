@@ -12880,9 +12880,10 @@
     "league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Origins Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 379.95,
-     "last_restock_alert": 1786042230
+     "last_restock_alert": 1786042230,
+     "unavail_since": 1786046415
     },
     "riftbound-league-of-legends-chinese-jumbo-booster-box-pre-order": {
      "title": "Riftbound League Of Legends Chinese Jumbo Booster Box",
@@ -16009,7 +16010,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18041,7 +18042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
