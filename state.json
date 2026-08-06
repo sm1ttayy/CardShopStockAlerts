@@ -10024,7 +10024,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -10451,9 +10451,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'learn-to-paint-kit-layer-up-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -11337,9 +11337,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 16,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'buy-mtg-tarkir-dragonstorm-play-booster-display-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -13877,9 +13877,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'magic-the-gathering-outlaws-of-thunder-junction-collector-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -15339,9 +15339,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-sv8-5-prismatic-evolutions-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -16009,9 +16009,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'team-magma-vs-team-aqua-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -18041,9 +18041,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 156,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Common Lands: product 'forbidden-light-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -18745,8 +18745,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-chilling-reign-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 56
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 9
   },
   "https://sagaconcepts.com": {
    "products": {
