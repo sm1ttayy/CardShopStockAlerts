@@ -1240,7 +1240,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 117,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3650,13 +3650,13 @@
     "one-piece-the-worlds-strongest-warriors-booster-box-op-17": {
      "title": "[PREORDER] One Piece: The World's Strongest Warriors - Booster Box [OP-17]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 389.0,
-     "unavail_since": 1785815007
+     "last_restock_alert": 1786000893
     }
    },
    "baselined": true,
-   "check_cursor": 141,
+   "check_cursor": 181,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5074,7 +5074,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6883,7 +6883,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 105,
+   "check_cursor": 145,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9826,7 +9826,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
