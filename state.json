@@ -10451,7 +10451,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11337,7 +11337,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13877,7 +13877,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15339,7 +15339,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16009,7 +16009,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18041,7 +18041,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 116,
+   "check_cursor": 156,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18744,9 +18744,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 16
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-chilling-reign-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 56
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -18873,8 +18873,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'magic-the-gathering-universes-beyond-marvel-super-heroes-the-fantastic-four-commander-deck' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
