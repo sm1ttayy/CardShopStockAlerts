@@ -10024,7 +10024,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -10450,9 +10450,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'magic-the-gathering-marvels-spider-man-play-booster-box-30-packs' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -11336,9 +11336,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'pokemon-perfect-order-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -13876,9 +13876,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-sv-temporal-forces-half-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -15338,9 +15338,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-terastal-grand-gathering-chinese-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -16008,9 +16008,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'emerging-powers-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -18040,9 +18040,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'legacy-of-the-master-booster-box-op12' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'phantasmal-flames-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -18744,8 +18744,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-st-03-seven-warlords-of-the-sea' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 46
+   "last_error": "Undiscovered Realm: product 'riftbound-tcg-spiritforged-league-of-legends-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 86
   },
   "https://sagaconcepts.com": {
    "products": {
