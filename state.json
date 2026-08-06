@@ -11337,7 +11337,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13877,7 +13877,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15339,7 +15339,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16009,7 +16009,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18041,9 +18041,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 132,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'spanish-hgss-half-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 36,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -18744,9 +18744,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-28-yellow-green-yamato-st-28-preorder' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 42
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 4
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -18873,8 +18873,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'magic-the-gathering-universes-beyond-marvel-super-heroes-the-fantastic-four-commander-deck' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
