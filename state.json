@@ -12066,7 +12066,7 @@
      "title": "Pokemon - Mega Evolution - Pitch Black - Build and Battle Kit",
      "game": "Pokemon",
      "available": true,
-     "price": 59.95,
+     "price": 44.95,
      "last_restock_alert": 1785515436
     },
     "vaughan-events-riftbound-vendetta-5k": {
@@ -13966,8 +13966,9 @@
     "riftbound-league-of-legends-tcg-unleashed-booster-box": {
      "title": "Riftbound: League of Legends TCG: Unleashed - Booster Box",
      "game": "Riftbound",
-     "available": true,
-     "price": 159.99
+     "available": false,
+     "price": 159.99,
+     "unavail_since": 1786050015
     },
     "riftbound-league-of-legends-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends TCG: Origins - Booster Box",
@@ -16012,7 +16013,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18044,7 +18045,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
