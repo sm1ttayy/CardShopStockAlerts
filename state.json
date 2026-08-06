@@ -11337,7 +11337,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12880,9 +12880,9 @@
     "league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Origins Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 329.95,
-     "unavail_since": 1784083348
+     "available": true,
+     "price": 379.95,
+     "last_restock_alert": 1786042230
     },
     "riftbound-league-of-legends-chinese-jumbo-booster-box-pre-order": {
      "title": "Riftbound League Of Legends Chinese Jumbo Booster Box",
@@ -13877,7 +13877,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16009,7 +16009,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18041,9 +18041,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 144,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'the-brothers-war-set-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 52,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -18744,9 +18744,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-st-03-seven-warlords-of-the-sea' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 46
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 2
   },
   "https://sagaconcepts.com": {
    "products": {
