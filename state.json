@@ -10608,6 +10608,12 @@
      "available": false,
      "price": 79.99,
      "unavail_since": 1786065008
+    },
+    "s-h-figuarts-boa-hancock-marineford-figure-one-piece": {
+     "title": "S.H.Figuarts Boa Hancock (Marineford) Figure One Piece",
+     "game": "One Piece",
+     "available": true,
+     "price": 109.99
     }
    },
    "baselined": true,
@@ -14364,10 +14370,17 @@
      "game": "MTG",
      "available": true,
      "price": 59.95
+    },
+    "riftbound-league-of-legends-spiritforged-champion-deck-rumble-pre-order": {
+     "title": "Riftbound: League of Legends - Spiritforged Champion Deck - Rumble",
+     "game": "Riftbound",
+     "available": false,
+     "price": 29.95,
+     "unavail_since": 1786065616
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15132,7 +15145,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16620,7 +16633,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18803,7 +18816,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 118,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19600,7 +19613,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 5
+   "check_cursor": 45
   },
   "https://sagaconcepts.com": {
    "products": {
