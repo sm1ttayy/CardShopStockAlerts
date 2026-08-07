@@ -10577,6 +10577,37 @@
      "game": "Pokemon",
      "available": true,
      "price": 198.0
+    },
+    "cosmiq-x-one-piece-luffy-coming-soon": {
+     "title": "CosmiQ x One Piece: Luffy - COMING SOON",
+     "game": "One Piece",
+     "available": true,
+     "price": 189.95
+    },
+    "one-piece-big-mom-look-up-series-figure": {
+     "title": "One Piece - Big Mom Look Up Series Figure",
+     "game": "One Piece",
+     "available": true,
+     "price": 59.99
+    },
+    "s-h-figuarts-monkey-d-luffy-romance-dawn-figure-one-piece-figure": {
+     "title": "S.H. Figuarts Monkey D. Luffy -Romance Dawn- Figure (One Piece) Figure",
+     "game": "One Piece",
+     "available": true,
+     "price": 59.99
+    },
+    "pokemon-super-electric-breaker-sv8-booster-box-scarlet-violet-series-japanese-supercharged-breaker": {
+     "title": "Pokemon Super Electric Breaker SV8 Booster Box - Japanese Scarlet & Violet TCG",
+     "game": "Pokemon",
+     "available": true,
+     "price": 319.0
+    },
+    "pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution Chaos Rising Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 79.99,
+     "unavail_since": 1786065008
     }
    },
    "baselined": true,
@@ -12821,6 +12852,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 229.95
+    },
+    "mtg-mystery-booster-convention-edition-2021-booster-box": {
+     "title": "MTG - Mystery Booster - Convention Edition 2021 - Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 459.95
     }
    },
    "baselined": true,
@@ -14330,7 +14367,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15095,7 +15132,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16583,7 +16620,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18766,7 +18803,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 138,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19563,7 +19600,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 28
+   "check_cursor": 7
   },
   "https://sagaconcepts.com": {
    "products": {
