@@ -11626,13 +11626,6 @@
      "game": "MTG",
      "available": true,
      "price": 199.95
-    },
-    "star-trek-play-booster-box-preorder": {
-     "title": "Star Trek Play Booster Box - Preorder",
-     "game": "MTG",
-     "available": false,
-     "price": 129.95,
-     "unavail_since": 1786109408
     }
    },
    "baselined": true,
@@ -12402,9 +12395,8 @@
     "one-piece-card-game-set-20-booster-box": {
      "title": "One Piece Card Game - Set 20 Booster Box (Pre-Order)",
      "game": "One Piece",
-     "available": false,
-     "price": 249.95,
-     "unavail_since": 1786109423
+     "available": true,
+     "price": 249.95
     },
     "one-piece-card-game-set-19-booster-box": {
      "title": "One Piece Card Game - Set 19 Booster Box (Pre-Order)",
@@ -12997,6 +12989,12 @@
      "game": "MTG",
      "available": true,
      "price": 459.95
+    },
+    "mtg-bloomburrow-commander-decks-squirreled-away-pre-order": {
+     "title": "MTG - Bloomburrow - Commander Deck - Squirreled Away",
+     "game": "MTG",
+     "available": true,
+     "price": 89.95
     }
    },
    "baselined": true,
@@ -14191,9 +14189,8 @@
     "one-piece-cg-op-21-booster-box-pre-order": {
      "title": "One Piece CG OP-21 Booster Box (Pre Order)",
      "game": "One Piece",
-     "available": false,
-     "price": 279.95,
-     "unavail_since": 1786109408
+     "available": true,
+     "price": 259.95
     },
     "pokemon-shining-fates-mad-party-pin-collection-galarian-mr-rime-pre-order": {
      "title": "Pokemon - Shining Fates - Mad Party Pin Collection - Galarian Mr. Rime",
@@ -14517,12 +14514,6 @@
      "game": "MTG",
      "available": true,
      "price": 149.95
-    },
-    "reprint-pokemon-scarlet-and-violet-journey-together-non-enhanced-booster-box-pre-order": {
-     "title": "(Reprint) Pokemon - Scarlet and Violet - Journey Together non enhanced Booster Box (Pre Order)",
-     "game": "Pokemon",
-     "available": true,
-     "price": 299.95
     }
    },
    "baselined": true,
@@ -14790,10 +14781,9 @@
     "the-hobbit-play-booster-display": {
      "title": "The Hobbit - Play Booster Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 249.99,
-     "last_restock_alert": 1785187236,
-     "unavail_since": 1786109421
+     "last_restock_alert": 1785187236
     },
     "double-pack-set-vol-8": {
      "title": "Double Pack Set Vol. 8",
@@ -15298,7 +15288,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16122,7 +16112,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16137,9 +16127,8 @@
     "pre-order-pokemon-abyss-eye-m5-japanese-booster-box": {
      "title": "Pok\u00e9mon Abyss Eye M5 Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 79.99,
-     "unavail_since": 1786109408
+     "available": true,
+     "price": 79.99
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-box": {
      "title": "Pok\u00e9mon TCG: Mega Evolution Perfect Order - Booster Box",
@@ -16788,9 +16777,8 @@
     "pokemon-storm-emeralda-m6-japanese-booster-box": {
      "title": "[PRE ORDER] Pok\u00e9mon Storm Emeralda M6 Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 149.99,
-     "unavail_since": 1786109408
+     "available": true,
+     "price": 149.99
     }
    },
    "baselined": true,
