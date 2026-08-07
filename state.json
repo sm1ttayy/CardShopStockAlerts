@@ -10179,7 +10179,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -10705,9 +10705,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 37,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-chilling-reign-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -11629,9 +11629,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product '151-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -14517,9 +14517,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-mega-symphonia-japanese-booster-box-pre-order-copy' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -16112,9 +16112,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 7,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'one-piece-cg-double-pack-set-vol-3' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -16782,9 +16782,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'base-set-booster-box-revised-unlimited-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -18965,9 +18965,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'japanese-paradise-dragona-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'one-piece-illustration-box-vol-3' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -19768,8 +19768,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-scarlet-violet-destined-rivals-booster-box-36-packs-pre-order' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 80
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-a-fist-of-divine-speed-op-11-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 24
   },
   "https://sagaconcepts.com": {
    "products": {
