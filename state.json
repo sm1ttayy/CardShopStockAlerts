@@ -11629,7 +11629,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14511,7 +14511,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15282,7 +15282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16106,7 +16106,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16776,7 +16776,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18959,7 +18959,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19763,7 +19763,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 46
+   "check_cursor": 18
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -19964,6 +19964,12 @@
     },
     "one-piece-tcg-extra-booster-eb-06-24ct-bjp2884793": {
      "title": "One Piece TCG Extra Booster Display EB-06 (24 Packs) Title TBA OP-EB06",
+     "game": "One Piece",
+     "available": true,
+     "price": 299.99
+    },
+    "one-piece-tcg-title-tba-booster-op-17-24ct-op-17-bb": {
+     "title": "One Piece TCG The World\u2019S Strongest Warriors Booster Display (OP-17) (24CT) OP-17-BB",
      "game": "One Piece",
      "available": true,
      "price": 299.99
