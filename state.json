@@ -11641,7 +11641,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14554,7 +14554,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14819,7 +14819,7 @@
      "title": "The Hobbit - Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 249.99,
+     "price": 259.99,
      "last_restock_alert": 1785187236
     },
     "double-pack-set-vol-8": {
@@ -15532,8 +15532,9 @@
     "pokemon-me2-5-ascended-heroes-booster-bundle": {
      "title": "POKEMON ME2.5 ASCENDED HEROES BOOSTER BUNDLE (LIMIT 2)",
      "game": "Pokemon",
-     "available": true,
-     "price": 124.95
+     "available": false,
+     "price": 124.95,
+     "unavail_since": 1786134917
     },
     "pokemon-sv9-journey-together-booster-bundle-pre-order": {
      "title": "POKEMON SV9 JOURNEY TOGETHER BOOSTER BUNDLE",
@@ -16827,7 +16828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18695,7 +18696,7 @@
      "title": "Stellar Crown Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 179.75
+     "price": 178.75
     },
     "dominaria-united-draft-booster-box": {
      "title": "Dominaria United - Draft Booster Box",
@@ -19016,7 +19017,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19820,7 +19821,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 2
+   "check_cursor": 42
   },
   "https://sagaconcepts.com": {
    "products": {
