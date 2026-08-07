@@ -375,7 +375,7 @@
      "title": "Magic: the Gathering: Phyrexia All Will be One - Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1099.0,
+     "price": 1051.99,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-universes-beyond-doctor-who-collector-booster-box-pre-order": {
@@ -641,8 +641,9 @@
     "magic-the-gathering-lorwyn-eclipsed-commander-deck": {
      "title": "Magic: The Gathering - Lorwyn Eclipsed Dance of the Elements Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 39.99
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1786144860
     },
     "magic-the-gathering-marvel-super-heroes-booster-bundle": {
      "title": "Magic: The Gathering | Marvel Super Heroes - Booster Bundle",
@@ -1258,10 +1259,29 @@
      "available": false,
      "price": 89.99,
      "unavail_since": 1786136040
+    },
+    "magic-the-gathering-secrets-of-strixhaven-commander-deck": {
+     "title": "Magic: The Gathering | Secrets of Strixhaven - Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 44.39
+    },
+    "magic-the-gathering-starter-commander-deck-draconic-destruction": {
+     "title": "Magic: the Gathering: Starter Commander - Draconic Destruction Commander Deck",
+     "game": "MTG",
+     "available": false,
+     "price": 39.39,
+     "unavail_since": 1786144860
+    },
+    "magic-the-gathering-aetherdrift-commander-deck-display": {
+     "title": "Magic the Gathering: Aetherdrift Commander Deck Display",
+     "game": "MTG",
+     "available": true,
+     "price": 169.99
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3701,7 +3721,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4084,7 +4104,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 462.0,
+     "price": 467.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-collector-booster-box-pre-order": {
@@ -4098,7 +4118,7 @@
      "title": "Magic the Gathering: Commander Legends - Battle for Baldur&#x27;s Gate Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 625.0,
+     "price": 667.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-innistrad-remastered-collector-booster-box-pre-order": {
@@ -4240,7 +4260,7 @@
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 3 Box",
      "game": "Pokemon",
      "available": true,
-     "price": 47.0
+     "price": 40.0
     },
     "pokemon-tcg-scarlet-and-violet-prismatic-evolutions-accessory-pouch-special-collection-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Prismatic Evolutions Accessory Pouch Special Collection Box",
@@ -4520,7 +4540,7 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 514.0,
+     "price": 534.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-carrying-on-his-will-japanese-booster-box-op-13": {
@@ -4891,7 +4911,7 @@
      "title": "One Piece 3D2Y Starter Deck ST-14",
      "game": "One Piece",
      "available": false,
-     "price": 21.0,
+     "price": 22.0,
      "unavail_since": 1784083331
     },
     "one-piece-trading-card-game-monkey-d-luffy-starter-deck-st-08-pre-order": {
@@ -5137,7 +5157,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6954,7 +6974,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 115,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8849,6 +8869,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 100.0
+    },
+    "white-flare-pokemon-center-elite-trainer-box-pokemon": {
+     "title": "White Flare Pokemon Center Elite Trainer Box [Pokemon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 265.0
     }
    },
    "baselined": true,
@@ -9088,7 +9114,8 @@
      "game": "MTG",
      "available": false,
      "price": 220.0,
-     "unavail_since": 1785843576
+     "unavail_since": 1785843576,
+     "delisted": true
     },
     "pokemon-tcg-me02-5-ascended-heroes-booster-bundle": {
      "title": "Pokemon TCG: ME02.5 Ascended Heroes Booster Bundle",
@@ -9966,10 +9993,16 @@
      "game": "MTG",
      "available": true,
      "price": 44.99
+    },
+    "pokemon-tcg-pitch-black-three-pack-blister": {
+     "title": "Pok\u00e9mon TCG: Pitch Black: Three-Pack Blister",
+     "game": "Pokemon",
+     "available": true,
+     "price": 17.99
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
