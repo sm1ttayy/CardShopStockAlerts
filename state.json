@@ -340,7 +340,7 @@
      "title": "Magic: The Gathering | The Hobbit - Play Booster Display Box (Pre-Order)",
      "game": "MTG",
      "available": false,
-     "price": 159.99,
+     "price": 184.99,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-reality-fracture-play-booster-display-box": {
@@ -563,7 +563,7 @@
      "title": "Pokemon TCG: First Partner Illustration Collection - Series 2",
      "game": "Pokemon",
      "available": false,
-     "price": 28.65,
+     "price": 29.58,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-first-partner-illustration-collection-series-1": {
@@ -1254,7 +1254,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1911,7 +1911,7 @@
      "title": "Gatecrash Draft Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 135.0,
+     "price": 160.0,
      "unavail_since": 1784083329
     },
     "pre-order-march-of-the-machine-collector-booster-display": {
@@ -2435,7 +2435,7 @@
      "title": "Dominaria Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 205.0,
+     "price": 220.0,
      "unavail_since": 1784083329
     },
     "ravnica-remastered-draft-booster-display": {
@@ -3653,7 +3653,7 @@
      "title": "Magic: The Gathering - Marvel Super Heroes Commander Decks [Set of 4]",
      "game": "MTG",
      "available": true,
-     "price": 220.0
+     "price": 195.0
     },
     "2026-pokemon-day-collection": {
      "title": "2026 Pokemon Day Collection - Pokemon",
@@ -3673,10 +3673,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 35.0
+    },
+    "magic-the-gathering-final-fantasy-commander-deck-game-edition": {
+     "title": "Magic: The Gathering Final Fantasy Commander Deck [Final Fantasy VII Limit Break Game Edition]",
+     "game": "MTG",
+     "available": false,
+     "price": 79.0,
+     "unavail_since": 1786090764
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3848,7 +3855,7 @@
      "title": "Pokemon TCG: Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 177.0,
+     "price": 176.0,
      "unavail_since": 1784083329
     },
     "pokemon-celebrations-elite-trainer-box-pokemon-center-exclusive": {
@@ -3959,13 +3966,13 @@
      "title": "Riftbound TCG: League of Legends Proving Grounds Box Set",
      "game": "Riftbound",
      "available": true,
-     "price": 68.0
+     "price": 67.0
     },
     "riftbound-tcg-league-of-legends-spiritforged-championship-deck-fiora": {
      "title": "Riftbound TCG: League of Legends Spiritforged Championship Deck (Fiora)",
      "game": "Riftbound",
      "available": true,
-     "price": 42.0
+     "price": 37.0
     },
     "magic-the-gathering-marvel-super-heroes-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Play Booster Box",
@@ -4011,10 +4018,10 @@
      "price": 189.0
     },
     "magic-the-gathering-bloomburrow-play-booster-pre-order": {
-     "title": "Magic the Gathering: Bloomburrow Play Booster",
+     "title": "Magic the Gathering: Bloomburrow Play Booster (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 199.0
+     "price": 180.0
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
@@ -4311,7 +4318,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 74.0
+     "price": 50.0
     },
     "magic-the-gathering-aetherdrift-finish-line-bundle-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Finish Line Bundle",
@@ -4323,7 +4330,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 45.0
+     "price": 51.0
     },
     "magic-the-gathering-aetherdrift-bundle-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Bundle",
@@ -4332,10 +4339,10 @@
      "price": 42.0
     },
     "magic-the-gathering-tarkir-dragonstorm-bundle-box-pre-order": {
-     "title": "Magic The Gathering: Tarkir Dragonstorm Bundle Box",
+     "title": "Magic The Gathering: Tarkir Dragonstorm Bundle Box (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 94.0
+     "price": 85.0
     },
     "mtg_crimvow_giftbundle": {
      "title": "Magic the Gathering: Innistrad: Crimson Vow - Gift Bundle",
@@ -4359,7 +4366,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Pizza Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 89.0
+     "price": 88.0
     },
     "one-piece-tcg-double-pack-volume-9-set": {
      "title": "One Piece TCG: Double Pack Volume 9 Set",
@@ -4901,7 +4908,7 @@
      "title": "Pokemon TCG: Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 235.0,
+     "price": 234.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-white-flare-pokemon-center-elite-trainer-box": {
@@ -4949,7 +4956,7 @@
      "title": "Pokemon Sword and Shield: Silver Tempest Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 393.0,
+     "price": 392.0,
      "unavail_since": 1784083329
     },
     "commander-masters-commander-deck-planeswalker-party-pre-order": {
@@ -4962,7 +4969,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Gift Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 88.0
+     "price": 85.0
     },
     "one-piece-tcg-premium-card-collection-film-red-edition": {
      "title": "One Piece TCG: Premium Card Collection Film Red Edition",
@@ -5018,7 +5025,7 @@
      "title": "Magic the Gathering: Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 142.0
+     "price": 140.0
     },
     "magic-the-gathering-modern-horizons-3-play-booster-pre-order": {
      "title": "Magic the Gathering: Modern Horizons 3 Play Booster",
@@ -5091,10 +5098,22 @@
      "game": "Riftbound",
      "available": true,
      "price": 120.0
+    },
+    "riftbound-league-of-legends-tcg-vendetta-vault-bundle": {
+     "title": "Riftbound League of Legends TCG: Vendetta Vault Bundle (SALE)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 40.0
+    },
+    "mtg_phyrexiaone_cbundle": {
+     "title": "Magic the Gathering Phyrexia: All Will Be One Compleat Edition Bundle Box",
+     "game": "MTG",
+     "available": true,
+     "price": 467.0
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6910,7 +6929,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9887,10 +9906,29 @@
      "available": false,
      "price": 209.7,
      "unavail_since": 1785843602
+    },
+    "riftbound-tcg-vendetta-showdown-decks-zed-versus-shen": {
+     "title": "Riftbound TCG: Vendetta: Showdown Decks: Zed Versus Shen",
+     "game": "Riftbound",
+     "available": false,
+     "price": 34.99,
+     "unavail_since": 1786090761
+    },
+    "magic-the-gathering-marvel-super-heroes-commander-decks-case-of-four": {
+     "title": "Magic the Gathering: Marvel Super Heroes: Commander Decks (Case of Four)",
+     "game": "MTG",
+     "available": true,
+     "price": 199.99
+    },
+    "magic-the-gathering-marvel-super-heroes-bundle": {
+     "title": "Magic the Gathering: Marvel Super Heroes: Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 44.99
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
