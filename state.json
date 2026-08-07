@@ -11641,7 +11641,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13220,9 +13220,9 @@
     "pokemon-tcg-sword-shield-elite-trainer-box-plus-zacian": {
      "title": "Pok\u00e9mon Tcg: Sword & Shield Elite Trainer Box Plus\u2014zacian",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 349.95,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1786134627
     },
     "pokemon-tcg-mega-evolution-elite-trainer-box-lucario-max-2-wave-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution elite trainer box - Lucario",
@@ -14554,7 +14554,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15221,8 +15221,9 @@
     "the-hobbit-bundle": {
      "title": "The Hobbit - Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 99.99
+     "available": false,
+     "price": 99.99,
+     "unavail_since": 1786134620
     },
     "universes-beyond-assassins-creed-bundle": {
      "title": "Universes Beyond: Assassin's Creed - Bundle",
@@ -15323,10 +15324,16 @@
      "game": "MTG",
      "available": true,
      "price": 99.99
+    },
+    "final-fantasy-starter-kit": {
+     "title": "FINAL FANTASY - Starter Kit",
+     "game": "MTG",
+     "available": true,
+     "price": 49.99
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16820,7 +16827,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19009,7 +19016,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19813,7 +19820,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 3
+   "check_cursor": 2
   },
   "https://sagaconcepts.com": {
    "products": {
