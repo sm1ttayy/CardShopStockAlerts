@@ -10080,6 +10080,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 500.0
+    },
+    "teenage-mutant-ninja-turtles-pizza-bundle": {
+     "title": "Teenage Mutant Ninja Turtles - Pizza Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 104.99
     }
    },
    "baselined": true,
@@ -13484,8 +13490,9 @@
     "pokemon-prismatic-evolutions-super-premium-collection-pre-order": {
      "title": "Pokemon Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 449.95
+     "available": false,
+     "price": 449.95,
+     "unavail_since": 1786064713
     },
     "pokemon-scarlet-violet-151-poster-collection": {
      "title": "Pokemon Scarlet & Violet\u2014151 Poster Collection",
@@ -13729,8 +13736,9 @@
     "pokemon-mega-venusaur-ex-premium-collection-pre-order": {
      "title": "Pokemon Mega Venusaur ex Premium Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 94.95
+     "available": false,
+     "price": 94.95,
+     "unavail_since": 1786064713
     },
     "pokemon-armarouge-ex-premium-collection-pre-order": {
      "title": "Pokemon - Armarouge ex Premium Collection",
@@ -14263,10 +14271,66 @@
      "game": "MTG",
      "available": true,
      "price": 574.95
+    },
+    "pokemon-tcg-salamence-ex-reshiram-ex-premium-collection-pre-order": {
+     "title": "Pokemon TCG: Salamence ex &  Reshiram ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 129.95
+    },
+    "pokemon-first-partner-illustration-collections-series-2-pre-order": {
+     "title": "Pokemon First Partner Illustration Collections - Series 2",
+     "game": "Pokemon",
+     "available": true,
+     "price": 49.99
+    },
+    "pokemon-tcg-mega-latias-ex-box-pre-order": {
+     "title": "Pokemon TCG: Mega Latias ex Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 59.95
+    },
+    "pokemon-crown-zenith-premium-treasures-collection-morpeko-v-union": {
+     "title": "Pokemon - Crown Zenith - Premium Treasures Collection - Morpeko V-UNION",
+     "game": "Pokemon",
+     "available": true,
+     "price": 269.99
+    },
+    "mtg-starter-commander-deck-draconic-destruction": {
+     "title": "MTG - Starter Commander Deck - Draconic Destruction",
+     "game": "MTG",
+     "available": false,
+     "price": 39.95,
+     "unavail_since": 1786064717
+    },
+    "mtg-lord-of-the-rings-commander-deck-elvin-council-pre-order": {
+     "title": "MTG - Lord Of The Rings Commander Deck - Elven Council",
+     "game": "MTG",
+     "available": true,
+     "price": 79.95
+    },
+    "mtg-commander-masters-commander-deck-planeswalker-party-pre-order": {
+     "title": "MTG - Commander Masters - Commander Deck - Planeswalker Party",
+     "game": "MTG",
+     "available": false,
+     "price": 159.95,
+     "unavail_since": 1786064717
+    },
+    "mtg-commander-masters-commander-deck-enduring-enchantments-pre-order": {
+     "title": "MTG - Commander Masters - Commander Deck - Enduring Enchantments",
+     "game": "MTG",
+     "available": true,
+     "price": 239.95
+    },
+    "mtg-edge-of-eternities-commander-deck-world-shaper": {
+     "title": "MTG - Edge of Eternities - Commander Deck - World Shaper",
+     "game": "MTG",
+     "available": true,
+     "price": 59.95
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15031,7 +15095,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15840,10 +15904,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 49.95
+    },
+    "one-piece-grand-ship-collection-ark-maxim": {
+     "title": "One Piece - Grand Ship Collection - ARK MAXIM",
+     "game": "One Piece",
+     "available": true,
+     "price": 29.95
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16513,7 +16583,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18681,10 +18751,22 @@
      "game": "MTG",
      "available": true,
      "price": 251.99
+    },
+    "pokemon-celebrations-elite-trainer-box": {
+     "title": "Celebrations Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 393.25
+    },
+    "pokemon-celebrations-collection-dark-sylveon-v": {
+     "title": "Celebrations Collection Box [Dark Sylveon V]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 173.99
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 138,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19444,12 +19526,44 @@
      "game": "MTG",
      "available": true,
      "price": 39.95
+    },
+    "funko-pop-one-piece-charlotte-pudding-exclusive-signed-autographed-by-jill-harris-2136-jsa-certified": {
+     "title": "Funko Pop! One Piece Charlotte Pudding Exclusive Signed Autographed by Jill Harris #2136 (JSA Certified)",
+     "game": "One Piece",
+     "available": true,
+     "price": 99.95
+    },
+    "funko-pop-one-piece-marshall-d-teach-funko-exclusive-autographed-signed-by-chris-rager-msa-certified-1921": {
+     "title": "Funko Pop! One Piece Marshall D. Teach (Funko Exclusive) Autographed Signed By Chris Rager (MSA Certified) #1921",
+     "game": "One Piece",
+     "available": true,
+     "price": 124.95
+    },
+    "one-piece-tonytony-chopper-flocked-exclusive-funko-pop-99-special-edition-sticker": {
+     "title": "One Piece TonyTony Chopper Flocked Exclusive Funko Pop! #99 (Special Edition Sticker)",
+     "game": "One Piece",
+     "available": true,
+     "price": 34.99
+    },
+    "pokemon-tcg-sword-and-shield-booster-box-36-packs": {
+     "title": "Pokemon TCG Sword and Shield Booster Box (36 Packs)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 109.95,
+     "unavail_since": 1786064733
+    },
+    "pokemon-tcg-ultra-prism-booster-box": {
+     "title": "Pokemon TCG Ultra Prism Booster Box (36 Packs)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 149.95,
+     "unavail_since": 1786064733
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 30
+   "check_cursor": 28
   },
   "https://sagaconcepts.com": {
    "products": {
