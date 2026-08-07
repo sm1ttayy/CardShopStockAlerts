@@ -1254,7 +1254,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1332,7 +1332,7 @@
      "title": "Riftbound: League of Legends TCG - Unleashed Booster Box Display",
      "game": "Riftbound",
      "available": true,
-     "price": 135.0,
+     "price": 155.0,
      "last_restock_alert": 1785929597
     },
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
@@ -1346,7 +1346,7 @@
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
      "game": "Riftbound",
      "available": true,
-     "price": 265.0,
+     "price": 300.0,
      "last_restock_alert": 1785929597
     },
     "riftbound-league-of-legends-tcg-spiritforged-pre-rift-box": {
@@ -1357,18 +1357,18 @@
      "unavail_since": 1784083329
     },
     "riftbound-league-of-legends-tcg-vendetta-vault": {
-     "title": "[PREORDER] Riftbound: League of Legends TCG - Vendetta Vault",
+     "title": "Riftbound: League of Legends TCG - Vendetta Vault",
      "game": "Riftbound",
      "available": false,
-     "price": 55.0,
+     "price": 45.0,
      "unavail_since": 1784475662
     },
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
-     "title": "[PREORDER] Riftbound: League of Legends TCG - Vendetta Showdown Decks [Zed vs Shen]",
+     "title": "Riftbound: League of Legends TCG - Vendetta Showdown Decks [Zed vs Shen]",
      "game": "Riftbound",
-     "available": false,
-     "price": 35.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 15.0,
+     "last_restock_alert": 1786130327
     },
     "riftbound-league-of-legends-tcg-unleashed-champion-deck-vex": {
      "title": "Riftbound: League of Legends TCG - Unleashed Champion Deck [Vex]",
@@ -2566,9 +2566,8 @@
     "pre-order-commander-masters-collector-booster-display": {
      "title": "Commander Masters Collector Booster Display",
      "game": "MTG",
-     "available": false,
-     "price": 489.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 540.0
     },
     "pre-order-commander-masters-set-booster-display": {
      "title": "Commander Masters Set Booster Display",
@@ -3683,7 +3682,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 142,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5113,7 +5112,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6930,7 +6929,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 94,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7337,7 +7336,7 @@
      "title": "Magic: The Gathering Marvel Super Heroes - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 75.99
+     "price": 59.99
     },
     "mtg-secrets-of-strixhaven-bundle": {
      "title": "Magic: The Gathering Secrets of Strixhaven - Bundle",
@@ -8030,6 +8029,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 599.99
+    },
+    "magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle": {
+     "title": "Magic: The Gathering Teenage Mutant Ninja Turtles - Pizza Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 99.99
     }
    },
    "baselined": true,
@@ -8528,9 +8533,9 @@
     "marvel-super-heroes-jumpstart-booster-box-universes-beyond-mtg": {
      "title": "Marvel Super Heroes Jumpstart Booster Box (Universes Beyond) [MTG]",
      "game": "MTG",
-     "available": false,
-     "price": 140.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 125.0,
+     "last_restock_alert": 1786130349
     },
     "chaos-rising-booster-display-pokemon": {
      "title": "Chaos Rising Booster Display [Pokemon] (5/18)",
@@ -9078,6 +9083,13 @@
      "available": false,
      "price": 200.0,
      "unavail_since": 1786085439
+    },
+    "riftbound-tcg-vendetta-booster-box": {
+     "title": "Riftbound TCG: Vendetta Booster Box",
+     "game": "Riftbound",
+     "available": false,
+     "price": 120.0,
+     "unavail_since": 1786130330
     }
    },
    "baselined": true,
@@ -9929,7 +9941,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
