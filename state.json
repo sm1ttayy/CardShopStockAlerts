@@ -11641,7 +11641,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13832,7 +13832,7 @@
      "title": "One Piece TCG Double Pack Set VOLUME 8",
      "game": "One Piece",
      "available": false,
-     "price": 44.99,
+     "price": 74.99,
      "unavail_since": 1784083348
     },
     "one-piece-card-game-double-pack-vol-5-pre-order": {
@@ -14361,8 +14361,9 @@
     "mtg-core-set-2020-english-booster-box": {
      "title": "MTG - Core Set 2020 - English Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 209.95
+     "available": false,
+     "price": 209.95,
+     "unavail_since": 1786135520
     },
     "mtg-modern-horizons-3-english-play-booster-box-pre-order": {
      "title": "MTG - Modern Horizons 3 - English Play Booster Box",
@@ -14555,7 +14556,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16159,7 +16160,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16829,7 +16830,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19018,7 +19019,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19822,7 +19823,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 28
+   "check_cursor": 12
   },
   "https://sagaconcepts.com": {
    "products": {
