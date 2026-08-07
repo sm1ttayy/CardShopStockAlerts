@@ -10923,7 +10923,7 @@
      "last_restock_alert": 1785261612
     },
     "the-hobbit-play-booster-box-preorder": {
-     "title": "The Hobbit Play Booster Box - Preorder",
+     "title": "The Hobbit Play Booster Box",
      "game": "MTG",
      "available": true,
      "price": 174.95,
@@ -11641,7 +11641,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13747,8 +13747,9 @@
     "magic-the-gathering-kamigawa-neon-dynasty-bundle": {
      "title": "Magic The Gathering Kamigawa Neon Dynasty Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 159.95
+     "available": false,
+     "price": 159.95,
+     "unavail_since": 1786135220
     },
     "magic-the-gathering-lorwyn-eclipsed-bundle-pre-order-copy": {
      "title": "Magic The Gathering - Lorwyn Eclipsed - Bundle",
@@ -14554,7 +14555,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15333,7 +15334,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16158,7 +16159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16828,7 +16829,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18382,7 +18383,7 @@
      "title": "151 Alakazam ex Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 117.49
+     "price": 117.25
     },
     "edge-of-eternities-commander-deck-world-shaper": {
      "title": "Edge of Eternities World Shaper Commander Deck",
@@ -18714,7 +18715,7 @@
      "title": "Sea & Sky Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 389.99
+     "price": 389.75
     },
     "pokemon-fusion-strike-pokemon-center-elite-trainer-box": {
      "title": "Fusion Strike Pokemon Center Elite Trainer Box",
@@ -18787,7 +18788,7 @@
      "title": "Mega Charizard X ex Ultra Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 229.99
+     "price": 221.99
     },
     "ascended-heroes-tech-sticker-collection": {
      "title": "Ascended Heroes Tech Sticker Collection [Gastly]",
@@ -18832,7 +18833,7 @@
      "title": "Charizard ex Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 124.99
+     "price": 119.99
     },
     "storm-emeralda-booster-box": {
      "title": "Storm Emeralda Booster Box",
@@ -19017,7 +19018,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19821,7 +19822,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 42
+   "check_cursor": 28
   },
   "https://sagaconcepts.com": {
    "products": {
