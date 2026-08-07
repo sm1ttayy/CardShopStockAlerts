@@ -11669,7 +11669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14613,7 +14613,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16034,8 +16034,9 @@
     "mtg-the-hobbit-bundle": {
      "title": "MTG THE HOBBIT BUNDLE PRE ORDER ^ AUG 7",
      "game": "MTG",
-     "available": true,
-     "price": 99.95
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1786138821
     },
     "pokemon-sv6-twilight-masquerade-booster-box": {
      "title": "POKEMON SV6 TWILIGHT MASQUERADE BOOSTER BOX",
@@ -16887,7 +16888,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19082,7 +19083,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 135,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19886,7 +19887,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 17
+   "check_cursor": 4
   },
   "https://sagaconcepts.com": {
    "products": {
