@@ -11669,7 +11669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14613,7 +14613,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16217,7 +16217,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16887,7 +16887,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19073,10 +19073,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 66.75
+    },
+    "pokemon-celebrations-collection-dragapult-prime": {
+     "title": "Celebrations Collection [Dragapult Prime]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 105.75
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19880,7 +19886,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 35
+   "check_cursor": 32
   },
   "https://sagaconcepts.com": {
    "products": {
