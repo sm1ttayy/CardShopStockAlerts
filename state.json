@@ -11629,7 +11629,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13904,9 +13904,9 @@
     "pokemon-mega-venusaur-ex-premium-collection-pre-order": {
      "title": "Pokemon Mega Venusaur ex Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 94.95,
-     "unavail_since": 1786064713
+     "available": true,
+     "price": 99.95,
+     "last_restock_alert": 1786109122
     },
     "pokemon-armarouge-ex-premium-collection-pre-order": {
      "title": "Pokemon - Armarouge ex Premium Collection",
@@ -14511,7 +14511,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15282,7 +15282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16776,7 +16776,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18959,7 +18959,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 107,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19763,7 +19763,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 47
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
