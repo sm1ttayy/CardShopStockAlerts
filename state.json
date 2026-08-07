@@ -11669,7 +11669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14582,10 +14582,17 @@
      "game": "MTG",
      "available": true,
      "price": 269.95
+    },
+    "one-piece-trading-card-game-3d2y-starter-deck-pre-order": {
+     "title": "One Piece Trading Card Game 3D2Y Starter Deck",
+     "game": "One Piece",
+     "available": false,
+     "price": 36.95,
+     "unavail_since": 1786136112
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16859,7 +16866,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19048,7 +19055,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19852,7 +19859,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 12
+   "check_cursor": 52
   },
   "https://sagaconcepts.com": {
    "products": {
