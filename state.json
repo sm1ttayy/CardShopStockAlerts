@@ -11669,7 +11669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14613,7 +14613,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15380,8 +15380,9 @@
     "foundations-starter-collection": {
      "title": "Foundations - Starter Collection",
      "game": "MTG",
-     "available": true,
-     "price": 99.99
+     "available": false,
+     "price": 99.99,
+     "unavail_since": 1786140014
     },
     "final-fantasy-starter-kit": {
      "title": "FINAL FANTASY - Starter Kit",
@@ -15391,7 +15392,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16887,7 +16888,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19082,7 +19083,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19886,7 +19887,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 40
+   "check_cursor": 28
   },
   "https://sagaconcepts.com": {
    "products": {
