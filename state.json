@@ -11351,9 +11351,10 @@
     "prismatic-evolutions-tech-sticker-collection-case": {
      "title": "Prismatic Evolutions Tech Sticker Collection Set of 3",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 119.95,
-     "last_restock_alert": 1785448208
+     "last_restock_alert": 1785448208,
+     "unavail_since": 1786107009
     },
     "modern-horizons-3-play-booster-case-6-boxes": {
      "title": "Modern Horizons 3 Play Booster Case (6 Boxes)",
@@ -11628,7 +11629,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14510,7 +14511,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16775,7 +16776,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16878,7 +16879,7 @@
      "title": "Secrets of Strixhaven Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 139.99,
+     "price": 139.75,
      "unavail_since": 1784083350
     },
     "legacy-of-the-master-booster-box-op12": {
@@ -16906,7 +16907,7 @@
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 508.99,
+     "price": 467.75,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
@@ -17163,7 +17164,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 466.99,
+     "price": 466.75,
      "unavail_since": 1784083350
     },
     "wings-of-the-captain-booster-box-op06": {
@@ -17389,7 +17390,7 @@
      "title": "Japanese Ruler of the Black Flame Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 158.75,
+     "price": 157.99,
      "unavail_since": 1784083350
     },
     "lost-abyss-booster-box": {
@@ -17445,7 +17446,7 @@
      "title": "Roaring Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 4298.99,
+     "price": 4504.75,
      "unavail_since": 1784083350
     },
     "destined-rivals-european-half-booster-box": {
@@ -17748,7 +17749,7 @@
      "title": "Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 478.99,
+     "price": 479.75,
      "unavail_since": 1784083350
     },
     "pokemon-scarlet-violet-booster-box": {
@@ -18301,7 +18302,7 @@
      "title": "Secrets of Strixhaven - Codex Bundle",
      "game": "MTG",
      "available": false,
-     "price": 120.75,
+     "price": 119.49,
      "unavail_since": 1784083350
     },
     "marvel-superheroes-play-booster-bundle": {
@@ -18958,7 +18959,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 105,
+   "check_cursor": 145,
    "error_streak": 0,
    "last_error": ""
   },
