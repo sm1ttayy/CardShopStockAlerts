@@ -1254,7 +1254,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3409,7 +3409,7 @@
      "title": "Mega Evolution: Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 75.0
+     "price": 70.0
     },
     "mega-evolution-elite-trainer-box-lucario": {
      "title": "Mega Evolution Elite Trainer Box [Lucario]",
@@ -3670,7 +3670,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 151,
+   "check_cursor": 191,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5088,7 +5088,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6897,7 +6897,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6906,9 +6906,10 @@
     "pos-one-piece-tcg-the-time-of-battle-booster-box-op16": {
      "title": "One Piece TCG - The Time of Battle Booster Box (OP16)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 214.99,
-     "last_restock_alert": 1785798769
+     "last_restock_alert": 1785798769,
+     "unavail_since": 1786073679
     },
     "one-piece-card-game-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Card Game - Carrying On His Will Booster Box (OP-13)",
@@ -9010,6 +9011,13 @@
      "available": false,
      "price": 220.0,
      "unavail_since": 1785843576
+    },
+    "pokemon-tcg-me02-5-ascended-heroes-booster-bundle": {
+     "title": "Pokemon TCG: ME02.5 Ascended Heroes Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 85.0,
+     "unavail_since": 1786073683
     }
    },
    "baselined": true,
@@ -9841,7 +9849,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
