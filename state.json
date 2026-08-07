@@ -337,7 +337,7 @@
      "unavail_since": 1784083329
     },
     "magic-the-gathering-the-hobbit-play-booster-display-box": {
-     "title": "Magic: The Gathering | The Hobbit - Play Booster Display Box (Pre-Order)",
+     "title": "Magic: The Gathering | The Hobbit - Play Booster Display Box",
      "game": "MTG",
      "available": false,
      "price": 184.99,
@@ -647,9 +647,9 @@
     "magic-the-gathering-marvel-super-heroes-booster-bundle": {
      "title": "Magic: The Gathering | Marvel Super Heroes - Booster Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 50.33,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1786136040
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-bundle": {
      "title": "Magic: The Gathering - Teenage Mutant Ninja Turtles - Bundle",
@@ -1183,7 +1183,7 @@
      "unavail_since": 1785267934
     },
     "magic-the-gathering-the-hobbit-bundle": {
-     "title": "Magic: The Gathering | The Hobbit - Bundle (Pre-Order)",
+     "title": "Magic: The Gathering | The Hobbit - Bundle",
      "game": "MTG",
      "available": false,
      "price": 86.99,
@@ -1251,10 +1251,17 @@
      "available": false,
      "price": 345.47,
      "unavail_since": 1786016206
+    },
+    "magic-the-gathering-the-hobbit-gift-bundle": {
+     "title": "Magic: The Gathering | The Hobbit - Gift Bundle (Pre-Order)",
+     "game": "MTG",
+     "available": false,
+     "price": 89.99,
+     "unavail_since": 1786136040
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1603,7 +1610,7 @@
      "title": "[PREORDER] Magic: The Gathering - The Hobbit Bundle",
      "game": "MTG",
      "available": true,
-     "price": 75.0
+     "price": 90.0
     },
     "magic-the-gathering-marvel-super-heroes-gift-bundle": {
      "title": "Magic: The Gathering - Marvel Super Heroes Gift Bundle",
@@ -2759,7 +2766,7 @@
      "title": "Unfinity Collector Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 265.0,
+     "price": 410.0,
      "unavail_since": 1784083329
     },
     "innistrad-double-feature-draft-booster-box-display": {
@@ -3679,10 +3686,22 @@
      "available": false,
      "price": 79.0,
      "unavail_since": 1786090764
+    },
+    "riftbound-league-of-legends-tcg-proving-grounds": {
+     "title": "Riftbound: League of Legends TCG - Proving Grounds",
+     "game": "Riftbound",
+     "available": true,
+     "price": 60.0
+    },
+    "magic-the-gathering-aetherdrift-bundle": {
+     "title": "Magic: The Gathering Aetherdrift Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 43.0
     }
    },
    "baselined": true,
-   "check_cursor": 182,
+   "check_cursor": 222,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4072,7 +4091,7 @@
      "title": "Magic The Gathering: Edge of Eternities Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 786.0,
+     "price": 781.0,
      "unavail_since": 1784083329
     },
     "mtg_cl_bldrgt_cbb": {
@@ -4221,7 +4240,7 @@
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 3 Box",
      "game": "Pokemon",
      "available": true,
-     "price": 51.0
+     "price": 47.0
     },
     "pokemon-tcg-scarlet-and-violet-prismatic-evolutions-accessory-pouch-special-collection-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Prismatic Evolutions Accessory Pouch Special Collection Box",
@@ -4317,7 +4336,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 50.0
+     "price": 49.0
     },
     "magic-the-gathering-aetherdrift-finish-line-bundle-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Finish Line Bundle",
@@ -4582,7 +4601,7 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 514.0,
+     "price": 479.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-marvel-spider-man-play-booster-box-pre-order": {
@@ -5024,7 +5043,7 @@
      "title": "Magic the Gathering: Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 140.0
+     "price": 146.0
     },
     "magic-the-gathering-modern-horizons-3-play-booster-pre-order": {
      "title": "Magic the Gathering: Modern Horizons 3 Play Booster",
@@ -5109,10 +5128,16 @@
      "game": "MTG",
      "available": true,
      "price": 467.0
+    },
+    "pokemon-tcg-scarlet-and-violet-destined-rivals-elite-trainer-box-pre-order": {
+     "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 141.0
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6929,7 +6954,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 134,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7318,7 +7343,7 @@
      "title": "Magic: The Gathering Teenage Mutant Ninja Turtles Commander Deck - Turtle Power!",
      "game": "MTG",
      "available": true,
-     "price": 54.99
+     "price": 59.99
     },
     "magic-the-gathering-edge-of-eternities-commander-deck": {
      "title": "Magic: The Gathering Edge of Eternities Commander Deck",
@@ -8522,13 +8547,13 @@
      "title": "Vendetta Vault [Riftbound] (7/31)",
      "game": "Riftbound",
      "available": true,
-     "price": 50.0
+     "price": 35.0
     },
     "vendetta-showdown-deck-zed-vs-shen-riftbound-7-31": {
      "title": "Vendetta Showdown Deck - Zed vs. Shen [Riftbound] (7/31)",
      "game": "Riftbound",
      "available": true,
-     "price": 50.0
+     "price": 30.0
     },
     "marvel-super-heroes-jumpstart-booster-box-universes-beyond-mtg": {
      "title": "Marvel Super Heroes Jumpstart Booster Box (Universes Beyond) [MTG]",
@@ -8827,7 +8852,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8979,7 +9004,8 @@
      "game": "MTG",
      "available": false,
      "price": 155.0,
-     "unavail_since": 1785267924
+     "unavail_since": 1785267924,
+     "delisted": true
     },
     "riftbound-tcg-vendetta-savage-bundle": {
      "title": "Riftbound TCG: Vendetta Savage Bundle",
@@ -9069,7 +9095,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 85.0,
-     "unavail_since": 1786073683
+     "unavail_since": 1786073683,
+     "delisted": true
     },
     "pokemon-tcg-paldean-fates-premium-collection-ex-box-at-random": {
      "title": "Pokemon TCG: Paldean Fates Premium Collection ex Box at RANDOM",
@@ -9082,7 +9109,8 @@
      "game": "Riftbound",
      "available": false,
      "price": 200.0,
-     "unavail_since": 1786085439
+     "unavail_since": 1786085439,
+     "delisted": true
     },
     "riftbound-tcg-vendetta-booster-box": {
      "title": "Riftbound TCG: Vendetta Booster Box",
@@ -9941,7 +9969,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
