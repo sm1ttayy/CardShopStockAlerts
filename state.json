@@ -10074,6 +10074,12 @@
      "game": "MTG",
      "available": true,
      "price": 169.99
+    },
+    "pitch-black-x-100-packs-moonshot-rips": {
+     "title": "Pitch Black x 100 PACKS! - Moonshot Rips",
+     "game": "Pokemon",
+     "available": true,
+     "price": 500.0
     }
    },
    "baselined": true,
@@ -10527,6 +10533,44 @@
      "game": "Pokemon",
      "available": true,
      "price": 199.99
+    },
+    "pokemon-trading-card-game-first-partner-illustration-collection-series-3": {
+     "title": "Pokemon Trading Card Game: First Partner Illustration Collection (Series 3)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 34.99
+    },
+    "pokemon-tcg-celebrations-deluxe-pin-collection": {
+     "title": "Pok\u00e9mon TCG: Celebrations Deluxe Pin Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 19.99,
+     "unavail_since": 1786064409
+    },
+    "pokemon-25th-anniversary-collection-s8a-promo-pack-sword-shield-series-japanese": {
+     "title": "Pokemon 25th Anniversary Collection S8A Promo Pack - Sword & Shield Series - Japanese",
+     "game": "Pokemon",
+     "available": false,
+     "price": 102.0,
+     "unavail_since": 1786064409
+    },
+    "pokemon-black-bolt-sv11b-regular-booster-box-scarlet-violet-series-japanese": {
+     "title": "Pokemon Black Bolt SV11B REGULAR Booster Box - Scarlet & Violet Series - Japanese",
+     "game": "Pokemon",
+     "available": true,
+     "price": 250.0
+    },
+    "pokemon-jet-black-spirit-s6k-booster-box-sword-shield-series-japanese": {
+     "title": "Pokemon Jet Black Spirit S6K Booster Box - Sword & Shield Series - Japanese",
+     "game": "Pokemon",
+     "available": true,
+     "price": 165.0
+    },
+    "pokemon-ruler-of-the-black-flame-sv3-booster-box-scarlet-violet-series-japanese": {
+     "title": "Pokemon Ruler Of The Black Flame SV3 Booster Box - Scarlet & Violet Series - Japanese",
+     "game": "Pokemon",
+     "available": true,
+     "price": 198.0
     }
    },
    "baselined": true,
@@ -12759,6 +12803,18 @@
      "game": "MTG",
      "available": true,
      "price": 319.95
+    },
+    "one-piece-card-game-prb02-premium-booster": {
+     "title": "One Piece Card Game - The Best Vol.2 - Premium Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 649.95
+    },
+    "pokemon-celebrations-deluxe-pin-collection-zacian-lv-x": {
+     "title": "Pokemon - Celebrations - Deluxe Pin Collection - Zacian LV.X",
+     "game": "Pokemon",
+     "available": true,
+     "price": 229.95
     }
    },
    "baselined": true,
@@ -14119,10 +14175,98 @@
      "available": false,
      "price": 249.95,
      "unavail_since": 1786064119
+    },
+    "pokemon-tcg-mega-evolution-perfect-order-booster-box": {
+     "title": "Pokemon TCG Mega Evolution Set 3 Perfect Order Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 229.95,
+     "unavail_since": 1786064407
+    },
+    "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
+     "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 89.95
+    },
+    "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
+     "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.95
+    },
+    "pokemon-scarlet-violet-surging-sparks-bundle-pre-order": {
+     "title": "Pokemon Scarlet & Violet Surging Sparks Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.95
+    },
+    "pokemon-destined-rivals-build-and-battle-box-pre-order": {
+     "title": "Pokemon Destined Rivals Build And Battle Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 59.95,
+     "unavail_since": 1786064410
+    },
+    "mtg-secrets-of-strixhaven-bundle-pre-order": {
+     "title": "MTG Secrets of Strixhaven Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
+    },
+    "mtg-universes-beyond-the-hobbit-bundle-pre-order": {
+     "title": "MTG - Universes Beyond: The Hobbit - Bundle (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 99.95
+    },
+    "mtg-star-trek-bundle-pre-order": {
+     "title": "MTG Star Trek Bundle (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 84.95
+    },
+    "mtg-marvel-super-heroes-commander-deck-bundle-pre-order": {
+     "title": "MTG - Marvel Super Heroes Commander Deck Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 349.95
+    },
+    "mtg-marvels-spider-man-bundle-pre-order": {
+     "title": "MTG Marvel's Spider-Man - Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 79.95
+    },
+    "mtg-the-lord-of-the-rings-tales-of-middle-earth-bundle-gift-edition-pre-order": {
+     "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Bundle: Gift Edition",
+     "game": "MTG",
+     "available": false,
+     "price": 629.95,
+     "unavail_since": 1786064414
+    },
+    "mtg-marvel-super-heroes-bundle-pre-order": {
+     "title": "MTG - Marvel Super Heroes Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 84.95
+    },
+    "mtg-universes-beyond-avatar-the-last-airbender-gift-bundle-pre-order": {
+     "title": "MTG - Universes Beyond: Avatar The Last Airbender - Gift Bundle - Commander Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 209.95,
+     "unavail_since": 1786064414
+    },
+    "mtg-phyrexia-all-will-be-one-bundle-compleat-edition-pre-order": {
+     "title": "MTG - Phyrexia: All Will Be One - Bundle - Compleat Edition",
+     "game": "MTG",
+     "available": true,
+     "price": 574.95
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14887,7 +15031,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15684,10 +15828,22 @@
      "game": "MTG",
      "available": true,
      "price": 59.95
+    },
+    "pokemon-me2-5-ascended-heroes-ex-box": {
+     "title": "POKEMON ME2.5 ASCENDED HEROES EX BOX",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.95
+    },
+    "pokemon-mega-moonlit-tin": {
+     "title": "POKEMON MEGA MOONLIT TIN",
+     "game": "Pokemon",
+     "available": true,
+     "price": 49.95
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16357,7 +16513,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17929,7 +18085,7 @@
      "title": "Trick or Trade BOOster Bundle (40 ct)",
      "game": "Pokemon",
      "available": true,
-     "price": 69.75
+     "price": 61.99
     },
     "prismatic-evolutions-accessory-pouch-special-collection": {
      "title": "Prismatic Evolutions Accessory Pouch Special Collection",
@@ -18500,10 +18656,35 @@
      "game": "MTG",
      "available": true,
      "price": 183.49
+    },
+    "pokemon-brilliant-stars-pokemon-center-elite-trainer-box": {
+     "title": "Brilliant Stars Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 259.99,
+     "unavail_since": 1786064425
+    },
+    "pokemon-celebrations-booster-pack-1x-random-art": {
+     "title": "Celebrations Booster Pack",
+     "game": "Pokemon",
+     "available": true,
+     "price": 43.25
+    },
+    "strixhaven-school-of-mages-draft-booster-box": {
+     "title": "Strixhaven: School of Mages - Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 198.99
+    },
+    "adventures-in-the-forgotten-realms-draft-booster-box": {
+     "title": "Adventures in the Forgotten Realms - Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 251.99
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19268,7 +19449,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 42
+   "check_cursor": 30
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -19466,6 +19647,12 @@
      "game": "MTG",
      "available": true,
      "price": 96.69
+    },
+    "one-piece-tcg-extra-booster-eb-06-24ct-bjp2884793": {
+     "title": "One Piece TCG Extra Booster Display EB-06 (24 Packs) Title TBA OP-EB06",
+     "game": "One Piece",
+     "available": true,
+     "price": 299.99
     }
    },
    "baselined": true,
