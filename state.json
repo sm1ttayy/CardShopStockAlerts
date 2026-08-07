@@ -10179,7 +10179,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -10705,9 +10705,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 4,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-chilling-reign-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -11629,9 +11629,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": "Geekery Games: product '151-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -12995,6 +12995,12 @@
      "game": "MTG",
      "available": true,
      "price": 89.95
+    },
+    "pokemon-first-partner-illustration-collection-series-3": {
+     "title": "Pokemon - First Partner Illustration Collection - Series 3",
+     "game": "Pokemon",
+     "available": true,
+     "price": 59.95
     }
    },
    "baselined": true,
@@ -13114,9 +13120,9 @@
     "pokemon-scarlet-violet-surging-sparks-booster-box-pre-order": {
      "title": "Pokemon Scarlet & Violet Surging Sparks Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 424.95,
-     "unavail_since": 1784083348
+     "available": true,
+     "price": 449.95,
+     "last_restock_alert": 1786110043
     },
     "pokemon-collect-151-gathering-jumbo-booster-box-pre-order": {
      "title": "Pokemon \"Collect 151: Gathering\" Jumbo Booster Box",
@@ -13269,9 +13275,9 @@
     "pokemon-tcg-mega-evolution-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Booster Bundle MAX 2",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 89.99,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1786110018
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Booster Bundle",
@@ -13664,9 +13670,9 @@
     "pokemon-prismatic-evolutions-super-premium-collection-pre-order": {
      "title": "Pokemon Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 449.95,
-     "unavail_since": 1786064713
+     "available": true,
+     "price": 399.99,
+     "last_restock_alert": 1786110041
     },
     "pokemon-scarlet-violet-151-poster-collection": {
      "title": "Pokemon Scarlet & Violet\u2014151 Poster Collection",
@@ -14517,9 +14523,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 53,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-mega-symphonia-japanese-booster-box-pre-order-copy' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -16112,9 +16118,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'one-piece-cg-double-pack-set-vol-3' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -16782,9 +16788,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'base-set-booster-box-revised-unlimited-edition' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -18965,9 +18971,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'one-piece-illustration-box-vol-3' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 130,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -19767,9 +19773,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-a-fist-of-divine-speed-op-11-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 24
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 15
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -19982,8 +19988,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
