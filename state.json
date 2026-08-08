@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3721,7 +3721,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 115,
+   "check_cursor": 155,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5157,7 +5157,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6971,10 +6971,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 139.75
+    },
+    "one-piece-legacy-of-the-master-booster-12-box-case-op12": {
+     "title": "One Piece Legacy of the Master (OP-12) Booster 12-Box Case",
+     "game": "One Piece",
+     "available": false,
+     "price": 3179.75,
+     "unavail_since": 1786176225
     }
    },
    "baselined": true,
-   "check_cursor": 137,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10008,7 +10015,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
