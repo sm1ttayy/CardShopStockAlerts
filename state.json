@@ -10240,8 +10240,9 @@
     "mega-evolution-ascended-heroes-mega-feraligatr-ex-box": {
      "title": "Mega Evolution: Ascended Heroes - Mega Feraligatr ex Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 60.0
+     "available": false,
+     "price": 60.0,
+     "unavail_since": 1786227314
     },
     "chaos-rising-bundle-moonshot-rips": {
      "title": "Chaos Rising Bundle - Moonshot Rips",
@@ -11781,7 +11782,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11893,7 +11894,7 @@
      "title": "Pokemon - Mega Evolution - Chaos Rising - Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 279.95,
+     "price": 269.95,
      "last_restock_alert": 1785187220
     },
     "pokemon-crystal-gathering-chinese-booster-box": {
@@ -14551,8 +14552,9 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 89.95
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1786227314
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -14755,10 +14757,17 @@
      "available": false,
      "price": 299.95,
      "unavail_since": 1786195810
+    },
+    "mtg-fate-reforged-english-booster-box": {
+     "title": "MTG - Fate Reforged - English Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 289.95,
+     "unavail_since": 1786227318
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15536,10 +15545,16 @@
      "game": "MTG",
      "available": true,
      "price": 49.99
+    },
+    "adventure-on-kamis-island-booster-pack": {
+     "title": "Adventure on Kami's Island [OP-15] - Booster Pack",
+     "game": "One Piece",
+     "available": true,
+     "price": 15.99
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16365,7 +16380,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17039,7 +17054,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18178,9 +18193,9 @@
     "pokemon-japanese-clay-burst-booster-box": {
      "title": "Japanese Clay Burst Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 103.99,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 111.49,
+     "last_restock_alert": 1786227348
     },
     "pokemon-s-v-twilight-masquerade-booster-box": {
      "title": "Twilight Masquerade Booster Box",
@@ -18503,7 +18518,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 23.99
+     "price": 23.49
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -19387,7 +19402,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 129,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20254,7 +20269,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 49
+   "check_cursor": 33
   },
   "https://sagaconcepts.com": {
    "products": {
