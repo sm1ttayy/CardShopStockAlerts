@@ -11276,9 +11276,10 @@
     "foundations-jumpstart-booster-display": {
      "title": "Foundations Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 84.95,
-     "last_restock_alert": 1785802812
+     "last_restock_alert": 1785802812,
+     "unavail_since": 1786152919
     },
     "buy-mtg-foundations-play-booster-display": {
      "title": "Foundations Play Booster Box",
@@ -11708,7 +11709,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14652,7 +14653,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15432,7 +15433,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16928,7 +16929,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19123,7 +19124,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 105,
    "error_streak": 0,
    "last_error": ""
   },
