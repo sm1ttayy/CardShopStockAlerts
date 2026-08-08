@@ -10252,7 +10252,7 @@
      "title": "HOB: Play Booster Box - Moonshot Rips",
      "game": "MTG",
      "available": true,
-     "price": 169.99
+     "price": 189.99
     }
    },
    "baselined": true,
@@ -11708,7 +11708,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13475,9 +13475,9 @@
     "mtg-bloomburrow-english-play-booster-box-pre-order": {
      "title": "MTG - Bloomburrow - English Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 224.95,
-     "unavail_since": 1785866121
+     "last_restock_alert": 1786151714
     },
     "mtg-secrets-of-strixhaven-play-booster-box-pre-order": {
      "title": "MTG Secrets of Strixhaven - Play Booster Box",
@@ -14429,9 +14429,9 @@
     "mtg-core-set-2020-english-booster-box": {
      "title": "MTG - Core Set 2020 - English Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 209.95,
-     "unavail_since": 1786135520
+     "last_restock_alert": 1786151714
     },
     "mtg-modern-horizons-3-english-play-booster-box-pre-order": {
      "title": "MTG - Modern Horizons 3 - English Play Booster Box",
@@ -14555,9 +14555,9 @@
     "pokemon-first-partner-illustration-collections-series-2-pre-order": {
      "title": "Pokemon First Partner Illustration Collections - Series 2",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 49.99,
-     "unavail_since": 1786134322
+     "last_restock_alert": 1786151711
     },
     "pokemon-tcg-mega-latias-ex-box-pre-order": {
      "title": "Pokemon TCG: Mega Latias ex Box",
@@ -14652,7 +14652,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15368,9 +15368,10 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 179.99,
-     "last_restock_alert": 1786139115
+     "last_restock_alert": 1786139115,
+     "unavail_since": 1786151711
     },
     "riftbound-league-of-legends-tcg-vendetta-vendetta-vault": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Vendetta Vault",
@@ -16927,7 +16928,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19122,7 +19123,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
