@@ -11749,7 +11749,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14672,8 +14672,9 @@
     "mtg-universes-beyond-the-hobbit-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 269.95
+     "available": false,
+     "price": 269.95,
+     "unavail_since": 1786196713
     },
     "one-piece-trading-card-game-3d2y-starter-deck-pre-order": {
      "title": "One Piece Trading Card Game 3D2Y Starter Deck",
@@ -14725,7 +14726,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15505,7 +15506,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17005,7 +17006,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18903,7 +18904,7 @@
      "title": "Stellar Crown Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 178.75
+     "price": 179.75
     },
     "dominaria-united-draft-booster-box": {
      "title": "Dominaria United - Draft Booster Box",
@@ -19347,7 +19348,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 136,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20213,7 +20214,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 12
+   "check_cursor": 52
   },
   "https://sagaconcepts.com": {
    "products": {
