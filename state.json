@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3720,7 +3720,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 133,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5152,11 +5152,11 @@
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 141.0
+     "price": 140.0
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6980,7 +6980,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 95,
+   "check_cursor": 135,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8088,6 +8088,12 @@
      "game": "MTG",
      "available": true,
      "price": 99.99
+    },
+    "sword-shield-evolving-skies-elite-trainer-box": {
+     "title": "Sword & Shield - Evolving Skies Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 380.0
     }
    },
    "baselined": true,
@@ -10016,7 +10022,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
