@@ -11715,7 +11715,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14660,7 +14660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15440,7 +15440,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16266,7 +16266,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16936,7 +16936,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19128,10 +19128,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 105.75
+    },
+    "commander-2021-deck-quantum-quandrix": {
+     "title": "Commander 2021 Deck - Quantum Quandrix",
+     "game": "MTG",
+     "available": true,
+     "price": 82.75
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19935,7 +19941,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 34
+   "check_cursor": 4
   },
   "https://sagaconcepts.com": {
    "products": {
