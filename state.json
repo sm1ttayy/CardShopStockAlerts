@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3720,7 +3720,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 207,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4355,7 +4355,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 49.0
+     "price": 50.0
     },
     "magic-the-gathering-aetherdrift-finish-line-bundle-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Finish Line Bundle",
@@ -4403,7 +4403,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Pizza Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 88.0
+     "price": 92.0
     },
     "one-piece-tcg-double-pack-volume-9-set": {
      "title": "One Piece TCG: Double Pack Volume 9 Set",
@@ -5146,7 +5146,7 @@
      "title": "Magic the Gathering Phyrexia: All Will Be One Compleat Edition Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 467.0
+     "price": 473.0
     },
     "pokemon-tcg-scarlet-and-violet-destined-rivals-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box",
@@ -5168,7 +5168,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6992,7 +6992,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 145,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10031,10 +10031,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 17.99
+    },
+    "magic-the-gathering-marvel-super-heroes-super-heroes-gift-bundle": {
+     "title": "Magic the Gathering: Marvel Super Heroes: Super Heroes Gift Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 79.99
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
