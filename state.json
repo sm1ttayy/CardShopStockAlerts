@@ -10839,6 +10839,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 283.0
+    },
+    "pokemon-tcg-celebrations-special-collection-pikachu-v-union-collection-case": {
+     "title": "Pok\u00e9mon TCG: Celebrations Special Collection \u2014 Pikachu V-UNION Collection Case",
+     "game": "Pokemon",
+     "available": false,
+     "price": 29.99,
+     "unavail_since": 1786230311
     }
    },
    "baselined": true,
@@ -11789,7 +11796,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14774,7 +14781,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15561,7 +15568,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17061,7 +17068,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19415,7 +19422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 122,
+   "check_cursor": 162,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20282,7 +20289,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 65
+   "check_cursor": 3
   },
   "https://sagaconcepts.com": {
    "products": {
