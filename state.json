@@ -11715,7 +11715,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14660,7 +14660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15440,7 +15440,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16936,7 +16936,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18975,8 +18975,9 @@
     "prismatic-evolutions-surprise-box": {
      "title": "Prismatic Evolutions Surprise Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 69.75
+     "available": false,
+     "price": 69.75,
+     "unavail_since": 1786160127
     },
     "pokemon-astral-radiance-elite-trainer-box": {
      "title": "Astral Radiance Elite Trainer Box",
@@ -19137,7 +19138,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19941,7 +19942,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 27
+   "check_cursor": 26
   },
   "https://sagaconcepts.com": {
    "products": {
