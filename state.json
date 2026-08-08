@@ -11709,7 +11709,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14556,9 +14556,10 @@
     "pokemon-first-partner-illustration-collections-series-2-pre-order": {
      "title": "Pokemon First Partner Illustration Collections - Series 2",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 49.99,
-     "last_restock_alert": 1786151711
+     "last_restock_alert": 1786151711,
+     "unavail_since": 1786155311
     },
     "pokemon-tcg-mega-latias-ex-box-pre-order": {
      "title": "Pokemon TCG: Mega Latias ex Box",
@@ -14653,7 +14654,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15433,7 +15434,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16929,7 +16930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19124,7 +19125,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 103,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19928,7 +19929,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 1
+   "check_cursor": 41
   },
   "https://sagaconcepts.com": {
    "products": {
