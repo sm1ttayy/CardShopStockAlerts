@@ -11789,7 +11789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14377,9 +14377,9 @@
     "one-piece-cg-op-21-booster-box-pre-order": {
      "title": "One Piece CG OP-21 Booster Box (Pre Order)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 279.95,
-     "unavail_since": 1786195810
+     "last_restock_alert": 1786230021
     },
     "pokemon-shining-fates-mad-party-pin-collection-galarian-mr-rime-pre-order": {
      "title": "Pokemon - Shining Fates - Mad Party Pin Collection - Galarian Mr. Rime",
@@ -14774,7 +14774,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17061,7 +17061,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19415,7 +19415,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 122,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20282,7 +20282,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 25
+   "check_cursor": 65
   },
   "https://sagaconcepts.com": {
    "products": {
