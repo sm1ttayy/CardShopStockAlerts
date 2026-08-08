@@ -11742,7 +11742,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14657,8 +14657,9 @@
     "mtg-universes-beyond-the-hobbit-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 269.95
+     "available": false,
+     "price": 269.95,
+     "unavail_since": 1786195819
     },
     "one-piece-trading-card-game-3d2y-starter-deck-pre-order": {
      "title": "One Piece Trading Card Game 3D2Y Starter Deck",
@@ -14697,7 +14698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15477,7 +15478,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16303,7 +16304,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16974,7 +16975,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17084,7 +17085,7 @@
      "title": "Legacy of the Master Booster Box [OP12]",
      "game": "One Piece",
      "available": false,
-     "price": 269.99,
+     "price": 274.75,
      "unavail_since": 1784083350
     },
     "pitch-black-booster-box": {
@@ -18115,7 +18116,7 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 221.75,
+     "price": 217.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-151-booster-box": {
@@ -19099,7 +19100,7 @@
      "title": "Commander 2021 Deck - Witherbloom Witchcraft",
      "game": "MTG",
      "available": true,
-     "price": 74.99
+     "price": 77.75
     },
     "commander-2021-deck-lorehold-legacies": {
      "title": "Commander 2021 Deck - Lorehold Legacies",
@@ -19183,7 +19184,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19993,7 +19994,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 25
+   "check_cursor": 20
   },
   "https://sagaconcepts.com": {
    "products": {
