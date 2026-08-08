@@ -403,7 +403,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Collector Booster Display Box",
      "game": "MTG",
      "available": false,
-     "price": 431.07,
+     "price": 443.46,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster": {
@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1414,9 +1414,9 @@
     "riftbound-league-of-legends-tcg-spiritforged-champion-deck-rumble": {
      "title": "Riftbound: League of Legends TCG - Spiritforged Champion Deck [Rumble]",
      "game": "Riftbound",
-     "available": false,
-     "price": 35.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 23.0,
+     "last_restock_alert": 1786155397
     },
     "riftbound-vendetta-pre-rift-event-friday-copy": {
      "title": "Riftbound: Vendetta - Pre-Rift Event [Friday]",
@@ -2690,7 +2690,7 @@
      "title": "Dominaria Remastered Collector Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 360.0,
+     "price": 570.0,
      "unavail_since": 1784083329
     },
     "dominaria-remastered-draft-booster-box-display": {
@@ -3440,9 +3440,9 @@
     "mega-evolution-elite-trainer-box-lucario": {
      "title": "Mega Evolution Elite Trainer Box [Lucario]",
      "game": "Pokemon",
-     "available": false,
-     "price": 120.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 115.0,
+     "last_restock_alert": 1786155319
     },
     "mega-evolution-perfect-order-elite-trainer-box": {
      "title": "Mega Evolution: Perfect Order - Elite Trainer Box",
@@ -3453,9 +3453,9 @@
     "mega-evolution-elite-trainer-box": {
      "title": "Mega Evolution Elite Trainer Box [Gardevoir]",
      "game": "Pokemon",
-     "available": false,
-     "price": 120.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 110.0,
+     "last_restock_alert": 1786155319
     },
     "scarlet-violet-prismatic-evolutions-elite-trainer-box": {
      "title": "Scarlet & Violet: Prismatic Evolutions - Elite Trainer Box",
@@ -3721,7 +3721,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 127,
+   "check_cursor": 167,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4311,16 +4311,16 @@
      "price": 37.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-avengers-assemble-pre-order": {
-     "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Avengers Assemble",
+     "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Avengers Assemble (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 64.0
+     "price": 50.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-doom-prevails-pre-order": {
-     "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Doom Prevails",
+     "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Doom Prevails (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 84.0
+     "price": 80.0
     },
     "magic-the-gathering-universed-beyond-final-fantasy-commander-deck-revival-trance-pre-order": {
      "title": "Magic the Gathering: Universes Beyond - Final Fantasy Commander Deck (Revival Trance)",
@@ -4329,10 +4329,10 @@
      "price": 38.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-the-fantastic-four-pre-order": {
-     "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - The Fantastic Four",
+     "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - The Fantastic Four (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 53.0
+     "price": 50.0
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-deck-quandrix-unlimited-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Quandrix Unlimited)",
@@ -4341,10 +4341,10 @@
      "price": 41.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-wakanda-forever-pre-order": {
-     "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Wakanda Forever",
+     "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Wakanda Forever (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 50.0
+     "price": 48.0
     },
     "magic-the-gathering-secrets-of-strixhaven-bundle-box-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Bundle Box",
@@ -5081,7 +5081,7 @@
      "title": "Magic the Gathering: Chaos Incarnate Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 42.0
+     "price": 37.0
     },
     "one-piece-tcg-blue-kuzan-starter-deck-ex-st-33": {
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
@@ -5157,7 +5157,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6974,7 +6974,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8321,7 +8321,7 @@
      "title": "Tarkir: Dragonstorm Play Booster Box [MTG]",
      "game": "MTG",
      "available": true,
-     "price": 140.0
+     "price": 150.0
     },
     "modern-horizons-3-play-booster-box-mtg": {
      "title": "Modern Horizons 3 Play Booster Box [MTG]",
@@ -8339,7 +8339,7 @@
      "title": "Bloomburrow Play Booster Box [MTG]",
      "game": "MTG",
      "available": true,
-     "price": 160.0
+     "price": 200.0
     },
     "aetherdrift-play-booster-box-mtg": {
      "title": "Aetherdrift Play Booster Box [MTG]",
@@ -8351,19 +8351,19 @@
      "title": "Innistrad Remastered Play Booster Box [MTG]",
      "game": "MTG",
      "available": true,
-     "price": 225.0
+     "price": 300.0
     },
     "outlaws-of-thunder-junction-play-booster-box": {
      "title": "Outlaws of Thunder Junction Play Booster Box [MTG]",
      "game": "MTG",
      "available": true,
-     "price": 165.0
+     "price": 185.0
     },
     "final-fantasy-play-booster-box-universes-beyond-mtg": {
      "title": "Final Fantasy Play Booster Box (Universes Beyond) [MTG]",
      "game": "MTG",
      "available": true,
-     "price": 210.0
+     "price": 245.0
     },
     "outlaws-of-thunder-junction-collector-booster-box": {
      "title": "Outlaws of Thunder Junction Collector Booster Box [MTG]",
@@ -8875,6 +8875,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 265.0
+    },
+    "avatar-the-last-airbender-play-booster-box-universes-beyond-mtg": {
+     "title": "Avatar: The Last Airbender Play Booster Box (Universes Beyond) [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 140.0
     }
    },
    "baselined": true,
@@ -9088,9 +9094,8 @@
     "pokemon-tcg-me05-pitch-black-booster-box-etb-combo": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box & ETB Combo",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 230.0,
-     "unavail_since": 1785683626,
      "delisted": true
     },
     "one-piece-tcg-one-of-each-starter-deck-bundle": {
@@ -9144,7 +9149,8 @@
      "game": "Riftbound",
      "available": false,
      "price": 120.0,
-     "unavail_since": 1786130330
+     "unavail_since": 1786130330,
+     "delisted": true
     }
    },
    "baselined": true,
@@ -10002,7 +10008,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
