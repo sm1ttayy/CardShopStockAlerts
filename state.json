@@ -11742,7 +11742,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14697,7 +14697,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15477,7 +15477,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16303,7 +16303,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16974,7 +16974,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17029,7 +17029,7 @@
      "title": "Team Up Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 24999.75,
+     "price": 20003.75,
      "unavail_since": 1784083350
     },
     "premium-booster-vol-2-booster-box": {
@@ -17043,7 +17043,7 @@
      "title": "Unleashed Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 154.99,
+     "price": 157.99,
      "unavail_since": 1784083350
     },
     "tmnt-play-booster-box": {
@@ -17105,7 +17105,7 @@
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 467.75,
+     "price": 508.99,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
@@ -17362,7 +17362,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 466.75,
+     "price": 461.99,
      "unavail_since": 1784083350
     },
     "wings-of-the-captain-booster-box-op06": {
@@ -17616,7 +17616,7 @@
      "title": "Surging Sparks Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 184.75,
+     "price": 190.75,
      "unavail_since": 1784083350
     },
     "fates-collide-booster-box": {
@@ -18990,7 +18990,7 @@
      "title": "Pitch Black Build & Battle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 34.75
+     "price": 36.75
     },
     "streets-of-new-capenna-draft-booster-box": {
      "title": "Streets of New Capenna - Draft Booster Box",
@@ -19173,10 +19173,17 @@
      "game": "MTG",
      "available": true,
      "price": 82.75
+    },
+    "unleashed-champion-deck-vex": {
+     "title": "Unleashed Champion Deck (Vex)",
+     "game": "Riftbound",
+     "available": false,
+     "price": 24.75,
+     "unavail_since": 1786195236
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 141,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19975,12 +19982,18 @@
      "game": "One Piece",
      "available": true,
      "price": 79.95
+    },
+    "magic-the-gathering-teenage-mutant-ninja-turtles-team-up-box-pre-order": {
+     "title": "Magic The Gathering Teenage Mutant Ninja Turtles Team Up Box TMNT",
+     "game": "MTG",
+     "available": true,
+     "price": 44.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 48
+   "check_cursor": 37
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -20192,6 +20205,12 @@
      "game": "One Piece",
      "available": true,
      "price": 349.0
+    },
+    "megahouse-one-piece-portrait-of-pirates-osoba-mask-statue-utcmh71626": {
+     "title": "Megahouse One Piece Portrait of Pirates OSoba Mask Statue UTCMH71626",
+     "game": "One Piece",
+     "available": true,
+     "price": 124.99
     }
    },
    "baselined": true,
