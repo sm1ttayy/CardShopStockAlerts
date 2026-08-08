@@ -11783,7 +11783,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14768,7 +14768,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17055,7 +17055,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17351,9 +17351,9 @@
     "raging-surf-booster-box-jp": {
      "title": "Raging Surf Booster Box (JP)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 111.75,
-     "unavail_since": 1784083350
+     "last_restock_alert": 1786228848
     },
     "gg-end-booster-box-jp": {
      "title": "GG End Booster Box (JP)",
@@ -18062,9 +18062,9 @@
     "prismatic-evolutions-super-premium-collection": {
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 275.75,
-     "unavail_since": 1786195841
+     "available": true,
+     "price": 276.49,
+     "last_restock_alert": 1786228847
     },
     "crimson-invasion-booster-box": {
      "title": "Crimson Invasion Booster Box",
@@ -19409,7 +19409,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 109,
+   "check_cursor": 149,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20276,7 +20276,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 4
+   "check_cursor": 44
   },
   "https://sagaconcepts.com": {
    "products": {
