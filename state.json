@@ -10866,6 +10866,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 199.0
+    },
+    "pokemon-tcg-sun-moon-elite-trainer-box-solgaleo": {
+     "title": "Pok\u00e9mon TCG: Sun & Moon Elite Trainer Box (Solgaleo)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 64.99,
+     "unavail_since": 1786311308
     }
    },
    "baselined": true,
@@ -11823,7 +11830,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13504,9 +13511,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 39.95,
-     "last_restock_alert": 1786134321
+     "last_restock_alert": 1786134321,
+     "unavail_since": 1786311309
     },
     "pokemon-tcg-crown-zenith-booster-bundle-6-packs-incoming-item": {
      "title": "Pokemon TCG: Crown Zenith Booster Bundle - 6 Packs",
@@ -14840,7 +14848,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15635,7 +15643,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17141,7 +17149,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19508,7 +19516,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 133,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20381,7 +20389,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 5
+   "check_cursor": 45
   },
   "https://sagaconcepts.com": {
    "products": {
