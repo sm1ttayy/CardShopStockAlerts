@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3720,7 +3720,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 227,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5175,7 +5175,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7005,7 +7005,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 138,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9192,6 +9192,13 @@
      "price": 120.0,
      "unavail_since": 1786130330,
      "delisted": true
+    },
+    "pokemon-tcg-sword-shield-booster-box": {
+     "title": "Pokemon TCG: Sword & Shield Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 700.0,
+     "unavail_since": 1786315242
     }
    },
    "baselined": true,
@@ -10055,7 +10062,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
