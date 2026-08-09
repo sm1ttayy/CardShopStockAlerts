@@ -11823,7 +11823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14827,7 +14827,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15615,7 +15615,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16447,7 +16447,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17121,7 +17121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17191,7 +17191,7 @@
      "title": "Unleashed Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 157.99,
+     "price": 157.75,
      "unavail_since": 1784083350
     },
     "tmnt-play-booster-box": {
@@ -17211,7 +17211,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 211.99,
+     "price": 209.75,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -17246,14 +17246,14 @@
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 257.99,
+     "price": 254.75,
      "unavail_since": 1784083350
     },
     "secrets-of-strixhaven-collector-booster-display": {
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 508.99,
+     "price": 515.49,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
@@ -17515,7 +17515,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 461.99,
+     "price": 466.75,
      "unavail_since": 1784083350
     },
     "wings-of-the-captain-booster-box-op06": {
@@ -17557,14 +17557,14 @@
      "title": "The Brothers' War Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 389.75,
+     "price": 381.99,
      "unavail_since": 1784083350
     },
     "500-years-in-the-future-booster-box-op07": {
      "title": "500 Years in the Future Booster Box [OP07]",
      "game": "One Piece",
      "available": false,
-     "price": 354.99,
+     "price": 343.99,
      "unavail_since": 1784083350
     },
     "memorial-collection-booster-box-eb01": {
@@ -17737,7 +17737,7 @@
      "title": "Japanese Stellar Miracle Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 90.75,
+     "price": 89.75,
      "unavail_since": 1784083350
     },
     "ruler-of-the-black-flame-booster-box": {
@@ -18108,7 +18108,7 @@
      "title": "Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 479.75,
+     "price": 489.49,
      "unavail_since": 1784083350
     },
     "pokemon-scarlet-violet-booster-box": {
@@ -18598,7 +18598,7 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 1182.75,
+     "price": 1148.99,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
@@ -18636,7 +18636,7 @@
      "title": "Planar Portal Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 138.75
+     "price": 139.75
     },
     "magic-the-gathering-deadly-disguise-commander-deck": {
      "title": "Deadly Disguise Commander Deck",
@@ -18674,21 +18674,21 @@
      "title": "Marvel Super Heroes Play Booster Bundle",
      "game": "MTG",
      "available": false,
-     "price": 47.25,
+     "price": 47.49,
      "unavail_since": 1784083350
     },
     "final-fantasy-gift-bundle": {
      "title": "Final Fantasy Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 285.99,
+     "price": 286.49,
      "unavail_since": 1784083350
     },
     "universes-beyond-final-fantasy-bundle": {
      "title": "Universes Beyond: FINAL FANTASY - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 123.99,
+     "price": 123.75,
      "unavail_since": 1784083350
     },
     "pokemon-151-alakazam-ex-collection-box": {
@@ -18879,7 +18879,7 @@
      "title": "Twilight Masquerade Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2369.75,
+     "price": 2419.99,
      "unavail_since": 1786195830
     },
     "perfect-order-booster-bundle": {
@@ -19006,7 +19006,7 @@
      "title": "Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 80.99,
+     "price": 79.49,
      "unavail_since": 1785187243
     },
     "core-set-2020-booster-box": {
@@ -19136,7 +19136,7 @@
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 39.75,
+     "price": 40.99,
      "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
@@ -19356,7 +19356,7 @@
      "title": "Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": false,
-     "price": 24.75,
+     "price": 26.49,
      "unavail_since": 1786195236
     },
     "the-hobbit-play-booster-display": {
@@ -19423,7 +19423,7 @@
      "title": "Theros Beyond Death - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 180.99,
+     "price": 181.49,
      "unavail_since": 1786195830
     },
     "war-of-the-spark-booster-box": {
@@ -19475,7 +19475,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 130,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20342,7 +20342,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 61
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
