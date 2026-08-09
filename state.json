@@ -10298,6 +10298,12 @@
      "game": "MTG",
      "available": true,
      "price": 189.99
+    },
+    "chaos-rising-box-moonshot-rips-copy": {
+     "title": "Chaos Rising Box - Moonshot Rips",
+     "game": "Pokemon",
+     "available": true,
+     "price": 240.0
     }
    },
    "baselined": true,
@@ -11796,7 +11802,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14781,7 +14787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15442,8 +15448,9 @@
     "starter-commander-deck-grave-danger": {
      "title": "Starter Commander Deck (Grave Danger)",
      "game": "MTG",
-     "available": true,
-     "price": 44.99
+     "available": false,
+     "price": 44.99,
+     "unavail_since": 1786235416
     },
     "the-hobbit-bundle": {
      "title": "The Hobbit - Bundle",
@@ -15568,7 +15575,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17068,7 +17075,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19422,7 +19429,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 101,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20289,7 +20296,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 24
+   "check_cursor": 64
   },
   "https://sagaconcepts.com": {
    "products": {
