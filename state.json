@@ -11838,7 +11838,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14856,7 +14856,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15651,7 +15651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17169,7 +17169,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19533,10 +19533,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 34.25
+    },
+    "commander-2020-deck-symbiotic-swarm": {
+     "title": "Commander 2020 Deck - Symbiotic Swarm",
+     "game": "MTG",
+     "available": true,
+     "price": 70.75
     }
    },
    "baselined": true,
-   "check_cursor": 147,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20409,7 +20415,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 6
+   "check_cursor": 46
   },
   "https://sagaconcepts.com": {
    "products": {
