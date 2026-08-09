@@ -10869,7 +10869,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11823,7 +11823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14827,7 +14827,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17121,7 +17121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17488,7 +17488,7 @@
      "title": "Innistrad Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 498.49,
+     "price": 499.99,
      "unavail_since": 1784083350
     },
     "avatar-the-last-airbender-collector-booster-box": {
@@ -17847,7 +17847,7 @@
      "title": "Japanese Snow Hazard Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 101.49,
+     "price": 102.49,
      "unavail_since": 1784083350
     },
     "2025-chinese-collect-151c-booster-box": {
@@ -18806,14 +18806,14 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 240.75,
+     "price": 239.99,
      "unavail_since": 1786195830
     },
     "kaldheim-draft-booster-box": {
      "title": "Kaldheim - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 192.75,
+     "price": 194.75,
      "unavail_since": 1786195830
     },
     "unfinity-draft-booster-box": {
@@ -19092,7 +19092,7 @@
      "title": "Kamigawa: Neon Dynasty - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 224.99
+     "price": 226.75
     },
     "kaldheim-phantom-premonition-commander-deck": {
      "title": "Kaldheim - Phantom Premonition Commander Deck",
@@ -19174,7 +19174,7 @@
      "title": "Streets of New Capenna - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 136.75
+     "price": 139.75
     },
     "mega-brave-booster-box": {
      "title": "Mega Brave Booster Box",
@@ -19475,7 +19475,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20337,12 +20337,18 @@
      "available": false,
      "price": 164.95,
      "unavail_since": 1786195851
+    },
+    "funko-pop-one-piece-monkey-d-dragon-exclusive-signed-autographed-by-bryan-massey-2206-jsa-certified": {
+     "title": "Funko Pop! One Piece Monkey D. Dragon Exclusive Signed Autographed by Bryan Massey #2206 (JSA Certified)",
+     "game": "One Piece",
+     "available": true,
+     "price": 109.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 45
+   "check_cursor": 13
   },
   "https://sagaconcepts.com": {
    "products": {
