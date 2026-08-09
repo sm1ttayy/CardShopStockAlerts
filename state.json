@@ -11823,7 +11823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14827,7 +14827,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15615,7 +15615,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16447,7 +16447,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17121,7 +17121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18898,8 +18898,9 @@
     "adventures-in-the-forgotten-realms": {
      "title": "Adventures in the Forgotten Realms Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 129.75
+     "available": false,
+     "price": 129.75,
+     "unavail_since": 1786294832
     },
     "commander-legends-reap-the-tides-commander-deck": {
      "title": "Commander Legends - Reap the Tides Commander Deck",
@@ -19487,7 +19488,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 167,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20360,7 +20361,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 41
+   "check_cursor": 6
   },
   "https://sagaconcepts.com": {
    "products": {
