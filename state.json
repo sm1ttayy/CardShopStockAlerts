@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3720,7 +3720,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 187,
+   "check_cursor": 227,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3934,7 +3934,7 @@
      "title": "Pokemon Scarlet and Violet: Shrouded Fable Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 59.0,
+     "price": 62.0,
      "unavail_since": 1784083329
     },
     "pokemon-2024-trick-or-trade-booster-bundle-pre-order": {
@@ -5175,7 +5175,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5360,7 +5360,7 @@
      "title": "Pokemon Sword & Shield Lost Origins Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 864.75
+     "price": 799.75
     },
     "pokemon-mega-evolution-chaos-rising-booster-6-box-case": {
      "title": "Pokemon Mega Evolution Chaos Rising Booster 6-Box Case",
@@ -7005,7 +7005,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9134,9 +9134,10 @@
     "pokemon-tcg-me05-pitch-black-booster-box-etb-combo": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box & ETB Combo",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 230.0,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1786312314
     },
     "one-piece-tcg-one-of-each-starter-deck-bundle": {
      "title": "One Piece TCG: One of each Starter Deck Bundle",
@@ -10054,7 +10055,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
