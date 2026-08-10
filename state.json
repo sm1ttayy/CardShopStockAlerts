@@ -11851,7 +11851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14892,7 +14892,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15687,7 +15687,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17211,7 +17211,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19219,9 +19219,10 @@
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 136.25,
-     "last_restock_alert": 1786227032
+     "last_restock_alert": 1786227032,
+     "unavail_since": 1786402228
     },
     "vendetta-vault-bundle": {
      "title": "Vendetta Vault Bundle",
@@ -19608,7 +19609,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 123,
+   "check_cursor": 163,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20481,7 +20482,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 30
+   "check_cursor": 18
   },
   "https://sagaconcepts.com": {
    "products": {
