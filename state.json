@@ -11753,9 +11753,9 @@
     "the-hobbit-bundle-preorder": {
      "title": "The Hobbit Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 74.95,
-     "unavail_since": 1786227616
+     "last_restock_alert": 1786400117
     },
     "the-hobbit-play-booster-case-6-boxes": {
      "title": "The Hobbit Play Booster Case (6 Boxes)",
@@ -11851,7 +11851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14886,7 +14886,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15681,7 +15681,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17205,7 +17205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19602,7 +19602,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20475,7 +20475,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 34
+   "check_cursor": 7
   },
   "https://sagaconcepts.com": {
    "products": {
