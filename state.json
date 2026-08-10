@@ -11846,7 +11846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13381,7 +13381,7 @@
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 629.95
+     "price": 609.95
     },
     "pokemon-journey-together-half-booster-box-pre-order": {
      "title": "Pokemon: Journey Together - Half Booster Box",
@@ -13918,9 +13918,10 @@
     "pokemon-prismatic-evolutions-super-premium-collection-pre-order": {
      "title": "Pokemon Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 399.99,
-     "last_restock_alert": 1786110041
+     "last_restock_alert": 1786110041,
+     "unavail_since": 1786394711
     },
     "pokemon-scarlet-violet-151-poster-collection": {
      "title": "Pokemon Scarlet & Violet\u2014151 Poster Collection",
@@ -14704,7 +14705,7 @@
      "title": "MTG - Phyrexia: All Will Be One - Bundle - Compleat Edition",
      "game": "MTG",
      "available": true,
-     "price": 574.95
+     "price": 594.95
     },
     "pokemon-tcg-salamence-ex-reshiram-ex-premium-collection-pre-order": {
      "title": "Pokemon TCG: Salamence ex &  Reshiram ex Premium Collection",
@@ -14863,10 +14864,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 49.95
+    },
+    "pokemon-tcg-scarlet-violet-paldea-evolved-elite-trainer-pre-order": {
+     "title": "Pok\u00e9mon TCG: Scarlet & Violet-Paldea Evolved Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 299.95,
+     "unavail_since": 1786394710
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15661,7 +15669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17185,7 +17193,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17310,7 +17318,7 @@
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 254.75,
+     "price": 268.75,
      "unavail_since": 1784083350
     },
     "secrets-of-strixhaven-collector-booster-display": {
@@ -17401,7 +17409,7 @@
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 479.75,
+     "price": 470.75,
      "unavail_since": 1785718251
     },
     "brilliant-stars-booster-box": {
@@ -17572,7 +17580,7 @@
      "title": "Assassin's Creed Beyond Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 139.99,
+     "price": 138.99,
      "unavail_since": 1784083350
     },
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
@@ -17628,7 +17636,7 @@
      "title": "500 Years in the Future Booster Box [OP07]",
      "game": "One Piece",
      "available": false,
-     "price": 343.99,
+     "price": 343.75,
      "unavail_since": 1784083350
     },
     "memorial-collection-booster-box-eb01": {
@@ -19064,7 +19072,7 @@
      "title": "Final Fantasy Commander Deck [Revival Trance]",
      "game": "MTG",
      "available": false,
-     "price": 39.75,
+     "price": 40.75,
      "unavail_since": 1785438628
     },
     "marvel-super-heroes-gift-bundle": {
@@ -19233,7 +19241,7 @@
      "title": "Pitch Black Build & Battle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 36.75
+     "price": 37.99
     },
     "streets-of-new-capenna-draft-booster-box": {
      "title": "Streets of New Capenna - Draft Booster Box",
@@ -19354,7 +19362,7 @@
      "title": "Commander 2021 Deck - Prismari Performance",
      "game": "MTG",
      "available": true,
-     "price": 64.75
+     "price": 66.75
     },
     "commander-legends-battle-for-baldurs-gate-party-time-commander-deck": {
      "title": "Commander Legends: Battle for Baldur's Gate - Party Time Commander Deck",
@@ -19460,7 +19468,7 @@
      "title": "Dominaria United - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 249.49,
+     "price": 249.25,
      "unavail_since": 1786195830
     },
     "strixhaven-school-of-mages-set-booster-display": {
@@ -19516,7 +19524,7 @@
      "title": "Commander Legends - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 279.99,
+     "price": 283.75,
      "unavail_since": 1786195830
     },
     "time-spiral-remastered-draft-booster-box": {
@@ -19576,7 +19584,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 175,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20449,7 +20457,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 36
+   "check_cursor": 16
   },
   "https://sagaconcepts.com": {
    "products": {
