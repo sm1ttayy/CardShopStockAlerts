@@ -11852,7 +11852,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14881,7 +14881,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15676,7 +15676,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17200,7 +17200,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19588,10 +19588,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 62.99
+    },
+    "spiritforged-booster-display": {
+     "title": "Spiritforged Booster Display",
+     "game": "Riftbound",
+     "available": true,
+     "price": 220.99
     }
    },
    "baselined": true,
-   "check_cursor": 162,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20464,7 +20470,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 52
+   "check_cursor": 32
   },
   "https://sagaconcepts.com": {
    "products": {
