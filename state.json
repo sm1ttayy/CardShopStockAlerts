@@ -11852,7 +11852,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13326,8 +13326,9 @@
     "one-piece-tcg-op-09-booster-box-pre-order": {
      "title": "One Piece TCG OP-09 Emperors In The New World Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 899.95
+     "available": false,
+     "price": 899.95,
+     "unavail_since": 1786395309
     },
     "pre-order-one-piece-the-great-pirates-100-landscapes-world-collectable-series-vol-10-mini-figure-case-of-12": {
      "title": "One Piece The Great Pirates 100 Landscapes World Collectable Series Vol. 10 Mini-Figure Case of 12",
@@ -14880,7 +14881,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15675,7 +15676,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17199,7 +17200,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17387,7 +17388,7 @@
      "title": "Ninja Spinner Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 89.25,
+     "price": 85.99,
      "unavail_since": 1784083350
     },
     "chaos-rising-booster-box": {
@@ -18151,7 +18152,7 @@
      "title": "Kamigawa: Neon Dynasty Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 428.99,
+     "price": 429.75,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-remastered-draft-booster-box": {
@@ -18235,7 +18236,7 @@
      "title": "Ravnica Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1343.75,
+     "price": 1299.75,
      "unavail_since": 1784083350
     },
     "mtg-lost-caverns-of-ixalan-collector-booster-box": {
@@ -18249,7 +18250,7 @@
      "title": "Fallout Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1955.49,
+     "price": 1942.75,
      "unavail_since": 1784083350
     },
     "mtg-murders-at-karlov-manor-play-booster-box": {
@@ -18269,7 +18270,7 @@
      "title": "Universes Beyond Assassin's Creed Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 131.99,
+     "price": 138.99,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-united-collector-booster-box": {
@@ -19590,7 +19591,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 122,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20463,7 +20464,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 56
+   "check_cursor": 12
   },
   "https://sagaconcepts.com": {
    "products": {
