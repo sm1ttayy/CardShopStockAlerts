@@ -11101,10 +11101,9 @@
     "the-hobbit-play-booster-box-preorder": {
      "title": "The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1785784811,
-     "unavail_since": 1786227016
+     "last_restock_alert": 1786399832
     },
     "the-hobbit-collector-booster-box-preorder": {
      "title": "The Hobbit Collector Booster Box - Preorder",
@@ -11852,7 +11851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14887,7 +14886,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15682,7 +15681,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17206,7 +17205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19603,7 +19602,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 162,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20476,7 +20475,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 52
+   "check_cursor": 34
   },
   "https://sagaconcepts.com": {
    "products": {
