@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3720,7 +3720,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 125,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5176,7 +5176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7006,7 +7006,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9201,6 +9201,13 @@
      "price": 700.0,
      "unavail_since": 1786315242,
      "delisted": true
+    },
+    "one-piece-tcg-op-17-the-worlds-strongest-warrior": {
+     "title": "One Piece TCG: OP-17 The Worlds Strongest Warrior - Preorder",
+     "game": "One Piece",
+     "available": false,
+     "price": 325.0,
+     "unavail_since": 1786391038
     }
    },
    "baselined": true,
@@ -10064,7 +10071,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
