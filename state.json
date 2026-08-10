@@ -11843,10 +11843,16 @@
      "game": "MTG",
      "available": true,
      "price": 39.95
+    },
+    "aetherdrift-commander-deck-bundle": {
+     "title": "Aetherdrift Commander Deck Set of 2",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14874,7 +14880,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15669,7 +15675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17193,7 +17199,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17395,7 +17401,7 @@
      "title": "Inferno X Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 129.99,
+     "price": 123.99,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-fusion-strike-booster-box": {
@@ -17573,7 +17579,7 @@
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 424.25,
+     "price": 419.99,
      "unavail_since": 1784083350
     },
     "assassins-creed-beyond-booster-box": {
@@ -18009,7 +18015,7 @@
      "title": "Japanese Glory of Team Rocket Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 172.75,
+     "price": 169.75,
      "unavail_since": 1784083350
     },
     "unified-minds-booster-box": {
@@ -18215,7 +18221,7 @@
      "title": "Lost Thunder Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1630.75,
+     "price": 1498.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-v-paradox-rift-booster-box": {
@@ -18878,7 +18884,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 239.99,
+     "price": 239.75,
      "unavail_since": 1786195830
     },
     "kaldheim-draft-booster-box": {
@@ -19032,9 +19038,9 @@
     "freedom-ascension-booster-box": {
      "title": "Freedom Ascension Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 224.75,
-     "unavail_since": 1786195830
+     "last_restock_alert": 1786395038
     },
     "pokemon-journey-together-booster-bundle": {
      "title": "Journey Together Booster Bundle",
@@ -19584,7 +19590,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20457,7 +20463,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 16
+   "check_cursor": 56
   },
   "https://sagaconcepts.com": {
    "products": {
