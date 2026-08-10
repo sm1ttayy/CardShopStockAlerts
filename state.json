@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3720,7 +3720,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5176,7 +5176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7006,7 +7006,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 103,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8120,6 +8120,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 380.0
+    },
+    "sword-shield-fusion-strike-elite-trainer-box": {
+     "title": "Sword & Shield - Fusion Strike Elite Trainer Box (Packaging condition may vary)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 329.99
     }
    },
    "baselined": true,
@@ -10071,7 +10077,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
