@@ -11852,7 +11852,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14627,9 +14627,9 @@
     "pokemon-tcg-mega-evolution-perfect-order-booster-box": {
      "title": "Pokemon TCG Mega Evolution Set 3 Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 229.95,
-     "unavail_since": 1786064407
+     "last_restock_alert": 1786396222
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
@@ -14836,9 +14836,9 @@
     "reprint-pokemon-scarlet-and-violet-journey-together-non-enhanced-booster-box-pre-order": {
      "title": "(Reprint) Pokemon - Scarlet and Violet - Journey Together non enhanced Booster Box (Pre Order)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 299.95,
-     "unavail_since": 1786195810
+     "last_restock_alert": 1786396226
     },
     "mtg-fate-reforged-english-booster-box": {
      "title": "MTG - Fate Reforged - English Booster Box",
@@ -14881,7 +14881,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15676,7 +15676,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16526,7 +16526,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17200,7 +17200,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19597,7 +19597,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20470,7 +20470,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 32
+   "check_cursor": 13
   },
   "https://sagaconcepts.com": {
    "products": {
