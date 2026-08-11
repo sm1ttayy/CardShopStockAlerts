@@ -12366,8 +12366,9 @@
     "one-piece-card-game-starter-deck-st15-edward-newgate-pre-order": {
      "title": "One Piece Card Game - Starter Deck - ST15 - Edward Newgate",
      "game": "One Piece",
-     "available": true,
-     "price": 89.95
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1786480805
     },
     "one-piece-card-game-starter-deck-st22": {
      "title": "One Piece Card Game - Starter Deck - ST22 - Ace & Newgate",
@@ -14911,7 +14912,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17242,7 +17243,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17346,7 +17347,7 @@
      "title": "Secrets of Strixhaven Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 139.75,
+     "price": 138.75,
      "unavail_since": 1784083350
     },
     "legacy-of-the-master-booster-box-op12": {
@@ -17374,7 +17375,7 @@
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 506.75,
+     "price": 503.99,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
@@ -17430,7 +17431,7 @@
      "title": "Ninja Spinner Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 85.99,
+     "price": 89.25,
      "unavail_since": 1784083350
     },
     "chaos-rising-booster-box": {
@@ -17451,7 +17452,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 951.99,
+     "price": 974.99,
      "unavail_since": 1786195832
     },
     "destined-rivals-booster-box": {
@@ -17595,7 +17596,7 @@
      "title": "Pillars of Strength Booster Box [OP03]",
      "game": "One Piece",
      "available": false,
-     "price": 488.75,
+     "price": 488.99,
      "unavail_since": 1784083350
     },
     "perfect-order-booster-box": {
@@ -17794,7 +17795,7 @@
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 390.75,
+     "price": 391.75,
      "last_restock_alert": 1785606645,
      "unavail_since": 1785760243
     },
@@ -18107,7 +18108,7 @@
      "title": "Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 261.75,
+     "price": 260.75,
      "last_restock_alert": 1785606645,
      "unavail_since": 1786195840
     },
@@ -18130,7 +18131,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 414.99,
+     "price": 416.99,
      "last_restock_alert": 1785865536,
      "unavail_since": 1786195840
     },
@@ -18187,7 +18188,7 @@
      "title": "Ravnica Remastered Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 328.99,
+     "price": 321.75,
      "unavail_since": 1784083350
     },
     "mtg-kamigawa-neon-dynasty-set-booster-box": {
@@ -18332,7 +18333,7 @@
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 728.75,
+     "price": 727.99,
      "unavail_since": 1784083350
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
@@ -18374,7 +18375,7 @@
      "title": "Temporal Forces Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 299.99,
+     "price": 308.75,
      "last_restock_alert": 1784479824,
      "unavail_since": 1786195841
     },
@@ -19183,7 +19184,7 @@
      "title": "Origins - Champion Deck (Jinx)",
      "game": "Riftbound",
      "available": false,
-     "price": 31.25,
+     "price": 31.75,
      "unavail_since": 1785333928
     },
     "commander-2020-deck-ruthless-regiment": {
@@ -19314,7 +19315,7 @@
      "title": "Prismatic Evolutions Surprise Box",
      "game": "Pokemon",
      "available": false,
-     "price": 67.75,
+     "price": 69.75,
      "unavail_since": 1786160127
     },
     "pokemon-astral-radiance-elite-trainer-box": {
@@ -19639,7 +19640,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 128,
    "error_streak": 0,
    "last_error": ""
   },
