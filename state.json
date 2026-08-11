@@ -13566,8 +13566,9 @@
     "pokemon-tcg-mega-evolution-set-3-perfect-order-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 3 Perfect Order Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 59.95
+     "available": false,
+     "price": 59.95,
+     "unavail_since": 1786485608
     },
     "pokemon-tcg-scarlet-and-violet-obsidian-flame-booster-bundle-pre-order": {
      "title": "Pokemon TCG Scarlet And Violet Obsidian Flame Booster Bundle",
@@ -14910,7 +14911,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17241,7 +17242,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19638,7 +19639,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 132,
    "error_streak": 0,
    "last_error": ""
   },
