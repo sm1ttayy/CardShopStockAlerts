@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3721,7 +3721,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 117,
+   "check_cursor": 157,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5177,7 +5177,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6031,9 +6031,9 @@
     "pokemon-mega-evolution-enhanced-booster-box": {
      "title": "Pokemon Mega Evolution Enhanced Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 319.75,
-     "unavail_since": 1785843582
+     "available": true,
+     "price": 349.75,
+     "last_restock_alert": 1786490430
     },
     "pokemon-battle-partners-japanese-booster-box-sv9": {
      "title": "Pok\u00e9mon Battle Partners Japanese Booster Box (SV9)",
@@ -7013,7 +7013,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 119,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10085,7 +10085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
