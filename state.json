@@ -11294,9 +11294,8 @@
     "lorwyn-eclipsed-collector-booster-display-preorder": {
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 429.95,
-     "unavail_since": 1784083347
+     "available": true,
+     "price": 419.95
     },
     "phyrexia-all-will-be-one-set-booster-display": {
      "title": "Phyrexia All Will Be One Set Booster Box",
@@ -14897,7 +14896,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17216,7 +17215,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18674,7 +18673,7 @@
      "title": "151 Ultra Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 949.75
+     "price": 908.75
     },
     "pitch-black-3-pack-blister-binacle": {
      "title": "Pitch Black 3 Pack Blister [Binacle]",
@@ -19613,7 +19612,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
