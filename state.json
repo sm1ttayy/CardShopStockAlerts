@@ -11069,9 +11069,9 @@
     "riftbound-spiritforged-booster-box": {
      "title": "Riftbound Spiritforged Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 199.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1786484410
     },
     "riftbound-vendetta-booster-box": {
      "title": "Riftbound Vendetta Booster Box",
@@ -14911,7 +14911,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17242,7 +17242,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19639,7 +19639,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0,
    "last_error": ""
   },
