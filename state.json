@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 134,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1693,7 +1693,7 @@
      "title": "Magic: The Gathering - Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 120.0,
+     "price": 115.0,
      "last_restock_alert": 1785843576
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
@@ -6926,9 +6926,9 @@
     "riftbound-league-of-legends-vendetta-booster-box": {
      "title": "Riftbound League of Legends Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 0.0,
-     "unavail_since": 1785460669
+     "available": true,
+     "price": 144.75,
+     "last_restock_alert": 1786443440
     },
     "riftbound-league-of-legends-vendetta-booster-6-box-case": {
      "title": "Riftbound League of Legends Vendetta Booster 6-Box Case",
@@ -8937,7 +8937,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9219,7 +9219,8 @@
      "game": "One Piece",
      "available": false,
      "price": 325.0,
-     "unavail_since": 1786391038
+     "unavail_since": 1786391038,
+     "delisted": true
     }
    },
    "baselined": true,
