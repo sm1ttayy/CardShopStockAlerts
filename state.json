@@ -11481,10 +11481,9 @@
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 82.95,
-     "last_restock_alert": 1784320809,
-     "unavail_since": 1784333711
+     "available": true,
+     "price": 79.95,
+     "last_restock_alert": 1786410008
     },
     "paldean-fates-booster-bundle-display-10-bundles": {
      "title": "Paldean Fates Booster Bundle Display (10 Bundles)",
@@ -11504,7 +11503,7 @@
      "title": "Mega Greninja ex Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 49.95
+     "price": 44.95
     },
     "prismatic-evolutions-poster-collection-1": {
      "title": "Prismatic Evolutions Poster Collection",
@@ -14898,7 +14897,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17217,7 +17216,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19152,7 +19151,7 @@
      "title": "Paldean Fates Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 603.99
+     "price": 603.75
     },
     "origins-champion-deck-jinx": {
      "title": "Origins - Champion Deck (Jinx)",
@@ -19614,7 +19613,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 127,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
