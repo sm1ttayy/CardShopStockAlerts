@@ -1288,7 +1288,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 105,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3734,10 +3734,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 45.0
+    },
+    "starter-deck-26-purple-black-monkey-d-luffy": {
+     "title": "One Piece - Starter Deck 26: PURPLE/BLACK Monkey.D.Luffy [ST-26]",
+     "game": "One Piece",
+     "available": false,
+     "price": 40.0,
+     "unavail_since": 1786578693
     }
    },
    "baselined": true,
-   "check_cursor": 245,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5199,7 +5206,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7035,7 +7042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10165,7 +10172,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
