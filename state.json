@@ -13282,6 +13282,12 @@
      "game": "MTG",
      "available": true,
      "price": 249.95
+    },
+    "pokemon-storm-emeralda-japanese-booster-box": {
+     "title": "Pokemon - Storm Emeralda - Japanese Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 229.95
     }
    },
    "baselined": true,
@@ -14924,7 +14930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17256,7 +17262,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19653,7 +19659,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 100,
+   "check_cursor": 140,
    "error_streak": 0,
    "last_error": ""
   },
