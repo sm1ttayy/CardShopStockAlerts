@@ -13276,6 +13276,12 @@
      "game": "MTG",
      "available": true,
      "price": 199.95
+    },
+    "mtg-outlaws-of-thunder-junction-play-booster-box": {
+     "title": "MTG - Outlaws of Thunder Junction - Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 249.95
     }
    },
    "baselined": true,
@@ -14918,7 +14924,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17250,7 +17256,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19647,7 +19653,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 0,
    "last_error": ""
   },
