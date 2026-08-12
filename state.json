@@ -1288,7 +1288,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3737,7 +3737,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 125,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5199,7 +5199,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5515,9 +5515,9 @@
     "pokemon-mega-evolution-6-pack-booster-bundle": {
      "title": "Pokemon Mega Evolution Booster Bundle Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 64.75,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1786564262
     },
     "pokemon-scarlet-and-violet-journey-together-booster-bundle": {
      "title": "Pokemon Scarlet and Violet Journey Together Booster Bundle",
@@ -7035,7 +7035,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10165,7 +10165,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
