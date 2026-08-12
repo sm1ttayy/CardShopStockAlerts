@@ -14930,7 +14930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17262,7 +17262,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19058,9 +19058,8 @@
     "double-masters-booster-box": {
      "title": "Double Masters - Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 999.99,
-     "unavail_since": 1786195830
+     "available": true,
+     "price": 999.99
     },
     "commander-legends-arm-for-battle-commander-deck": {
      "title": "Commander Legends - Arm for Battle Commander Deck",
@@ -19665,7 +19664,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
