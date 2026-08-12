@@ -13373,8 +13373,9 @@
     "pokemon-storm-emeralda-japanese-booster-box": {
      "title": "Pokemon - Storm Emeralda - Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 229.95
+     "available": false,
+     "price": 229.95,
+     "unavail_since": 1786568107
     }
    },
    "baselined": true,
@@ -15017,7 +15018,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17349,7 +17350,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18335,7 +18336,7 @@
      "title": "Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 499.75,
+     "price": 499.99,
      "unavail_since": 1784083350
     },
     "pokemon-scarlet-violet-booster-box": {
@@ -19756,7 +19757,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 138,
    "error_streak": 0,
    "last_error": ""
   },
