@@ -1173,7 +1173,7 @@
      "title": "Pokemon TCG: Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 164.99,
+     "price": 125.54,
      "unavail_since": 1785267914
     },
     "kamigawa-neon-dynasty-sealed-draft-box-pre-order": {
@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3723,7 +3723,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 123,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5179,7 +5179,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7015,7 +7015,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8136,6 +8136,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 329.99
+    },
+    "ascended-heroes-pokemon-center-elite-trainer-box-exclusive-me-ascended-heroes-asc": {
+     "title": "Pokemon Mega Evolution - Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 435.0
     }
    },
    "baselined": true,
@@ -10088,7 +10094,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
