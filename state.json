@@ -1281,7 +1281,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1359,9 +1359,10 @@
     "riftbound-league-of-legends-tcg-unleashed-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Unleashed Booster Box Display",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 155.0,
-     "last_restock_alert": 1785929597
+     "last_restock_alert": 1785929597,
+     "unavail_since": 1786530647
     },
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG - Vendetta Booster Box",
@@ -1499,9 +1500,10 @@
     "magic-the-gathering-foundations-jumpstart-booster-box": {
      "title": "Magic: The Gathering Foundations Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 90.0,
-     "last_restock_alert": 1786016207
+     "last_restock_alert": 1786016207,
+     "unavail_since": 1786530648
     },
     "magic-the-gathering-secrets-of-strixhaven-play-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Play Booster Box",
@@ -2276,7 +2278,7 @@
      "title": "Visions Draft Booster Box Display",
      "game": "MTG",
      "available": true,
-     "price": 1450.0
+     "price": 2000.0
     },
     "urzas-saga-draft-booster-box-display": {
      "title": "Urza's Saga Draft Booster Box Display",
@@ -3721,7 +3723,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 185,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5177,7 +5179,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6024,9 +6026,9 @@
     "pokemon-mega-evolution-non-enhanced-booster-box": {
      "title": "Pokemon Mega Evolution Non-Enhanced Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 259.75,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 329.75,
+     "last_restock_alert": 1786530651
     },
     "pokemon-mega-evolution-enhanced-booster-box": {
      "title": "Pokemon Mega Evolution Enhanced Booster Box",
@@ -7013,7 +7015,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 129,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8089,8 +8091,9 @@
     "sword-shield-battle-styles-booster-box": {
      "title": "Sword & Shield - Battle Styles Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 299.99
+     "available": false,
+     "price": 299.99,
+     "unavail_since": 1786530650
     },
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
      "title": "The Lord of the Rings: Tales of Middle Earth Set Booster Box",
@@ -8335,9 +8338,9 @@
     "vendetta-booster-box-riftbound-7-31": {
      "title": "Vendetta Booster Box [Riftbound] (7/31)",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 125.0,
-     "unavail_since": 1786269652
+     "last_restock_alert": 1786530651
     },
     "origins-booster-box-riftbound": {
      "title": "Origins Booster Box [Riftbound]",
@@ -8938,7 +8941,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10085,7 +10088,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
