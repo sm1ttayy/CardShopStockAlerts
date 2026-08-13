@@ -11996,7 +11996,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15071,7 +15071,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17415,7 +17415,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17491,9 +17491,9 @@
     "tmnt-play-booster-box": {
      "title": "TMNT Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 116.49,
-     "unavail_since": 1785760248
+     "available": true,
+     "price": 149.7,
+     "last_restock_alert": 1786657830
     },
     "spiderman-play-booster-box": {
      "title": "Spiderman Play Booster Box",
@@ -18336,10 +18336,9 @@
     "tarkir-dragonstorm-play-booster-box": {
      "title": "Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 146.75,
-     "last_restock_alert": 1784317008,
-     "unavail_since": 1785187242
+     "available": true,
+     "price": 172.5,
+     "last_restock_alert": 1786657830
     },
     "mtg-return-to-ravnica-booster-box": {
      "title": "Return to Ravnica Booster Box",
@@ -18351,9 +18350,9 @@
     "mtg-ravnica-allegiance-booster-box": {
      "title": "Ravnica Allegiance Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 157.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 251.64,
+     "last_restock_alert": 1786657830
     },
     "mtg-ravnica-remastered-draft-booster-box": {
      "title": "Ravnica Remastered Draft Booster Box",
@@ -18372,9 +18371,9 @@
     "mtg-dominaria-remastered-draft-booster-box": {
      "title": "Dominaria Remastered Draft Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 278.25,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 369.0,
+     "last_restock_alert": 1786657835
     },
     "japanese-night-wanderer-booster-box": {
      "title": "Japanese Night Wanderer Booster Box",
@@ -18566,9 +18565,9 @@
     "mtg-foundations-play-booster-box": {
      "title": "Foundations Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 163.99,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 243.0,
+     "last_restock_alert": 1786657830
     },
     "japanese-vstar-universe-booster-box": {
      "title": "Japanese VSTAR Universe Booster Box",
@@ -19105,9 +19104,9 @@
     "kaldheim-draft-booster-box": {
      "title": "Kaldheim - Draft Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 199.25,
-     "unavail_since": 1786195830
+     "available": true,
+     "price": 405.0,
+     "last_restock_alert": 1786657830
     },
     "unfinity-draft-booster-box": {
      "title": "Unfinity - Draft Booster Box",
@@ -19184,16 +19183,16 @@
     "adventures-in-the-forgotten-realms-bundle-gift-edition": {
      "title": "Adventures in the Forgotten Realms - Bundle Gift Edition",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 168.99,
-     "unavail_since": 1785187570
+     "last_restock_alert": 1786657832
     },
     "adventures-in-the-forgotten-realms": {
      "title": "Adventures in the Forgotten Realms Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 129.75,
-     "unavail_since": 1786294832
+     "last_restock_alert": 1786657832
     },
     "commander-legends-reap-the-tides-commander-deck": {
      "title": "Commander Legends - Reap the Tides Commander Deck",
@@ -19680,9 +19679,9 @@
     "phyrexia-all-will-be-one-set-booster-display": {
      "title": "Phyrexia: All Will Be One - Set Booster Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 301.99,
-     "unavail_since": 1786195830
+     "last_restock_alert": 1786657842
     },
     "dominaria-united-set-booster-box": {
      "title": "Dominaria United - Set Booster Box",
@@ -19822,7 +19821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 111,
    "error_streak": 0,
    "last_error": ""
   },
