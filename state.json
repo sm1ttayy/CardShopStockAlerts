@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13502,9 +13502,9 @@
     "one-piece-cg-op-14-booster-box-pre-order-1": {
      "title": "One Piece CG OP-14 -The Azure Sea\u2019s Seven - Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 349.95,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1786664426
     },
     "one-piece-tcg-op-09-booster-box-pre-order": {
      "title": "One Piece TCG OP-09 Emperors In The New World Booster Box",
@@ -13582,16 +13582,16 @@
     "pokemon-mega-brave-japanese-booster-box-pre-order": {
      "title": "Pokemon Mega Brave Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 184.95,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1786664432
     },
     "pokemon-tcg-mega-evolution-base-set-booster-box-enhanced-booster-max-2-per-customer-wave-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Base Set Booster Box - Enhanced Booster",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 429.95,
-     "unavail_since": 1785187220
+     "last_restock_alert": 1786664436
     },
     "simplified-chinese-pokemon-crystal-gathering-csv9-5c-booster-box-pre-order": {
      "title": "[Simplified Chinese] Pokemon Crystal Gathering CSV9.5C Booster Box",
@@ -13790,10 +13790,9 @@
     "league-of-legends-riftbound-tcg-proving-grounds-box-set-pre-order": {
      "title": "League of Legends Riftbound TCG: Proving Grounds Box Set",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 74.95,
-     "last_restock_alert": 1786479921,
-     "unavail_since": 1786650913
+     "last_restock_alert": 1786664412
     },
     "riftbound-league-of-legends-vendetta-zed-vs-shen-showdown-deck-set-pre-order": {
      "title": "Riftbound: League of Legends Vendetta Zed vs. Shen Showdown Deck Set",
@@ -13822,10 +13821,9 @@
     "mtg-bloomburrow-english-play-booster-box-pre-order": {
      "title": "MTG - Bloomburrow - English Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 224.95,
-     "last_restock_alert": 1786151714,
-     "unavail_since": 1786308613
+     "last_restock_alert": 1786664413
     },
     "mtg-secrets-of-strixhaven-play-booster-box-pre-order": {
      "title": "MTG Secrets of Strixhaven - Play Booster Box",
@@ -14006,9 +14004,9 @@
     "one-piece-cg-st-24-starter-deck-pre-order": {
      "title": "One Piece CG ST-24 Starter Deck Jewelry Bonney",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 44.95,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1786664426
     },
     "one-piece-card-game-starter-deck-display-st-30-pre-order": {
      "title": "One Piece Card Game - Starter Deck  ST-30 - Luffy And Ace",
@@ -14875,9 +14873,9 @@
     "mtg-the-lord-of-the-rings-tales-of-middle-earth-bundle-gift-edition-pre-order": {
      "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Bundle: Gift Edition",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 629.95,
-     "unavail_since": 1786064414
+     "last_restock_alert": 1786664419
     },
     "mtg-marvel-super-heroes-bundle-pre-order": {
      "title": "MTG - Marvel Super Heroes Bundle",
@@ -14927,9 +14925,9 @@
     "mtg-starter-commander-deck-draconic-destruction": {
      "title": "MTG - Starter Commander Deck - Draconic Destruction",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 39.95,
-     "unavail_since": 1786064717
+     "last_restock_alert": 1786664418
     },
     "mtg-lord-of-the-rings-commander-deck-elvin-council-pre-order": {
      "title": "MTG - Lord Of The Rings Commander Deck - Elven Council",
@@ -14972,9 +14970,9 @@
     "mtg-universes-beyond-the-hobbit-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 269.95,
-     "unavail_since": 1786196713
+     "last_restock_alert": 1786664413
     },
     "one-piece-trading-card-game-3d2y-starter-deck-pre-order": {
      "title": "One Piece Trading Card Game 3D2Y Starter Deck",
@@ -15007,9 +15005,9 @@
     "mtg-lord-of-the-rings-commander-deck-riders-of-rohan-pre-order": {
      "title": "MTG - Lord Of The Rings Commander Deck - Riders Of Rohan",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 79.95,
-     "unavail_since": 1786194927
+     "last_restock_alert": 1786664416
     },
     "reprint-pokemon-scarlet-and-violet-destined-rivals-elite-trainer-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Elite Trainer Box",
@@ -15083,7 +15081,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17427,7 +17425,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19836,7 +19834,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
