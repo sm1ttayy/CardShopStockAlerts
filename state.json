@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14254,9 +14254,9 @@
     "one-piece-card-game-double-pack-vol-5-pre-order": {
      "title": "One Piece Card Game - Double Pack Vol.5",
      "game": "One Piece",
-     "available": false,
-     "price": 54.95,
-     "unavail_since": 1784083348
+     "available": true,
+     "price": 59.95,
+     "last_restock_alert": 1786659906
     },
     "one-piece-tcg-double-pack-set-volume-12-pre-order": {
      "title": "One Piece TCG Double Pack Set VOLUME 12 (Pre Order)",
@@ -14755,9 +14755,9 @@
     "one-piece-card-game-double-pack-vol-3-pre-order": {
      "title": "One Piece Card Game - Double Pack Vol.3 - Wings Of The Captain",
      "game": "One Piece",
-     "available": false,
-     "price": 99.95,
-     "unavail_since": 1785969307
+     "available": true,
+     "price": 109.95,
+     "last_restock_alert": 1786659906
     },
     "one-piece-card-game-devil-fruit-collection-vol-2-df02-pre-order": {
      "title": "One Piece Card Game Devil Fruit Collection Vol.2 - DF02",
@@ -15084,7 +15084,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17428,7 +17428,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19834,7 +19834,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
    "last_error": ""
   },
