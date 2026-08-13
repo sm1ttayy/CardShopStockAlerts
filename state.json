@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15072,7 +15072,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17416,7 +17416,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19118,9 +19118,9 @@
     "rivals-of-ixalan-booster-box": {
      "title": "Rivals of Ixalan - Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 216.75,
-     "unavail_since": 1786195830
+     "available": true,
+     "price": 251.64,
+     "last_restock_alert": 1786659043
     },
     "marvel-super-heroes-commander-deck-avengers-assemble": {
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
@@ -19822,7 +19822,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 122,
    "error_streak": 0,
    "last_error": ""
   },
