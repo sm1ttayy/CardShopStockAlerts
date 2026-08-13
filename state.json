@@ -11996,7 +11996,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15071,7 +15071,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17415,7 +17415,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17649,9 +17649,9 @@
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
      "game": "MTG",
-     "available": false,
-     "price": 106.99,
-     "unavail_since": 1786195833
+     "available": true,
+     "price": 149.7,
+     "last_restock_alert": 1786658434
     },
     "foundations-jumpstart-booster-display": {
      "title": "Foundations Jumpstart Booster Display",
@@ -19090,9 +19090,9 @@
     "dominaria-booster-box": {
      "title": "Dominaria - Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 219.75,
-     "unavail_since": 1786195830
+     "available": true,
+     "price": 297.0,
+     "last_restock_alert": 1786658431
     },
     "ixalan-booster-box": {
      "title": "Ixalan - Booster Box",
@@ -19276,9 +19276,9 @@
     "guilds-of-ravnica-booster-box": {
      "title": "Guilds of Ravnica - Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 164.75,
-     "unavail_since": 1786195830
+     "available": true,
+     "price": 225.0,
+     "last_restock_alert": 1786658452
     },
     "throne-of-eldraine-booster-box": {
      "title": "Throne of Eldraine - Booster Box",
@@ -19821,7 +19821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
