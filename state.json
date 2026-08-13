@@ -11834,8 +11834,9 @@
     "mega-venusaur-ex-premium-collection": {
      "title": "Mega Venusaur ex Premium Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 69.95
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1786593308
     },
     "ascended-heroes-first-partners-deluxe-pin-collection": {
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
@@ -11955,6 +11956,13 @@
      "game": "MTG",
      "available": true,
      "price": 64.95
+    },
+    "final-fantasy-chocobox-bundle": {
+     "title": "Final Fantasy Chocobo Holiday Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 169.99,
+     "unavail_since": 1786593313
     }
    },
    "baselined": true,
@@ -15026,7 +15034,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17358,7 +17366,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19765,7 +19773,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
