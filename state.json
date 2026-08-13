@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12691,7 +12691,7 @@
      "title": "Pokemon - Mega Evolution - Perfect Order - Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 299.95
+     "price": 249.95
     },
     "pokemon-scarlet-and-violet-twilight-masquerade-elite-trainer-box": {
      "title": "Pokemon - Scarlet and Violet - Twilight Masquerade - Elite Trainer Box",
@@ -13423,6 +13423,18 @@
      "available": false,
      "price": 229.95,
      "unavail_since": 1786568107
+    },
+    "pokemon-lost-origin-booster-box": {
+     "title": "Pokemon - Lost Origin - Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1199.95
+    },
+    "pokemon-scarlet-and-violet-paradox-rift-booster-box": {
+     "title": "Pokemon - Scarlet and Violet - Paradox Rift - Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 409.95
     }
    },
    "baselined": true,
@@ -15072,7 +15084,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17416,7 +17428,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19822,7 +19834,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 122,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
