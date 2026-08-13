@@ -11178,10 +11178,9 @@
     "riftbound-vendetta-booster-box": {
      "title": "Riftbound Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 129.95,
-     "last_restock_alert": 1785965112,
-     "unavail_since": 1786021513
+     "available": true,
+     "price": 139.95,
+     "last_restock_alert": 1786653013
     },
     "riftbound-origins-proving-grounds-box-set": {
      "title": "Riftbound Origins Proving Grounds Box Set",
@@ -11491,10 +11490,9 @@
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1785187224,
-     "unavail_since": 1786579540
+     "last_restock_alert": 1786653015
     },
     "foundations-jumpstart-booster-display": {
      "title": "Foundations Jumpstart Booster Box",
@@ -11980,7 +11978,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15055,7 +15053,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17399,7 +17397,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17778,7 +17776,7 @@
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 412.75,
+     "price": 409.99,
      "unavail_since": 1784083350
     },
     "assassins-creed-beyond-booster-box": {
@@ -18097,7 +18095,7 @@
      "title": "Japanese Violet ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 89.75,
+     "price": 87.75,
      "unavail_since": 1784083350
     },
     "japanese-future-flash-booster-box": {
@@ -18420,7 +18418,7 @@
      "title": "Lost Thunder Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1498.75,
+     "price": 1458.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-v-paradox-rift-booster-box": {
@@ -19806,7 +19804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
    "last_error": ""
   },
