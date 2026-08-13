@@ -11606,9 +11606,10 @@
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 79.95,
-     "last_restock_alert": 1786653311
+     "last_restock_alert": 1786653311,
+     "unavail_since": 1786658708
     },
     "paldean-fates-booster-bundle-display-10-bundles": {
      "title": "Paldean Fates Booster Bundle Display (10 Bundles)",
@@ -11996,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15071,7 +15072,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17415,7 +17416,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17511,9 +17512,9 @@
     "lorwyn-eclipsed-play-booster-display": {
      "title": "Lorwyn Eclipsed Play Booster Display",
      "game": "Pokemon",
-     "available": false,
-     "price": 125.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 148.2,
+     "last_restock_alert": 1786658744
     },
     "secrets-of-strixhaven-play-booster-display": {
      "title": "Secrets of Strixhaven Play Booster Display",
@@ -18343,9 +18344,9 @@
     "mtg-return-to-ravnica-booster-box": {
      "title": "Return to Ravnica Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 195.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 243.0,
+     "last_restock_alert": 1786658751
     },
     "mtg-ravnica-allegiance-booster-box": {
      "title": "Ravnica Allegiance Booster Box",
@@ -19821,7 +19822,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
