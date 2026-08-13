@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15084,7 +15084,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17428,7 +17428,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19834,7 +19834,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20944,6 +20944,12 @@
      "game": "MTG",
      "available": true,
      "price": 179.99
+    },
+    "magic-the-gathering-ccg-universes-beyond-star-trek-commander-deck-a": {
+     "title": "Magic the Gathering CCG Universes Beyond Star Trek Federation Fleet Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 74.99
     }
    },
    "baselined": true,
