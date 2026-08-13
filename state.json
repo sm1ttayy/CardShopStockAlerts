@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15083,7 +15083,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17427,7 +17427,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17641,9 +17641,9 @@
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 448.75,
-     "unavail_since": 1785718251
+     "available": true,
+     "price": 458.25,
+     "last_restock_alert": 1786664125
     },
     "brilliant-stars-booster-box": {
      "title": "Brilliant Stars Booster Box",
@@ -17977,10 +17977,9 @@
     "phantasmal-flames-booster-box": {
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 391.75,
-     "last_restock_alert": 1785606645,
-     "unavail_since": 1785760243
+     "last_restock_alert": 1786664125
     },
     "korean-blue-sky-stream-booster-box": {
      "title": "Korean Blue Sky Stream Booster Box",
@@ -18119,7 +18118,7 @@
      "title": "Mega Evolution Enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 310.75
+     "price": 313.75
     },
     "japanese-violet-ex-booster-box": {
      "title": "Japanese Violet ex Booster Box",
@@ -18221,7 +18220,7 @@
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 305.75,
+     "price": 303.99,
      "last_restock_alert": 1785965135
     },
     "japanese-sky-legend-booster-box": {
@@ -18290,10 +18289,9 @@
     "pokemon-journey-together-booster-box": {
      "title": "Journey Together Enhanced Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 260.75,
-     "last_restock_alert": 1785606645,
-     "unavail_since": 1786195840
+     "last_restock_alert": 1786664146
     },
     "pokemon-japanese-paradigm-trigger-booster-box": {
      "title": "Japanese Paradigm Trigger Booster Box",
@@ -18334,9 +18332,9 @@
     "pokemon-s-v-obsidian-flames-booster-box": {
      "title": "Obsidian Flames Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 384.99,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 459.0,
+     "last_restock_alert": 1786664148
     },
     "final-fantasy-play-booster-box": {
      "title": "Final Fantasy Play Booster Box",
@@ -18418,9 +18416,9 @@
     "pokemon-scarlet-violet-booster-box": {
      "title": "Scarlet & Violet Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 333.0,
-     "unavail_since": 1786195841
+     "last_restock_alert": 1786664149
     },
     "cosmic-eclipse-booster-box": {
      "title": "Cosmic Eclipse Booster Box",
@@ -18556,10 +18554,9 @@
     "pokemon-s-v-temporal-forces-booster-box": {
      "title": "Temporal Forces Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 308.75,
-     "last_restock_alert": 1784479824,
-     "unavail_since": 1786195841
+     "available": true,
+     "price": 423.0,
+     "last_restock_alert": 1786664149
     },
     "pokemon-japanese-clay-burst-booster-box": {
      "title": "Japanese Clay Burst Booster Box",
@@ -19495,9 +19492,9 @@
     "prismatic-evolutions-surprise-box": {
      "title": "Prismatic Evolutions Surprise Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 69.75,
-     "unavail_since": 1786160127
+     "last_restock_alert": 1786664152
     },
     "pokemon-astral-radiance-elite-trainer-box": {
      "title": "Astral Radiance Elite Trainer Box",
@@ -19830,10 +19827,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 293.75
+    },
+    "costco-pokemon-prismatic-evolutions-2-pack-trainer-box-and-booster-bundle": {
+     "title": "Costco Pokemon Prismatic Evolutions 2-Pack Trainer Box and Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 298.75
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
    "last_error": ""
   },
