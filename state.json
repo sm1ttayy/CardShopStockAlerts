@@ -11996,7 +11996,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15071,7 +15071,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17415,7 +17415,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19283,9 +19283,9 @@
     "throne-of-eldraine-booster-box": {
      "title": "Throne of Eldraine - Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 199.75,
-     "unavail_since": 1786195830
+     "available": true,
+     "price": 251.64,
+     "last_restock_alert": 1786658142
     },
     "final-fantasy-commander-deck-revival-trance": {
      "title": "Final Fantasy Commander Deck [Revival Trance]",
@@ -19714,16 +19714,16 @@
     "theros-beyond-death-booster-box": {
      "title": "Theros Beyond Death - Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 181.49,
-     "unavail_since": 1786195830
+     "available": true,
+     "price": 251.64,
+     "last_restock_alert": 1786658141
     },
     "war-of-the-spark-booster-box": {
      "title": "War of the Spark - Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 194.75,
-     "unavail_since": 1786195830
+     "available": true,
+     "price": 215.64,
+     "last_restock_alert": 1786658148
     },
     "commander-legends-battle-for-baldurs-gate-draft-booster-box": {
      "title": "Commander Legends: Battle for Baldur's Gate - Draft Booster Box",
@@ -19821,7 +19821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 111,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
