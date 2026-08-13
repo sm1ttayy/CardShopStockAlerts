@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14247,9 +14247,9 @@
     "one-piece-tcg-double-pack-set-volume-8-pre-order": {
      "title": "One Piece TCG Double Pack Set VOLUME 8",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 74.99,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1786660206
     },
     "one-piece-card-game-double-pack-vol-5-pre-order": {
      "title": "One Piece Card Game - Double Pack Vol.5",
@@ -14370,9 +14370,8 @@
     "one-piece-prb-02-premium-booster-box-pre-order": {
      "title": "One Piece PRB-02 Premium Booster Box - English",
      "game": "One Piece",
-     "available": false,
-     "price": 599.95,
-     "unavail_since": 1784083348
+     "available": true,
+     "price": 699.95
     },
     "one-piece-tcg-awakening-of-the-new-era-booster-box-pre-order": {
      "title": "One Piece TCG Awakening Of The New Era Booster Box",
@@ -15084,7 +15083,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17428,7 +17427,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19834,7 +19833,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
