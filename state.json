@@ -11042,10 +11042,9 @@
     "chaos-rising-booster-box": {
      "title": "Pokemon ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1786483806,
-     "unavail_since": 1786566008
+     "last_restock_alert": 1786653309
     },
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon Perfect Order Booster Box",
@@ -11587,10 +11586,9 @@
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 79.95,
-     "last_restock_alert": 1786410008,
-     "unavail_since": 1786479918
+     "last_restock_alert": 1786653311
     },
     "paldean-fates-booster-bundle-display-10-bundles": {
      "title": "Paldean Fates Booster Bundle Display (10 Bundles)",
@@ -11978,7 +11976,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15053,7 +15051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17397,7 +17395,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19804,7 +19802,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20824,8 +20822,9 @@
     "the-op-usaopoly-monopoly-one-piece-edition-board-game-official-licensed-manga-anime-usa-mn113-879": {
      "title": "The OP Usaopoly Monopoly One Piece Edition Board Game Official Licensed Manga & Anime USA-MN113-879",
      "game": "One Piece",
-     "available": true,
-     "price": 29.99
+     "available": false,
+     "price": 29.99,
+     "unavail_since": 1786653329
     },
     "one-piece-crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612": {
      "title": "One Piece Crocodile Duel Memories Incredible Ichibansho Anime Static Figures Seen in Their Popular Pose Bandai Spirits BAS63612",
