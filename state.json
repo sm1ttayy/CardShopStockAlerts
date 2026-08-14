@@ -12046,7 +12046,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15177,7 +15177,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17522,7 +17522,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18526,7 +18526,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 276.49,
+     "price": 273.75,
      "last_restock_alert": 1786228847
     },
     "crimson-invasion-booster-box": {
@@ -19158,7 +19158,7 @@
      "title": "Pokemon Day 2026 Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 38.75
+     "price": 34.75
     },
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
@@ -19517,9 +19517,9 @@
     "pitch-black-elite-trainer-box-pokemon-center": {
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 127.25,
-     "unavail_since": 1785898527
+     "last_restock_alert": 1786747849
     },
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
@@ -19997,7 +19997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20869,7 +20869,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 44
+   "check_cursor": 41
   },
   "https://sagaconcepts.com": {
    "products": {
