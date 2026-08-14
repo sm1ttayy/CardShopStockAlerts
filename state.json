@@ -12025,7 +12025,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14067,9 +14067,10 @@
     "one-piece-tcg-zoro-sanji-starter-deck-st-12-pre-order": {
      "title": "One Piece TCG: Zoro & Sanji Starter Deck ST-12",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 59.99,
-     "last_restock_alert": 1786664705
+     "last_restock_alert": 1786664705,
+     "unavail_since": 1786737607
     },
     "one-piece-card-game-starter-deck-the-seven-warlords-of-the-sea-pre-order": {
      "title": "One Piece Card Game - Starter Deck - The Seven Warlords of the Sea",
@@ -17499,7 +17500,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18447,7 +18448,7 @@
      "title": "Kamigawa: Neon Dynasty Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 404.99,
+     "price": 429.75,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-remastered-draft-booster-box": {
@@ -18517,7 +18518,7 @@
      "title": "Lost Thunder Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1458.75,
+     "price": 1630.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-v-paradox-rift-booster-box": {
@@ -18531,7 +18532,7 @@
      "title": "Ravnica Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1339.75,
+     "price": 1249.75,
      "unavail_since": 1784083350
     },
     "mtg-lost-caverns-of-ixalan-collector-booster-box": {
@@ -18545,7 +18546,7 @@
      "title": "Fallout Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1919.49,
+     "price": 1918.25,
      "unavail_since": 1784083350
     },
     "mtg-murders-at-karlov-manor-play-booster-box": {
@@ -18565,7 +18566,7 @@
      "title": "Universes Beyond Assassin's Creed Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 139.99,
+     "price": 143.25,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-united-collector-booster-box": {
@@ -18578,7 +18579,7 @@
      "title": "Assassin's Creed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 574.99,
+     "price": 574.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-lost-origin-booster-box": {
@@ -18592,7 +18593,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1740.75,
+     "price": 1909.49,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-transformation-mask-booster-box": {
@@ -18620,7 +18621,7 @@
      "title": "Japanese Shiny Treasure ex High Class Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 142.75,
+     "price": 129.99,
      "unavail_since": 1786195841
     },
     "pokemon-s-v-temporal-forces-booster-box": {
@@ -18654,7 +18655,7 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 216.75,
+     "price": 223.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-151-booster-box": {
@@ -18978,7 +18979,7 @@
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 64.75,
+     "price": 63.99,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -19965,10 +19966,16 @@
      "game": "MTG",
      "available": true,
      "price": 102.75
+    },
+    "zendikar-booster-box": {
+     "title": "Zendikar - Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 1784.99
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 88,
    "error_streak": 0,
    "last_error": ""
   },
