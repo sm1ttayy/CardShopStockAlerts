@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13643,10 +13643,9 @@
     "pokemon-tcg-mega-evolution-elite-trainer-box-lucario-max-2-wave-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution elite trainer box - Lucario",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 169.99,
-     "last_restock_alert": 1786664708,
-     "unavail_since": 1786668308
+     "last_restock_alert": 1786664708
     },
     "pokemon-tcg-mega-evolution-elite-trainer-box-gardevoir-max-2-wave-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution elite trainer box - Gardevoir",
@@ -13677,10 +13676,9 @@
     "pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022": {
      "title": "Pokemon TCG - Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 184.95,
-     "last_restock_alert": 1786664708,
-     "unavail_since": 1786668308
+     "last_restock_alert": 1786664708
     },
     "pokemon-paldean-fates-booster-bundle-pre-order": {
      "title": "Pokemon Paldean Fates Booster Bundle",
@@ -13942,10 +13940,9 @@
     "magic-the-gathering-outlaws-of-thunder-junction-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Outlaws of Thunder Junction Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 229.95,
-     "last_restock_alert": 1786664714,
-     "unavail_since": 1786668013
+     "last_restock_alert": 1786664714
     },
     "magic-the-gathering-mystery-booster-convention-edition-booster-box": {
      "title": "Magic The Gathering Mystery Booster: Convention Edition - Booster Box",
@@ -14424,10 +14421,9 @@
     "pre-order-pokemon-darkness-ablaze-elite-trainer-box-april-2022-restock": {
      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 189.99,
-     "last_restock_alert": 1786664708,
-     "unavail_since": 1786668308
+     "last_restock_alert": 1786664708
     },
     "pre-order-pokemon-tcg-silver-tempest-elite-trainer-box": {
      "title": "Pokemon TCG Silver Tempest Elite Trainer Box",
@@ -17440,7 +17436,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19849,7 +19845,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 124,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
