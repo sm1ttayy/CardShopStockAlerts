@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13746,9 +13746,10 @@
     "league-of-legends-riftbound-tcg-unleashed-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Unleashed Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 189.99,
-     "last_restock_alert": 1786664711
+     "last_restock_alert": 1786664711,
+     "unavail_since": 1786668012
     },
     "league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Origins Booster Box (Restock Pre Order)",
@@ -13790,9 +13791,10 @@
     "league-of-legends-riftbound-tcg-proving-grounds-box-set-pre-order": {
      "title": "League of Legends Riftbound TCG: Proving Grounds Box Set",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 74.95,
-     "last_restock_alert": 1786664412
+     "last_restock_alert": 1786664412,
+     "unavail_since": 1786668012
     },
     "riftbound-league-of-legends-vendetta-zed-vs-shen-showdown-deck-set-pre-order": {
      "title": "Riftbound: League of Legends Vendetta Zed vs. Shen Showdown Deck Set",
@@ -13935,9 +13937,10 @@
     "magic-the-gathering-outlaws-of-thunder-junction-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Outlaws of Thunder Junction Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 229.95,
-     "last_restock_alert": 1786664714
+     "last_restock_alert": 1786664714,
+     "unavail_since": 1786668013
     },
     "magic-the-gathering-mystery-booster-convention-edition-booster-box": {
      "title": "Magic The Gathering Mystery Booster: Convention Edition - Booster Box",
@@ -13990,9 +13993,10 @@
     "one-piece-cg-st-28-starter-deck-pre-order": {
      "title": "One Piece CG ST-28 Starter Deck - Yamato",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 49.95,
-     "last_restock_alert": 1786664705
+     "last_restock_alert": 1786664705,
+     "unavail_since": 1786668005
     },
     "one-piece-card-game-starter-deck-st29-egghead-pre-order": {
      "title": "One Piece Card Game - Starter Deck - ST29 - Egghead",
@@ -14004,9 +14008,10 @@
     "one-piece-cg-st-24-starter-deck-pre-order": {
      "title": "One Piece CG ST-24 Starter Deck Jewelry Bonney",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 44.95,
-     "last_restock_alert": 1786664426
+     "last_restock_alert": 1786664426,
+     "unavail_since": 1786668005
     },
     "one-piece-card-game-starter-deck-display-st-30-pre-order": {
      "title": "One Piece Card Game - Starter Deck  ST-30 - Luffy And Ace",
@@ -14018,9 +14023,10 @@
     "one-piece-tcg-zoro-sanji-starter-deck-st-12-pre-order": {
      "title": "One Piece TCG: Zoro & Sanji Starter Deck ST-12",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 59.99,
-     "last_restock_alert": 1786664705
+     "last_restock_alert": 1786664705,
+     "unavail_since": 1786668005
     },
     "one-piece-card-game-starter-deck-the-seven-warlords-of-the-sea-pre-order": {
      "title": "One Piece Card Game - Starter Deck - The Seven Warlords of the Sea",
@@ -14044,9 +14050,10 @@
     "one-piece-card-game-premium-card-collection-best-selection-vol-3-pre-order": {
      "title": "One Piece Card Game - Premium Card Collection - Best Selection Vol 3",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 194.95,
-     "last_restock_alert": 1786664706
+     "last_restock_alert": 1786664706,
+     "unavail_since": 1786668006
     },
     "nami-premium-card-collection-one-piece-film-red-edition-st01-007-c-one-piece-promotion-cards-foil": {
      "title": "Nami (Premium Card Collection -ONE PIECE FILM RED Edition-) ST01-007 C One Piece Promotion Cards  Foil",
@@ -14069,9 +14076,10 @@
     "one-piece-card-game-premium-card-collection-cardfest-pre-order": {
      "title": "One Piece Card Game - Premium Card Collection Cardfest",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 175.95,
-     "last_restock_alert": 1786664706
+     "last_restock_alert": 1786664706,
+     "unavail_since": 1786668006
     },
     "monkey-d-luffy-premium-card-collection-one-piece-film-red-edition-p-022-pr-one-piece-promotion-cards-foil": {
      "title": "Monkey.D.Luffy (Premium Card Collection -ONE PIECE FILM RED Edition-) P-022 PR One Piece Promotion Cards  Foil",
@@ -14973,16 +14981,18 @@
     "one-piece-trading-card-game-3d2y-starter-deck-pre-order": {
      "title": "One Piece Trading Card Game 3D2Y Starter Deck",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 36.95,
-     "last_restock_alert": 1786664705
+     "last_restock_alert": 1786664705,
+     "unavail_since": 1786668005
     },
     "one-piece-card-game-starter-deck-uta-pre-order": {
      "title": "One Piece Card Game - Starter Deck - Uta",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 29.95,
-     "last_restock_alert": 1786664705
+     "last_restock_alert": 1786664705,
+     "unavail_since": 1786668005
     },
     "one-piece-card-game-starter-deck-monkey-d-luffy-pre-order": {
      "title": "One Piece Card Game - Starter Deck - Monkey D. Luffy",
@@ -15078,8 +15088,9 @@
     "riftbound-league-of-legends-legacy-booster-box-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": true,
-     "price": 179.95
+     "available": false,
+     "price": 179.95,
+     "unavail_since": 1786668011
     }
    },
    "baselined": true,
@@ -17427,7 +17438,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19836,7 +19847,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
