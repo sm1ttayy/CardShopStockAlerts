@@ -12046,7 +12046,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15177,7 +15177,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16848,7 +16848,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17522,7 +17522,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19997,7 +19997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 135,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20867,9 +20867,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-scarlet-violet-10-5-black-bolt-elite-trainer-box-etb' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 81
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 17
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -21122,8 +21122,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": " Concepts: product 'the-op-usaopoly-monopoly-one-piece-edition-board-game-official-licensed-manga-anime-usa-mn113-879' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
