@@ -1302,7 +1302,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3758,7 +3758,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
+   "check_cursor": 148,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4736,7 +4736,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 495.0,
+     "price": 473.0,
      "last_restock_alert": 1785929605
     },
     "pokemon-heat-wave-arena-japanese-booster-box": {
@@ -5220,7 +5220,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7062,7 +7062,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 123,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7174,7 +7174,7 @@
      "title": "Pokemon 30th Celebration - Elite Trainer Box (Presale)",
      "game": "Pokemon",
      "available": true,
-     "price": 197.99
+     "price": 189.99
     },
     "moltres-zapdos-articuno-sm210-elite-trainer-box-promo-2019-pokemon-psa-9": {
      "title": "Moltres & Zapdos & Articuno SM210 Elite Trainer Box Promo - 2019 Pokemon - PSA 9",
@@ -8027,7 +8027,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 44.99
+     "price": 39.99
     },
     "champions-path-elite-trainer-box-champions-path-chp": {
      "title": "Pokemon TCG: Champion's Path Elite Trainer Box",
@@ -8060,10 +8060,10 @@
      "price": 139.99
     },
     "sword-shield-brilliant-stars-elite-trainer-box": {
-     "title": "Brilliant Stars Elite Trainer Box - SWSH09: Brilliant Stars (SWSH09)",
+     "title": "Sword & Shield - Brilliant Stars Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 180.0
+     "price": 169.99
     },
     "pokemon-30th-celebration-tech-sticker-collection-presale": {
      "title": "Pokemon 30th Celebration - Tech Sticker Collection (Presale)",
@@ -8202,6 +8202,18 @@
      "game": "MTG",
      "available": true,
      "price": 84.99
+    },
+    "pokemon-scarlet-violet-destined-rivals-elite-trainer-box": {
+     "title": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 149.99
+    },
+    "brilliant-stars-pokemon-center-elite-trainer-box-exclusive-swsh09-brilliant-stars-swsh09": {
+     "title": "Sword & Shield - Brilliant Stars Pokemon Center Elite Trainer Box (Exclusive) - SWSH09 (Tear in plastic)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 244.99
     }
    },
    "baselined": true,
@@ -8321,7 +8333,7 @@
      "title": "Destined Rivals Elite Trainer Box [Pok\u00e9mon]",
      "game": "Pokemon",
      "available": true,
-     "price": 225.0
+     "price": 120.0
     },
     "crimson-invasion-elite-trainer-box-pokemon": {
      "title": "Crimson Invasion Elite Trainer Box [Pok\u00e9mon]",
@@ -10198,7 +10210,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
