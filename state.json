@@ -12025,7 +12025,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12789,7 +12789,7 @@
      "title": "MTG - Bloomburrow - Commander Deck - Family Matters",
      "game": "MTG",
      "available": true,
-     "price": 39.95
+     "price": 44.95
     },
     "one-piece-card-game-set-20-booster-box": {
      "title": "One Piece Card Game - Set 20 Booster Box (Pre-Order)",
@@ -13541,9 +13541,10 @@
     "one-piece-cg-op-14-booster-box-pre-order-1": {
      "title": "One Piece CG OP-14 -The Azure Sea\u2019s Seven - Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 349.95,
-     "last_restock_alert": 1786664426
+     "last_restock_alert": 1786664426,
+     "unavail_since": 1786738803
     },
     "one-piece-tcg-op-09-booster-box-pre-order": {
      "title": "One Piece TCG OP-09 Emperors In The New World Booster Box",
@@ -17311,7 +17312,7 @@
      "title": "XY Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2763.01,
+     "price": 2791.33,
      "unavail_since": 1784083349
     },
     "flashfire-booster-box": {
@@ -17339,7 +17340,7 @@
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2396.38,
+     "price": 2816.36,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -17374,14 +17375,14 @@
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2041.86,
+     "price": 2042.36,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 868.99,
+     "price": 872.7,
      "unavail_since": 1784083349
     },
     "xy-evolutions-booster-box-case": {
@@ -17500,7 +17501,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19975,7 +19976,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 114,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20847,7 +20848,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 2
+   "check_cursor": 42
   },
   "https://sagaconcepts.com": {
    "products": {
