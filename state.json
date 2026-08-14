@@ -1310,7 +1310,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 103,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3766,7 +3766,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 109,
+   "check_cursor": 149,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5228,7 +5228,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7070,7 +7070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9100,9 +9100,10 @@
     "pokemon-tcg-me05-pitch-black-booster-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 164.99,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1786746853
     },
     "pokemon-tcg-30th-anniversary-elite-trainer-box": {
      "title": "Pokemon TCG: 30th Anniversary Elite Trainer Box",
@@ -10237,7 +10238,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
