@@ -1145,9 +1145,9 @@
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-display-box-english": {
      "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Display Box [English] (Pre-Order)",
      "game": "One Piece",
-     "available": false,
-     "price": 119.76,
-     "unavail_since": 1784755136
+     "available": true,
+     "price": 334.99,
+     "last_restock_alert": 1786741669
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-elite-trainer-box-copy": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Pokemon Center Elite Trainer Box",
@@ -1309,7 +1309,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 99,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3765,7 +3765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 247,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5227,7 +5227,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7069,7 +7069,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9041,26 +9041,24 @@
     "one-piece-tcg-op-16-the-time-of-battle-booster-box-3": {
      "title": "One Piece TCG: OP-16 The Time of Battle Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 194.99,
-     "delisted": true,
-     "unavail_since": 1784083329
+     "delisted": true
     },
     "pokemon-sv10-destined-rivals-booster-box": {
      "title": "Pokemon: SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 525.0,
+     "price": 400.0,
      "unavail_since": 1784353712,
      "delisted": true
     },
     "pokemon-tcg-me04-chaos-rising-booster-box": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 169.99,
-     "delisted": true,
-     "unavail_since": 1785777645
+     "available": true,
+     "price": 164.99,
+     "delisted": true
     },
     "pokemon-tcg-me04-chaos-rising-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Elite Trainer Box",
@@ -9093,18 +9091,16 @@
     "pokemon-tcg-me03-perfect-order-booster-box": {
      "title": "Pokemon TCG: ME03 Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 159.99,
-     "delisted": true,
-     "unavail_since": 1784877654
+     "delisted": true
     },
     "pokemon-tcg-me05-pitch-black-booster-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 184.99,
-     "delisted": true,
-     "unavail_since": 1784907673
+     "available": true,
+     "price": 164.99,
+     "delisted": true
     },
     "pokemon-tcg-30th-anniversary-elite-trainer-box": {
      "title": "Pokemon TCG: 30th Anniversary Elite Trainer Box",
@@ -9336,6 +9332,20 @@
      "game": "MTG",
      "available": true,
      "price": 45.0
+    },
+    "one-piece-tcg-eb-03-heroines-edition-booster-box": {
+     "title": "One Piece TCG: (EB-03) Heroines Edition Booster Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 290.0,
+     "unavail_since": 1786741668
+    },
+    "one-piece-tcg-op-13-carry-on-his-will-booster-box-1": {
+     "title": "One Piece TCG:  OP-13 Carry on His Will Booster Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 474.99,
+     "unavail_since": 1786741668
     }
    },
    "baselined": true,
@@ -10218,7 +10228,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
