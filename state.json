@@ -1309,7 +1309,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3765,7 +3765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5227,7 +5227,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7069,7 +7069,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9041,9 +9041,10 @@
     "one-piece-tcg-op-16-the-time-of-battle-booster-box-3": {
      "title": "One Piece TCG: OP-16 The Time of Battle Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 194.99,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1786743803
     },
     "pokemon-sv10-destined-rivals-booster-box": {
      "title": "Pokemon: SV10 Destined Rivals Booster Box",
@@ -9114,7 +9115,7 @@
      "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 70.0,
+     "price": 63.99,
      "delisted": true
     },
     "pokemon-tcg-pitch-black-booster-bundle": {
@@ -9346,6 +9347,13 @@
      "available": false,
      "price": 474.99,
      "unavail_since": 1786741668
+    },
+    "pokemon-sv10-destined-rivals-elite-trainer-box-5-30-25": {
+     "title": "Pokemon: SV10 Destined Rivals - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 115.0,
+     "unavail_since": 1786743807
     }
    },
    "baselined": true,
@@ -10228,7 +10236,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
