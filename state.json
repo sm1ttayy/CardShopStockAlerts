@@ -1299,10 +1299,17 @@
      "available": false,
      "price": 11.99,
      "unavail_since": 1786656292
+    },
+    "one-piece-tcg-op-19-title-tba-display-box-english": {
+     "title": "One Piece TCG: [OP-19] TITLE TBA - Display Box [English] (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 119.76,
+     "unavail_since": 1786703408
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1396,7 +1403,7 @@
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
      "game": "Riftbound",
      "available": true,
-     "price": 265.0,
+     "price": 250.0,
      "last_restock_alert": 1785929597
     },
     "riftbound-league-of-legends-tcg-spiritforged-pre-rift-box": {
@@ -9025,7 +9032,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9315,7 +9322,8 @@
      "game": "MTG",
      "available": false,
      "price": 175.0,
-     "unavail_since": 1786552781
+     "unavail_since": 1786552781,
+     "delisted": true
     },
     "magic-the-gathering-the-hobbit-bundle": {
      "title": "Magic: The Gathering - The Hobbit Bundle",
