@@ -11997,7 +11997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13447,33 +13447,29 @@
     "one-piece-cg-eb-03-extra-booster-box-pre-order": {
      "title": "One Piece CG EB-03 Extra Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 489.95,
-     "last_restock_alert": 1786664703,
-     "unavail_since": 1786665903
+     "last_restock_alert": 1786664703
     },
     "one-piece-op-10-booster-box-pre-order": {
      "title": "One Piece OP-10 Royal Blood Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 319.95,
-     "last_restock_alert": 1786664703,
-     "unavail_since": 1786665903
+     "last_restock_alert": 1786664703
     },
     "one-piece-card-game-two-legends-booster-box-pre-order": {
      "title": "One Piece Card Game Two Legends Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 329.95,
-     "last_restock_alert": 1786664703,
-     "unavail_since": 1786665903
+     "last_restock_alert": 1786664703
     },
     "one-piece-op-11-booster-box-a-fist-of-divine-speed-wave-2-pre-order": {
      "title": "One Piece OP-11 Booster Box - A Fist of Divine Speed",
      "game": "One Piece",
-     "available": false,
-     "price": 699.95,
-     "unavail_since": 1786665903
+     "available": true,
+     "price": 699.95
     },
     "one-piece-cg-op-14-booster-box-pre-order": {
      "title": "One Piece CG OP-13 Booster Box Carrying On His Will",
@@ -13492,10 +13488,9 @@
     "one-piece-tcg-flanked-by-legends-booster-box-pre-order": {
      "title": "One Piece TCG OP-06 Wings Of The Captain Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 549.95,
-     "last_restock_alert": 1786664703,
-     "unavail_since": 1786665903
+     "last_restock_alert": 1786664703
     },
     "one-piece-cg-op-15-booster-box-pre-order": {
      "title": "One Piece CG OP-15 Adventure on KAMI\u2019S Island Booster Box",
@@ -13592,9 +13587,10 @@
     "pokemon-tcg-mega-evolution-base-set-booster-box-enhanced-booster-max-2-per-customer-wave-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Base Set Booster Box - Enhanced Booster",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 429.95,
-     "last_restock_alert": 1786664436
+     "last_restock_alert": 1786664436,
+     "unavail_since": 1786666207
     },
     "simplified-chinese-pokemon-crystal-gathering-csv9-5c-booster-box-pre-order": {
      "title": "[Simplified Chinese] Pokemon Crystal Gathering CSV9.5C Booster Box",
@@ -13826,10 +13822,9 @@
     "mtg-bloomburrow-english-play-booster-box-pre-order": {
      "title": "MTG - Bloomburrow - English Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 224.95,
-     "last_restock_alert": 1786664413,
-     "unavail_since": 1786665913
+     "last_restock_alert": 1786664413
     },
     "mtg-secrets-of-strixhaven-play-booster-box-pre-order": {
      "title": "MTG Secrets of Strixhaven - Play Booster Box",
@@ -13941,9 +13936,10 @@
     "magic-the-gathering-outlaws-of-thunder-junction-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Outlaws of Thunder Junction Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 229.95,
-     "last_restock_alert": 1786664714
+     "last_restock_alert": 1786664714,
+     "unavail_since": 1786666217
     },
     "magic-the-gathering-mystery-booster-convention-edition-booster-box": {
      "title": "Magic The Gathering Mystery Booster: Convention Edition - Booster Box",
@@ -13996,10 +13992,9 @@
     "one-piece-cg-st-28-starter-deck-pre-order": {
      "title": "One Piece CG ST-28 Starter Deck - Yamato",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 49.95,
-     "last_restock_alert": 1786664705,
-     "unavail_since": 1786665905
+     "last_restock_alert": 1786664705
     },
     "one-piece-card-game-starter-deck-st29-egghead-pre-order": {
      "title": "One Piece Card Game - Starter Deck - ST29 - Egghead",
@@ -14011,10 +14006,9 @@
     "one-piece-cg-st-24-starter-deck-pre-order": {
      "title": "One Piece CG ST-24 Starter Deck Jewelry Bonney",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 44.95,
-     "last_restock_alert": 1786664426,
-     "unavail_since": 1786665905
+     "last_restock_alert": 1786664426
     },
     "one-piece-card-game-starter-deck-display-st-30-pre-order": {
      "title": "One Piece Card Game - Starter Deck  ST-30 - Luffy And Ace",
@@ -14026,10 +14020,9 @@
     "one-piece-tcg-zoro-sanji-starter-deck-st-12-pre-order": {
      "title": "One Piece TCG: Zoro & Sanji Starter Deck ST-12",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 59.99,
-     "last_restock_alert": 1786664705,
-     "unavail_since": 1786665905
+     "last_restock_alert": 1786664705
     },
     "one-piece-card-game-starter-deck-the-seven-warlords-of-the-sea-pre-order": {
      "title": "One Piece Card Game - Starter Deck - The Seven Warlords of the Sea",
@@ -14295,9 +14288,10 @@
     "pokemon-tcg-mega-evolution-set-5-pitch-black-3-pack-blister-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black -3 Pack Blister",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 27.95,
-     "last_restock_alert": 1786664710
+     "last_restock_alert": 1786664710,
+     "unavail_since": 1786666210
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-pitch-black-booster-box-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Box",
@@ -14381,9 +14375,8 @@
     "one-piece-tcg-awakening-of-the-new-era-booster-box-pre-order": {
      "title": "One Piece TCG Awakening Of The New Era Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 1599.95,
-     "unavail_since": 1786665903
+     "available": true,
+     "price": 1599.95
     },
     "one-piece-romance-dawn-english-booster-box": {
      "title": "One Piece Card Game Romance Dawn English Booster Box",
@@ -14655,10 +14648,9 @@
     "one-piece-cg-op-16-booster-box-pre-order": {
      "title": "One Piece CG OP-16 The Time Of Battle Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 349.95,
-     "last_restock_alert": 1786664703,
-     "unavail_since": 1786665903
+     "last_restock_alert": 1786664703
     },
     "league-of-legends-riftbound-tcg-vendetta-booster-box-pre-order": {
      "title": "(Incoming Restock) League of Legends Riftbound TCG: Vendetta Booster Box (Pre Order)",
@@ -14682,9 +14674,10 @@
     "pokemon-obsidian-flames-booster-box-pre-order": {
      "title": "Pokemon Scarlet And Violet Obsidian Flames Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 549.99,
-     "last_restock_alert": 1786664708
+     "last_restock_alert": 1786664708,
+     "unavail_since": 1786666207
     },
     "pre-order-pokemon-shining-fates-premium-collection-dragapult-v-february-2021": {
      "title": "Pokemon Shining Fates Premium Collection Dragapult V",
@@ -14978,26 +14971,23 @@
     "mtg-universes-beyond-the-hobbit-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 269.95,
-     "last_restock_alert": 1786664413,
-     "unavail_since": 1786665913
+     "last_restock_alert": 1786664413
     },
     "one-piece-trading-card-game-3d2y-starter-deck-pre-order": {
      "title": "One Piece Trading Card Game 3D2Y Starter Deck",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 36.95,
-     "last_restock_alert": 1786664705,
-     "unavail_since": 1786665905
+     "last_restock_alert": 1786664705
     },
     "one-piece-card-game-starter-deck-uta-pre-order": {
      "title": "One Piece Card Game - Starter Deck - Uta",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 29.95,
-     "last_restock_alert": 1786664705,
-     "unavail_since": 1786665905
+     "last_restock_alert": 1786664705
     },
     "one-piece-card-game-starter-deck-monkey-d-luffy-pre-order": {
      "title": "One Piece Card Game - Starter Deck - Monkey D. Luffy",
@@ -15092,7 +15082,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17436,7 +17426,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19845,7 +19835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 117,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20717,7 +20707,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 10
+   "check_cursor": 2
   },
   "https://sagaconcepts.com": {
    "products": {
