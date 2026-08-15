@@ -1722,7 +1722,7 @@
      "price": 819.0
     },
     "magic-the-gathering-the-hobbit-play-booster-box": {
-     "title": "[PREORDER] Magic: The Gathering - The Hobbit Play Booster Box",
+     "title": "Magic: The Gathering - The Hobbit Play Booster Box",
      "game": "MTG",
      "available": false,
      "price": 169.0,
@@ -3773,7 +3773,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5235,7 +5235,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 94,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7072,12 +7072,13 @@
     "magic-the-gathering-the-hobbit-play-booster-box": {
      "title": "Magic the Gathering The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 189.75
+     "available": false,
+     "price": 189.75,
+     "unavail_since": 1786787254
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8168,7 +8169,7 @@
      "title": "Wilds of Eldraine Set Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 475.0
+     "price": 469.99
     },
     "magic-the-gathering-the-hobbit-play-booster-box": {
      "title": "Magic: The Gathering The Hobbit - Play Booster Box",
@@ -8229,6 +8230,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 244.99
+    },
+    "mystery-booster-2-booster-box": {
+     "title": "Mystery Booster 2 Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 309.99
     }
    },
    "baselined": true,
@@ -9040,7 +9047,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9296,7 +9303,7 @@
      "title": "Riftbound TCG: SpiritForged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 200.0,
+     "price": 165.0,
      "unavail_since": 1786085439,
      "delisted": true
     },
@@ -9364,6 +9371,13 @@
      "available": false,
      "price": 115.0,
      "unavail_since": 1786743807
+    },
+    "riftbound-tcg-origins-booster-box": {
+     "title": "Riftbound TCG: Origins Booster Box",
+     "game": "Riftbound",
+     "available": false,
+     "price": 240.0,
+     "unavail_since": 1786787254
     }
    },
    "baselined": true,
@@ -10243,10 +10257,16 @@
      "game": "MTG",
      "available": true,
      "price": 59.99
+    },
+    "magic-the-gathering-marvel-super-heroes-play-booster-display-case-of-6": {
+     "title": "Magic the Gathering: Marvel Super Heroes: Play Booster Display (Case of 6)",
+     "game": "MTG",
+     "available": true,
+     "price": 689.99
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
