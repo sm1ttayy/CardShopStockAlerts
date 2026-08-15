@@ -12074,7 +12074,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17550,7 +17550,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17916,7 +17916,7 @@
      "title": "Innistrad Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 499.99,
+     "price": 489.75,
      "unavail_since": 1784083350
     },
     "avatar-the-last-airbender-collector-booster-box": {
@@ -17964,7 +17964,7 @@
      "title": "Dungeons & Dragons Battle for Baldur's Gate Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 366.75,
+     "price": 366.99,
      "unavail_since": 1784083350
     },
     "crimson-vow-set-booster-box": {
@@ -18254,7 +18254,7 @@
      "title": "Japanese Future Flash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 89.99,
+     "price": 95.75,
      "unavail_since": 1784083350
     },
     "japanese-battle-partners-booster-box": {
@@ -18547,7 +18547,7 @@
      "title": "Cosmic Eclipse Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 5016.75,
+     "price": 4999.75,
      "unavail_since": 1784083350
     },
     "prismatic-evolutions-super-premium-collection": {
@@ -19841,7 +19841,7 @@
      "title": "Innistrad: Midnight Hunt - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 157.49,
+     "price": 157.25,
      "unavail_since": 1786195830
     },
     "theros-beyond-death-booster-box": {
@@ -19862,7 +19862,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 291.75,
+     "price": 291.99,
      "unavail_since": 1786195830
     },
     "zendikar-rising-draft-booster-box": {
@@ -20026,7 +20026,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20893,6 +20893,13 @@
      "game": "One Piece",
      "available": true,
      "price": 109.95
+    },
+    "pokemon-tcg-hidden-fates-elite-trainer-box-etb": {
+     "title": "Pokemon TCG Hidden Fates Elite Trainer Box ETB",
+     "game": "Pokemon",
+     "available": false,
+     "price": 119.95,
+     "unavail_since": 1786798528
     }
    },
    "baselined": true,
