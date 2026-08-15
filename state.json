@@ -1317,7 +1317,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3773,7 +3773,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 165,
+   "check_cursor": 205,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5235,7 +5235,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7078,7 +7078,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8120,8 +8120,9 @@
     "pos-one-piece-card-game-double-pack-set-vol-10-adventure-on-kamis-island-op15-eb04": {
      "title": "One Piece Card Game Double Pack Set Vol. 10 - Adventure on Kami's Island (OP15-EB04)",
      "game": "One Piece",
-     "available": true,
-     "price": 54.99
+     "available": false,
+     "price": 54.99,
+     "unavail_since": 1786829328
     },
     "pos-one-piece-card-game-double-pack-set-vol-9": {
      "title": "One Piece Card Game - The Azure Sea's Seven Double Pack Set Vol. 9 (OP-14)",
@@ -10267,7 +10268,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
