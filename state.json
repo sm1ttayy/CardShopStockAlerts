@@ -11429,9 +11429,9 @@
     "lorwyn-eclipsed-play-booster-display-preorder": {
      "title": "Lorwyn Eclipsed Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 109.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1786813811
     },
     "dominaria-remastered-draft-booster-display": {
      "title": "Dominaria Remastered Draft Booster Box",
@@ -12075,7 +12075,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15215,7 +15215,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17580,7 +17580,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20241,7 +20241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
