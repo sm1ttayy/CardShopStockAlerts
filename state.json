@@ -12046,7 +12046,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17522,7 +17522,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19517,9 +19517,10 @@
     "pitch-black-elite-trainer-box-pokemon-center": {
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 127.25,
-     "last_restock_alert": 1786747849
+     "last_restock_alert": 1786747849,
+     "unavail_since": 1786757728
     },
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
@@ -19997,7 +19998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
