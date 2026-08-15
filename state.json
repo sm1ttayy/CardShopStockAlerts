@@ -12075,7 +12075,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13521,6 +13521,13 @@
      "game": "Riftbound",
      "available": true,
      "price": 169.95
+    },
+    "pokemon-crown-zenith-elite-trainer-box": {
+     "title": "Pokemon - Crown Zenith - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 469.95,
+     "unavail_since": 1786822208
     }
    },
    "baselined": true,
@@ -15215,7 +15222,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17580,7 +17587,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20242,7 +20249,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 126,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
