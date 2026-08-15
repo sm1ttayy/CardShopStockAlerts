@@ -12075,7 +12075,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15222,7 +15222,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17588,7 +17588,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19593,10 +19593,9 @@
     "pitch-black-elite-trainer-box-pokemon-center": {
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 129.25,
-     "last_restock_alert": 1786747849,
-     "unavail_since": 1786757728
+     "last_restock_alert": 1786829128
     },
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
@@ -20251,7 +20250,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21137,7 +21136,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 39
+   "check_cursor": 4
   },
   "https://sagaconcepts.com": {
    "products": {
