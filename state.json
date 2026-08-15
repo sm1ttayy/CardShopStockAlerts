@@ -11525,9 +11525,9 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 429.95,
-     "unavail_since": 1784083347
+     "available": true,
+     "price": 419.95,
+     "last_restock_alert": 1786814106
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -12063,9 +12063,9 @@
     "destined-rivals-elite-trainer-box": {
      "title": "Pokemon SV10 Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 114.95,
-     "unavail_since": 1786650909
+     "last_restock_alert": 1786814107
     },
     "edge-of-eternities-commander-deck-bundle-preorder": {
      "title": "Edge of Eternities Commander Deck Set of 2",
@@ -12075,7 +12075,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15215,7 +15215,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17580,7 +17580,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20241,7 +20241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 94,
    "error_streak": 0,
    "last_error": ""
   },
