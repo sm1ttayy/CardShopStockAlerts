@@ -1145,9 +1145,10 @@
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-display-box-english": {
      "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Display Box [English] (Pre-Order)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 354.99,
-     "last_restock_alert": 1786741669
+     "last_restock_alert": 1786741669,
+     "unavail_since": 1786764274
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-elite-trainer-box-copy": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Pokemon Center Elite Trainer Box",
@@ -1306,10 +1307,17 @@
      "available": false,
      "price": 119.76,
      "unavail_since": 1786703408
+    },
+    "pokemon-tcg-fusion-strike-booster-box": {
+     "title": "Pokemon TCG: Fusion Strike Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 103.09,
+     "unavail_since": 1786764276
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 107,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3765,7 +3773,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3973,7 +3981,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 38.0,
+     "price": 35.0,
      "last_restock_alert": 1784313937
     },
     "pokemon-scarlet-and-violet-shrouded-fable-booster-bundle-pre-order": {
@@ -4530,7 +4538,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 180.0,
+     "price": 170.0,
      "last_restock_alert": 1784243702
     },
     "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order": {
@@ -4626,7 +4634,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 170.0
+     "price": 160.0
     },
     "magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-box": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Jumpstart Booster Box",
@@ -4740,10 +4748,10 @@
      "unavail_since": 1784083329
     },
     "pokemon-tcg-scarlet-and-violet-destined-rivals-booster-box-pre-order": {
-     "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Booster Box",
+     "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 473.0,
+     "price": 475.0,
      "last_restock_alert": 1785929605
     },
     "pokemon-heat-wave-arena-japanese-booster-box": {
@@ -5227,7 +5235,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7069,7 +7077,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9274,9 +9282,8 @@
     "pokemon-tcg-me02-5-ascended-heroes-booster-bundle": {
      "title": "Pokemon TCG: ME02.5 Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 85.0,
-     "unavail_since": 1786073683,
+     "available": true,
+     "price": 74.99,
      "delisted": true
     },
     "pokemon-tcg-paldean-fates-premium-collection-ex-box-at-random": {
@@ -10239,7 +10246,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
