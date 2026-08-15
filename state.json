@@ -12075,7 +12075,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15222,7 +15222,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17587,7 +17587,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17664,9 +17664,10 @@
     "tmnt-play-booster-box": {
      "title": "TMNT Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 113.49,
-     "last_restock_alert": 1786657830
+     "last_restock_alert": 1786657830,
+     "unavail_since": 1786822829
     },
     "spiderman-play-booster-box": {
      "title": "Spiderman Play Booster Box",
@@ -20249,7 +20250,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
    "last_error": ""
   },
