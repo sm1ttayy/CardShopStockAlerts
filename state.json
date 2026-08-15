@@ -1317,7 +1317,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3773,7 +3773,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 192,
+   "check_cursor": 232,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5235,7 +5235,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7078,7 +7078,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 149,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9289,9 +9289,10 @@
     "pokemon-tcg-me02-5-ascended-heroes-booster-bundle": {
      "title": "Pokemon TCG: ME02.5 Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 74.99,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1786807760
     },
     "pokemon-tcg-paldean-fates-premium-collection-ex-box-at-random": {
      "title": "Pokemon TCG: Paldean Fates Premium Collection ex Box at RANDOM",
@@ -10266,7 +10267,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
