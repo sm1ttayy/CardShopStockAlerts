@@ -12074,7 +12074,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15208,7 +15208,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16893,8 +16893,9 @@
     "mtg-final-fantasy-play-booster": {
      "title": "MTG FINAL FANTASY PLAY BOOSTER BOX",
      "game": "MTG",
-     "available": true,
-     "price": 249.95
+     "available": false,
+     "price": 249.95,
+     "unavail_since": 1786807512
     }
    },
    "baselined": true,
@@ -17572,7 +17573,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20233,7 +20234,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
