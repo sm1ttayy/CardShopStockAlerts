@@ -12074,7 +12074,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15205,7 +15205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17550,7 +17550,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20023,10 +20023,17 @@
      "game": "MTG",
      "available": true,
      "price": 1784.99
+    },
+    "ikoria-lair-of-behemoths-bundle": {
+     "title": "Ikoria: Lair of Behemoths - Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 119.75,
+     "unavail_since": 1786800344
     }
    },
    "baselined": true,
-   "check_cursor": 110,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20905,7 +20912,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 60
+   "check_cursor": 24
   },
   "https://sagaconcepts.com": {
    "products": {
