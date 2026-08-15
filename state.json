@@ -12075,7 +12075,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15215,7 +15215,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17580,7 +17580,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19878,9 +19878,9 @@
     "innistrad-midnight-hunt-draft-booster-box": {
      "title": "Innistrad: Midnight Hunt - Draft Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 157.25,
-     "unavail_since": 1786195830
+     "last_restock_alert": 1786811743
     },
     "theros-beyond-death-booster-box": {
      "title": "Theros Beyond Death - Booster Box",
@@ -20241,7 +20241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
