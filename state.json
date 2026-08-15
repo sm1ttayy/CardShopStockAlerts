@@ -10534,8 +10534,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1,
-   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-feraligatr-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11094,9 +11094,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
-   "error_streak": 1,
-   "last_error": "Super Anime Store: product 'magic-the-gathering-marvels-spider-man-collector-booster-box-12-packs' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 20,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -12074,9 +12074,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
-   "error_streak": 1,
-   "last_error": "Geekery Games: product 'pokemon-me04-chaos-rising-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 40,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -15195,9 +15195,9 @@
     "riftbound-league-of-legends-legacy-booster-box-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": false,
-     "price": 179.95,
-     "unavail_since": 1786668011
+     "available": true,
+     "price": 189.95,
+     "last_restock_alert": 1786800910
     },
     "one-piece-tcg-op07-booster-box-pre-order": {
      "title": "One Piece TCG OP07 500 Years In The Future Booster Box",
@@ -15207,7 +15207,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16003,7 +16003,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16891,7 +16891,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17565,7 +17565,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20226,7 +20226,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21105,7 +21105,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 64
+   "check_cursor": 0
   },
   "https://sagaconcepts.com": {
    "products": {
