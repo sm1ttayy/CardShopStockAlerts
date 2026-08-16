@@ -1317,7 +1317,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 110,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3770,10 +3770,17 @@
      "available": false,
      "price": 40.0,
      "unavail_since": 1786578693
+    },
+    "scarlet-violet-prismatic-evolutions-booster-bundle": {
+     "title": "Scarlet & Violet: Prismatic Evolutions - Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 90.0,
+     "unavail_since": 1786887472
     }
    },
    "baselined": true,
-   "check_cursor": 161,
+   "check_cursor": 201,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3953,7 +3960,7 @@
      "title": "Pokemon Celebrations Elite Trainer Box (Pokemon Center Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 622.0,
+     "price": 614.0,
      "unavail_since": 1784083329
     },
     "pkm_generation_elite_box": {
@@ -5207,7 +5214,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 126.0
+     "price": 131.0
     },
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound League of Legends TCG: Vendetta Showdown Decks - Zed vs Shen (SALE)",
@@ -5235,7 +5242,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7078,7 +7085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9089,7 +9096,7 @@
      "title": "Pokemon TCG: Mega Greninja ex Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 40.0,
+     "price": 37.99,
      "delisted": true
     },
     "magic-the-gathering-final-fantasy-commander-deck-display-collectors-edition": {
@@ -9380,6 +9387,13 @@
      "available": false,
      "price": 240.0,
      "unavail_since": 1786787254
+    },
+    "pokemon-tcg-30th-anniversary-knock-out-collection-preorder": {
+     "title": "Pokemon TCG: 30th Anniversary Knock Out Collection - Preorder",
+     "game": "Pokemon",
+     "available": false,
+     "price": 25.0,
+     "unavail_since": 1786887472
     }
    },
    "baselined": true,
@@ -10268,7 +10282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
