@@ -11239,9 +11239,10 @@
     "pokemon-me05-pitch-black-booster-bundle": {
      "title": "Pokemon ME05 Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 34.95,
-     "last_restock_alert": 1785187221
+     "last_restock_alert": 1785187221,
+     "unavail_since": 1786923015
     },
     "pokemon-black-bolt-booster-bundle": {
      "title": "Pokemon Black Bolt Booster Bundle",
@@ -12090,7 +12091,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15245,7 +15246,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17612,7 +17613,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20276,7 +20277,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21162,7 +21163,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 9
+   "check_cursor": 3
   },
   "https://sagaconcepts.com": {
    "products": {
