@@ -12076,7 +12076,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13730,9 +13730,10 @@
     "pokemon-tcg-sword-shield-elite-trainer-box-plus-zacian": {
      "title": "Pok\u00e9mon Tcg: Sword & Shield Elite Trainer Box Plus\u2014zacian",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 349.95,
-     "last_restock_alert": 1786134627
+     "last_restock_alert": 1786134627,
+     "unavail_since": 1786846209
     },
     "pokemon-tcg-mega-evolution-elite-trainer-box-lucario-max-2-wave-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution elite trainer box - Lucario",
@@ -15223,7 +15224,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17589,7 +17590,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20252,7 +20253,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 132,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
