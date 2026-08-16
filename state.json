@@ -1724,9 +1724,9 @@
     "magic-the-gathering-the-hobbit-play-booster-box": {
      "title": "Magic: The Gathering - The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 169.0,
-     "unavail_since": 1785063354
+     "available": true,
+     "price": 189.0,
+     "last_restock_alert": 1786873759
     },
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Jumpstart Booster Box",
@@ -9048,7 +9048,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10268,7 +10268,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
