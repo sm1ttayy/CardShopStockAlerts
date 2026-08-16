@@ -12076,7 +12076,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13593,8 +13593,9 @@
     "one-piece-cg-op-15-booster-box-pre-order": {
      "title": "One Piece CG OP-15 Adventure on KAMI\u2019S Island Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 349.95
+     "available": false,
+     "price": 349.95,
+     "unavail_since": 1786853403
     },
     "one-piece-cg-op-14-booster-box-pre-order-1": {
      "title": "One Piece CG OP-14 -The Azure Sea\u2019s Seven - Booster Box",
@@ -15224,7 +15225,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17590,7 +17591,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20253,7 +20254,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
