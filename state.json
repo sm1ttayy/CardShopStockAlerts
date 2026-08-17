@@ -16968,6 +16968,12 @@
      "available": false,
      "price": 249.95,
      "unavail_since": 1786807512
+    },
+    "mtg-star-trek-bundle": {
+     "title": "MTG STAR TREK BUNDLE PRE ORDER ^ NOV 6/26",
+     "game": "MTG",
+     "available": true,
+     "price": 89.95
     }
    },
    "baselined": true,
@@ -17645,7 +17651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20309,7 +20315,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
