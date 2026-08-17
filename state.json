@@ -12118,7 +12118,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15274,7 +15274,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16069,6 +16069,13 @@
      "game": "MTG",
      "available": true,
      "price": 79.99
+    },
+    "innistrad-crimson-vow-draft-booster-box": {
+     "title": "Innistrad: Crimson Vow - Draft Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 159.99,
+     "unavail_since": 1787004913
     }
    },
    "baselined": true,
@@ -17641,7 +17648,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20304,7 +20311,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21190,7 +21197,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 4
+   "check_cursor": 44
   },
   "https://sagaconcepts.com": {
    "products": {
