@@ -1314,10 +1314,31 @@
      "available": false,
      "price": 103.09,
      "unavail_since": 1786764276
+    },
+    "dominaria-united-set-booster-box": {
+     "title": "Magic: the Gathering: Dominaria United - Set Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 334.99,
+     "unavail_since": 1786988870
+    },
+    "magic-the-gathering-fallout-commander-deck-hail-caesar": {
+     "title": "Magic: The Gathering - Fallout Commander Deck - Hail, Caesar",
+     "game": "MTG",
+     "available": false,
+     "price": 168.31,
+     "unavail_since": 1786988871
+    },
+    "strixhaven-commander-deck-witherbloom-witchcraft": {
+     "title": "Magic: the Gathering: Strixhaven - Witherbloom Witchcraft Commander Deck",
+     "game": "MTG",
+     "available": false,
+     "price": 105.37,
+     "unavail_since": 1786988871
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3781,7 +3802,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5243,7 +5264,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 88,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7086,7 +7107,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 105,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10283,7 +10304,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
