@@ -12118,7 +12118,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15274,7 +15274,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17641,7 +17641,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19646,10 +19646,9 @@
     "pitch-black-elite-trainer-box-pokemon-center": {
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 122.99,
-     "last_restock_alert": 1786829128,
-     "unavail_since": 1786831227
+     "last_restock_alert": 1787000431
     },
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
@@ -20305,7 +20304,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 140,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21191,7 +21190,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 43
+   "check_cursor": 7
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -21339,9 +21338,9 @@
     "the-op-usaopoly-monopoly-one-piece-edition-board-game-official-licensed-manga-anime-usa-mn113-879": {
      "title": "The OP Usaopoly Monopoly One Piece Edition Board Game Official Licensed Manga & Anime USA-MN113-879",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 29.99,
-     "unavail_since": 1786653329
+     "last_restock_alert": 1787000455
     },
     "one-piece-crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612": {
      "title": "One Piece Crocodile Duel Memories Incredible Ichibansho Anime Static Figures Seen in Their Popular Pose Bandai Spirits BAS63612",
