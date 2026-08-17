@@ -1317,7 +1317,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 97,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1410,9 +1410,10 @@
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 250.0,
-     "last_restock_alert": 1785929597
+     "last_restock_alert": 1785929597,
+     "unavail_since": 1786960910
     },
     "riftbound-league-of-legends-tcg-spiritforged-pre-rift-box": {
      "title": "Riftbound: League of Legends TCG - Spiritforged Pre-Rift Box",
@@ -2507,7 +2508,7 @@
      "title": "Ravnica Remastered Draft Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 249.0,
+     "price": 320.0,
      "unavail_since": 1784083329
     },
     "ravnica-remastered-collector-booster-display": {
@@ -3313,7 +3314,7 @@
      "title": "Adventures in the Forgotten Realms Set Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 235.0,
+     "price": 300.0,
      "unavail_since": 1784083329
     },
     "adventures-in-the-forgotten-realms-draft-booster-box-display": {
@@ -3780,7 +3781,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 216,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5242,7 +5243,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7085,7 +7086,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9055,7 +9056,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10282,7 +10283,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
