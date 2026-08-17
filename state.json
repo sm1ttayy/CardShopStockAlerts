@@ -11234,10 +11234,9 @@
     "pokemon-me05-pitch-black-elite-trainer-box": {
      "title": "Pokemon ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 69.95,
-     "last_restock_alert": 1785187220,
-     "unavail_since": 1786999213
+     "last_restock_alert": 1787008207
     },
     "pokemon-fusion-strike-elite-trainer-box": {
      "title": "Pokemon Fusion Strike Elite Trainer Box",
@@ -11263,10 +11262,9 @@
     "pokemon-me05-pitch-black-booster-bundle": {
      "title": "Pokemon ME05 Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 34.95,
-     "last_restock_alert": 1785187221,
-     "unavail_since": 1786923015
+     "last_restock_alert": 1787008209
     },
     "pokemon-black-bolt-booster-bundle": {
      "title": "Pokemon Black Bolt Booster Bundle",
@@ -12118,7 +12116,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17648,7 +17646,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20312,7 +20310,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
