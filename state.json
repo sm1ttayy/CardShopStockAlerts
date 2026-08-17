@@ -11460,9 +11460,8 @@
     "preorder-spider-man-collector-booster-display": {
      "title": "Spider-Man Collector Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 409.95,
-     "unavail_since": 1784083347
+     "available": true,
+     "price": 409.95
     },
     "lorwyn-eclipsed-play-booster-display-preorder": {
      "title": "Lorwyn Eclipsed Play Booster Box",
@@ -12116,7 +12115,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17646,7 +17645,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20310,7 +20309,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
