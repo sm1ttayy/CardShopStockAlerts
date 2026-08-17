@@ -1338,7 +1338,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 96,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3802,7 +3802,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 201,
+   "check_cursor": 241,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5264,7 +5264,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5431,7 +5431,7 @@
      "title": "Pokemon Sword & Shield Chilling Reign Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 599.75
+     "price": 509.75
     },
     "pok-mon-sword-shield-battle-styles-booster-box": {
      "title": "Pokemon Sword & Shield Battle Styles Booster Box",
@@ -7107,7 +7107,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8156,8 +8156,9 @@
     "pos-one-piece-card-game-double-pack-set-vol-9": {
      "title": "One Piece Card Game - The Azure Sea's Seven Double Pack Set Vol. 9 (OP-14)",
      "game": "One Piece",
-     "available": true,
-     "price": 34.99
+     "available": false,
+     "price": 34.99,
+     "unavail_since": 1786996988
     },
     "pokemon-sun-moon-crimson-invasion-booster-box": {
      "title": "Pokemon Sun & Moon - Crimson Invasion Booster Box",
@@ -10304,7 +10305,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
