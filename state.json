@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3817,7 +3817,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 184,
+   "check_cursor": 224,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5282,10 +5282,16 @@
      "game": "MTG",
      "available": true,
      "price": 35.0
+    },
+    "one-piece-tcg-logotype": {
+     "title": "One Piece TCG: -Logotype-",
+     "game": "One Piece",
+     "available": true,
+     "price": 53.0
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7134,7 +7140,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 119,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9165,7 +9171,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10394,7 +10400,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
