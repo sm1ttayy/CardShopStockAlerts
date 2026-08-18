@@ -11265,7 +11265,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12259,7 +12259,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13767,10 +13767,9 @@
     "one-piece-cg-eb-03-extra-booster-box-pre-order": {
      "title": "One Piece CG EB-03 Extra Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 489.95,
-     "last_restock_alert": 1786664703,
-     "unavail_since": 1786737306
+     "available": true,
+     "price": 499.95,
+     "last_restock_alert": 1787087103
     },
     "one-piece-op-10-booster-box-pre-order": {
      "title": "One Piece OP-10 Royal Blood Booster Box",
@@ -17846,7 +17845,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18168,7 +18167,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 484.75,
+     "price": 482.75,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800622
     },
@@ -20511,7 +20510,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21471,7 +21470,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 83
+   "check_cursor": 29
   },
   "https://sagaconcepts.com": {
    "products": {
