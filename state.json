@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 113,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1368,9 +1368,9 @@
     "one-piece-the-time-of-battle-booster-box-op-16": {
      "title": "One Piece The Time of Battle Booster Box [OP-16]",
      "game": "One Piece",
-     "available": false,
-     "price": 200.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 215.0,
+     "last_restock_alert": 1787097043
     },
     "one-piece-the-azure-seas-seven-booster-box-op-14": {
      "title": "One Piece The Azure Sea's Seven Booster Box [OP-14]",
@@ -3823,7 +3823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 165,
+   "check_cursor": 205,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5315,7 +5315,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7171,7 +7171,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9203,7 +9203,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10444,7 +10444,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
