@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3817,7 +3817,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 224,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5288,10 +5288,16 @@
      "game": "One Piece",
      "available": true,
      "price": 53.0
+    },
+    "75642-lego-one-piece-showdown-with-captain-smoker": {
+     "title": "75642 LEGO One Piece: Showdown with Captain Smoker",
+     "game": "One Piece",
+     "available": true,
+     "price": 70.0
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 108,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7140,7 +7146,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 119,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9171,7 +9177,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9512,6 +9518,18 @@
      "price": 25.0,
      "unavail_since": 1786887472,
      "delisted": true
+    },
+    "pokemon-tcg-paldean-fates-international-tin-set": {
+     "title": "Pokemon TCG: Paldean Fates International Tin SET",
+     "game": "Pokemon",
+     "available": true,
+     "price": 425.0
+    },
+    "pokemon-tcg-paldean-fates-tech-stickers-at-random": {
+     "title": "Pokemon TCG: Paldean Fates Tech Sticker at RANDOM",
+     "game": "Pokemon",
+     "available": true,
+     "price": 74.99
     }
    },
    "baselined": true,
@@ -10400,7 +10418,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
