@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3817,7 +3817,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 125,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5300,10 +5300,16 @@
      "game": "One Piece",
      "available": true,
      "price": 53.0
+    },
+    "one-piece-the-three-captains-deck-pre-order": {
+     "title": "One Piece The Three Captains Deck",
+     "game": "One Piece",
+     "available": true,
+     "price": 110.0
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5984,7 +5990,7 @@
      "unavail_since": 1784083330
     },
     "one-piece-tcg-the-time-of-battle-op-16-booster-box": {
-     "title": "One Piece The Time of Battle (OP-16) Double Pack Box",
+     "title": "One Piece The Time of Battle (OP-16) Double Pack Set 11 Box",
      "game": "One Piece",
      "available": false,
      "price": 39.75,
@@ -5998,7 +6004,7 @@
      "unavail_since": 1784083332
     },
     "one-piece-tcg-the-azure-seas-seven-op-14-double-pack": {
-     "title": "One Piece TCG: The Azure Sea's Seven (OP 14) Double Pack",
+     "title": "One Piece The Azure Sea's Seven (OP 14) Double Pack Set 9 Box",
      "game": "One Piece",
      "available": false,
      "price": 54.75,
@@ -6019,14 +6025,14 @@
      "unavail_since": 1784083332
     },
     "one-piece-tcg-adventure-on-kamis-island-double-pack-volume-10-dp-10-box": {
-     "title": "One Piece Adventure on Kami's Island Double Pack Volume 10 Box",
+     "title": "One Piece Adventure on Kami's Island (OP-14) Double Pack Set 10 Box",
      "game": "One Piece",
      "available": false,
      "price": 49.75,
      "unavail_since": 1784083332
     },
     "one-piece-tcg-the-azure-seas-seven-op-14-double-pack-display": {
-     "title": "One Piece TCG: The Azure Sea's Seven (OP 14) Double Pack Display",
+     "title": "One Piece The Azure Sea's Seven (OP 14) Double Pack Set 9 Display",
      "game": "One Piece",
      "available": false,
      "price": 0.0,
@@ -7159,7 +7165,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9190,7 +9196,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10431,7 +10437,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
