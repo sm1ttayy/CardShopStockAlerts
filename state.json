@@ -11212,10 +11212,47 @@
      "available": false,
      "price": 64.99,
      "unavail_since": 1786311308
+    },
+    "cosmiq-x-one-piece-zoro-coming-soon": {
+     "title": "CosmiQ x One Piece: Zoro - COMING SOON",
+     "game": "One Piece",
+     "available": true,
+     "price": 169.0
+    },
+    "one-piece-grandista-jewelry-bonney-figure": {
+     "title": "One Piece Grandista Jewelry Bonney Figure \u2013 Banpresto Prize Figure",
+     "game": "One Piece",
+     "available": true,
+     "price": 44.99
+    },
+    "glitter-glamours-nami-summer-style-one-piece-figure": {
+     "title": "GLITTER & GLAMOURS -NAMI SUMMER STYLE- One Piece Figure",
+     "game": "One Piece",
+     "available": true,
+     "price": 39.99
+    },
+    "pokemon-shiny-treasure-ex-sv4a-booster-box-scarlet-violet-series-japanese": {
+     "title": "Pokemon Shiny Treasure Ex SV4A Booster Box - Japanese Scarlet & Violet TCG",
+     "game": "Pokemon",
+     "available": true,
+     "price": 175.0
+    },
+    "pokemon-center-japan-exclusive-box-tohoku-edition-japanese": {
+     "title": "Pokemon Center Japan Exclusive Box - Tohoku Edition - Japanese",
+     "game": "Pokemon",
+     "available": true,
+     "price": 360.0
+    },
+    "pokemon-tcg-mega-evolution-perfect-order-build-battle-box": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution\u2014Perfect Order Build & Battle Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 54.99,
+     "unavail_since": 1787084411
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12140,7 +12177,7 @@
      "title": "Marvel Super Heroes Commander Deck Set of 4",
      "game": "MTG",
      "available": true,
-     "price": 199.95
+     "price": 189.95
     },
     "mega-gardevoir-elite-trainer-box-me01": {
      "title": "ME01 Mega Gardevoir Elite Trainer Box",
@@ -12194,10 +12231,16 @@
      "game": "MTG",
      "available": true,
      "price": 72.95
+    },
+    "the-hobbit-scene-box-set-of-2-preorder": {
+     "title": "The Hobbit Scene Box (Set of 2)",
+     "game": "MTG",
+     "available": true,
+     "price": 119.95
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12450,9 +12493,9 @@
     "league-of-legends-riftbound-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends - Origins Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 399.95,
-     "unavail_since": 1786737314
+     "last_restock_alert": 1787084413
     },
     "riftbound-league-of-legends-unleashed-booster-box": {
      "title": "Riftbound: League of Legends - Unleashed Booster Box",
@@ -13586,7 +13629,7 @@
      "title": "MTG - Universes Beyond: The Hobbit - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 259.95
+     "price": 249.95
     },
     "pokemon-storm-emerald-japanese-booster-box": {
      "title": "Pokemon - Storm Emerald - Japanese Booster Box",
@@ -13949,9 +13992,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 39.95,
-     "last_restock_alert": 1786394112
+     "last_restock_alert": 1786394112,
+     "unavail_since": 1787084411
     },
     "pokemon-tcg-crown-zenith-booster-bundle-6-packs-incoming-item": {
      "title": "Pokemon TCG: Crown Zenith Booster Bundle - 6 Packs",
@@ -15360,7 +15404,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17627,7 +17671,7 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 868.99,
+     "price": 872.7,
      "unavail_since": 1784083349
     },
     "xy-evolutions-booster-box-case": {
@@ -17746,7 +17790,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17756,7 +17800,7 @@
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 269.75,
+     "price": 279.75,
      "last_restock_alert": 1786394132,
      "unavail_since": 1786815628
     },
@@ -17838,7 +17882,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 226.75,
+     "price": 225.75,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -17859,7 +17903,7 @@
      "title": "Legacy of the Master Booster Box [OP12]",
      "game": "One Piece",
      "available": false,
-     "price": 284.99,
+     "price": 284.75,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800620
     },
@@ -18104,7 +18148,7 @@
      "title": "Pillars of Strength Booster Box [OP03]",
      "game": "One Piece",
      "available": false,
-     "price": 509.75,
+     "price": 526.99,
      "unavail_since": 1784083350
     },
     "perfect-order-booster-box": {
@@ -18478,7 +18522,7 @@
      "title": "Japanese Snow Hazard Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 102.49,
+     "price": 101.99,
      "unavail_since": 1784083350
     },
     "2025-chinese-collect-151c-booster-box": {
@@ -18519,7 +18563,7 @@
      "title": "Japanese Shiny Star V Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 191.75,
+     "price": 189.25,
      "unavail_since": 1784083350
     },
     "japanese-remix-bout-booster-box": {
@@ -18554,7 +18598,7 @@
      "title": "Japanese Sky Legend Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 701.75,
+     "price": 601.75,
      "unavail_since": 1784083350
     },
     "japanese-heat-wave-arena-booster-box": {
@@ -18632,7 +18676,7 @@
      "title": "Chilling Reign Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 490.75,
+     "price": 489.75,
      "last_restock_alert": 1785865536,
      "unavail_since": 1786195840
     },
@@ -18655,7 +18699,7 @@
      "title": "Awakening of the New Era Booster Box [OP05]",
      "game": "One Piece",
      "available": true,
-     "price": 1099.99
+     "price": 1101.75
     },
     "pokemon-s-v-obsidian-flames-booster-box": {
      "title": "Obsidian Flames Booster Box",
@@ -18848,7 +18892,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 2099.99,
+     "price": 2098.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-transformation-mask-booster-box": {
@@ -18987,7 +19031,7 @@
      "title": "Starter Deck 20: YELLOW Charlotte Katakuri",
      "game": "One Piece",
      "available": false,
-     "price": 54.99,
+     "price": 54.75,
      "unavail_since": 1784083350
     },
     "one-piece-3d2y-starter-deck-display": {
@@ -19136,7 +19180,7 @@
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 88.75
+     "price": 89.75
     },
     "destined-rivals-booster-bundle": {
      "title": "Destined Rivals Booster Bundle",
@@ -19234,7 +19278,7 @@
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 64.75,
+     "price": 69.99,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -19495,7 +19539,7 @@
      "title": "One Piece: Illustration Box Vol. 2",
      "game": "One Piece",
      "available": false,
-     "price": 153.75,
+     "price": 199.49,
      "unavail_since": 1784158890
     },
     "pokemon-sword-shield-ultra-premium-collection-charizard": {
@@ -19692,7 +19736,7 @@
      "title": "Origins - Champion Deck (Jinx)",
      "game": "Riftbound",
      "available": false,
-     "price": 31.25,
+     "price": 32.49,
      "unavail_since": 1785333928
     },
     "commander-2020-deck-ruthless-regiment": {
@@ -19753,7 +19797,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 122.99,
+     "price": 124.99,
      "last_restock_alert": 1787000431,
      "unavail_since": 1787006128
     },
@@ -20411,7 +20455,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21292,12 +21336,32 @@
      "available": false,
      "price": 79.95,
      "unavail_since": 1786826490
+    },
+    "pokemon-tcg-mega-evolution-mega-lucario-elite-trainer-box-etb-pre-order": {
+     "title": "Pokemon TCG: Mega Evolution (Mega Lucario) Elite Trainer Box ETB",
+     "game": "Pokemon",
+     "available": false,
+     "price": 124.95,
+     "unavail_since": 1787084459
+    },
+    "riftbound-unleashed-vi-champion-deck": {
+     "title": "Riftbound Unleashed - Vi Champion Deck",
+     "game": "Riftbound",
+     "available": true,
+     "price": 19.99
+    },
+    "riftbound-unleashed-vi-champion-deck-copy": {
+     "title": "Riftbound Unleashed - Vex Champion Deck",
+     "game": "Riftbound",
+     "available": false,
+     "price": 19.99,
+     "unavail_since": 1787084474
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 9
+   "check_cursor": 49
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -21338,7 +21402,7 @@
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Special Bundle",
      "game": "MTG",
      "available": false,
-     "price": 74.99,
+     "price": 99.99,
      "unavail_since": 1786134351
     },
     "magic-the-gathering-ccg-universes-beyond-star-trek-bundle-mtg-startrek-bndl": {
@@ -21369,7 +21433,7 @@
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Avengers Assemble Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 59.99,
+     "price": 53.99,
      "unavail_since": 1785421852
     },
     "magic-the-gathering-universes-beyond-marvel-super-heroes-the-fantastic-four-commander-deck": {
