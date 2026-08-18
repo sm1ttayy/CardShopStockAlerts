@@ -11290,7 +11290,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11326,10 +11326,9 @@
     "chaos-rising-booster-box": {
      "title": "Pokemon ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1786653309,
-     "unavail_since": 1786737309
+     "last_restock_alert": 1787091607
     },
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon ME03 Perfect Order Booster Box",
@@ -12287,10 +12286,28 @@
      "game": "Pokemon",
      "available": true,
      "price": 54.95
+    },
+    "pokemon-me04-chaos-rising-build-and-battle-box": {
+     "title": "Pokemon ME04 Chaos Rising Build and Battle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 39.95
+    },
+    "lumiose-city-mini-tin-display-set-of-10": {
+     "title": "Lumiose City Mini Tin Display",
+     "game": "Pokemon",
+     "available": true,
+     "price": 109.95
+    },
+    "pokemon-me03-perfect-order-build-and-battle-box": {
+     "title": "Pokemon ME03 Perfect Order Build and Battle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 34.95
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17876,7 +17893,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20541,7 +20558,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 124,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21501,7 +21518,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 36
+   "check_cursor": 76
   },
   "https://sagaconcepts.com": {
    "products": {
