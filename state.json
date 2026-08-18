@@ -1345,7 +1345,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3810,7 +3810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5278,7 +5278,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7127,7 +7127,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 141,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8287,6 +8287,12 @@
      "game": "MTG",
      "available": true,
      "price": 309.99
+    },
+    "one-piece-premium-dice-set": {
+     "title": "One Piece Premium Dice Set",
+     "game": "One Piece",
+     "available": true,
+     "price": 16.99
     }
    },
    "baselined": true,
@@ -10327,7 +10333,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
