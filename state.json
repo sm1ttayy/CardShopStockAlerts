@@ -15271,7 +15271,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17651,7 +17651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18118,8 +18118,9 @@
     "premium-booster-booster-box-prb01": {
      "title": "Premium Booster Booster Box [PRB01]",
      "game": "One Piece",
-     "available": true,
-     "price": 889.99
+     "available": false,
+     "price": 889.99,
+     "unavail_since": 1787011823
     },
     "emperors-in-the-new-world-booster-box-op09": {
      "title": "Emperors in the New World Booster Box [OP09]",
@@ -20315,7 +20316,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 124,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21201,7 +21202,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 7
+   "check_cursor": 2
   },
   "https://sagaconcepts.com": {
    "products": {
