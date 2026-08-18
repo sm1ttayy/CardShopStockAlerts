@@ -11259,7 +11259,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12253,7 +12253,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13770,7 +13770,7 @@
      "title": "One Piece OP-10 Royal Blood Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 319.95,
+     "price": 349.95,
      "last_restock_alert": 1786664703,
      "unavail_since": 1786737306
     },
@@ -13798,9 +13798,9 @@
     "one-piece-cg-op-12-booster-box-pre-order": {
      "title": "One Piece CG OP-12 Legacy of The Master Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 369.95,
-     "unavail_since": 1786394110
+     "available": true,
+     "price": 399.95,
+     "last_restock_alert": 1787086203
     },
     "one-piece-tcg-flanked-by-legends-booster-box-pre-order": {
      "title": "One Piece TCG OP-06 Wings Of The Captain Booster Box",
@@ -14712,7 +14712,7 @@
      "title": "One Piece TCG Awakening Of The New Era Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 1599.95
+     "price": 1799.95
     },
     "one-piece-romance-dawn-english-booster-box": {
      "title": "One Piece Card Game Romance Dawn English Booster Box",
@@ -17841,7 +17841,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20123,7 +20123,7 @@
      "title": "Dominaria United - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 250.49,
+     "price": 249.49,
      "unavail_since": 1786195830
     },
     "strixhaven-school-of-mages-set-booster-display": {
@@ -20137,7 +20137,7 @@
      "title": "Adventures in the Forgotten Realms - Set Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 299.99,
+     "price": 304.75,
      "unavail_since": 1786195830
     },
     "innistrad-midnight-hunt-draft-booster-box": {
@@ -20506,7 +20506,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21460,7 +21460,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 55
+   "check_cursor": 3
   },
   "https://sagaconcepts.com": {
    "products": {
