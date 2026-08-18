@@ -11252,7 +11252,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11939,7 +11939,7 @@
      "title": "Final Fantasy XIV Scions & Spellcraft Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 54.95
+     "price": 57.95
     },
     "marvel-super-heroes-doom-prevails-commander-deck-preorder": {
      "title": "Marvel Super Heroes Doom Prevails Commander Deck",
@@ -12165,7 +12165,7 @@
      "title": "Lost Caverns of Ixalan Blood Rites Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 87.95
+     "price": 84.95
     },
     "tarkir-dragonstorm-commander-deck-preorder-copy": {
      "title": "Tarkir Dragonstorm Sultai Arisen Commander Deck",
@@ -12237,10 +12237,16 @@
      "game": "MTG",
      "available": true,
      "price": 119.95
+    },
+    "tarkir-dragonstorm-commander-deck-preorders": {
+     "title": "Tarkir Dragonstorm Mardu Surge Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 44.95
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15404,7 +15410,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17601,7 +17607,7 @@
      "title": "XY Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2763.01,
+     "price": 2791.33,
      "unavail_since": 1784083349
     },
     "flashfire-booster-box": {
@@ -17629,7 +17635,7 @@
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2396.38,
+     "price": 2816.36,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -17664,7 +17670,7 @@
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2041.86,
+     "price": 2042.36,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
@@ -17790,7 +17796,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18334,7 +18340,7 @@
      "title": "Surging Sparks Booster Box Case [Sealed]",
      "game": "Pokemon",
      "available": false,
-     "price": 1994.75,
+     "price": 1984.75,
      "unavail_since": 1786195837
     },
     "mega-evolution-booster-box-non-enhanced": {
@@ -18782,7 +18788,7 @@
      "title": "Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 474.99,
+     "price": 499.99,
      "unavail_since": 1784083350
     },
     "pokemon-scarlet-violet-booster-box": {
@@ -18803,7 +18809,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 259.75,
+     "price": 261.75,
      "last_restock_alert": 1786228847
     },
     "crimson-invasion-booster-box": {
@@ -19066,7 +19072,7 @@
      "title": "Premium Card Collection -Best Selection Vol. 4-",
      "game": "One Piece",
      "available": false,
-     "price": 221.99,
+     "price": 219.75,
      "unavail_since": 1784158616
     },
     "one-piece-premium-card-collection-best-selection-vol-2": {
@@ -20455,7 +20461,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 138,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21356,12 +21362,60 @@
      "available": false,
      "price": 19.99,
      "unavail_since": 1787084474
+    },
+    "one-piece-hungry-big-mom-6-funko-pop-super-1268-pre-order": {
+     "title": "One Piece Hungry Big Mom 6\" Funko Pop Super #1268",
+     "game": "One Piece",
+     "available": true,
+     "price": 14.95
+    },
+    "funko-pop-one-piece-brook-2231": {
+     "title": "Funko Pop! One Piece Brook #2231",
+     "game": "One Piece",
+     "available": true,
+     "price": 14.95
+    },
+    "one-piece-brook-bonekichi-funko-pop-924": {
+     "title": "One Piece Brook (BoneKichi) Funko Pop! #924",
+     "game": "One Piece",
+     "available": true,
+     "price": 11.95
+    },
+    "funko-pop-one-piece-straw-hat-pirates-sanji-exclusive-2336": {
+     "title": "Funko Pop! One Piece Straw Hat Pirates Sanji Exclusive #2336",
+     "game": "One Piece",
+     "available": true,
+     "price": 16.95
+    },
+    "funko-pop-one-piece-monkey-d-luffy-egghead-arc-2138": {
+     "title": "Funko Pop! One Piece Monkey D. Luffy (Egghead Arc) #2138",
+     "game": "One Piece",
+     "available": true,
+     "price": 14.95
+    },
+    "funko-pop-one-piece-live-action-monkey-d-luffy-1878": {
+     "title": "Funko Pop! One Piece Live Action Monkey D. Luffy #1878",
+     "game": "One Piece",
+     "available": true,
+     "price": 14.95
+    },
+    "funko-pop-one-piece-big-mom-in-kimono-6-inch-1915": {
+     "title": "Funko Pop! One Piece Big Mom in Kimono 6 Inch #1915",
+     "game": "One Piece",
+     "available": true,
+     "price": 24.95
+    },
+    "funko-pop-pokemon-squirtle-pearlescent-pokemon-center-exclusive-504": {
+     "title": "Funko Pop! Pokemon Squirtle Pearlescent Pokemon Center Exclusive #504",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 49
+   "check_cursor": 89
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -21465,8 +21519,9 @@
     "magic-the-gathering-ccg-kamigawa-titanbreach-bundle": {
      "title": "Magic the Gathering CCG Kamigawa Titanbreach Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 59.99
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1787084797
     },
     "magic-the-gathering-ccg-nauctis-the-sunken-realm-bundle": {
      "title": "Magic the Gathering CCG Nauctis The Sunken Realm Bundle",
