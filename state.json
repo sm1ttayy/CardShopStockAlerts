@@ -1338,7 +1338,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3802,7 +3802,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 117,
+   "check_cursor": 157,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5083,7 +5083,7 @@
      "title": "Magic the Gathering: Commander Masters - Planeswalker Party Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 143.0
+     "price": 142.0
     },
     "magic-the-gathering-marvel-super-heroes-gift-bundle-box-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Gift Bundle Box",
@@ -5261,10 +5261,16 @@
      "game": "Riftbound",
      "available": true,
      "price": 30.0
+    },
+    "magic-the-gathering-secrets-of-strixhaven-commander-deck-prismari-artistry-pre-order": {
+     "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Prismari Artistry) (SALE)",
+     "game": "MTG",
+     "available": true,
+     "price": 35.0
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7107,7 +7113,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7909,7 +7915,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 449.99,
-     "unavail_since": 1784083329
+     "unavail_since": 1784083329,
+     "delisted": true
     },
     "sword-shielld-vivid-voltage-booster-box": {
      "title": "Sword & Shield - Vivid Voltage Booster Box",
@@ -10305,7 +10312,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
