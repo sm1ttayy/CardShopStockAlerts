@@ -11290,7 +11290,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11332,7 +11332,7 @@
      "unavail_since": 1786737309
     },
     "pokemon-perfect-order-booster-box": {
-     "title": "Pokemon Perfect Order Booster Box",
+     "title": "Pokemon ME03 Perfect Order Booster Box",
      "game": "Pokemon",
      "available": false,
      "price": 179.95,
@@ -12281,10 +12281,16 @@
      "game": "MTG",
      "available": true,
      "price": 44.95
+    },
+    "me02-build-and-battle-box": {
+     "title": "ME02 Phantasmal Flames Build and Battle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 54.95
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15484,7 +15490,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17870,7 +17876,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20535,7 +20541,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21495,7 +21501,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 88
+   "check_cursor": 36
   },
   "https://sagaconcepts.com": {
    "products": {
