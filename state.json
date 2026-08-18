@@ -11259,7 +11259,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12253,7 +12253,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12906,7 +12906,7 @@
      "title": "MTG - Murders at Karlov Manor - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 64.95
+     "price": 79.95
     },
     "one-piece-card-game-double-pack-set-vol-9": {
      "title": "One Piece Card Game - The Azure Sea's - Double Pack Set - Vol. 9",
@@ -13395,7 +13395,7 @@
      "title": "Pokemon - First Partner Illustration Collection - Series 1",
      "game": "Pokemon",
      "available": true,
-     "price": 89.95
+     "price": 99.95
     },
     "mtg-universes-beyond-marvels-spider-man-gift-bundle": {
      "title": "MTG - Universes Beyond: Marvel's Spider-Man - Gift Bundle",
@@ -13454,7 +13454,7 @@
      "title": "One Piece Card Game - Starter Deck - ST34 PURPLE Katakuri",
      "game": "One Piece",
      "available": true,
-     "price": 49.95,
+     "price": 34.95,
      "last_restock_alert": 1785783904
     },
     "one-piece-card-game-starter-deck-st35-red-black-sabo": {
@@ -13491,7 +13491,7 @@
      "title": "One Piece Card Game - Starter Deck - ST32 GREEN Roronoa Zoro",
      "game": "One Piece",
      "available": true,
-     "price": 59.95
+     "price": 44.95
     },
     "pokemon-future-flash-japanese-booster-box": {
      "title": "Pokemon - Future Flash - Japanese Booster Box",
@@ -13654,7 +13654,7 @@
      "title": "One Piece Card Game - Starter Deck - ST36 YELLOW Eustass \"Captain\" Kid",
      "game": "One Piece",
      "available": true,
-     "price": 39.95
+     "price": 29.95
     },
     "one-piece-card-game-emperors-in-the-new-world-double-pack-set-vol-6-display": {
      "title": "One Piece Card Game - Emperors in the New World - Double Pack Set - Vol.6 - Display",
@@ -13711,6 +13711,44 @@
      "game": "Pokemon",
      "available": true,
      "price": 329.95
+    },
+    "one-piece-card-game-awakening-of-the-new-era-booster-box": {
+     "title": "One Piece Card Game - Awakening of the New Era Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 1799.95
+    },
+    "pokemon-astral-radiance-booster-box": {
+     "title": "Pokemon - Astral Radiance - Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 549.95
+    },
+    "pokemon-first-partner-pack-kanto": {
+     "title": "Pokemon - First Partner Pack - Kanto",
+     "game": "Pokemon",
+     "available": true,
+     "price": 89.95
+    },
+    "mtg-modern-horizons-3-commander-deck-tricky-terrain-pre-order": {
+     "title": "MTG - Modern Horizons 3 - Commander Deck - Tricky Terrain",
+     "game": "MTG",
+     "available": false,
+     "price": 129.95,
+     "unavail_since": 1787085918
+    },
+    "mtg-universes-beyond-final-fantasy-commander-deck-revival-trance": {
+     "title": "MTG - Universes Beyond: Final Fantasy - Commander Deck - Revival Trance",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
+    },
+    "mtg-universes-beyond-avatar-the-last-airbender-gift-bundle": {
+     "title": "MTG - Universes Beyond: Avatar The Last Airbender - Commander's Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 229.95,
+     "unavail_since": 1787085919
     }
    },
    "baselined": true,
@@ -15417,7 +15455,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17803,7 +17841,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17938,7 +17976,7 @@
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 500.75,
+     "price": 508.49,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
@@ -18202,7 +18240,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 469.75,
+     "price": 471.75,
      "unavail_since": 1784083350
     },
     "wings-of-the-captain-booster-box-op06": {
@@ -18417,7 +18455,7 @@
      "title": "Japanese Wild Force Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 93.99,
+     "price": 100.49,
      "unavail_since": 1786195837
     },
     "stellar-miracle-booster-box": {
@@ -19002,7 +19040,7 @@
      "title": "Sun & Moon Base Set Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1084.75,
+     "price": 999.75,
      "unavail_since": 1784083350
     },
     "sword-shield-booster-box": {
@@ -19374,7 +19412,7 @@
      "title": "Universes Beyond: FINAL FANTASY - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 121.75,
+     "price": 123.99,
      "unavail_since": 1784083350
     },
     "pokemon-151-alakazam-ex-collection-box": {
@@ -20092,7 +20130,7 @@
      "title": "Strixhaven: School of Mages - Set Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 196.99,
+     "price": 198.75,
      "unavail_since": 1786195830
     },
     "adventures-in-the-forgotten-realms-set-booster-display": {
@@ -20468,7 +20506,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 105,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21422,7 +21460,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 15
+   "check_cursor": 55
   },
   "https://sagaconcepts.com": {
    "products": {
