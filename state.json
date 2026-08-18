@@ -1335,10 +1335,17 @@
      "available": false,
      "price": 105.37,
      "unavail_since": 1786988871
+    },
+    "magic-the-gathering-mystery-booster-2-booster-display": {
+     "title": "Magic the Gathering: Mystery Booster 2 - Booster Display",
+     "game": "MTG",
+     "available": false,
+     "price": 340.56,
+     "unavail_since": 1787046782
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1513,15 +1520,16 @@
     "magic-the-gathering-lorwyn-eclipsed-play-booster-box": {
      "title": "Magic: The Gathering - Lorwyn Eclipsed Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 120.0
+     "available": false,
+     "price": 120.0,
+     "unavail_since": 1787046784
     },
     "magic-the-gathering-aetherdrift-play-booster-box-1": {
      "title": "Magic: The Gathering Aetherdrift Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 105.0,
-     "unavail_since": 1785460679
+     "last_restock_alert": 1787046785
     },
     "magic-the-gathering-marvel-super-heroes-collector-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Collector Booster Box",
@@ -3802,7 +3810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 237,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5270,7 +5278,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7110,10 +7118,16 @@
      "available": false,
      "price": 189.75,
      "unavail_since": 1786787254
+    },
+    "pokemon-scarlet-violet-journey-together-enhanced-booster-box": {
+     "title": "Pokemon Scarlet & Violet: Journey Together Enhanced Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 319.75
     }
    },
    "baselined": true,
-   "check_cursor": 129,
+   "check_cursor": 169,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7753,9 +7767,8 @@
     "pokemon-scarlet-violet-destined-rivals-booster-box": {
      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 414.99,
-     "unavail_since": 1784083329,
+     "available": true,
+     "price": 524.99,
      "delisted": true
     },
     "twilight-masquerade-booster-box-preorder": {
@@ -9085,7 +9098,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9409,7 +9422,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 115.0,
-     "unavail_since": 1786743807
+     "unavail_since": 1786743807,
+     "delisted": true
     },
     "riftbound-tcg-origins-booster-box": {
      "title": "Riftbound TCG: Origins Booster Box",
@@ -9423,7 +9437,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 25.0,
-     "unavail_since": 1786887472
+     "unavail_since": 1786887472,
+     "delisted": true
     }
    },
    "baselined": true,
@@ -10312,7 +10327,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
