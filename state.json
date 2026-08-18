@@ -1345,7 +1345,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3810,7 +3810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5278,7 +5278,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7127,7 +7127,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 113,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9107,10 +9107,58 @@
      "game": "One Piece",
      "available": true,
      "price": 300.0
+    },
+    "starter-deck-st-34-one-piece-07-31": {
+     "title": "Starter Deck ST-34 PURPLE Charlotte Katakuri [One Piece] (07/31)",
+     "game": "One Piece",
+     "available": true,
+     "price": 25.0
+    },
+    "starter-deck-st-36-one-piece-07-31": {
+     "title": "Starter Deck ST-36 YELLOW Eustass \"Captain\" Kid [One Piece] (07/31)",
+     "game": "One Piece",
+     "available": true,
+     "price": 25.0
+    },
+    "starter-deck-st-32-one-piece": {
+     "title": "Starter Deck ST-32 GREEN Roronoa Zoro [One Piece] (07/31)",
+     "game": "One Piece",
+     "available": true,
+     "price": 30.0
+    },
+    "the-time-of-battle-booster-pack-op-16-one-piece": {
+     "title": "The Time of Battle Booster Pack OP-16 [One Piece] (06/05)",
+     "game": "One Piece",
+     "available": true,
+     "price": 10.0
+    },
+    "one-piece-3d-mug": {
+     "title": "One Piece 3D Mug",
+     "game": "One Piece",
+     "available": true,
+     "price": 30.0
+    },
+    "lost-origin-booster-display": {
+     "title": "Lost Origin Booster Display",
+     "game": "Pokemon",
+     "available": true,
+     "price": 750.0
+    },
+    "brilliant-stars-booster-display": {
+     "title": "Brilliant Stars Booster Display",
+     "game": "Pokemon",
+     "available": true,
+     "price": 650.0
+    },
+    "chilling-reign-booster-display": {
+     "title": "Chilling Reign Booster Display",
+     "game": "Pokemon",
+     "available": true,
+     "price": 500.0
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10339,7 +10387,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
