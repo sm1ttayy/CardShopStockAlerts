@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 113,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3814,10 +3814,16 @@
      "available": false,
      "price": 90.0,
      "unavail_since": 1786887472
+    },
+    "30th-celebration-knockout-collection": {
+     "title": "[PREORDER] 30th Celebration - Knockout Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 27.0
     }
    },
    "baselined": true,
-   "check_cursor": 125,
+   "check_cursor": 165,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5309,7 +5315,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7165,7 +7171,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 124,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8246,7 +8252,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 299.99,
-     "unavail_since": 1786530650
+     "unavail_since": 1786530650,
+     "delisted": true
     },
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
      "title": "The Lord of the Rings: Tales of Middle Earth Set Booster Box",
@@ -9196,7 +9203,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10437,7 +10444,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
