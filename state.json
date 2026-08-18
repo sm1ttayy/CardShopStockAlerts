@@ -583,7 +583,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 59.74
+     "price": 58.99
     },
     "magic-the-gathering-marvel-super-heroes-collector-commander-deck": {
      "title": "Magic: The Gathering | Marvel Super Heroes - Collector Commander Deck",
@@ -1342,10 +1342,17 @@
      "available": false,
      "price": 340.56,
      "unavail_since": 1787046782
+    },
+    "mtg-commander-legends-commander-deck-display-mtg-sealed": {
+     "title": "Magic: the Gathering: Commander Legends - Reap the Tides Commander Deck",
+     "game": "MTG",
+     "available": false,
+     "price": 197.22,
+     "unavail_since": 1787085221
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3810,7 +3817,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 144,
+   "check_cursor": 184,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5278,7 +5285,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7127,7 +7134,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9158,7 +9165,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10387,7 +10394,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
