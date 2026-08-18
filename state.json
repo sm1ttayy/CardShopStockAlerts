@@ -14265,9 +14265,10 @@
     "pokemon-prismatic-evolutions-super-premium-collection-pre-order": {
      "title": "Pokemon Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 399.99,
-     "last_restock_alert": 1786999214
+     "last_restock_alert": 1786999214,
+     "unavail_since": 1787013609
     },
     "pokemon-scarlet-violet-151-poster-collection": {
      "title": "Pokemon Scarlet & Violet\u2014151 Poster Collection",
@@ -17651,7 +17652,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20316,7 +20317,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 103,
    "error_streak": 0,
    "last_error": ""
   },
