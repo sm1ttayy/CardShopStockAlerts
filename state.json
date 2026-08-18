@@ -11265,7 +11265,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12259,7 +12259,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13818,9 +13818,9 @@
     "one-piece-cg-op-15-booster-box-pre-order": {
      "title": "One Piece CG OP-15 Adventure on KAMI\u2019S Island Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 349.95,
-     "unavail_since": 1786853403
+     "last_restock_alert": 1787086828
     },
     "one-piece-cg-op-14-booster-box-pre-order-1": {
      "title": "One Piece CG OP-14 -The Azure Sea\u2019s Seven - Booster Box",
@@ -15460,7 +15460,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17846,7 +17846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20511,7 +20511,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21460,12 +21460,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 29.95
+    },
+    "funko-pop-pokemon-flareon-diamond-wondercon-official-sticker-exclusive-629": {
+     "title": "Funko Pop! Pokemon Flareon Diamond Wondercon (Official Sticker) Exclusive #629",
+     "game": "Pokemon",
+     "available": true,
+     "price": 49.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 43
+   "check_cursor": 83
   },
   "https://sagaconcepts.com": {
    "products": {
