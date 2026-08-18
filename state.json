@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 127,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3817,7 +3817,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5297,7 +5297,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7143,10 +7143,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 319.75
+    },
+    "one-piece-the-worlds-strongest-warriors-op-17-double-pack-set-12-box": {
+     "title": "One Piece The World's Strongest Warriors (OP-17) Double Pack Set 12 Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 59.75,
+     "unavail_since": 1787089951
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9177,7 +9184,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10418,7 +10425,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
