@@ -10837,7 +10837,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11433,9 +11433,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12468,9 +12468,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'pokemon-go-pokemon-center-elite-trainer-box-plus' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -15764,9 +15764,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-card-game-starter-deck-monkey-d-luffy-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -15851,10 +15851,9 @@
     "riftbound-league-of-legends-tcg-unleashed-booster-box": {
      "title": "Riftbound: League of Legends TCG: Unleashed - Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 189.99,
-     "last_restock_alert": 1786064117,
-     "unavail_since": 1786919732
+     "last_restock_alert": 1787170223
     },
     "riftbound-league-of-legends-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends TCG: Origins - Booster Box",
@@ -16599,7 +16598,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17537,9 +17536,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 19,
    "error_streak": 2,
-   "last_error": "Exor Games: product 'pokemon-me2-5-ascended-heroes-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -18211,9 +18210,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'xy-breakpoint-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -20942,9 +20941,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 92,
    "error_streak": 2,
-   "last_error": "Common Lands: product 'japanese-cyber-judge-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'ninja-spinner-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -21901,8 +21900,8 @@
    },
    "baselined": true,
    "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me01-mega-evolution-booster-bundle-6-boosters' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 69
+   "last_error": "Undiscovered Realm: product 'copy-of-one-piece-tcg-starter-deck-8-monkey-d-luffy-st-08' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 1
   },
   "https://sagaconcepts.com": {
    "products": {
