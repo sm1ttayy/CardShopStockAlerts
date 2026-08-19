@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1573,10 +1573,9 @@
     "magic-the-gathering-foundations-jumpstart-booster-box": {
      "title": "Magic: The Gathering Foundations Jumpstart Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 90.0,
-     "last_restock_alert": 1786016207,
-     "unavail_since": 1786530648
+     "available": true,
+     "price": 95.0,
+     "last_restock_alert": 1787133212
     },
     "magic-the-gathering-secrets-of-strixhaven-play-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Play Booster Box",
@@ -3820,10 +3819,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 27.0
+    },
+    "preorder-magic-the-gathering-reality-fracture-booster-box": {
+     "title": "[PREORDER] Magic: The Gathering - Reality Fracture Play Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 119.0,
+     "unavail_since": 1787133211
     }
    },
    "baselined": true,
-   "check_cursor": 127,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5315,7 +5321,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7177,7 +7183,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8014,8 +8020,9 @@
     "astral-radiance-booster-box": {
      "title": "Sword & Shield - Astral Radiance Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 419.99
+     "available": false,
+     "price": 419.99,
+     "unavail_since": 1787133211
     },
     "innistrad-midnight-hunt-collector-booster-box": {
      "title": "Innistrad: Midnight Hunt Collector Booster Box",
@@ -9112,9 +9119,9 @@
     "the-hobbit-play-booster-box-universes-beyond-mtg-08-07": {
      "title": "The Hobbit Play Booster Box (Universes Beyond) [MTG] (08/07)",
      "game": "MTG",
-     "available": false,
-     "price": 175.0,
-     "unavail_since": 1786097727
+     "available": true,
+     "price": 200.0,
+     "last_restock_alert": 1787133213
     },
     "surging-sparks-booster-bundle-pokemon": {
      "title": "Surging Sparks Booster Bundle [Pok\u00e9mon]",
@@ -9209,7 +9216,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9518,14 +9525,16 @@
      "game": "One Piece",
      "available": false,
      "price": 290.0,
-     "unavail_since": 1786741668
+     "unavail_since": 1786741668,
+     "delisted": true
     },
     "one-piece-tcg-op-13-carry-on-his-will-booster-box-1": {
      "title": "One Piece TCG:  OP-13 Carry on His Will Booster Box",
      "game": "One Piece",
      "available": false,
      "price": 474.99,
-     "unavail_since": 1786741668
+     "unavail_since": 1786741668,
+     "delisted": true
     },
     "pokemon-sv10-destined-rivals-elite-trainer-box-5-30-25": {
      "title": "Pokemon: SV10 Destined Rivals - Elite Trainer Box",
@@ -10474,10 +10483,16 @@
      "game": "MTG",
      "available": true,
      "price": 689.99
+    },
+    "pokemon-tcg-perfect-order-booster-display-case-of-6": {
+     "title": "Pok\u00e9mon TCG: Perfect Order: Booster Display (Case of 6)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 968.99
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
