@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3823,7 +3823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 106,
+   "check_cursor": 146,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5315,7 +5315,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7171,7 +7171,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9203,7 +9203,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9229,7 +9229,7 @@
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 164.99,
+     "price": 170.0,
      "delisted": true,
      "unavail_since": 1786750330
     },
@@ -9345,9 +9345,8 @@
     "pokemon-sv8-5-prismatic-evolutions-booster-bundle-1": {
      "title": "Pokemon: SV8.5 Prismatic Evolutions - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 75.0,
-     "unavail_since": 1784913220,
+     "available": true,
+     "price": 90.0,
      "delisted": true
     },
     "magic-the-gathering-the-hobbit-play-booster-box-preorder": {
@@ -9556,6 +9555,34 @@
      "game": "Pokemon",
      "available": true,
      "price": 74.99
+    },
+    "pokemon-tcg-japanese-ninja-spinner-booster-box": {
+     "title": "Pokemon TCG: Japanese Ninja Spinner Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 80.0,
+     "unavail_since": 1787115384
+    },
+    "pokemon-tcg-sv03-obsidian-flames-booster-elite-trainer-box": {
+     "title": "Pokemon TCG: SV03 Obsidian Flames Booster Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 270.0,
+     "unavail_since": 1787115384
+    },
+    "pokemon-tcg-sv02-paldea-evolved-elite-trainer-box": {
+     "title": "Pokemon TCG: SV02 Paldea Evolved Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 215.0,
+     "unavail_since": 1787115384
+    },
+    "pokemon-tcg-hidden-fates-elite-trainer-box": {
+     "title": "Pokemon TCG: Hidden Fates Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 550.0,
+     "unavail_since": 1787115384
     }
    },
    "baselined": true,
@@ -10214,7 +10241,7 @@
      "title": "One Piece TCG: Illustration Box: Volume 8",
      "game": "One Piece",
      "available": false,
-     "price": 22.99,
+     "price": 32.99,
      "unavail_since": 1784086491
     },
     "one-piece-tcg-illustration-box-volume-7": {
@@ -10444,7 +10471,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
