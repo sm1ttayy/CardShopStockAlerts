@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3829,7 +3829,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5327,7 +5327,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 107,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7186,10 +7186,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 2499.75
+    },
+    "one-piece-tcg-sound-loader-luffy-edition": {
+     "title": "One Piece Sound Loader Luffy Edition",
+     "game": "One Piece",
+     "available": true,
+     "price": 29.75
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9222,7 +9228,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10495,10 +10501,38 @@
      "game": "Pokemon",
      "available": true,
      "price": 968.99
+    },
+    "one-piece-tcg-title-tbd-op-14-booster-display": {
+     "title": "One Piece TCG: The Azure Sea's Seven: Booster Display (OP-14)",
+     "game": "One Piece",
+     "available": false,
+     "price": 244.99,
+     "unavail_since": 1787159440
+    },
+    "one-piece-tcg-carrying-on-his-will-booster-display-op-13": {
+     "title": "One Piece TCG: Carrying on His Will: Booster Display [OP-13]",
+     "game": "One Piece",
+     "available": false,
+     "price": 399.99,
+     "unavail_since": 1787159440
+    },
+    "one-piece-tcg-extra-booster-eb-03": {
+     "title": "One Piece TCG: Extra Booster [EB-03]",
+     "game": "One Piece",
+     "available": false,
+     "price": 269.99,
+     "unavail_since": 1787159440
+    },
+    "one-piece-tcg-title-tbd-booster-display-op-15": {
+     "title": "One Piece TCG: Adventure on Kami's Island: Booster Display [OP-15]",
+     "game": "One Piece",
+     "available": false,
+     "price": 209.99,
+     "unavail_since": 1787159440
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
