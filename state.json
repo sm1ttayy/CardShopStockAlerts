@@ -1352,7 +1352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3823,7 +3823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 146,
+   "check_cursor": 186,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5315,7 +5315,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5609,9 +5609,9 @@
     "pokemon-scarlet-violet-prismatic-evolutions-booster-bundle": {
      "title": "Pokemon Scarlet & Violet Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 89.75,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1787117879
     },
     "pokemon-mega-evolution-perfect-order-booster-bundle-box": {
      "title": "Pokemon Mega Evolution Perfect Order Booster Bundle Box",
@@ -7168,10 +7168,16 @@
      "available": false,
      "price": 59.75,
      "unavail_since": 1787089951
+    },
+    "pokemon-scarlet-violet-prismatic-evolutions-booster-25-bundle-case": {
+     "title": "Pokemon Scarlet & Violet Prismatic Evolutions Booster 25-Bundle Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 2499.75
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 133,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9203,7 +9209,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10471,7 +10477,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
