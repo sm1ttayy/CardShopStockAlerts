@@ -11433,7 +11433,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12468,7 +12468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15764,7 +15764,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16597,7 +16597,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17542,9 +17542,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 53,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-swsh3-darkness-ablaze-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18216,7 +18216,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20947,7 +20947,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 125,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21907,7 +21907,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 62
+   "check_cursor": 12
   },
   "https://sagaconcepts.com": {
    "products": {
