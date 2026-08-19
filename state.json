@@ -11309,7 +11309,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12339,7 +12339,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16064,8 +16064,9 @@
     "starter-commander-deck-token-triumph": {
      "title": "Starter Commander Deck (Token Triumph)",
      "game": "MTG",
-     "available": true,
-     "price": 39.99
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1787100016
     },
     "bloomburrow-commander-deck-family-matters": {
      "title": "Bloomburrow - Commander Deck (Family Matters)",
@@ -17930,7 +17931,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20594,7 +20595,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21554,7 +21555,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 51
+   "check_cursor": 91
   },
   "https://sagaconcepts.com": {
    "products": {
