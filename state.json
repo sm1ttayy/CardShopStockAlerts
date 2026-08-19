@@ -11309,7 +11309,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12329,10 +12329,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 32.95
+    },
+    "pokemon-perfect-order-booster-bundle": {
+     "title": "Pokemon Perfect Order Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 34.95,
+     "unavail_since": 1787098513
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17923,7 +17930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20587,7 +20594,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21547,7 +21554,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 35
+   "check_cursor": 75
   },
   "https://sagaconcepts.com": {
    "products": {
