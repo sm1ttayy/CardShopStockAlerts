@@ -11439,7 +11439,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11567,9 +11567,10 @@
     "pokemon-me05-pitch-black-booster-bundle": {
      "title": "Pokemon ME05 Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 34.95,
-     "last_restock_alert": 1787008209
+     "last_restock_alert": 1787008209,
+     "unavail_since": 1787177117
     },
     "pokemon-black-bolt-booster-bundle": {
      "title": "Pokemon Black Bolt Booster Bundle",
@@ -12475,7 +12476,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15771,7 +15772,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16604,7 +16605,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17549,9 +17550,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 38,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv2-paldea-evolved-elite-trainer-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18223,7 +18224,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20954,7 +20955,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 125,
+   "check_cursor": 165,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21914,7 +21915,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 56
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
