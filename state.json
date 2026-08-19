@@ -11309,7 +11309,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12339,7 +12339,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14127,9 +14127,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 39.95,
-     "last_restock_alert": 1787094918
+     "last_restock_alert": 1787094918,
+     "unavail_since": 1787101817
     },
     "pokemon-tcg-crown-zenith-booster-bundle-6-packs-incoming-item": {
      "title": "Pokemon TCG: Crown Zenith Booster Bundle - 6 Packs",
@@ -15538,7 +15539,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17931,7 +17932,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20595,7 +20596,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21555,7 +21556,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 6
+   "check_cursor": 46
   },
   "https://sagaconcepts.com": {
    "products": {
