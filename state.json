@@ -11439,7 +11439,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12476,7 +12476,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15772,7 +15772,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16430,8 +16430,9 @@
     "starter-commander-deck-draconic-destruction": {
      "title": "Starter Commander Deck (Draconic Destruction)",
      "game": "MTG",
-     "available": true,
-     "price": 59.99
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1787180134
     },
     "starter-commander-deck-grave-danger": {
      "title": "Starter Commander Deck (Grave Danger)",
@@ -16605,7 +16606,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17550,9 +17551,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 50,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-swsh10-astral-radiance-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -17629,7 +17630,7 @@
      "title": "Base Set Booster Box [Revised Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 370.57,
+     "price": 368.95,
      "unavail_since": 1784083349
     },
     "jungle-booster-box-1st-edition": {
@@ -18105,7 +18106,7 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 872.7,
+     "price": 868.88,
      "unavail_since": 1784083349
     },
     "xy-evolutions-booster-box-case": {
@@ -18224,7 +18225,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20955,7 +20956,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21915,7 +21916,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 75
+   "check_cursor": 25
   },
   "https://sagaconcepts.com": {
    "products": {
