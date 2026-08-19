@@ -1373,10 +1373,30 @@
      "game": "One Piece",
      "available": true,
      "price": 25.59
+    },
+    "one-piece-premium-dice-set": {
+     "title": "One Piece Premium Dice Set",
+     "game": "One Piece",
+     "available": true,
+     "price": 16.99
+    },
+    "one-piece-archive-of-adventure-vol-2-luffy-blind-box": {
+     "title": "One Piece: Luffy's Archive of Adventure Vol. 2 Blind Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 16.22,
+     "unavail_since": 1787180601
+    },
+    "lego-one-piece-showdown-with-captain-smoker-75642": {
+     "title": "Lego: One Piece - Showdown with Captain Smoker (75642)",
+     "game": "One Piece",
+     "available": false,
+     "price": 69.99,
+     "unavail_since": 1787180601
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3865,7 +3885,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 216,
+   "check_cursor": 256,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5363,7 +5383,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7231,7 +7251,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 127,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9264,7 +9284,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10568,7 +10588,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
