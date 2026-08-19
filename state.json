@@ -11439,7 +11439,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12474,7 +12474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15770,7 +15770,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16603,7 +16603,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17548,9 +17548,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 4,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-lord-of-the-rings-collector-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18222,7 +18222,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20953,9 +20953,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 74,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'lorwyn-eclipsed-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -21911,9 +21911,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 0
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-royal-blood-op-10-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22180,8 +22180,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
