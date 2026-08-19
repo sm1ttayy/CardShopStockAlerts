@@ -1376,7 +1376,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3850,10 +3850,22 @@
      "available": false,
      "price": 119.0,
      "unavail_since": 1787133211
+    },
+    "tin-pack-set-vol-1-gol-d-roger-ts01": {
+     "title": "One Piece - Tin Pack Set Vol. 1 -Gol.D.Roger- [TS01]",
+     "game": "One Piece",
+     "available": true,
+     "price": 95.0
+    },
+    "tin-pack-set-vol-1-monkey-d-luffy-ts01": {
+     "title": "One Piece - Tin Pack Set Vol. 1 -Monkey.D.Luffy- [TS01]",
+     "game": "One Piece",
+     "available": true,
+     "price": 85.0
     }
    },
    "baselined": true,
-   "check_cursor": 203,
+   "check_cursor": 243,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5351,7 +5363,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7219,7 +7231,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 167,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9252,7 +9264,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10556,7 +10568,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
