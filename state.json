@@ -11433,7 +11433,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12468,7 +12468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15764,7 +15764,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16597,7 +16597,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17535,9 +17535,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 28,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-premium-card-collection-uta' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18209,7 +18209,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18539,7 +18539,7 @@
      "title": "Black Bolt Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 167.99,
+     "price": 168.25,
      "unavail_since": 1784083350
     },
     "white-flare-booster-box": {
@@ -18622,7 +18622,7 @@
      "title": "Chilling Reign Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 3099.75,
+     "price": 2999.75,
      "unavail_since": 1784083350
     },
     "dungeons-dragons-battle-for-baldurs-gate-set-booster-box": {
@@ -20532,7 +20532,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 290.75,
+     "price": 289.99,
      "unavail_since": 1786195830
     },
     "zendikar-rising-draft-booster-box": {
@@ -20940,7 +20940,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21900,7 +21900,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 81
+   "check_cursor": 22
   },
   "https://sagaconcepts.com": {
    "products": {
