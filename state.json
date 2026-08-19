@@ -1349,10 +1349,34 @@
      "available": false,
      "price": 197.22,
      "unavail_since": 1787085221
+    },
+    "nami-netflix-series-one-piece-tamashii-nations-s-h-figuarts": {
+     "title": "Nami \"Netflix Series: One Piece\", Tamashii Nations S.H.Figuarts",
+     "game": "One Piece",
+     "available": true,
+     "price": 87.78
+    },
+    "battleship-one-piece": {
+     "title": "Battleship: One Piece (Pre-Order)",
+     "game": "One Piece",
+     "available": true,
+     "price": 49.95
+    },
+    "one-piece-dawn-of-liberation": {
+     "title": "One Piece: Dawn of Liberation (Pre-Order)",
+     "game": "One Piece",
+     "available": true,
+     "price": 84.99
+    },
+    "5-minute-one-piece": {
+     "title": "5 Minute One Piece",
+     "game": "One Piece",
+     "available": true,
+     "price": 25.59
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3829,7 +3853,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 163,
+   "check_cursor": 203,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5327,7 +5351,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7195,7 +7219,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 127,
+   "check_cursor": 167,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9228,7 +9252,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10532,7 +10556,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
