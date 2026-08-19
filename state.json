@@ -10832,6 +10832,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 34.99
+    },
+    "pitch-black-bundle-moonshot-rips": {
+     "title": "Pitch Black Bundle - Moonshot Rips",
+     "game": "Pokemon",
+     "available": true,
+     "price": 40.0
     }
    },
    "baselined": true,
@@ -11433,7 +11439,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12468,7 +12474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15764,7 +15770,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16597,7 +16603,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17542,9 +17548,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-swsh3-darkness-ablaze-booster' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 37,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -18216,7 +18222,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20947,7 +20953,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 125,
+   "check_cursor": 165,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21907,7 +21913,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 12
+   "check_cursor": 52
   },
   "https://sagaconcepts.com": {
    "products": {
