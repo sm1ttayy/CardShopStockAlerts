@@ -11439,7 +11439,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11632,9 +11632,10 @@
     "riftbound-vendetta-vault-bundle": {
      "title": "Riftbound Vendetta Vault Bundle",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 34.95,
-     "last_restock_alert": 1787168442
+     "last_restock_alert": 1787168442,
+     "unavail_since": 1787176512
     },
     "riftbound-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound Vendetta Showdown Decks: Zed vs Shen",
@@ -12474,7 +12475,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15770,7 +15771,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16603,7 +16604,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17548,9 +17549,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-me02-phantasmal-flames-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 15,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -18222,7 +18223,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20953,7 +20954,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21913,7 +21914,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 66
+   "check_cursor": 16
   },
   "https://sagaconcepts.com": {
    "products": {
