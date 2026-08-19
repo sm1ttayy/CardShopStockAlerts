@@ -11433,7 +11433,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12468,7 +12468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15764,7 +15764,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16597,7 +16597,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17532,12 +17532,19 @@
      "game": "MTG",
      "available": true,
      "price": 69.95
+    },
+    "riftbound-league-of-legends-tcg-radiance-vault": {
+     "title": "RIFTBOUND LEAGUE OF LEGENDS TCG RADIANCE VAULT (LIMIT 1) PRE ORDER ^ OCT 23/26",
+     "game": "Riftbound",
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1787171421
     }
    },
    "baselined": true,
-   "check_cursor": 28,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'one-piece-cg-premium-card-collection-uta' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 13,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -18209,7 +18216,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20940,7 +20947,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21900,7 +21907,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 22
+   "check_cursor": 62
   },
   "https://sagaconcepts.com": {
    "products": {
