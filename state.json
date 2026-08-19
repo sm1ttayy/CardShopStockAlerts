@@ -10863,7 +10863,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11459,9 +11459,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-elite-trainer-box-plus-zacian' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -12496,9 +12496,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'commander-masters-draft-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -15792,9 +15792,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 33,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-blooming-waters-premium-collection-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -16632,7 +16632,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17577,9 +17577,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
-   "error_streak": 1,
-   "last_error": ""
+   "check_cursor": 32,
+   "error_streak": 2,
+   "last_error": "Exor Games: product 'pokemon-me04-chaos-rising-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18118,7 +18118,7 @@
      "title": "XY BREAKpoint Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1467.47,
+     "price": 1461.04,
      "unavail_since": 1784083349
     },
     "xy-fates-collide-booster-box": {
@@ -18251,9 +18251,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 13,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'power-keepers-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -20982,9 +20982,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 167,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'unleashed-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 30,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -21940,9 +21940,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'riftbound-unleashed-vi-champion-deck-copy' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 107
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 46
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22209,8 +22209,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
