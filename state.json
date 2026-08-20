@@ -10863,7 +10863,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11459,9 +11459,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-elite-trainer-box-plus-zamazenta' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12496,9 +12496,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'the-azure-seas-seven-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -15793,9 +15793,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-blooming-waters-premium-collection-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -16639,7 +16639,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17584,9 +17584,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 37,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-sv2-paldea-evolved-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18258,9 +18258,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'arceus-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -20989,9 +20989,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 133,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'one-piece-3d2y-starter-deck-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'secrets-of-strixhaven-codex-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -21948,8 +21948,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'riftbound-tcg-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 105
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-pillars-of-strength-op-03-sealed-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 37
   },
   "https://sagaconcepts.com": {
    "products": {
