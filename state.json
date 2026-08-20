@@ -11459,7 +11459,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12497,7 +12497,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15794,7 +15794,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16640,7 +16640,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17511,9 +17511,10 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box": {
      "title": "RIFTBOUND LEAGUE OF LEGENDS TCG RADIANCE BOOSTER BOX (LIMIT 3) PRE ORDER ^ OCT 23/26",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 179.95,
-     "last_restock_alert": 1787168443
+     "last_restock_alert": 1787168443,
+     "unavail_since": 1787191521
     },
     "mtg-star-trek-play-booster-box": {
      "title": "MTG STAR TREK PLAY BOOSTER BOX  PRE ORDER ^ NOV 6/26",
@@ -17585,9 +17586,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'one-piece-cg-double-pack-set-vol-3' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 50,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -18259,7 +18260,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20990,7 +20991,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 166,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21950,7 +21951,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 56
+   "check_cursor": 96
   },
   "https://sagaconcepts.com": {
    "products": {
