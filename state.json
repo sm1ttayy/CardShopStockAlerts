@@ -11459,7 +11459,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12496,7 +12496,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15792,7 +15792,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16638,7 +16638,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17583,7 +17583,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18257,7 +18257,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20988,9 +20988,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 46,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'gg-end-booster-box-jp' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -21946,9 +21946,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 84
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-marvel-super-heroes-play-booster-box-30-booster-packs-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 16
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22215,8 +22215,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
