@@ -10863,7 +10863,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11459,9 +11459,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 29,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12497,9 +12497,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'teenage-mutant-ninja-turtles-collector-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -15794,9 +15794,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 119,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'riftbound-league-of-legends-chinese-jumbo-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -16640,7 +16640,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17586,9 +17586,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 21,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'one-piece-cg-kingdoms-of-intrigue-booster-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18260,9 +18260,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 31,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'legend-maker-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -20991,9 +20991,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'mtg-lord-of-the-rings-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'premium-card-collection-best-selection-vol-4' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -21950,8 +21950,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sword-shield-elite-trainer-box-plus-etb' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 96
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-carrying-on-his-will-op-13-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 28
   },
   "https://sagaconcepts.com": {
    "products": {
