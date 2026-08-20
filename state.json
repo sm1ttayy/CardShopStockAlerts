@@ -761,7 +761,7 @@
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 170.41,
+     "price": 175.17,
      "last_restock_alert": 1785268024
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
@@ -1393,10 +1393,29 @@
      "available": false,
      "price": 69.99,
      "unavail_since": 1787180601
+    },
+    "one-piece-adventure-island": {
+     "title": "One Piece: Adventure Island",
+     "game": "One Piece",
+     "available": true,
+     "price": 34.31
+    },
+    "pokemon-tcg-sword-shield-silver-tempest-booster-display": {
+     "title": "Pokemon TCG: Sword & Shield Silver Tempest Booster Display",
+     "game": "Pokemon",
+     "available": true,
+     "price": 549.99
+    },
+    "pokemon-tcg-sword-shield-lost-origin-booster-display": {
+     "title": "Pokemon TCG: Sword & Shield Lost Origin Booster Display",
+     "game": "Pokemon",
+     "available": false,
+     "price": 799.99,
+     "unavail_since": 1787199521
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 142,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1792,7 +1811,7 @@
      "title": "One Piece Double Pack Set Vol. 10 [DP-10]",
      "game": "One Piece",
      "available": false,
-     "price": 28.0,
+     "price": 45.0,
      "unavail_since": 1784083332
     },
     "magic-the-gathering-the-hobbit-collector-booster-box": {
@@ -3593,7 +3612,7 @@
      "title": "Mega Evolution: Chaos Rising - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 74.0
+     "price": 70.0
     },
     "black-bolt-elite-trainer-box": {
      "title": "Black Bolt Elite Trainer Box",
@@ -3885,7 +3904,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 180,
+   "check_cursor": 220,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5383,7 +5402,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6357,7 +6376,7 @@
      "title": "Pokemon Scarlet and Violet Journey Together Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 324.75
+     "price": 299.75
     },
     "pokemon-terastal-fest-ex-booster-box-japanese": {
      "title": "Pok\u00e9mon Terastal Fest ex Booster Box (Japanese)",
@@ -6383,9 +6402,9 @@
     "pokemon-scarlet-violet-surging-sparks-booster-box": {
      "title": "Pokemon Scarlet & Violet Surging Sparks Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 349.75,
-     "unavail_since": 1785843589
+     "available": true,
+     "price": 359.75,
+     "last_restock_alert": 1787199521
     },
     "magic-the-gathering-duskmourn-house-of-horror-collector-booster-box": {
      "title": "Magic the Gathering Duskmourn: House of Horror Collector Booster Box",
@@ -7251,7 +7270,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 147,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9281,10 +9300,22 @@
      "game": "Pokemon",
      "available": true,
      "price": 500.0
+    },
+    "champions-path-elite-trainer-box": {
+     "title": "Champion's Path Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 200.0
+    },
+    "evolving-skies-pokemon-center-elite-trainer-box-glaceon-vaporeon-sylveon-espeon": {
+     "title": "Evolving Skies Pok\u00e9mon Center Elite Trainer Box (Glaceon/Vaporeon/Sylveon/Espeon)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1200.0
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9666,6 +9697,13 @@
      "available": false,
      "price": 550.0,
      "unavail_since": 1787115384
+    },
+    "pokemon-tcg-151-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon TCG: 151 Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 1200.0,
+     "unavail_since": 1787199521
     }
    },
    "baselined": true,
@@ -10588,7 +10626,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
