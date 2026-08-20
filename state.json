@@ -1099,10 +1099,11 @@
     "one-piece-tcg-ib-07-illustration-box-volume-7-english": {
      "title": "One Piece TCG: [IB-07] Illustration Box Vol. 7 [English]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 38.0,
      "note": "Illustration Box Vol. 7 @ $22.99 (releases 7/31)",
-     "last_restock_alert": 1787252656
+     "last_restock_alert": 1787252656,
+     "unavail_since": 1787261727
     },
     "one-piece-tcg-title-tba-starter-deck-st-32": {
      "title": "One Piece TCG: [TITLE TBA] Starter Deck (ST-32) (Pre-Order)",
@@ -1421,7 +1422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3922,7 +3923,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 184,
+   "check_cursor": 224,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5426,7 +5427,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7300,7 +7301,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 139,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10663,7 +10664,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
