@@ -1421,7 +1421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3922,7 +3922,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 144,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5426,7 +5426,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7291,10 +7291,16 @@
      "game": "One Piece",
      "available": true,
      "price": 29.75
+    },
+    "pokemon-mega-evolution-phantasmal-flames-booster-6-box-case": {
+     "title": "Pokemon Mega Evolution Phantasmal Flames Booster 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 2949.75
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10657,7 +10663,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
