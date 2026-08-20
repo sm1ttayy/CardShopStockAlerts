@@ -1421,7 +1421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3910,7 +3910,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 169,
+   "check_cursor": 209,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5405,10 +5405,16 @@
      "game": "One Piece",
      "available": true,
      "price": 52.0
+    },
+    "one-piece-tcg-luffy-gear-5-ultra-starter-deck-st-21-pre-order": {
+     "title": "One Piece TCG: Luffy Gear 5 Ultra Starter Deck (ST-21)",
+     "game": "One Piece",
+     "available": true,
+     "price": 76.0
     }
    },
    "baselined": true,
-   "check_cursor": 103,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7276,7 +7282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 151,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9321,7 +9327,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9710,6 +9716,13 @@
      "available": false,
      "price": 1200.0,
      "unavail_since": 1787199521
+    },
+    "pokemon-tcg-pokemon-day-2026-collection-1": {
+     "title": "Pokemon TCG: Pokemon Day 2026 Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 35.0,
+     "unavail_since": 1787244866
     }
    },
    "baselined": true,
@@ -10632,7 +10645,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
