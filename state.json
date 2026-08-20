@@ -11570,10 +11570,9 @@
     "chaos-rising-booster-box": {
      "title": "Pokemon ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1787091607,
-     "unavail_since": 1787258410
+     "last_restock_alert": 1787260210
     },
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon ME03 Perfect Order Booster Box",
@@ -11657,9 +11656,9 @@
     "pokemon-me04-chaos-rising-booster-bundle": {
      "title": "Pokemon ME04 Chaos Rising Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 37.95,
-     "unavail_since": 1784316320
+     "available": true,
+     "price": 34.95,
+     "last_restock_alert": 1787260233
     },
     "pokemon-me05-pitch-black-booster-bundle": {
      "title": "Pokemon ME05 Pitch Black Booster Bundle",
@@ -12573,7 +12572,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15875,7 +15874,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18347,7 +18346,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21092,7 +21091,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 137,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
