@@ -1421,7 +1421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 110,
+   "check_cursor": 150,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1596,9 +1596,9 @@
     "magic-the-gathering-lorwyn-eclipsed-play-booster-box": {
      "title": "Magic: The Gathering - Lorwyn Eclipsed Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 120.0,
-     "unavail_since": 1787046784
+     "last_restock_alert": 1787219671
     },
     "magic-the-gathering-aetherdrift-play-booster-box-1": {
      "title": "Magic: The Gathering Aetherdrift Play Booster Box",
@@ -3910,7 +3910,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 234,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5408,7 +5408,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7276,7 +7276,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 109,
+   "check_cursor": 149,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9321,7 +9321,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10632,7 +10632,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
