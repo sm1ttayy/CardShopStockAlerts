@@ -1412,10 +1412,16 @@
      "available": false,
      "price": 799.99,
      "unavail_since": 1787199521
+    },
+    "magic-the-gathering-aetherdrift-booster-display": {
+     "title": "Magic the Gathering: Aetherdrift Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 115.0
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3904,7 +3910,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 154,
+   "check_cursor": 194,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5402,7 +5408,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7270,7 +7276,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9315,7 +9321,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10626,7 +10632,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
