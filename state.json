@@ -11459,7 +11459,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12497,7 +12497,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15794,7 +15794,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16640,7 +16640,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17586,7 +17586,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18260,7 +18260,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20991,9 +20991,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 86,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'mtg-lord-of-the-rings-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -21949,9 +21949,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 56
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sword-shield-elite-trainer-box-plus-etb' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 96
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22218,8 +22218,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
