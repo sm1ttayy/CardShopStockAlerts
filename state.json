@@ -11570,9 +11570,10 @@
     "chaos-rising-booster-box": {
      "title": "Pokemon ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 179.95,
-     "last_restock_alert": 1787260210
+     "last_restock_alert": 1787260210,
+     "unavail_since": 1787261710
     },
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon ME03 Perfect Order Booster Box",
@@ -12572,7 +12573,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15874,7 +15875,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18346,7 +18347,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21091,7 +21092,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
