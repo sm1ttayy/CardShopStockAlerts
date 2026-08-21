@@ -1422,7 +1422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3958,7 +3958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 132,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5462,7 +5462,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7342,7 +7342,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9496,9 +9496,10 @@
     "pokemon-tcg-me05-pitch-black-elite-trainer-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 57.0,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1787351579
     },
     "pokemon-tcg-pitch-black-booster-bundle": {
      "title": "Pokemon TCG: Pitch Black Booster Bundle",
@@ -9519,8 +9520,9 @@
     "pokemon-tcg-me03-perfect-order-elite-trainer-box": {
      "title": "Pokemon TCG: ME03 Perfect Order Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 55.0
+     "available": false,
+     "price": 55.0,
+     "unavail_since": 1787351579
     },
     "pokemon-s-v-151-blooming-waters-premium-collection": {
      "title": "Pokemon: S&V:151 Blooming Waters Premium Collection",
@@ -10730,7 +10732,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
