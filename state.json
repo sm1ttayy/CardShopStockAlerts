@@ -12651,7 +12651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15986,7 +15986,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18464,7 +18464,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21209,7 +21209,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 115,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22431,9 +22431,9 @@
     "magic-the-gathering-universes-beyond-marvel-super-heroes-jumpstart-booster-display-24-ct": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Jumpstart Booster Display ( 24 Ct)",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 108.99,
-     "unavail_since": 1786800631
+     "last_restock_alert": 1787343643
     }
    },
    "baselined": true,
