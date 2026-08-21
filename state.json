@@ -1422,7 +1422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3958,7 +3958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 225,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5462,7 +5462,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7342,7 +7342,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9438,10 +9438,9 @@
     "pokemon-tcg-me04-chaos-rising-booster-box": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 170.0,
-     "delisted": true,
-     "unavail_since": 1786750330
+     "delisted": true
     },
     "pokemon-tcg-me04-chaos-rising-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Elite Trainer Box",
@@ -9474,10 +9473,9 @@
     "pokemon-tcg-me03-perfect-order-booster-box": {
      "title": "Pokemon TCG: ME03 Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 159.99,
-     "delisted": true,
-     "unavail_since": 1786758226
+     "delisted": true
     },
     "pokemon-tcg-me05-pitch-black-booster-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box",
@@ -9499,7 +9497,7 @@
      "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 63.99,
+     "price": 57.0,
      "delisted": true
     },
     "pokemon-tcg-pitch-black-booster-bundle": {
@@ -9522,7 +9520,7 @@
      "title": "Pokemon TCG: ME03 Perfect Order Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 60.0
+     "price": 55.0
     },
     "pokemon-s-v-151-blooming-waters-premium-collection": {
      "title": "Pokemon: S&V:151 Blooming Waters Premium Collection",
@@ -10732,7 +10730,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
