@@ -11604,8 +11604,9 @@
     "pokemon-trading-card-game-pitch-black-elite-trainer-box-me05-pitch-black-pbl": {
      "title": "Pokemon Trading Card Game: Pitch Black Elite Trainer Box - ME05: Pitch Black (PBL)",
      "game": "Pokemon",
-     "available": true,
-     "price": 69.99
+     "available": false,
+     "price": 69.99,
+     "unavail_since": 1787342710
     }
    },
    "baselined": true,
@@ -12650,7 +12651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15985,7 +15986,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18463,7 +18464,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21208,7 +21209,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 137,
    "error_streak": 0,
    "last_error": ""
   },
