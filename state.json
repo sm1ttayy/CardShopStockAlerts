@@ -12650,7 +12650,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14073,9 +14073,10 @@
     "pokemon-storm-emeralda-japanese-booster-box": {
      "title": "Pokemon - Storm Emeralda - Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 209.95,
-     "last_restock_alert": 1786999213
+     "last_restock_alert": 1786999213,
+     "unavail_since": 1787339408
     },
     "pokemon-lost-origin-booster-box": {
      "title": "Pokemon - Lost Origin - Booster Box",
@@ -15978,7 +15979,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18456,7 +18457,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18513,7 +18514,7 @@
      "title": "Team Up Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 20003.75,
+     "price": 15009.49,
      "unavail_since": 1784083350
     },
     "premium-booster-vol-2-booster-box": {
@@ -18591,14 +18592,14 @@
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 516.99,
+     "price": 514.99,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
      "title": "Stellar Crown Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 235.75,
+     "price": 299.49,
      "unavail_since": 1786195831
     },
     "twilight-masqueade-half-booster-box": {
@@ -18647,7 +18648,7 @@
      "title": "Ninja Spinner Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 84.99,
+     "price": 84.75,
      "unavail_since": 1784083350
     },
     "chaos-rising-booster-box": {
@@ -18668,7 +18669,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 972.25,
+     "price": 971.25,
      "unavail_since": 1786800622
     },
     "destined-rivals-booster-box": {
@@ -19077,7 +19078,7 @@
      "title": "Japanese Stellar Miracle Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 90.75,
+     "price": 84.75,
      "unavail_since": 1784083350
     },
     "ruler-of-the-black-flame-booster-box": {
@@ -19447,7 +19448,7 @@
      "title": "Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 499.99,
+     "price": 499.75,
      "unavail_since": 1784083350
     },
     "pokemon-scarlet-violet-booster-box": {
@@ -19523,7 +19524,7 @@
      "title": "Wilds of Eldraine Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 413.99,
+     "price": 394.75,
      "unavail_since": 1784083350
     },
     "mtg-universes-beyond-assassins-creed-booster-box": {
@@ -19571,21 +19572,21 @@
      "title": "Japanese Super Electric Breaker Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 134.99,
+     "price": 133.99,
      "unavail_since": 1784083350
     },
     "pokemon-terastal-festival-ex-booster-box-sv8a": {
      "title": "Japanese Terastal Festival ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 123.99,
+     "price": 123.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
      "title": "Japanese Shiny Treasure ex High Class Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 127.75,
+     "price": 133.75,
      "unavail_since": 1786195841
     },
     "pokemon-s-v-temporal-forces-booster-box": {
@@ -19654,14 +19655,14 @@
      "title": "Sun & Moon Base Set Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1084.75,
+     "price": 1074.75,
      "unavail_since": 1784083350
     },
     "sword-shield-booster-box": {
      "title": "Sword & Shield Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 696.75,
+     "price": 696.99,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-14-3d2y": {
@@ -19943,7 +19944,7 @@
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 76.75,
+     "price": 78.99,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -21201,7 +21202,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 123,
    "error_streak": 0,
    "last_error": ""
   },
