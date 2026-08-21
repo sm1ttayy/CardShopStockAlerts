@@ -11601,9 +11601,10 @@
     "pokemon-me05-pitch-black-booster-box": {
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 169.95,
-     "last_restock_alert": 1785436207
+     "last_restock_alert": 1785436207,
+     "unavail_since": 1787274606
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
      "title": "Pokemon ME04 Chaos Rising Elite Trainer Box",
@@ -12574,7 +12575,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15877,7 +15878,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18349,7 +18350,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21094,7 +21095,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 109,
    "error_streak": 0,
    "last_error": ""
   },
