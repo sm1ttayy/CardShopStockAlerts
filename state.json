@@ -11646,7 +11646,7 @@
      "title": "One Piece Omnihive 1000 Xenoskin Deck Case",
      "game": "One Piece",
      "available": true,
-     "price": 74.95
+     "price": 69.95
     },
     "chaos-rising-booster-box": {
      "title": "Pokemon ME04 Chaos Rising Booster Box",
@@ -11821,7 +11821,7 @@
      "title": "Riftbound Vendetta Showdown Decks: Zed vs Shen",
      "game": "Riftbound",
      "available": true,
-     "price": 24.95,
+     "price": 20.95,
      "last_restock_alert": 1785261612
     },
     "the-hobbit-play-booster-box-preorder": {
@@ -12243,9 +12243,10 @@
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 29.95,
-     "last_restock_alert": 1787258412
+     "last_restock_alert": 1787258412,
+     "unavail_since": 1787364611
     },
     "unova-poster-collection-sv-black-bolt": {
      "title": "Unova Poster Collection - SV: Black Bolt",
@@ -15997,7 +15998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18475,7 +18476,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21220,7 +21221,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
