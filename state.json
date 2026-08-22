@@ -14898,8 +14898,9 @@
     "pokemon-scarlet-violet-151-poster-collection": {
      "title": "Pokemon Scarlet & Violet\u2014151 Poster Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 124.95
+     "available": false,
+     "price": 124.95,
+     "unavail_since": 1787372409
     },
     "pre-order-pokemon-marnie-premium-tournament-collection": {
      "title": "Pokemon Marnie Premium Tournament Collection",
@@ -15998,7 +15999,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18476,7 +18477,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21221,7 +21222,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
