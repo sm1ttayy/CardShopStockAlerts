@@ -12689,7 +12689,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15121,9 +15121,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-pitch-black-booster-box-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 249.95,
-     "last_restock_alert": 1785952514
+     "last_restock_alert": 1785952514,
+     "unavail_since": 1787441713
     },
     "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box",
@@ -16039,7 +16040,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16125,9 +16126,10 @@
     "riftbound-league-of-legends-tcg-unleashed-booster-box": {
      "title": "Riftbound: League of Legends TCG: Unleashed - Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 189.99,
-     "last_restock_alert": 1787170223
+     "last_restock_alert": 1787170223,
+     "unavail_since": 1787441713
     },
     "riftbound-league-of-legends-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends TCG: Origins - Booster Box",
@@ -18328,7 +18330,7 @@
      "title": "XY Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2750.91,
+     "price": 2779.11,
      "unavail_since": 1784083349
     },
     "flashfire-booster-box": {
@@ -18517,7 +18519,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21296,7 +21298,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
