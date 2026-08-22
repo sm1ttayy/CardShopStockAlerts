@@ -1494,14 +1494,14 @@
      "title": "Riftbound: League of Legends TCG - Spiritforged Booster Box Display",
      "game": "Riftbound",
      "available": true,
-     "price": 220.0,
+     "price": 205.0,
      "last_restock_alert": 1785929597
     },
     "riftbound-league-of-legends-tcg-unleashed-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Unleashed Booster Box Display",
      "game": "Riftbound",
      "available": false,
-     "price": 155.0,
+     "price": 160.0,
      "last_restock_alert": 1785929597,
      "unavail_since": 1786530647
     },
@@ -1509,14 +1509,14 @@
      "title": "Riftbound: League of Legends TCG - Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 135.0,
+     "price": 160.0,
      "unavail_since": 1784286069
     },
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
      "game": "Riftbound",
      "available": false,
-     "price": 250.0,
+     "price": 269.0,
      "last_restock_alert": 1785929597,
      "unavail_since": 1786960910
     },
@@ -3893,9 +3893,9 @@
     "preorder-magic-the-gathering-reality-fracture-booster-box": {
      "title": "[PREORDER] Magic: The Gathering - Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 119.0,
-     "unavail_since": 1787133211
+     "last_restock_alert": 1787392126
     },
     "tin-pack-set-vol-1-gol-d-roger-ts01": {
      "title": "One Piece - Tin Pack Set Vol. 1 -Gol.D.Roger- [TS01]",
@@ -3958,7 +3958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 256,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5373,7 +5373,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box  (SALE)",
      "game": "Riftbound",
      "available": false,
-     "price": 120.0,
+     "price": 168.0,
      "unavail_since": 1786269649
     },
     "riftbound-league-of-legends-tcg-vendetta-vault-bundle": {
@@ -5468,7 +5468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7218,9 +7218,10 @@
     "riftbound-league-of-legends-vendetta-booster-box": {
      "title": "Riftbound League of Legends Vendetta Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 144.75,
-     "last_restock_alert": 1786443440
+     "last_restock_alert": 1786443440,
+     "unavail_since": 1787392126
     },
     "riftbound-league-of-legends-vendetta-booster-6-box-case": {
      "title": "Riftbound League of Legends Vendetta Booster 6-Box Case",
@@ -8514,8 +8515,9 @@
     "mystery-booster-2-booster-box": {
      "title": "Mystery Booster 2 Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 309.99
+     "available": false,
+     "price": 309.99,
+     "unavail_since": 1787392126
     },
     "one-piece-premium-dice-set": {
      "title": "One Piece Premium Dice Set",
@@ -9425,7 +9427,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9784,42 +9786,48 @@
      "game": "Pokemon",
      "available": false,
      "price": 80.0,
-     "unavail_since": 1787115384
+     "unavail_since": 1787115384,
+     "delisted": true
     },
     "pokemon-tcg-sv03-obsidian-flames-booster-elite-trainer-box": {
      "title": "Pokemon TCG: SV03 Obsidian Flames Booster Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
      "price": 270.0,
-     "unavail_since": 1787115384
+     "unavail_since": 1787115384,
+     "delisted": true
     },
     "pokemon-tcg-sv02-paldea-evolved-elite-trainer-box": {
      "title": "Pokemon TCG: SV02 Paldea Evolved Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
      "price": 215.0,
-     "unavail_since": 1787115384
+     "unavail_since": 1787115384,
+     "delisted": true
     },
     "pokemon-tcg-hidden-fates-elite-trainer-box": {
      "title": "Pokemon TCG: Hidden Fates Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
      "price": 550.0,
-     "unavail_since": 1787115384
+     "unavail_since": 1787115384,
+     "delisted": true
     },
     "pokemon-tcg-151-pokemon-center-elite-trainer-box": {
      "title": "Pokemon TCG: 151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
      "price": 1200.0,
-     "unavail_since": 1787199521
+     "unavail_since": 1787199521,
+     "delisted": true
     },
     "pokemon-tcg-pokemon-day-2026-collection-1": {
      "title": "Pokemon TCG: Pokemon Day 2026 Collection",
      "game": "Pokemon",
      "available": false,
      "price": 35.0,
-     "unavail_since": 1787244866
+     "unavail_since": 1787244866,
+     "delisted": true
     }
    },
    "baselined": true,
@@ -10753,7 +10761,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
