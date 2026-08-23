@@ -12690,7 +12690,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16065,7 +16065,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16910,6 +16910,18 @@
      "game": "MTG",
      "available": true,
      "price": 199.99
+    },
+    "ikoria-lair-of-behemoths-commander-deck-arcane-maelstrom": {
+     "title": "Ikoria Lair of Behemoths - Commander Deck (Arcane Maelstrom)",
+     "game": "MTG",
+     "available": true,
+     "price": 149.99
+    },
+    "march-of-the-machine-bundle": {
+     "title": "March of the Machine - Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 129.99
     }
    },
    "baselined": true,
@@ -18545,7 +18557,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21322,7 +21334,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 142,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
