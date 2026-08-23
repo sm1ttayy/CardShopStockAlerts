@@ -1493,9 +1493,10 @@
     "riftbound-league-of-legends-tcg-spiritforged-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Spiritforged Booster Box Display",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 205.0,
-     "last_restock_alert": 1785929597
+     "last_restock_alert": 1785929597,
+     "unavail_since": 1787478654
     },
     "riftbound-league-of-legends-tcg-unleashed-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Unleashed Booster Box Display",
@@ -5369,7 +5370,7 @@
      "price": 226.0
     },
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
-     "title": "Riftbound League of Legends TCG: Vendetta Booster Box  (SALE)",
+     "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
      "price": 168.0,
@@ -5467,7 +5468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9426,7 +9427,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
