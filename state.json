@@ -1422,7 +1422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3958,7 +3958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 125,
+   "check_cursor": 165,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5468,7 +5468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6615,9 +6615,8 @@
     "pok-mon-sword-shield-booster-box": {
      "title": "Pokemon Sword & Shield Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 230.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 775.75
     },
     "pok-mon-sun-and-moon-burning-shadows-booster-box": {
      "title": "Pokemon Sun & Moon Burning Shadows Booster Box",
@@ -7356,7 +7355,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 122,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10763,7 +10762,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
