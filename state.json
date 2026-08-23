@@ -12691,7 +12691,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16066,7 +16066,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16145,9 +16145,10 @@
     "riftbound-league-of-legends-tcg-spiritforged-booster-box": {
      "title": "Riftbound: League of Legends TCG: Spiritforged - Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 299.99,
-     "last_restock_alert": 1787170511
+     "last_restock_alert": 1787170511,
+     "unavail_since": 1787528411
     },
     "riftbound-league-of-legends-tcg-unleashed-booster-box": {
      "title": "Riftbound: League of Legends TCG: Unleashed - Booster Box",
@@ -18545,7 +18546,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21322,7 +21323,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
