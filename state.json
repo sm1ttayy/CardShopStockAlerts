@@ -1422,7 +1422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3834,10 +3834,9 @@
     "one-piece-the-worlds-strongest-warriors-booster-box-op-17": {
      "title": "[PREORDER] One Piece: The World's Strongest Warriors - Booster Box [OP-17]",
      "game": "One Piece",
-     "available": false,
-     "price": 389.0,
-     "last_restock_alert": 1786217909,
-     "unavail_since": 1786552776
+     "available": true,
+     "price": 399.0,
+     "last_restock_alert": 1787454647
     },
     "pokemon-mega-evolution-ascended-heroes-collection-larry": {
      "title": "Pokemon - Mega Evolution: Ascended Heroes Collection [Larry]",
@@ -3958,7 +3957,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 174,
+   "check_cursor": 214,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5468,7 +5467,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5953,7 +5952,7 @@
      "title": "One Piece The Azure Sea's Seven (OP 14) Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 290.75
+     "price": 274.75
     },
     "one-piece-card-game-starter-deck-zoro-sandi": {
      "title": "One Piece Card Game: Starter Deck Zoro & Sandi",
@@ -6240,7 +6239,7 @@
      "title": "One Piece The Time of Battle (OP-16) Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 249.75,
+     "price": 214.75,
      "last_restock_alert": 1784395077
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
@@ -7355,7 +7354,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 133,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9487,9 +9486,10 @@
     "pokemon-tcg-me03-perfect-order-booster-box": {
      "title": "Pokemon TCG: ME03 Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 159.99,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1787454650
     },
     "pokemon-tcg-me05-pitch-black-booster-box": {
      "title": "Pokemon TCG: ME05 Pitch Black Booster Box",
@@ -10761,7 +10761,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
