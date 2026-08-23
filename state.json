@@ -12689,7 +12689,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14675,8 +14675,9 @@
     "mtg-duskmourn-house-of-horror-play-booster-box-pre-order": {
      "title": "MTG - Duskmourn: House of Horror - Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 229.95
+     "available": false,
+     "price": 229.95,
+     "unavail_since": 1787450115
     },
     "mtg-aetherdrift-collector-booster-box-pre-order": {
      "title": "MTG - Aetherdrift - Collector Booster Box",
@@ -16044,10 +16045,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 99.95
+    },
+    "pre-order-magic-the-gathering-kaldheim-set-booster-february-2021": {
+     "title": "Magic The Gathering Kaldheim Set Booster",
+     "game": "MTG",
+     "available": false,
+     "price": 159.95,
+     "unavail_since": 1787450115
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18526,7 +18534,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21305,7 +21313,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
