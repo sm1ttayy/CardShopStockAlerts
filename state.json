@@ -1422,7 +1422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3958,7 +3958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5468,7 +5468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5477,9 +5477,9 @@
     "one-piece-royal-blood-op-10-booster-box": {
      "title": "One Piece Royal Blood (OP-10) Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 259.75,
-     "unavail_since": 1785843586
+     "available": true,
+     "price": 264.75,
+     "last_restock_alert": 1787524238
     },
     "one-piece-heroines-edition-ep-13-extra-booster-box": {
      "title": "One Piece Heroines Edition (EB-03) Extra Booster Box",
@@ -5533,8 +5533,9 @@
     "one-piece-tcg-emperors-in-the-new-world-booster-12-box-case-op09": {
      "title": "One Piece Emperors in the New World (OP-09) Booster 12-Box Case",
      "game": "One Piece",
-     "available": true,
-     "price": 8399.75
+     "available": false,
+     "price": 8399.75,
+     "unavail_since": 1787524238
     },
     "2025-one-piece-tcg-the-best-vol-2-premium-booster-box-case": {
      "title": "One Piece The Best Vol. 2 (PBR-02) Premium Booster 10-Box Case",
@@ -7355,7 +7356,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 116,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10762,7 +10763,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
