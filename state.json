@@ -12690,7 +12690,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16058,7 +16058,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18537,7 +18537,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19095,10 +19095,9 @@
     "phantasmal-flames-booster-box": {
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 399.49,
-     "last_restock_alert": 1786664125,
-     "unavail_since": 1787405436
+     "available": true,
+     "price": 413.64,
+     "last_restock_alert": 1787505026
     },
     "korean-blue-sky-stream-booster-box": {
      "title": "Korean Blue Sky Stream Booster Box",
@@ -19339,10 +19338,9 @@
     "pokemon-surging-sparks-booster-box": {
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 307.75,
-     "last_restock_alert": 1785965135,
-     "unavail_since": 1787405439
+     "last_restock_alert": 1787505026
     },
     "japanese-sky-legend-booster-box": {
      "title": "Japanese Sky Legend Booster Box",
@@ -19864,13 +19862,13 @@
      "title": "Perfect Order Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 125.75
+     "price": 124.75
     },
     "white-flare-pokemon-center-elite-trainer-box": {
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 246.99
+     "price": 251.49
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
@@ -19942,7 +19940,7 @@
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 69.99
+     "price": 69.25
     },
     "paldean-fates-booster-bundle": {
      "title": "Paldean Fates Booster Bundle",
@@ -20002,7 +20000,7 @@
      "title": "Blooming Waters Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 344.75
+     "price": 363.0
     },
     "151-ultra-premium-collection": {
      "title": "151 Ultra Premium Collection",
@@ -20124,7 +20122,7 @@
      "title": "151 Alakazam ex Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 119.75
+     "price": 121.0
     },
     "edge-of-eternities-commander-deck-world-shaper": {
      "title": "Edge of Eternities World Shaper Commander Deck",
@@ -20166,7 +20164,7 @@
      "title": "Ascended Heroes Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 426.75
+     "price": 414.25
     },
     "surging-sparks-pokemon-center-elite-trainer-box-1": {
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
@@ -20398,7 +20396,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 47.75
+     "price": 46.49
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -21316,7 +21314,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
