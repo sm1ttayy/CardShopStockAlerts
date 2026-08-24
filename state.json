@@ -11072,7 +11072,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11681,9 +11681,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'learn-to-paint-kit-layer-up-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -12742,12 +12742,18 @@
      "game": "MTG",
      "available": true,
      "price": 139.95
+    },
+    "secrets-of-strixhaven-draft-night-box-preorder": {
+     "title": "Secrets of Strixhaven Draft Night Box",
+     "game": "MTG",
+     "available": true,
+     "price": 94.95
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16127,9 +16133,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 10,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-card-game-starter-deck-st29-egghead-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17016,7 +17022,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17945,7 +17951,7 @@
      "title": "MTG DOMINARIA UNITED SET BOOSTER BOX",
      "game": "MTG",
      "available": true,
-     "price": 299.95
+     "price": 349.95
     },
     "mtg-reality-fracture-bundle": {
      "title": "MTG REALITY FRACTURE BUNDLE PRE ORDER ^ SEPT 25/26",
@@ -17974,9 +17980,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 30,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'pokemon-sv8-5-prismatic-evolutions-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -18494,7 +18500,7 @@
      "title": "XY Roaring Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3235.51,
+     "price": 3214.51,
      "unavail_since": 1784083349
     },
     "xy-ancient-origins-booster-box": {
@@ -18508,7 +18514,7 @@
      "title": "XY BREAKthrough Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2367.61,
+     "price": 2352.24,
      "unavail_since": 1784083349
     },
     "xy-breakpoint-booster-box": {
@@ -18522,7 +18528,7 @@
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2032.92,
+     "price": 2020.22,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
@@ -18550,7 +18556,7 @@
      "title": "Sun & Moon Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 705.79,
+     "price": 701.21,
      "unavail_since": 1784083349
     },
     "guardians-rising-booster-box": {
@@ -18648,9 +18654,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'neo-revelation-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -20045,8 +20051,9 @@
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 88.49
+     "available": false,
+     "price": 88.49,
+     "unavail_since": 1787615141
     },
     "destined-rivals-booster-bundle": {
      "title": "Destined Rivals Booster Bundle",
@@ -21474,9 +21481,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 142,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'primal-clash-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 1,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22446,9 +22453,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'riftbound-origins-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 105
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 53
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22715,8 +22722,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
