@@ -1422,7 +1422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1738,13 +1738,14 @@
      "title": "Magic: The Gathering Edge of Eternities Commander Deck Bundle [Set of 2]",
      "game": "MTG",
      "available": true,
-     "price": 62.0
+     "price": 82.0
     },
     "aetherdrift-commander-deck-bundle-set-of-2": {
      "title": "Magic: The Gathering Aetherdrift Commander Deck Bundle [Set of 2]",
      "game": "MTG",
-     "available": true,
-     "price": 62.0
+     "available": false,
+     "price": 62.0,
+     "unavail_since": 1787580496
     },
     "magic-the-gathering-final-fantasy-collector-commander-deck-bundle-set-of-4": {
      "title": "Magic: The Gathering Final Fantasy Collector Commander Deck Bundle [Set of 4]",
@@ -1763,7 +1764,7 @@
      "title": "Magic: The Gathering Final Fantasy Commander Deck Bundle [Set of 4]",
      "game": "MTG",
      "available": true,
-     "price": 184.0
+     "price": 178.0
     },
     "magic-the-gathering-marvel-super-heroes-collectors-edition-commander-decks-set-of-4": {
      "title": "Magic: The Gathering - Marvel Super Heroes Collector's Edition Commander Decks [Set of 4]",
@@ -1772,10 +1773,10 @@
      "price": 729.0
     },
     "magic-the-gathering-the-hobbit-bundle": {
-     "title": "[PREORDER] Magic: The Gathering - The Hobbit Bundle",
+     "title": "Magic: The Gathering - The Hobbit Bundle",
      "game": "MTG",
      "available": true,
-     "price": 90.0
+     "price": 72.0
     },
     "magic-the-gathering-marvel-super-heroes-gift-bundle": {
      "title": "Magic: The Gathering - Marvel Super Heroes Gift Bundle",
@@ -3955,10 +3956,16 @@
      "available": false,
      "price": 40.0,
      "unavail_since": 1787332432
+    },
+    "magic-the-gathering-the-hobbit-gift-bundle": {
+     "title": "[PREORDER] Magic: The Gathering - The Hobbit Gift Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 189.0
     }
    },
    "baselined": true,
-   "check_cursor": 190,
+   "check_cursor": 230,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5471,7 +5478,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7358,7 +7365,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10771,7 +10778,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
