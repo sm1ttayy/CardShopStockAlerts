@@ -11669,7 +11669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12733,7 +12733,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14089,8 +14089,9 @@
     "pokemon-celebrations-deluxe-pin-collection-zacian-lv-x": {
      "title": "Pokemon - Celebrations - Deluxe Pin Collection - Zacian LV.X",
      "game": "Pokemon",
-     "available": true,
-     "price": 229.95
+     "available": false,
+     "price": 229.95,
+     "unavail_since": 1787603413
     },
     "mtg-mystery-booster-convention-edition-2021-booster-box": {
      "title": "MTG - Mystery Booster - Convention Edition 2021 - Booster Box",
@@ -16107,7 +16108,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18599,7 +18600,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18670,7 +18671,7 @@
      "title": "Unleashed Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 172.99,
+     "price": 174.75,
      "unavail_since": 1784083350
     },
     "tmnt-play-booster-box": {
@@ -18742,7 +18743,7 @@
      "title": "Stellar Crown Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 296.49,
+     "price": 306.49,
      "unavail_since": 1786195831
     },
     "twilight-masqueade-half-booster-box": {
@@ -19145,7 +19146,7 @@
      "title": "Surging Sparks Booster Box Case [Sealed]",
      "game": "Pokemon",
      "available": false,
-     "price": 1984.75,
+     "price": 1947.25,
      "unavail_since": 1786195837
     },
     "mega-evolution-booster-box-non-enhanced": {
@@ -19618,7 +19619,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 258.75,
+     "price": 256.75,
      "last_restock_alert": 1786228847,
      "unavail_since": 1787405441
     },
@@ -20369,7 +20370,7 @@
      "title": "Twilight Masquerade Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2304.75,
+     "price": 2299.99,
      "unavail_since": 1786195830
     },
     "perfect-order-booster-bundle": {
@@ -21383,7 +21384,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 114,
+   "check_cursor": 154,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22357,7 +22358,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 49
+   "check_cursor": 89
   },
   "https://sagaconcepts.com": {
    "products": {
