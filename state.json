@@ -11681,7 +11681,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12745,7 +12745,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16127,7 +16127,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17016,7 +17016,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18046,7 +18046,7 @@
      "title": "Mega Evolution Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 1354.77,
+     "price": 1345.98,
      "unavail_since": 1784083349
     },
     "base-set-booster-box-revised-unlimited-edition": {
@@ -18109,7 +18109,7 @@
      "title": "Gym Heroes Booster Box [Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 7379.05,
+     "price": 7331.15,
      "unavail_since": 1784083349
     },
     "gym-challenge-booster-box-1st-edition": {
@@ -18389,7 +18389,7 @@
      "title": "Emerging Powers Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1475.81,
+     "price": 1466.23,
      "unavail_since": 1784083349
     },
     "noble-victories-booster-box": {
@@ -18473,7 +18473,7 @@
      "title": "Furious Fists Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3481.07,
+     "price": 3458.47,
      "unavail_since": 1784083349
     },
     "xy-phantom-forces-booster-box": {
@@ -18648,7 +18648,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21474,7 +21474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 128,
+   "check_cursor": 168,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22448,7 +22448,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 8
+   "check_cursor": 48
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22715,8 +22715,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
