@@ -11055,6 +11055,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 40.0
+    },
+    "prismatic-evolutions-pack-moonshot-rips": {
+     "title": "Prismatic Evolutions Pack - Moonshot Rips",
+     "game": "Pokemon",
+     "available": true,
+     "price": 15.0
     }
    },
    "baselined": true,
@@ -11669,7 +11675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12733,7 +12739,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16115,7 +16121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17004,7 +17010,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18503,7 +18509,7 @@
      "title": "XY BREAKpoint Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1461.04,
+     "price": 1451.56,
      "unavail_since": 1784083349
     },
     "xy-fates-collide-booster-box": {
@@ -18636,7 +18642,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21462,7 +21468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 141,
+   "check_cursor": 181,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22436,7 +22442,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 45
+   "check_cursor": 85
   },
   "https://sagaconcepts.com": {
    "products": {
