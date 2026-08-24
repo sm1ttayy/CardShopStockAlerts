@@ -1419,10 +1419,17 @@
      "game": "MTG",
      "available": true,
      "price": 115.0
+    },
+    "pokemon-tcg-xy-evolutions-sealed-booster-box": {
+     "title": "Pokemon TCG XY Evolutions Sealed Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 1399.0,
+     "unavail_since": 1787593950
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 89,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3965,7 +3972,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 139,
+   "check_cursor": 179,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5478,7 +5485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7365,7 +7372,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 112,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10778,7 +10785,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
