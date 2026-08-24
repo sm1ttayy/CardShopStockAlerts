@@ -11669,7 +11669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12733,7 +12733,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15167,10 +15167,9 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-pitch-black-booster-box-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 249.95,
-     "last_restock_alert": 1785952514,
-     "unavail_since": 1787441713
+     "last_restock_alert": 1787603115
     },
     "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box",
@@ -16108,7 +16107,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18600,7 +18599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18813,7 +18812,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 969.25,
+     "price": 967.75,
      "unavail_since": 1786800622
     },
     "destined-rivals-booster-box": {
@@ -19497,7 +19496,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 394.99,
+     "price": 396.99,
      "last_restock_alert": 1787094696,
      "unavail_since": 1787405440
     },
@@ -19634,7 +19633,7 @@
      "title": "Lost Thunder Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1863.75,
+     "price": 1613.99,
      "unavail_since": 1784083350
     },
     "pokemon-s-v-paradox-rift-booster-box": {
@@ -19655,14 +19654,14 @@
      "title": "Lost Caverns of Ixalan Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1117.99,
+     "price": 1109.99,
      "unavail_since": 1784083350
     },
     "mtg-fallout-collector-booster-box": {
      "title": "Fallout Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1914.99,
+     "price": 1912.99,
      "unavail_since": 1784083350
     },
     "mtg-murders-at-karlov-manor-play-booster-box": {
@@ -19675,7 +19674,7 @@
      "title": "Wilds of Eldraine Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 343.75,
+     "price": 339.75,
      "unavail_since": 1784083350
     },
     "mtg-universes-beyond-assassins-creed-booster-box": {
@@ -19695,7 +19694,7 @@
      "title": "Assassin's Creed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 566.99,
+     "price": 569.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-lost-origin-booster-box": {
@@ -19730,7 +19729,7 @@
      "title": "Japanese Terastal Festival ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 115.99,
+     "price": 114.99,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
@@ -20096,7 +20095,7 @@
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 79.75,
+     "price": 75.75,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -20499,7 +20498,7 @@
      "title": "Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 76.99,
+     "price": 80.25,
      "unavail_since": 1785187243
     },
     "core-set-2020-booster-box": {
@@ -20883,7 +20882,7 @@
      "title": "Phyrexia: All Will Be One - Set Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 294.25,
+     "price": 296.75,
      "last_restock_alert": 1786657842,
      "unavail_since": 1787405428
     },
@@ -21384,7 +21383,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 114,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22358,7 +22357,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 9
+   "check_cursor": 49
   },
   "https://sagaconcepts.com": {
    "products": {
