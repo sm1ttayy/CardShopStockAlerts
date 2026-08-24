@@ -1429,7 +1429,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3972,7 +3972,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 219,
+   "check_cursor": 259,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5485,7 +5485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7372,7 +7372,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9375,9 +9375,9 @@
     "the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21": {
      "title": "The World's Strongest Warriors Booster Box OP-17 [One Piece] (08/21)",
      "game": "One Piece",
-     "available": false,
-     "price": 300.0,
-     "unavail_since": 1787332429
+     "available": true,
+     "price": 350.0,
+     "last_restock_alert": 1787600198
     },
     "starter-deck-st-34-one-piece-07-31": {
      "title": "Starter Deck ST-34 PURPLE Charlotte Katakuri [One Piece] (07/31)",
@@ -10785,7 +10785,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
