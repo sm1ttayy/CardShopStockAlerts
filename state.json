@@ -11681,7 +11681,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12745,7 +12745,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16127,7 +16127,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17016,7 +17016,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18648,7 +18648,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21474,7 +21474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 109,
+   "check_cursor": 149,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22448,7 +22448,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 21
+   "check_cursor": 61
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22715,8 +22715,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
