@@ -11072,7 +11072,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11681,9 +11681,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 20,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-mega-evolution-chaos-rising-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -12745,9 +12745,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'teenage-mutant-ninja-turtles-play-booster-display-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16127,9 +16127,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-evolution-perfect-order-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17016,7 +17016,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18501,7 +18501,7 @@
      "title": "XY Ancient Origins Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1217.54,
+     "price": 1209.63,
      "unavail_since": 1784083349
     },
     "xy-breakthrough-booster-box": {
@@ -18529,7 +18529,7 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 868.88,
+     "price": 859.57,
      "unavail_since": 1784083349
     },
     "xy-evolutions-booster-box-case": {
@@ -18648,9 +18648,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'neo-revelation-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -21474,9 +21474,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 189,
+   "check_cursor": 48,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'vmax-climax-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22447,8 +22447,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-vivid-voltage-elite-trainer-box-etb' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 101
+   "last_error": "",
+   "check_cursor": 38
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22715,8 +22715,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
