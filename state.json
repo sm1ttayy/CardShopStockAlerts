@@ -11669,7 +11669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12733,7 +12733,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16115,7 +16115,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16974,8 +16974,9 @@
     "march-of-the-machine-bundle": {
      "title": "March of the Machine - Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 129.99
+     "available": false,
+     "price": 129.99,
+     "unavail_since": 1787609115
     },
     "one-piece-labyrinth": {
      "title": "One Piece Labyrinth",
@@ -17003,7 +17004,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18635,7 +18636,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21461,7 +21462,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 101,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22435,7 +22436,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 59
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
