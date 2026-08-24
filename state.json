@@ -11072,7 +11072,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11681,9 +11681,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'learn-to-paint-kit-layer-up-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12745,9 +12745,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16127,9 +16127,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-card-game-starter-deck-st29-egghead-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17016,7 +17016,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17974,9 +17974,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-sv8-5-prismatic-evolutions-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18648,9 +18648,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'neo-revelation-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -21474,9 +21474,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 142,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'one-piece-3d2y-starter-deck-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'primal-clash-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22447,8 +22447,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-champions-path-elite-trainer-box-pre-order' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 65
+   "last_error": "Undiscovered Realm: product 'riftbound-origins-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 105
   },
   "https://sagaconcepts.com": {
    "products": {
