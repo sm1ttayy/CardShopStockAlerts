@@ -11669,7 +11669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12733,7 +12733,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15216,9 +15216,9 @@
     "one-piece-cg-eb-06-booster-box-pre-order": {
      "title": "One Piece CG EB-06 Booster Box (Pre Order)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 269.95,
-     "unavail_since": 1784083348
+     "last_restock_alert": 1787604328
     },
     "pokemon-tcg-mega-set-5-booster-box-pre-order": {
      "title": "Pokemon TCG Mega Set 6 Delta Reign Booster Box (Pre Order)",
@@ -16115,7 +16115,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18607,7 +18607,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21391,7 +21391,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 118,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22365,7 +22365,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 77
+   "check_cursor": 25
   },
   "https://sagaconcepts.com": {
    "products": {
