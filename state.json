@@ -11681,7 +11681,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12751,7 +12751,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16133,7 +16133,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17022,7 +17022,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17980,7 +17980,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18654,7 +18654,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21481,9 +21481,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 41,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'final-fantasy-gift-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22453,9 +22453,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 53
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-scarlet-violet-journey-together-elite-trainer-box-etb' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 93
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22722,8 +22722,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
