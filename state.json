@@ -11681,7 +11681,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12745,7 +12745,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16127,7 +16127,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17016,7 +17016,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17974,9 +17974,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 1,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-dr-who-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18018,14 +18018,14 @@
      "title": "Pokemon Base Set (Shadowless) [1st Edition] Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 368.95,
+     "price": 366.55,
      "unavail_since": 1784083349
     },
     "pokemon-base-set-shadowless-unlimited-edition-booster-box": {
      "title": "Pokemon Base Set (Shadowless) [Unlimited Edition] Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 6641.15,
+     "price": 6598.04,
      "unavail_since": 1784083349
     },
     "pokemon-fossil-unlimited-edition-booster-box": {
@@ -18438,7 +18438,7 @@
      "title": "Plasma Freeze Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3541.94,
+     "price": 3518.95,
      "unavail_since": 1784083349
     },
     "plasma-blast-booster-box": {
@@ -18648,7 +18648,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21474,7 +21474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22448,7 +22448,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 33
+   "check_cursor": 73
   },
   "https://sagaconcepts.com": {
    "products": {
