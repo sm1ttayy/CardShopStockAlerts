@@ -11698,7 +11698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12768,7 +12768,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16187,7 +16187,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17065,8 +17065,9 @@
     "the-hobbit-scene-box-treasures-of-smaug": {
      "title": "The Hobbit Scene Box - Treasures of Smaug",
      "game": "MTG",
-     "available": true,
-     "price": 119.99
+     "available": false,
+     "price": 119.99,
+     "unavail_since": 1787691917
     },
     "final-fantasy-commander-deck-limit-break-final-fantasy-vii": {
      "title": "FINAL FANTASY - Commander Deck (Limit Break FINAL FANTASY VII)",
@@ -17082,7 +17083,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18041,7 +18042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18526,7 +18527,7 @@
      "title": "XY Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2761.07,
+     "price": 2733.05,
      "unavail_since": 1784083349
     },
     "flashfire-booster-box": {
@@ -18575,7 +18576,7 @@
      "title": "XY BREAKthrough Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2352.24,
+     "price": 2317.98,
      "unavail_since": 1784083349
     },
     "xy-breakpoint-booster-box": {
@@ -18596,7 +18597,7 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 859.57,
+     "price": 863.24,
      "unavail_since": 1784083349
     },
     "xy-evolutions-booster-box-case": {
@@ -18716,7 +18717,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19764,7 +19765,7 @@
      "title": "Ravnica Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1299.75,
+     "price": 1298.75,
      "unavail_since": 1784083350
     },
     "mtg-lost-caverns-of-ixalan-collector-booster-box": {
@@ -19778,7 +19779,7 @@
      "title": "Fallout Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1912.99,
+     "price": 1911.75,
      "unavail_since": 1784083350
     },
     "mtg-murders-at-karlov-manor-play-booster-box": {
@@ -19986,7 +19987,7 @@
      "title": "One Piece Starter Deck 6: Absolute Justice",
      "game": "One Piece",
      "available": false,
-     "price": 23.75,
+     "price": 23.99,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-4-animal-kingdom-pirates": {
@@ -20732,7 +20733,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 124.99,
+     "price": 124.75,
      "last_restock_alert": 1787000431,
      "unavail_since": 1787006128
     },
@@ -21549,7 +21550,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22523,7 +22524,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 50
+   "check_cursor": 90
   },
   "https://sagaconcepts.com": {
    "products": {
