@@ -11681,7 +11681,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12751,7 +12751,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16139,7 +16139,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17028,7 +17028,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17986,9 +17986,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 31,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-me02-phantasmal-flames-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18660,7 +18660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21487,7 +21487,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 179,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22461,7 +22461,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
