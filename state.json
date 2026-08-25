@@ -1429,7 +1429,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3972,7 +3972,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 136,
+   "check_cursor": 176,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5485,7 +5485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7368,10 +7368,22 @@
      "game": "Pokemon",
      "available": true,
      "price": 999.75
+    },
+    "pokemon-scarlet-violet-twilight-masquerade-elite-trainer-box": {
+     "title": "Pokemon Scarlet & Violet Twilight Masquerade Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 124.75
+    },
+    "pokemon-scarlet-violet-151-elite-trainer-box": {
+     "title": "Pokemon Scarlet & Violet 151 Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 649.75
     }
    },
    "baselined": true,
-   "check_cursor": 171,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9447,7 +9459,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10785,7 +10797,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
