@@ -11698,7 +11698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12781,7 +12781,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16200,7 +16200,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17096,7 +17096,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18055,7 +18055,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18730,7 +18730,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21560,10 +21560,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 56.75
+    },
+    "one-piece-tin-pack-set-vol-2-monkey-d-luffy": {
+     "title": "One Piece Tin Pack Set Vol. 2 -Monkey.D.Luffy-",
+     "game": "One Piece",
+     "available": false,
+     "price": 72.25,
+     "unavail_since": 1787694339
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22537,7 +22544,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 89
+   "check_cursor": 37
   },
   "https://sagaconcepts.com": {
    "products": {
