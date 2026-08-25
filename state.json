@@ -11681,7 +11681,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12751,7 +12751,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16130,10 +16130,16 @@
      "available": false,
      "price": 134.95,
      "unavail_since": 1787515816
+    },
+    "pokemon-charizard-ex-super-premium-collection-pre-order": {
+     "title": "Pokemon Charizard ex Super-Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17022,7 +17028,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17980,9 +17986,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'one-piece-cg-op-12-legacy-of-the-master-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 8,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -18654,7 +18660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21481,7 +21487,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 139,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22455,7 +22461,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 26
+   "check_cursor": 66
   },
   "https://sagaconcepts.com": {
    "products": {
