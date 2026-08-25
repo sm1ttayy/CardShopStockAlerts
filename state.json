@@ -11698,7 +11698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12768,7 +12768,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16177,10 +16177,16 @@
      "game": "MTG",
      "available": true,
      "price": 49.95
+    },
+    "mtg-outlaws-of-thunder-junction-commander-deck-desert-bloom": {
+     "title": "MTG - Outlaws of Thunder Junction - Commander Deck - Desert Bloom",
+     "game": "MTG",
+     "available": true,
+     "price": 139.95
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 92,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16356,14 +16362,14 @@
      "title": "Portgas.D.Ace (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 54.7,
+     "price": 54.6,
      "unavail_since": 1784083349
     },
     "sabo-premium-card-collection-leader-collection-one-piece-promotion-cards": {
      "title": "Sabo (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 22.9,
+     "price": 22.5,
      "unavail_since": 1784083349
     },
     "kaido-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -17066,10 +17072,16 @@
      "game": "MTG",
      "available": true,
      "price": 119.99
+    },
+    "from-the-vault-twenty": {
+     "title": "From the Vault: Twenty",
+     "game": "MTG",
+     "available": true,
+     "price": 199.99
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18028,7 +18040,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18541,7 +18553,7 @@
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2370.4,
+     "price": 2785.83,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -18576,7 +18588,7 @@
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2020.22,
+     "price": 2019.72,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
@@ -18604,7 +18616,7 @@
      "title": "Sun & Moon Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 701.21,
+     "price": 701.72,
      "unavail_since": 1784083349
     },
     "guardians-rising-booster-box": {
@@ -18703,7 +18715,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19722,7 +19734,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 256.75,
+     "price": 260.99,
      "last_restock_alert": 1786228847,
      "unavail_since": 1787405441
     },
@@ -19805,7 +19817,7 @@
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 758.75,
+     "price": 755.75,
      "unavail_since": 1784083350
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
@@ -19833,7 +19845,7 @@
      "title": "Japanese Terastal Festival ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 114.99,
+     "price": 112.99,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
@@ -19952,7 +19964,7 @@
      "title": "Starter Deck 20: YELLOW Charlotte Katakuri",
      "game": "One Piece",
      "available": false,
-     "price": 58.75,
+     "price": 54.75,
      "unavail_since": 1784083350
     },
     "one-piece-3d2y-starter-deck-display": {
@@ -21536,7 +21548,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 113,
+   "check_cursor": 153,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22510,7 +22522,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 85
+   "check_cursor": 23
   },
   "https://sagaconcepts.com": {
    "products": {
