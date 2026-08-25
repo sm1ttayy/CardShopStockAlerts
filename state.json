@@ -11698,7 +11698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12787,7 +12787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16206,7 +16206,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17102,7 +17102,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18061,7 +18061,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18736,7 +18736,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21576,9 +21576,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 82,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'lorwyn-eclipsed-play-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22548,9 +22548,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 5
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-24-green-jewelry-bonney-st-24-preorder' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 45
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22829,8 +22829,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
