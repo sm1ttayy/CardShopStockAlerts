@@ -649,7 +649,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Booster Bundle",
      "game": "MTG",
      "available": true,
-     "price": 50.33,
+     "price": 54.99,
      "last_restock_alert": 1786136040
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-bundle": {
@@ -1426,10 +1426,23 @@
      "available": false,
      "price": 1399.0,
      "unavail_since": 1787593950
+    },
+    "magic-the-gathering-secrets-of-strixhaven-bundle": {
+     "title": "Magic: The Gathering | Secrets of Strixhaven - Booster Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 42.41
+    },
+    "magic-the-gathering-the-hobbit-draft-night": {
+     "title": "Magic: The Gathering | The Hobbit - Draft Night",
+     "game": "MTG",
+     "available": false,
+     "price": 131.99,
+     "unavail_since": 1787731861
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3972,7 +3985,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 139,
+   "check_cursor": 179,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5485,7 +5498,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7383,7 +7396,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 131,
+   "check_cursor": 171,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9478,7 +9491,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10816,7 +10829,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
