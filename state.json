@@ -1429,7 +1429,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3972,7 +3972,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 137,
+   "check_cursor": 177,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4084,10 +4084,10 @@
      "price": 90.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box (SALE)",
+     "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 44.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -5485,7 +5485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7383,7 +7383,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9386,9 +9386,10 @@
     "the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21": {
      "title": "The World's Strongest Warriors Booster Box OP-17 [One Piece] (08/21)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 350.0,
-     "last_restock_alert": 1787600198
+     "last_restock_alert": 1787600198,
+     "unavail_since": 1787709170
     },
     "starter-deck-st-34-one-piece-07-31": {
      "title": "Starter Deck ST-34 PURPLE Charlotte Katakuri [One Piece] (07/31)",
@@ -9456,10 +9457,22 @@
      "available": false,
      "price": 50.0,
      "unavail_since": 1787332432
+    },
+    "one-piece-luffys-bento-panic-board-game": {
+     "title": "One Piece Luffy's Bento Panic Board Game",
+     "game": "One Piece",
+     "available": true,
+     "price": 25.0
+    },
+    "destined-rivals-booster-display-pokemon-1": {
+     "title": "Destined Rivals Booster Display [Pok\u00e9mon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 430.0
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10797,7 +10810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
