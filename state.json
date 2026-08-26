@@ -1429,7 +1429,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 127,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3972,7 +3972,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 217,
+   "check_cursor": 257,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5485,7 +5485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7383,7 +7383,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 107,
+   "check_cursor": 147,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9469,10 +9469,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 430.0
+    },
+    "evolutions-booster-display": {
+     "title": "XY Evolutions Booster Display [Pok\u00e9mon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 3000.0
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10810,7 +10816,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
