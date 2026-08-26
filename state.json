@@ -11765,7 +11765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12853,7 +12853,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16279,7 +16279,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16455,7 +16455,7 @@
      "title": "Portgas.D.Ace (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 54.6,
+     "price": 51.1,
      "unavail_since": 1784083349
     },
     "sabo-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -17175,7 +17175,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18134,9 +18134,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 34,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-me2-5-ascended-heroes-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18668,7 +18668,7 @@
      "title": "XY BREAKthrough Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2317.98,
+     "price": 2352.24,
      "unavail_since": 1784083349
     },
     "xy-breakpoint-booster-box": {
@@ -18809,7 +18809,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19140,7 +19140,7 @@
      "title": "Black Bolt Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 162.99,
+     "price": 162.49,
      "unavail_since": 1784083350
     },
     "white-flare-booster-box": {
@@ -19313,7 +19313,7 @@
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 91.75,
+     "price": 91.99,
      "unavail_since": 1784083350
     },
     "japanese-forbidden-light-booster-box-sm6": {
@@ -19334,7 +19334,7 @@
      "title": "XY Evolutions Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2492.99,
+     "price": 2495.49,
      "unavail_since": 1784083350
     },
     "25th-anniversary-collection-booster-box": {
@@ -20291,9 +20291,10 @@
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 36.49,
-     "last_restock_alert": 1785187238
+     "last_restock_alert": 1785187238,
+     "unavail_since": 1787776554
     },
     "riftbound-worlds-bundle-2025": {
      "title": "Riftbound Worlds Bundle 2025",
@@ -21101,7 +21102,7 @@
      "title": "Dominaria United - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 254.99,
+     "price": 261.75,
      "unavail_since": 1786195830
     },
     "strixhaven-school-of-mages-set-booster-display": {
@@ -21649,7 +21650,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 180,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22623,7 +22624,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 51
+   "check_cursor": 91
   },
   "https://sagaconcepts.com": {
    "products": {
