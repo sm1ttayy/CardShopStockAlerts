@@ -11766,7 +11766,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12854,7 +12854,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15705,8 +15705,9 @@
     "pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "Pokemon 30th Celebration Booster Bundle (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 99.95
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1787787910
     },
     "one-piece-double-pack-vol-14-pre-order": {
      "title": "One Piece Double Pack Vol. 14 (Pre Order)",
@@ -16287,7 +16288,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17183,7 +17184,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18142,7 +18143,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18817,7 +18818,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20161,7 +20162,7 @@
      "title": "Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 74.75
+     "price": 73.99
     },
     "pokemon-go-elite-trainer-box": {
      "title": "Pokemon GO Elite Trainer Box",
@@ -21658,7 +21659,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22632,7 +22633,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 67
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
