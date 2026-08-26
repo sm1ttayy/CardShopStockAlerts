@@ -11065,8 +11065,9 @@
     "prismatic-evolutions-bundle-moonshot-rips": {
      "title": "Prismatic Evolutions Bundle - Moonshot Rips",
      "game": "Pokemon",
-     "available": true,
-     "price": 80.0
+     "available": false,
+     "price": 80.0,
+     "unavail_since": 1787778909
     },
     "destined-rivals-bundle-moonshot-rips": {
      "title": "Destined Rivals Bundle - Moonshot Rips",
@@ -11765,7 +11766,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12853,7 +12854,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16279,7 +16280,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17175,7 +17176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18134,9 +18135,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 7,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-secrets-of-strixhaven-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18809,7 +18810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21650,7 +21651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 127,
+   "check_cursor": 167,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22624,7 +22625,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 3
+   "check_cursor": 43
   },
   "https://sagaconcepts.com": {
    "products": {
