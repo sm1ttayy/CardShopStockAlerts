@@ -11766,7 +11766,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12854,7 +12854,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16280,7 +16280,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17176,7 +17176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18135,9 +18135,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 43,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv5-temporal-forces-elite-trainer-box-walking-wake-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18810,7 +18810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20215,7 +20215,7 @@
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 69.25
+     "price": 70.75
     },
     "paldean-fates-booster-bundle": {
      "title": "Paldean Fates Booster Bundle",
@@ -21651,7 +21651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22625,7 +22625,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 40
+   "check_cursor": 80
   },
   "https://sagaconcepts.com": {
    "products": {
