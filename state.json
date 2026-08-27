@@ -11166,7 +11166,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11781,9 +11781,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-lost-origin-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12874,9 +12874,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'mega-lucario-elite-trainer-box-me01' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16337,9 +16337,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 122,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pre-order-magic-the-gathering-kaldheim-set-booster-february-2021' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17233,7 +17233,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18192,7 +18192,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18866,9 +18866,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -21733,9 +21733,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 106,
+   "check_cursor": 146,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Common Lands: product 'prismatic-evolutions-super-premium-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22706,8 +22706,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 88
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-modern-horizons-3-play-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 18
   },
   "https://sagaconcepts.com": {
    "products": {
