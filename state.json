@@ -11166,7 +11166,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11781,9 +11781,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 24,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -12869,9 +12869,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'teenage-mutant-ninja-turtles-collector-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16329,9 +16329,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 20,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-go-pin-collection-bulbasaur' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17225,7 +17225,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18184,7 +18184,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18858,9 +18858,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -21720,9 +21720,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 138,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'pokemon-sword-shield-vivid-voltage-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 178,
+   "error_streak": 2,
+   "last_error": "Common Lands: product 'time-spiral-remastered-draft-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22692,9 +22692,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-scarlet-violet-booster-box-sv01' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 58
+   "error_streak": 2,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sword-shield-elite-trainer-box-plus-etb' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 98
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22973,7 +22973,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
+   "error_streak": 2,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
