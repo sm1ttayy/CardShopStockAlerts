@@ -11166,7 +11166,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 1,
-   "last_error": "Moonshot Games: search 'magic bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11781,9 +11781,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 34,
    "error_streak": 1,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-lost-origin-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Super Anime Store: product 'pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12874,9 +12874,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'teenage-mutant-ninja-turtles-play-booster-display-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16336,9 +16336,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 108,
    "error_streak": 1,
-   "last_error": "Hobbiesville: product 'one-piece-cg-st-26-starter-deck-pre-order-copy-copy' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17232,7 +17232,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18191,7 +18191,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18865,9 +18865,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -21732,9 +21732,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 148,
+   "check_cursor": 188,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Common Lands: product 'unleashed-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22705,8 +22705,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 31
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me01-mega-evolution-booster-bundle-6-boosters' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 71
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22986,7 +22986,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "",
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
