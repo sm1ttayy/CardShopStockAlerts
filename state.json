@@ -11766,7 +11766,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12854,7 +12854,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16302,7 +16302,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17198,7 +17198,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18157,7 +18157,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18832,7 +18832,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21679,10 +21679,22 @@
      "available": false,
      "price": 1801.25,
      "unavail_since": 1787788531
+    },
+    "scarlet-violet-pokemon-center-elite-trainer-box-koraidon": {
+     "title": "Scarlet & Violet Pokemon Center Elite Trainer Box [Koraidon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 258.75
+    },
+    "pokemon-astral-radiance-pokemon-center-elite-trainer-box": {
+     "title": "Astral Radiance Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 201.99
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22656,7 +22668,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 19
+   "check_cursor": 59
   },
   "https://sagaconcepts.com": {
    "products": {
