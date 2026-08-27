@@ -11166,7 +11166,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11781,9 +11781,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'one-piece-tcg-illustration-box-vol-4' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -12869,9 +12869,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 23,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'riftbound-spiritforged-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -14714,7 +14714,7 @@
      "title": "Pokemon - Scarlet and Violet - Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 74.95
+     "price": 59.95
     },
     "pokemon-tcg-mega-evolution-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Booster Bundle MAX 2",
@@ -14727,10 +14727,9 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 39.95,
-     "last_restock_alert": 1787094918,
-     "unavail_since": 1787101817
+     "available": true,
+     "price": 44.95,
+     "last_restock_alert": 1787871022
     },
     "pokemon-tcg-crown-zenith-booster-bundle-6-packs-incoming-item": {
      "title": "Pokemon TCG: Crown Zenith Booster Bundle - 6 Packs",
@@ -16187,9 +16186,9 @@
     "pokemon-ascended-rivals-first-partners-deluxe-pin-collection": {
      "title": "Pokemon Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "unavail_since": 1787168441
+     "last_restock_alert": 1787871023
     },
     "mtg-universes-beyond-final-fantasy-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: Final Fantasy - Play Booster Box",
@@ -16329,9 +16328,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-card-game-starter-deck-st29-egghead-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17225,7 +17224,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18184,7 +18183,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18858,9 +18857,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -21720,9 +21719,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
-   "error_streak": 2,
-   "last_error": "Common Lands: product 'commander-legends-battle-for-baldurs-gate-draft-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 58,
+   "error_streak": 3,
+   "last_error": "Common Lands: product 'innistrad-remastered-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22692,9 +22691,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-awakening-of-the-new-era-op-05-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 28
+   "error_streak": 3,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-evolving-skies-booster-box-pre-order-ships-8-27' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 68
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22973,7 +22972,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
+   "error_streak": 3,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
