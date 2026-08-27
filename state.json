@@ -1201,44 +1201,44 @@
     "one-piece-tcg-starter-deck-green-roronoa-zoro-st-32": {
      "title": "One Piece TCG: Starter Deck Green - Roronoa Zoro (ST-32)",
      "game": "One Piece",
-     "available": false,
-     "price": 32.2,
-     "unavail_since": 1785361280
+     "available": true,
+     "price": 33.72,
+     "last_restock_alert": 1787875014
     },
     "one-piece-tcg-starter-deck-red-black-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
      "game": "One Piece",
-     "available": false,
-     "price": 16.82,
-     "unavail_since": 1785361280
+     "available": true,
+     "price": 17.84,
+     "last_restock_alert": 1787875014
     },
     "one-piece-tcg-starter-deck-blue-kuzan-st-33": {
      "title": "One Piece TCG: Starter Deck Blue - Kuzan (ST-33)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 20.61,
-     "unavail_since": 1785361280
+     "last_restock_alert": 1787875014
     },
     "one-piece-tcg-starter-deck-red-monkey-d-luffy-st-31": {
      "title": "One Piece TCG: Starter Deck Red - Monkey.D.Luffy (ST-31)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 28.6,
-     "unavail_since": 1785361280
+     "last_restock_alert": 1787875014
     },
     "one-piece-tcg-starter-deck-yellow-eustass-captain-kid-st-36": {
      "title": "One Piece TCG: Starter Deck Yellow - Eustass Captain Kid (ST-36)",
      "game": "One Piece",
      "available": false,
-     "price": 20.51,
+     "price": 21.98,
      "unavail_since": 1785361280
     },
     "one-piece-tcg-starter-deck-purple-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck Purple - Charlotte Katakuri (ST-34)",
      "game": "One Piece",
-     "available": false,
-     "price": 24.8,
-     "unavail_since": 1785361280
+     "available": true,
+     "price": 28.45,
+     "last_restock_alert": 1787875014
     },
     "magic-the-gathering-amonkhet-booster-box": {
      "title": "Magic: the Gathering: Amonkhet - Booster Box",
@@ -1448,7 +1448,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2085,7 +2085,7 @@
      "title": "Mega Evolution: Pitch Black - Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 185.0
+     "price": 169.0
     },
     "mega-evolution-chaos-rising-booster-box-display": {
      "title": "Mega Evolution: Chaos Rising - Booster Box Display",
@@ -3995,10 +3995,16 @@
      "game": "MTG",
      "available": true,
      "price": 900.0
+    },
+    "scarlet-violet-prismatic-evolutions-surprise-box": {
+     "title": "Scarlet & Violet: Prismatic Evolutions - Surprise Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 75.0
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5380,13 +5386,13 @@
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 36.0
+     "price": 37.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 31.0
+     "price": 32.0
     },
     "one-piece-tcg-illustration-box-volume-8": {
      "title": "One Piece TCG: Illustration Box Volume 8",
@@ -5453,7 +5459,7 @@
      "title": "One Piece TCG: Yellow Eustass Captain Kid Starter Deck EX (ST-36)",
      "game": "One Piece",
      "available": true,
-     "price": 24.0
+     "price": 23.0
     },
     "riftbound-tcg-league-of-legends-unleashed-champion-deck-vex-pre-order": {
      "title": "Riftbound TCG: League of Legends Unleashed Champion Deck (Vex)",
@@ -5511,7 +5517,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7419,7 +7425,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9516,10 +9522,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 3000.0
+    },
+    "kingdoms-of-intrigue-booster-pack-op-04": {
+     "title": "Kingdoms of Intrigue Booster Pack OP-04 [One Piece]",
+     "game": "One Piece",
+     "available": true,
+     "price": 15.0
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10872,7 +10884,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
