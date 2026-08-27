@@ -11766,7 +11766,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12854,7 +12854,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16295,7 +16295,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17191,7 +17191,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18150,9 +18150,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 9,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-zendikar-rising-set-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -18825,7 +18825,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21675,7 +21675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22649,7 +22649,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 90
+   "check_cursor": 33
   },
   "https://sagaconcepts.com": {
    "products": {
