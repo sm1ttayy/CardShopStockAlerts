@@ -11166,7 +11166,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11781,9 +11781,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-trading-card-game-pitch-black-elite-trainer-box-me05-pitch-black-pbl' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -11992,10 +11992,9 @@
     "the-hobbit-play-booster-box-preorder": {
      "title": "The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1786399832,
-     "unavail_since": 1786479921
+     "last_restock_alert": 1787871631
     },
     "the-hobbit-collector-booster-box-preorder": {
      "title": "The Hobbit Collector Booster Box - Preorder",
@@ -12869,9 +12868,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 17,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'pokemon-rebel-clash-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -15334,10 +15333,9 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 49.95,
-     "last_restock_alert": 1787423409,
-     "unavail_since": 1787454909
+     "last_restock_alert": 1787871629
     },
     "mtg-ultimate-masters-english-booster-box": {
      "title": "MTG - Ultimate Masters - English Booster Box",
@@ -16013,10 +16011,9 @@
     "mtg-universes-beyond-the-hobbit-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 269.95,
-     "last_restock_alert": 1786664413,
-     "unavail_since": 1786670412
+     "last_restock_alert": 1787871631
     },
     "one-piece-trading-card-game-3d2y-starter-deck-pre-order": {
      "title": "One Piece Trading Card Game 3D2Y Starter Deck",
@@ -16328,9 +16325,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'league-of-legends-riftbound-tcg-origins-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17224,7 +17221,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18183,7 +18180,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18857,9 +18854,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -21719,9 +21716,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
-   "error_streak": 3,
-   "last_error": "Common Lands: product 'mtg-ravnica-remastered-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 138,
+   "error_streak": 4,
+   "last_error": "Common Lands: product 'pokemon-sword-shield-vivid-voltage-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22691,9 +22688,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
-   "last_error": "Undiscovered Realm: product 'riftbound-unleashed-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 108
+   "error_streak": 4,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-pillars-of-strength-op-03-sealed-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 38
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22972,7 +22969,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
+   "error_streak": 4,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
