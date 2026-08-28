@@ -11178,7 +11178,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 3,
-   "last_error": "Moonshot Games: product 'pokemon-tcg-terapagos-ex-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11793,9 +11793,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 24,
    "error_streak": 3,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12886,9 +12886,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 2,
-   "last_error": "Geekery Games: product 'ascended-heroes-first-partners-deluxe-pin-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Geekery Games: product 'outlaws-of-thunder-junction-play-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16348,9 +16348,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 3,
-   "last_error": "Hobbiesville: product 'one-piece-card-game-devil-fruits-collection-vol-1-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Hobbiesville: product 'one-piece-tcg-double-pack-set-volume-9-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17244,7 +17244,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18203,7 +18203,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18877,9 +18877,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 35,
    "error_streak": 2,
-   "last_error": "PokeRand: product 'xy-evolutions-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -21744,9 +21744,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 197,
+   "check_cursor": 39,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'xy-evolutions-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'fates-collide-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22717,8 +22717,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'pokemon-scarlet-violet-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 59
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sword-shield-fusion-strike-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 99
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23016,7 +23016,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "",
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
