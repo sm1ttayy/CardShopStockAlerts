@@ -11178,7 +11178,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11793,9 +11793,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 4,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'one-piece-tcg-illustration-box-vol-4' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -12887,9 +12887,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'avatar-the-last-airbender-gift-bundle-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16350,9 +16350,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 7,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-go-pin-collection-bulbasaur' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17246,7 +17246,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18205,7 +18205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18879,9 +18879,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -21746,9 +21746,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 165,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'strixhaven-school-of-mages-set-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22718,9 +22718,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 7,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-8-monkey-d-luffy-st-08' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 49
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 89
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23019,7 +23019,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 7,
+   "error_streak": 8,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
