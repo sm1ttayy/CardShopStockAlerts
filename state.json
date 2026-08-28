@@ -11793,9 +11793,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 14,
    "error_streak": 3,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Super Anime Store: product 'one-piece-tcg-illustration-box-vol-4' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12887,9 +12887,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 3,
-   "last_error": "Geekery Games: product 'unova-poster-collection-sv-black-bolt' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Geekery Games: product 'mega-greninja-ex-premium-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16350,9 +16350,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 131,
+   "check_cursor": 37,
    "error_streak": 3,
-   "last_error": "Hobbiesville: product 'riftbound-league-of-legends-legacy-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Hobbiesville: product 'mtg-tarkir-dragonstorm-commander-decks-temur-roar' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17246,7 +17246,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18205,7 +18205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18879,9 +18879,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 3,
-   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "PokeRand: product 'xy-evolutions-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -19015,7 +19015,7 @@
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 514.25,
+     "price": 509.75,
      "unavail_since": 1784083350
     },
     "stellar-crown-half-booster-box": {
@@ -21746,9 +21746,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 142,
+   "check_cursor": 182,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'premium-booster-vol-2-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'two-legends-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22719,8 +22719,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-mega-evolution-mega-lucario-elite-trainer-box-etb-pre-order' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 77
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-final-fantasy-limit-break-commander-deck' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 7
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23020,7 +23020,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 0
   }
  }
