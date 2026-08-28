@@ -601,7 +601,7 @@
      "title": "Magic the Gathering: Edge of Eternities Commander Deck - Counter Intelligence",
      "game": "MTG",
      "available": false,
-     "price": 35.87,
+     "price": 39.99,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-final-fantasy-commander-deck-scions-spellcraft": {
@@ -622,7 +622,7 @@
      "title": "Magic the Gathering: Edge of Eternities Commander Deck - World Shaper",
      "game": "MTG",
      "available": false,
-     "price": 51.58,
+     "price": 49.99,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-lorwyn-eclipsed-blight-curse-commander-deck-pre-order": {
@@ -760,9 +760,10 @@
     "pokemon-tcg-mega-evolution-5-pitch-black-booster-display": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 185.3,
-     "last_restock_alert": 1785268024
+     "last_restock_alert": 1785268024,
+     "unavail_since": 1787950654
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black: Build & Battle Box",
@@ -1287,7 +1288,7 @@
      "title": "Magic: the Gathering: Streets of New Capenna - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 219.99,
+     "price": 218.28,
      "unavail_since": 1786552789
     },
     "one-piece-tcg-op-19-title-tba-display-case-english": {
@@ -1451,7 +1452,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 133,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1538,9 +1539,9 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG - Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 160.0,
-     "unavail_since": 1784286069
+     "available": true,
+     "price": 169.0,
+     "last_restock_alert": 1787950644
     },
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
@@ -1862,7 +1863,7 @@
      "title": "Magic: The Gathering - The Hobbit Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 189.0,
+     "price": 179.0,
      "last_restock_alert": 1786873759
     },
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
@@ -2463,9 +2464,9 @@
     "duskmourn-house-of-horror-play-booster-box": {
      "title": "Duskmourn: House of Horror Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 179.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 189.0,
+     "last_restock_alert": 1787950646
     },
     "duskmourn-house-of-horror-collector-booster-box": {
      "title": "Duskmourn: House of Horror Collector Booster Box",
@@ -2532,9 +2533,9 @@
     "modern-horizons-3-play-booster-box": {
      "title": "Modern Horizons 3 Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 295.0,
-     "unavail_since": 1785344060
+     "last_restock_alert": 1787950646
     },
     "modern-horizons-3-collector-booster-box": {
      "title": "Modern Horizons 3 Collector Booster Box",
@@ -2871,9 +2872,9 @@
     "dominaria-remastered-draft-booster-box-display": {
      "title": "Dominaria Remastered Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 265.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1787950647
     },
     "commander-legends-baldurs-gate-set-booster-box-display": {
      "title": "Commander Legends: Battle for Baldur's Gate Set Booster Box Display",
@@ -4007,7 +4008,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4017,7 +4018,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 509.0,
+     "price": 504.0,
      "last_restock_alert": 1784587256,
      "unavail_since": 1784996007
     },
@@ -4059,14 +4060,14 @@
      "title": "One Piece TCG: The Azure Seas Seven Booster Box (OP-14)",
      "game": "One Piece",
      "available": false,
-     "price": 277.0,
+     "price": 281.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-box-pre-order": {
      "title": "One Piece TCG: Premium Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 935.0,
+     "price": 929.0,
      "unavail_since": 1784083330
     },
     "one-piece-tcg-kingdoms-of-intrigue-booster-box-pre-order": {
@@ -4092,7 +4093,7 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 180.0
+     "price": 190.0
     },
     "pokemon-tcg-gem-volume-5-booster-box-chinese": {
      "title": "Pokemon TCG: Gem Volume 5 Booster Box (Chinese)",
@@ -4180,14 +4181,14 @@
      "title": "Pokemon TCG: Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 181.0,
+     "price": 176.0,
      "unavail_since": 1784083329
     },
     "pokemon-celebrations-elite-trainer-box-pokemon-center-exclusive": {
      "title": "Pokemon Celebrations Elite Trainer Box (Pokemon Center Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 541.0,
+     "price": 525.0,
      "unavail_since": 1784083329
     },
     "pkm_generation_elite_box": {
@@ -4236,7 +4237,7 @@
      "title": "Pokemon TCG: Trick or Trade BOOster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 74.0,
+     "price": 76.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-stellar-crown-booster-bundle-pre-order": {
@@ -4264,7 +4265,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 310.0,
+     "price": 301.0,
      "last_restock_alert": 1786552782,
      "unavail_since": 1787566199
     },
@@ -4278,7 +4279,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 231.0,
+     "price": 226.0,
      "last_restock_alert": 1786552782,
      "unavail_since": 1787566195
     },
@@ -4305,7 +4306,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Play Booster Box (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 115.0
+     "price": 110.0
     },
     "magic-the-gathering-foundations-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Foundations Play Booster Box",
@@ -4317,7 +4318,7 @@
      "title": "Magic The Gathering: Lorwyn Eclipsed Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 157.0,
+     "price": 110.0,
      "last_restock_alert": 1787860500
     },
     "magic-the-gathering-tarkir-dragonstorm-play-booster-box-pre-order": {
@@ -4331,7 +4332,7 @@
      "title": "Magic the Gathering: Aetherdrift Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 109.0
+     "price": 106.0
     },
     "magic-the-gathering-reality-fracture-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Reality Fracture Play Booster Box (PRE-ORDER)",
@@ -4355,14 +4356,14 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 121.0,
+     "price": 119.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Edge of Eternities Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 192.0,
+     "price": 189.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-marvel-super-heroes-collector-booster-box-pre-order": {
@@ -4775,7 +4776,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 194.0,
+     "price": 178.0,
      "last_restock_alert": 1784243702
     },
     "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order": {
@@ -4816,7 +4817,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 105.0,
+     "price": 100.0,
      "last_restock_alert": 1785843580
     },
     "magic-the-gathering-the-hobbit-play-booster-box-pre-order": {
@@ -4871,7 +4872,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 175.0
+     "price": 170.0
     },
     "magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-box": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Jumpstart Booster Box",
@@ -4939,7 +4940,7 @@
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 320.0,
+     "price": 319.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -4988,7 +4989,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 450.0,
+     "price": 400.0,
      "last_restock_alert": 1785929605
     },
     "pokemon-heat-wave-arena-japanese-booster-box": {
@@ -5016,7 +5017,7 @@
      "title": "Magic the Gathering: Universes Beyond - Final Fantasy Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 244.0,
+     "price": 241.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-tarkir-dragonstorm-collector-booster-box-pre-order": {
@@ -5030,7 +5031,7 @@
      "title": "One Piece TCG: Anime 25th Collection Booster Box (EB02)",
      "game": "One Piece",
      "available": false,
-     "price": 819.0,
+     "price": 814.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box-pre-order": {
@@ -5215,7 +5216,7 @@
      "title": "One Piece Card Game: Straw Hat Crew Starter Deck",
      "game": "One Piece",
      "available": false,
-     "price": 63.0,
+     "price": 64.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-pokemon-center-elite-trainer-box-miraidon": {
@@ -5229,7 +5230,7 @@
      "title": "Pokemon Scarlet and Violet Pokemon Center Elite Trainer Box (Koraidon)",
      "game": "Pokemon",
      "available": false,
-     "price": 309.0,
+     "price": 272.0,
      "unavail_since": 1784083329
     },
     "pkm_go_etb_plus": {
@@ -5250,7 +5251,7 @@
      "title": "Pokemon Scarlet and Violet: Paldean Fates Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 608.0,
+     "price": 591.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-bloomburrow-collector-booster-box-pre-order": {
@@ -5270,7 +5271,7 @@
      "title": "One Piece TCG: Egghead Starter Deck (ST-29)",
      "game": "One Piece",
      "available": false,
-     "price": 42.0,
+     "price": 41.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-scarlet-and-violet-151-pokemon-center-elite-trainer-box": {
@@ -5346,7 +5347,7 @@
      "title": "One Piece Card Game: Pillars of Strength Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 535.0,
+     "price": 530.0,
      "unavail_since": 1785357604
     },
     "magic-the-gathering-murders-at-karlov-manor-play-booster-box-pre-order": {
@@ -5425,7 +5426,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 188.0,
+     "price": 187.0,
      "unavail_since": 1786269649
     },
     "riftbound-league-of-legends-tcg-vendetta-vault-bundle": {
@@ -5532,7 +5533,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5666,10 +5667,10 @@
     "one-piece-op-17-booster-box": {
      "title": "One Piece The World's Strongest Warriors (OP-17) Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 399.75,
+     "available": true,
+     "price": 419.75,
      "note": "OP-17 booster box placeholder",
-     "unavail_since": 1784083331
+     "last_restock_alert": 1787950645
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
      "title": "Pokemon Mega Evolution Chaos Rising Booster Box",
@@ -6350,7 +6351,7 @@
      "title": "Pokemon Scarlet & Violet Twilight Masquerade Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 374.75
+     "price": 368.75
     },
     "pokemon-vstar-universe-booster-box-s12a": {
      "title": "Pokemon VSTAR Universe Japanese Booster Box (S12a)",
@@ -7440,19 +7441,18 @@
     }
    },
    "baselined": true,
-   "check_cursor": 144,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
     "pos-one-piece-tcg-the-time-of-battle-booster-box-op16": {
-     "title": "One Piece TCG - The Time of Battle Booster Box (OP16)",
+     "title": "One Piece Card Game - The Time of Battle Booster Box (OP16)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 214.99,
-     "last_restock_alert": 1785798769,
-     "unavail_since": 1786073679
+     "last_restock_alert": 1787950652
     },
     "one-piece-card-game-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Card Game - Carrying On His Will Booster Box (OP-13)",
@@ -8014,8 +8014,9 @@
     "pokemon-tcg-fusion-strike-booster-box": {
      "title": "Pokemon TCG: Fusion Strike Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 999.99
+     "available": false,
+     "price": 999.99,
+     "unavail_since": 1787950655
     },
     "pokemon-tcg-nihil-zero-japanese-booster-box": {
      "title": "Pokemon TCG - Nihil Zero Japanese Booster Box",
@@ -8482,7 +8483,7 @@
      "price": 96.99
     },
     "pos-one-piece-card-game-double-pack-set-vol-10-adventure-on-kamis-island-op15-eb04": {
-     "title": "One Piece Card Game Double Pack Set Vol. 10 - Adventure on Kami's Island (OP15-EB04)",
+     "title": "One Piece Card Game - Double Pack Set Vol. 10 - Adventure on Kami's Island (OP15-EB04)",
      "game": "One Piece",
      "available": false,
      "price": 54.99,
@@ -8542,7 +8543,7 @@
      "title": "Magic: The Gathering The Hobbit - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 199.99
+     "price": 189.99
     },
     "scarlet-violet-paldean-fates-elite-trainer-box-pokemon-tcg-copy": {
      "title": "Paldean Fates Pokemon Center Elite Trainer Box (Exclusive) - SV: Paldean Fates (PAF)",
@@ -9546,7 +9547,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10899,7 +10900,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
