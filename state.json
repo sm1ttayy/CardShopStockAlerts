@@ -11178,7 +11178,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 3,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Moonshot Games: product 'pokemon-tcg-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11793,9 +11793,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 34,
    "error_streak": 3,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-lost-origin-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Super Anime Store: product 'pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12887,9 +12887,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 3,
-   "last_error": "Geekery Games: product 'buy-mtg-the-lost-caverns-of-ixalan-set-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Geekery Games: product 'pokemon-me04-chaos-rising-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16350,9 +16350,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 3,
-   "last_error": "Hobbiesville: product 'one-piece-card-game-premium-card-collection-best-selection-vol-5-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Hobbiesville: product 'pokemon-celebrations-sylveon-collections-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17246,7 +17246,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18205,7 +18205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18879,9 +18879,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 3,
-   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "PokeRand: product 'xy-evolutions-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -19593,7 +19593,7 @@
      "title": "Japanese Future Flash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 97.25,
+     "price": 97.75,
      "unavail_since": 1784083350
     },
     "japanese-battle-partners-booster-box": {
@@ -19703,7 +19703,7 @@
      "title": "Japanese Glory of Team Rocket Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 159.75,
+     "price": 172.49,
      "last_restock_alert": 1786664751,
      "unavail_since": 1787405439
     },
@@ -21746,9 +21746,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'japanese-forbidden-light-booster-box-sm6' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'mtg-wilds-of-eldraine-set-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22719,8 +22719,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'riftbound-tcg-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 107
+   "last_error": "",
+   "check_cursor": 37
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23020,7 +23020,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 0
   }
  }
