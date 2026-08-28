@@ -11177,8 +11177,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 2,
+   "last_error": "Moonshot Games: product 'one-piece-tcg-awakening-of-the-new-era-booster-box-op-05' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11793,9 +11793,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
-   "error_streak": 1,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 24,
+   "error_streak": 2,
+   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12886,9 +12886,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
-   "error_streak": 0,
-   "last_error": "Geekery Games: product 'teenage-mutant-ninja-turtles-play-booster-display-preorder' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 36,
+   "error_streak": 1,
+   "last_error": "Geekery Games: product 'me02-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -15561,7 +15561,7 @@
      "title": "Pokemon Temporal Forces Elite Trainer Box - Walking Wake",
      "game": "Pokemon",
      "available": false,
-     "price": 139.99,
+     "price": 179.95,
      "unavail_since": 1784235033
     },
     "pokemon-tcg-scarlet-violet-paldea-evolved-booster-bundle-6-packs-pre-order": {
@@ -16348,9 +16348,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
-   "error_streak": 1,
-   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 15,
+   "error_streak": 2,
+   "last_error": "Hobbiesville: product 'magic-the-gathering-outlaws-of-thunder-junction-bundle-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17244,7 +17244,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18203,7 +18203,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18877,9 +18877,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
-   "error_streak": 0,
-   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 75,
+   "error_streak": 1,
+   "last_error": "PokeRand: product 'xy-evolutions-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -19284,7 +19284,7 @@
      "title": "Wings of the Captain Booster Box [OP06]",
      "game": "One Piece",
      "available": false,
-     "price": 394.75,
+     "price": 395.75,
      "unavail_since": 1784083350
     },
     "chilling-reign-booster-box-case": {
@@ -19402,7 +19402,7 @@
      "title": "XY Evolutions Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2495.49,
+     "price": 2495.25,
      "unavail_since": 1784083350
     },
     "25th-anniversary-collection-booster-box": {
@@ -21744,9 +21744,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 188,
+   "check_cursor": 37,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'unleashed-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22717,8 +22717,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me01-mega-evolution-booster-bundle-6-boosters' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 71
+   "last_error": "",
+   "check_cursor": 9
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -22998,7 +22998,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 0
   }
  }
