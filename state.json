@@ -11178,7 +11178,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11793,9 +11793,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 34,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12887,9 +12887,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 25,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'edge-of-eternities-collector-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16350,9 +16350,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'riftbound-league-of-legends-legacy-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17246,7 +17246,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18205,7 +18205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18879,9 +18879,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -21746,9 +21746,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 6,
-   "last_error": "Common Lands: product 'forbidden-light-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'lost-thunder-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22719,8 +22719,8 @@
    },
    "baselined": true,
    "error_streak": 6,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-premium-prb-01-english-booster-box-20-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 39
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-paldean-fates-elite-trainer-box-etb' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 79
   },
   "https://sagaconcepts.com": {
    "products": {
