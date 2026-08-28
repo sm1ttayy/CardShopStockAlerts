@@ -11793,7 +11793,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12886,7 +12886,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16349,7 +16349,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 109,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17245,7 +17245,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18204,7 +18204,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18878,7 +18878,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21745,9 +21745,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
-   "error_streak": 3,
-   "last_error": "Common Lands: product 'final-fantasy-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 83,
+   "error_streak": 4,
+   "last_error": "Common Lands: product 'lorwyn-eclipsed-play-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22717,9 +22717,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
-   "last_error": "Undiscovered Realm: product 'pokemon-scarlet-violet-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 59
+   "error_streak": 4,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sword-shield-fusion-strike-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 99
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23018,7 +23018,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
+   "error_streak": 4,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
