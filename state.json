@@ -11793,9 +11793,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 14,
    "error_streak": 3,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Super Anime Store: product 'one-piece-tcg-illustration-box-vol-4' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12886,9 +12886,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 2,
-   "last_error": "Geekery Games: product 'outlaws-of-thunder-junction-play-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Geekery Games: product 'star-trek-play-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16348,9 +16348,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 122,
    "error_streak": 3,
-   "last_error": "Hobbiesville: product 'one-piece-tcg-double-pack-set-volume-9-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Hobbiesville: product 'pre-order-magic-the-gathering-kamigawa-neon-dynasty-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17244,7 +17244,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18203,7 +18203,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18758,7 +18758,7 @@
      "title": "Steam Siege Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 859.57,
+     "price": 863.24,
      "unavail_since": 1784083349
     },
     "xy-evolutions-booster-box-case": {
@@ -18877,9 +18877,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 2,
-   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "PokeRand: product 'xy-evolutions-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -19222,7 +19222,7 @@
      "title": "Fusion Arts Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 476.75,
+     "price": 485.99,
      "unavail_since": 1784083350
     },
     "vmax-climax-booster-box": {
@@ -21744,9 +21744,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'fates-collide-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'korean-lost-abyss-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22717,8 +22717,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sword-shield-fusion-strike-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 99
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-carrying-on-his-will-op-13-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 29
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23016,7 +23016,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 0
   }
  }
