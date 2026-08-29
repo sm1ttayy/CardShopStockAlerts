@@ -11792,8 +11792,9 @@
     "glitter-glamours-nami-summer-style-one-piece-figure": {
      "title": "GLITTER & GLAMOURS -NAMI SUMMER STYLE- One Piece Figure",
      "game": "One Piece",
-     "available": true,
-     "price": 39.99
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1788027305
     },
     "pokemon-shiny-treasure-ex-sv4a-booster-box-scarlet-violet-series-japanese": {
      "title": "Pokemon Shiny Treasure Ex SV4A Booster Box - Japanese Scarlet & Violet TCG",
@@ -11836,7 +11837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12930,7 +12931,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16455,7 +16456,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17349,7 +17350,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18314,7 +18315,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18989,7 +18990,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21854,7 +21855,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 108,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22828,7 +22829,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 37
+   "check_cursor": 77
   },
   "https://sagaconcepts.com": {
    "products": {
