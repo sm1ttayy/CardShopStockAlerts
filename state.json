@@ -11836,7 +11836,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12930,7 +12930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14127,9 +14127,10 @@
     "one-piece-card-game-starter-deck-st31-red-monkey-d-luffy": {
      "title": "One Piece Card Game - Starter Deck - ST31 RED Monkey.D.Luffy",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 39.95,
-     "last_restock_alert": 1785783934
+     "last_restock_alert": 1785783934,
+     "unavail_since": 1788026706
     },
     "one-piece-card-game-starter-deck-st34-purple-katakuri": {
      "title": "One Piece Card Game - Starter Deck - ST34 PURPLE Katakuri",
@@ -16454,7 +16455,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17348,7 +17349,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18313,7 +18314,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18988,7 +18989,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21853,7 +21854,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 169,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22827,7 +22828,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 51
+   "check_cursor": 91
   },
   "https://sagaconcepts.com": {
    "products": {
