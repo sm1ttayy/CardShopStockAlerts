@@ -11821,7 +11821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12914,7 +12914,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16245,7 +16245,8 @@
      "game": "One Piece",
      "available": false,
      "price": 279.95,
-     "unavail_since": 1787405404
+     "unavail_since": 1787405404,
+     "delisted": true
     },
     "pokemon-scarlet-violet-151-ultra-premium-collection-pre-order": {
      "title": "Pokemon Scarlet & Violet\u2014151 Ultra-Premium Collection",
@@ -16430,7 +16431,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16611,14 +16612,14 @@
      "title": "Sabo (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 22.5,
+     "price": 21.8,
      "unavail_since": 1784083349
     },
     "kaido-premium-card-collection-leader-collection-one-piece-promotion-cards": {
      "title": "Kaido (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 28.2,
+     "price": 27.8,
      "unavail_since": 1784083349
     },
     "pokemon-2021-all-star-collection-alcremie-milky": {
@@ -17324,7 +17325,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18289,7 +18290,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18361,7 +18362,7 @@
      "title": "Mega Evolution Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 1345.98,
+     "price": 1358.73,
      "unavail_since": 1784083349
     },
     "base-set-booster-box-revised-unlimited-edition": {
@@ -18963,7 +18964,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19349,7 +19350,7 @@
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 418.75,
+     "price": 421.99,
      "unavail_since": 1784083350
     },
     "assassins-creed-beyond-booster-box": {
@@ -19516,7 +19517,7 @@
      "title": "Mega Evolution Booster Box [Non-Enhanced]",
      "game": "Pokemon",
      "available": false,
-     "price": 314.99,
+     "price": 312.25,
      "unavail_since": 1784083350
     },
     "phantasmal-flames-booster-box": {
@@ -19670,7 +19671,7 @@
      "title": "Japanese Violet ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 86.99,
+     "price": 82.99,
      "unavail_since": 1784083350
     },
     "japanese-future-flash-booster-box": {
@@ -19738,7 +19739,7 @@
      "title": "Japanese Shiny Star V Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 187.99,
+     "price": 187.75,
      "unavail_since": 1784083350
     },
     "japanese-remix-bout-booster-box": {
@@ -20010,14 +20011,14 @@
      "title": "Ravnica Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1298.75,
+     "price": 1289.75,
      "unavail_since": 1784083350
     },
     "mtg-lost-caverns-of-ixalan-collector-booster-box": {
      "title": "Lost Caverns of Ixalan Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1109.99,
+     "price": 1117.99,
      "unavail_since": 1784083350
     },
     "mtg-fallout-collector-booster-box": {
@@ -20057,7 +20058,7 @@
      "title": "Assassin's Creed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 564.75,
+     "price": 563.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-lost-origin-booster-box": {
@@ -20071,7 +20072,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 2084.99,
+     "price": 2049.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-transformation-mask-booster-box": {
@@ -20312,7 +20313,7 @@
      "title": "Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 171.99
+     "price": 167.99
     },
     "twilight-masquerade-elite-trainer-box": {
      "title": "Twilight Masquerade Elite Trainer Box",
@@ -20722,7 +20723,7 @@
      "title": "One Piece: Illustration Box Vol. 2",
      "game": "One Piece",
      "available": false,
-     "price": 153.75,
+     "price": 205.99,
      "unavail_since": 1784158890
     },
     "pokemon-sword-shield-ultra-premium-collection-charizard": {
@@ -20864,7 +20865,7 @@
      "title": "Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 81.49,
+     "price": 79.75,
      "unavail_since": 1785187243
     },
     "core-set-2020-booster-box": {
@@ -21149,7 +21150,7 @@
      "title": "Commander 2021 Deck - Prismari Performance",
      "game": "MTG",
      "available": true,
-     "price": 67.99
+     "price": 67.75
     },
     "commander-legends-battle-for-baldurs-gate-party-time-commander-deck": {
      "title": "Commander Legends: Battle for Baldur's Gate - Party Time Commander Deck",
@@ -21561,7 +21562,7 @@
      "title": "Modern Horizons 2 - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 326.75,
+     "price": 327.75,
      "unavail_since": 1787405427
     },
     "wilds-of-eldraine-draft-booster-display": {
@@ -21830,7 +21831,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22804,7 +22805,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 87
+   "check_cursor": 25
   },
   "https://sagaconcepts.com": {
    "products": {
