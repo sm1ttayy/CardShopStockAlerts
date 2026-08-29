@@ -11821,7 +11821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12728,7 +12728,7 @@
      "title": "Mega Moonlit Tins (Set of 2)",
      "game": "Pokemon",
      "available": true,
-     "price": 59.95
+     "price": 54.95
     },
     "marvel-super-heroes-draft-night-box-preorder": {
      "title": "Marvel Super Heroes Draft Night Box",
@@ -12914,7 +12914,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15757,7 +15757,8 @@
      "available": false,
      "price": 279.95,
      "last_restock_alert": 1786230021,
-     "unavail_since": 1786800615
+     "unavail_since": 1786800615,
+     "delisted": true
     },
     "pokemon-shining-fates-mad-party-pin-collection-galarian-mr-rime-pre-order": {
      "title": "Pokemon - Shining Fates - Mad Party Pin Collection - Galarian Mr. Rime",
@@ -16431,7 +16432,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17325,7 +17326,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18290,7 +18291,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18838,7 +18839,7 @@
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2020.22,
+     "price": 2019.72,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
@@ -18964,7 +18965,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19370,7 +19371,7 @@
      "title": "Wings of the Captain Booster Box [OP06]",
      "game": "One Piece",
      "available": false,
-     "price": 395.75,
+     "price": 398.49,
      "unavail_since": 1784083350
     },
     "chilling-reign-booster-box-case": {
@@ -19405,14 +19406,14 @@
      "title": "The Brothers' War Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 386.99,
+     "price": 381.99,
      "unavail_since": 1784083350
     },
     "500-years-in-the-future-booster-box-op07": {
      "title": "500 Years in the Future Booster Box [OP07]",
      "game": "One Piece",
      "available": false,
-     "price": 332.99,
+     "price": 329.75,
      "unavail_since": 1784083350
     },
     "memorial-collection-booster-box-eb01": {
@@ -20189,7 +20190,7 @@
      "title": "Starter Deck EX: Luffy & Ace",
      "game": "One Piece",
      "available": false,
-     "price": 35.75,
+     "price": 34.75,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-11-uta": {
@@ -20543,7 +20544,7 @@
      "title": "Universes Beyond: FINAL FANTASY - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 124.75,
+     "price": 123.99,
      "unavail_since": 1784083350
     },
     "pokemon-151-alakazam-ex-collection-box": {
@@ -21215,7 +21216,7 @@
      "title": "Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": false,
-     "price": 26.75,
+     "price": 31.99,
      "unavail_since": 1786195236
     },
     "the-hobbit-play-booster-display": {
@@ -21474,7 +21475,7 @@
      "title": "The Azure Sea's Seven Booster Box [OP14]",
      "game": "One Piece",
      "available": false,
-     "price": 263.99,
+     "price": 266.99,
      "unavail_since": 1786800618
     },
     "amonkhet-booster-box": {
@@ -21829,7 +21830,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 144,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22803,7 +22804,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 65
+   "check_cursor": 12
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23066,9 +23067,10 @@
     "magic-the-gathering-universes-beyond-marvel-super-heroes-jumpstart-booster-display-24-ct": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Jumpstart Booster Display ( 24 Ct)",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 108.99,
-     "last_restock_alert": 1787343643
+     "last_restock_alert": 1787343643,
+     "unavail_since": 1787962247
     },
     "magic-the-gathering-ccg-universes-beyond-star-trek-commander-deck-b": {
      "title": "Magic the Gathering CCG Universes Beyond Star Trek Landing Party Commander Deck",
