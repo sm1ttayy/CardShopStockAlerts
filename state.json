@@ -1203,9 +1203,10 @@
     "one-piece-tcg-starter-deck-green-roronoa-zoro-st-32": {
      "title": "One Piece TCG: Starter Deck Green - Roronoa Zoro (ST-32)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 33.72,
-     "last_restock_alert": 1787875014
+     "last_restock_alert": 1787875014,
+     "unavail_since": 1787973505
     },
     "one-piece-tcg-starter-deck-red-black-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
@@ -1218,9 +1219,10 @@
     "one-piece-tcg-starter-deck-blue-kuzan-st-33": {
      "title": "One Piece TCG: Starter Deck Blue - Kuzan (ST-33)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 20.61,
-     "last_restock_alert": 1787875014
+     "last_restock_alert": 1787875014,
+     "unavail_since": 1787973505
     },
     "one-piece-tcg-starter-deck-red-monkey-d-luffy-st-31": {
      "title": "One Piece TCG: Starter Deck Red - Monkey.D.Luffy (ST-31)",
@@ -1452,7 +1454,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 110,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4008,7 +4010,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 105,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5533,7 +5535,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7441,7 +7443,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9559,7 +9561,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10912,7 +10914,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
