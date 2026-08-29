@@ -11847,10 +11847,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 35.99
+    },
+    "one-piece-black-beard-grandista-figure": {
+     "title": "One Piece - Black Beard Grandista Figure",
+     "game": "One Piece",
+     "available": true,
+     "price": 49.99
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12944,7 +12950,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16469,7 +16475,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17364,7 +17370,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18331,7 +18337,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19006,7 +19012,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20166,9 +20172,10 @@
     "mtg-foundations-play-booster-box": {
      "title": "Foundations Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 169.75,
-     "last_restock_alert": 1786657830
+     "last_restock_alert": 1786657830,
+     "unavail_since": 1788033932
     },
     "japanese-vstar-universe-booster-box": {
      "title": "Japanese VSTAR Universe Booster Box",
@@ -21870,7 +21877,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22844,7 +22851,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 71
+   "check_cursor": 17
   },
   "https://sagaconcepts.com": {
    "products": {
