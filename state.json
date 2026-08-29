@@ -11823,7 +11823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12096,9 +12096,10 @@
     "marvel-super-heroes-play-booster-box-preorder": {
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 119.95,
-     "last_restock_alert": 1786484711
+     "last_restock_alert": 1786484711,
+     "unavail_since": 1788010211
     },
     "teenage-mutant-ninja-turtles-play-booster-display-preorder": {
      "title": "Teenage Mutant Ninja Turtles Play Booster Box",
@@ -12254,9 +12255,10 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 394.95,
-     "last_restock_alert": 1786814106
+     "last_restock_alert": 1786814106,
+     "unavail_since": 1788010206
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -12917,7 +12919,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16439,10 +16441,17 @@
      "game": "MTG",
      "available": true,
      "price": 84.95
+    },
+    "mtg-the-lord-of-the-rings-tales-of-middle-earth-english-set-booster-box-restock-pre-order": {
+     "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - English Set Booster Box (Restock Pre Order)",
+     "game": "MTG",
+     "available": false,
+     "price": 349.95,
+     "unavail_since": 1788010206
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17336,7 +17345,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18301,7 +18310,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18976,7 +18985,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21841,9 +21850,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 134,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 174,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'tmnt-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22813,9 +22822,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 87
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-marvels-spider-man-play-booster-box-30-boosters-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 17
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23115,8 +23124,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
