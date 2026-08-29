@@ -11821,7 +11821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12914,7 +12914,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15229,9 +15229,9 @@
     "pokemon-scarlet-violet-151-poster-collection": {
      "title": "Pokemon Scarlet & Violet\u2014151 Poster Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 124.95,
-     "unavail_since": 1787372409
+     "last_restock_alert": 1787961933
     },
     "pre-order-pokemon-marnie-premium-tournament-collection": {
      "title": "Pokemon Marnie Premium Tournament Collection",
@@ -16328,9 +16328,9 @@
     "pokemon-storm-emeralda-japanese-booster-box": {
      "title": "Pokemon - Storm Emeralda - Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 209.95,
-     "unavail_since": 1787447410
+     "last_restock_alert": 1787961934
     },
     "pokemon-paldean-fates-tech-sticker-collection-fidough-pre-order": {
      "title": "Pokemon Paldean Fates Tech Sticker Collection Fidough",
@@ -16431,7 +16431,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17325,7 +17325,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18290,7 +18290,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18964,7 +18964,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19099,9 +19099,8 @@
     "secrets-of-strixhaven-collector-booster-display": {
      "title": "Secrets of Strixhaven - Collector Booster Display",
      "game": "MTG",
-     "available": false,
-     "price": 509.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 511.99
     },
     "stellar-crown-half-booster-box": {
      "title": "Stellar Crown Half Booster Box",
@@ -19177,7 +19176,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 974.99,
+     "price": 973.99,
      "unavail_since": 1786800622
     },
     "destined-rivals-booster-box": {
@@ -19323,7 +19322,7 @@
      "title": "Pillars of Strength Booster Box [OP03]",
      "game": "One Piece",
      "available": false,
-     "price": 509.75,
+     "price": 504.75,
      "unavail_since": 1784083350
     },
     "perfect-order-booster-box": {
@@ -19851,16 +19850,15 @@
     "pokemon-chilling-reign-booster-box": {
      "title": "Chilling Reign Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 484.75,
-     "last_restock_alert": 1785865536,
-     "unavail_since": 1786195840
+     "available": true,
+     "price": 497.75,
+     "last_restock_alert": 1787961949
     },
     "pokemon-swsh-astral-radiance-booster-box": {
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 395.99,
+     "price": 413.99,
      "last_restock_alert": 1787094696,
      "unavail_since": 1787405440
     },
@@ -19982,7 +19980,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 264.99,
+     "price": 264.75,
      "last_restock_alert": 1786228847,
      "unavail_since": 1787405441
     },
@@ -20086,14 +20084,14 @@
      "title": "Japanese Super Electric Breaker Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 133.99,
+     "price": 134.75,
      "unavail_since": 1784083350
     },
     "pokemon-terastal-festival-ex-booster-box-sv8a": {
      "title": "Japanese Terastal Festival ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 112.75,
+     "price": 112.49,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
@@ -20254,14 +20252,14 @@
      "title": "One Piece Premium Card Collection Best Selection Vol. 2",
      "game": "One Piece",
      "available": false,
-     "price": 94.75,
+     "price": 89.99,
      "unavail_since": 1784083350
     },
     "premium-card-collection-bandai-card-games-fest-23": {
      "title": "Premium Card Collection -BANDAI CARD GAMES Fest. 23",
      "game": "One Piece",
      "available": false,
-     "price": 108.75,
+     "price": 105.75,
      "unavail_since": 1784083350
     },
     "double-pack-set-vol-11": {
@@ -20447,7 +20445,7 @@
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 36.49,
+     "price": 34.99,
      "last_restock_alert": 1785187238,
      "unavail_since": 1787776554
     },
@@ -20920,7 +20918,7 @@
      "title": "Origins - Champion Deck (Jinx)",
      "game": "Riftbound",
      "available": false,
-     "price": 34.49,
+     "price": 30.99,
      "unavail_since": 1785333928
     },
     "commander-2020-deck-ruthless-regiment": {
@@ -20981,7 +20979,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 123.99,
+     "price": 121.99,
      "last_restock_alert": 1787000431,
      "unavail_since": 1787006128
     },
@@ -21249,7 +21247,7 @@
      "title": "Phyrexia: All Will Be One - Set Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 289.99,
+     "price": 298.75,
      "last_restock_alert": 1786657842,
      "unavail_since": 1787405428
     },
@@ -21801,7 +21799,7 @@
      "title": "One Piece Tin Pack Set Vol. 2 -Monkey.D.Luffy-",
      "game": "One Piece",
      "available": false,
-     "price": 71.75,
+     "price": 71.25,
      "unavail_since": 1787694339
     },
     "one-piece-english-version-2nd-anniversary-set-sealed-promotional-bundle": {
@@ -21831,7 +21829,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 144,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22805,7 +22803,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 25
+   "check_cursor": 65
   },
   "https://sagaconcepts.com": {
    "products": {
