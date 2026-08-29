@@ -11823,7 +11823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12096,10 +12096,9 @@
     "marvel-super-heroes-play-booster-box-preorder": {
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 119.95,
-     "last_restock_alert": 1786484711,
-     "unavail_since": 1788010211
+     "last_restock_alert": 1786484711
     },
     "teenage-mutant-ninja-turtles-play-booster-display-preorder": {
      "title": "Teenage Mutant Ninja Turtles Play Booster Box",
@@ -12255,10 +12254,9 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 394.95,
-     "last_restock_alert": 1786814106,
-     "unavail_since": 1788010206
+     "last_restock_alert": 1786814106
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -12919,7 +12917,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16441,13 +16439,6 @@
      "game": "MTG",
      "available": true,
      "price": 84.95
-    },
-    "mtg-the-lord-of-the-rings-tales-of-middle-earth-english-set-booster-box-restock-pre-order": {
-     "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - English Set Booster Box (Restock Pre Order)",
-     "game": "MTG",
-     "available": false,
-     "price": 349.95,
-     "unavail_since": 1788010206
     }
    },
    "baselined": true,
@@ -18310,7 +18301,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
