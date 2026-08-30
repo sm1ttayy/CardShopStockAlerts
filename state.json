@@ -11858,7 +11858,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12953,7 +12953,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16498,7 +16498,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17393,7 +17393,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18360,7 +18360,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19036,7 +19036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19964,9 +19964,10 @@
     "tarkir-dragonstorm-play-booster-box": {
      "title": "Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 157.25,
-     "last_restock_alert": 1786657830
+     "last_restock_alert": 1786657830,
+     "unavail_since": 1788123662
     },
     "mtg-return-to-ravnica-booster-box": {
      "title": "Return to Ravnica Booster Box",
@@ -21908,7 +21909,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 142,
+   "check_cursor": 182,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22883,12 +22884,19 @@
      "game": "One Piece",
      "available": true,
      "price": 14.95
+    },
+    "pokemon-tcg-scarlet-violet-10-5-white-flare-elite-trainer-box-etb": {
+     "title": "Pokemon TCG: Scarlet & Violet 10.5 White Flare Elite Trainer Box ETB",
+     "game": "Pokemon",
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1788123650
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 79
+   "check_cursor": 25
   },
   "https://sagaconcepts.com": {
    "products": {
