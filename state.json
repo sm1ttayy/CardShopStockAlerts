@@ -11856,7 +11856,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12950,7 +12950,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13014,7 +13014,7 @@
      "title": "One Piece Card Game - Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 329.95
+     "price": 349.95
     },
     "one-piece-card-game-dice-dice-case": {
      "title": "One Piece Card Game - Dice & Dice Case",
@@ -14561,6 +14561,19 @@
      "available": false,
      "price": 529.95,
      "unavail_since": 1787961321
+    },
+    "pokemon-mega-evolution-pitch-black-elite-trainer-box-pokemon-center": {
+     "title": "Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box (POKEMON CENTER)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 169.95,
+     "unavail_since": 1788095421
+    },
+    "mtg-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-set-of-4": {
+     "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Commander Deck - Set of 4",
+     "game": "MTG",
+     "available": true,
+     "price": 399.95
     }
    },
    "baselined": true,
@@ -16476,7 +16489,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16657,7 +16670,7 @@
      "title": "Sabo (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 21.3,
+     "price": 20.9,
      "unavail_since": 1784083349
     },
     "kaido-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -17371,7 +17384,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18338,7 +18351,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19007,13 +19020,14 @@
     "pokemon-storm-emeralda-m6-japanese-booster-box": {
      "title": "Pok\u00e9mon Storm Emeralda M6 Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 124.99,
-     "last_restock_alert": 1787869810
+     "last_restock_alert": 1787869810,
+     "unavail_since": 1788095418
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19084,7 +19098,7 @@
      "title": "Unleashed Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 197.75,
+     "price": 196.49,
      "unavail_since": 1784083350
     },
     "tmnt-play-booster-box": {
@@ -19218,7 +19232,7 @@
      "title": "Inferno X Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 119.99,
+     "price": 119.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-fusion-strike-booster-box": {
@@ -19272,7 +19286,7 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 294.75,
+     "price": 294.49,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
@@ -19468,7 +19482,7 @@
      "title": "Memorial Collection Booster Box [EB01]",
      "game": "One Piece",
      "available": false,
-     "price": 887.75,
+     "price": 884.75,
      "unavail_since": 1784083350
     },
     "paramount-war-booster-box-op02": {
@@ -19565,7 +19579,7 @@
      "title": "Mega Evolution Booster Box [Non-Enhanced]",
      "game": "Pokemon",
      "available": false,
-     "price": 313.75,
+     "price": 312.99,
      "unavail_since": 1784083350
     },
     "phantasmal-flames-booster-box": {
@@ -19942,7 +19956,7 @@
      "title": "Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 155.99,
+     "price": 157.25,
      "last_restock_alert": 1786657830
     },
     "mtg-return-to-ravnica-booster-box": {
@@ -20182,7 +20196,7 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 221.75,
+     "price": 215.99,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-151-booster-box": {
@@ -20348,7 +20362,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 70.99
+     "price": 71.25
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -20666,7 +20680,7 @@
      "title": "Pokemon Day 2026 Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 38.25
+     "price": 38.49
     },
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
@@ -20749,7 +20763,7 @@
      "title": "One Piece Card Game Illustration Box Vol. 1",
      "game": "One Piece",
      "available": false,
-     "price": 268.75,
+     "price": 269.99,
      "unavail_since": 1785187236
     },
     "one-piece-illustration-box-vol-3": {
@@ -20841,7 +20855,7 @@
      "title": "Lost Origin Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 365.75
+     "price": 364.75
     },
     "pokemon-surging-sparks-booster-bundle": {
      "title": "Surging Sparks Booster Bundle",
@@ -20873,7 +20887,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 45.75
+     "price": 47.75
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -21044,7 +21058,7 @@
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 42.75,
+     "price": 42.99,
      "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
@@ -21203,7 +21217,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Party Time Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 183.75
+     "price": 182.75
     },
     "pokemon-brilliant-stars-pokemon-center-elite-trainer-box": {
      "title": "Brilliant Stars Pokemon Center Elite Trainer Box",
@@ -21516,7 +21530,7 @@
      "title": "Ikoria: Lair of Behemoths - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 119.75,
+     "price": 147.49,
      "unavail_since": 1786800344
     },
     "the-azure-seas-seven-booster-box-op14": {
@@ -21609,7 +21623,7 @@
      "title": "Modern Horizons 2 - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 327.75,
+     "price": 326.25,
      "unavail_since": 1787405427
     },
     "wilds-of-eldraine-draft-booster-display": {
@@ -21696,7 +21710,7 @@
      "title": "Uta Collection",
      "game": "One Piece",
      "available": false,
-     "price": 145.75,
+     "price": 144.75,
      "unavail_since": 1787168464
     },
     "white-flare-booster-bundle": {
@@ -21763,14 +21777,14 @@
      "title": "Double Pack Set Vol. 10",
      "game": "One Piece",
      "available": false,
-     "price": 42.49,
+     "price": 42.25,
      "unavail_since": 1787258428
     },
     "phantasmal-flames-booster-bundle": {
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 81.25
+     "price": 83.99
     },
     "gem-mint-vol-5-booster-box": {
      "title": "Gem Mint Vol 5 Booster Box",
@@ -21812,7 +21826,7 @@
      "title": "30th Celebration Ultra-Premium Collection [Night]",
      "game": "Pokemon",
      "available": true,
-     "price": 629.75
+     "price": 699.99
     },
     "30th-celebration-greninja-ex-box": {
      "title": "30th Celebration Greninja ex Box",
@@ -21878,7 +21892,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 89,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22847,12 +22861,18 @@
      "available": false,
      "price": 39.99,
      "unavail_since": 1787602560
+    },
+    "funko-pop-one-piece-brook-egghead-arc-2147": {
+     "title": "Funko Pop! One Piece Brook (Egghead Arc) #2147",
+     "game": "One Piece",
+     "available": true,
+     "price": 14.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 29
+   "check_cursor": 69
   },
   "https://sagaconcepts.com": {
    "products": {
