@@ -1454,7 +1454,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3083,7 +3083,7 @@
      "title": "Strixhaven: School of Mages Set Booster Box Display [JPN]",
      "game": "MTG",
      "available": false,
-     "price": 200.0,
+     "price": 170.0,
      "unavail_since": 1784083329
     },
     "double-masters-booster-box-display": {
@@ -3481,7 +3481,7 @@
      "title": "Innistrad: Midnight Hunt Draft Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 125.0,
+     "price": 160.0,
      "unavail_since": 1784083329
     },
     "innistrad-crimson-vow-collector-booster-box-display": {
@@ -3979,9 +3979,9 @@
     "scarlet-violet-journey-together-booster-bundle": {
      "title": "Scarlet & Violet: Journey Together - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 45.0,
-     "unavail_since": 1787332432
+     "available": true,
+     "price": 50.0,
+     "last_restock_alert": 1788100106
     },
     "scarlet-violet-temporal-forces-booster-bundle": {
      "title": "Scarlet & Violet: Temporal Forces - Booster Bundle",
@@ -4010,7 +4010,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 109,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4155,7 +4155,7 @@
      "title": "Pokemon: Scarlet and Violet - Prismatic Evolutions Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 173.0,
+     "price": 158.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-amp-violet-151-elite-trainer-box-pre-order": {
@@ -4183,7 +4183,7 @@
      "title": "Pokemon TCG: Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 176.0,
+     "price": 179.0,
      "unavail_since": 1784083329
     },
     "pokemon-celebrations-elite-trainer-box-pokemon-center-exclusive": {
@@ -4204,7 +4204,7 @@
      "title": "Pokemon TCG: Celebrations - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 371.0,
+     "price": 370.0,
      "unavail_since": 1784083329
     },
     "pkm_shining_legends_etb": {
@@ -4225,7 +4225,7 @@
      "title": "Pokemon Scarlet and Violet: Shrouded Fable Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 58.0,
+     "price": 62.0,
      "unavail_since": 1784083329
     },
     "pokemon-2024-trick-or-trade-booster-bundle-pre-order": {
@@ -4239,7 +4239,7 @@
      "title": "Pokemon TCG: Trick or Trade BOOster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 76.0,
+     "price": 75.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-stellar-crown-booster-bundle-pre-order": {
@@ -4260,7 +4260,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Obsidian Flames - Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 131.0,
+     "price": 130.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
@@ -4327,14 +4327,14 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 164.0,
+     "price": 165.0,
      "unavail_since": 1785267925
     },
     "magic-the-gathering-aetherdrift-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 106.0
+     "price": 105.0
     },
     "magic-the-gathering-reality-fracture-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Reality Fracture Play Booster Box (PRE-ORDER)",
@@ -4439,7 +4439,7 @@
      "title": "Magic the Gathering: Foundations Jumpstart Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 105.0
+     "price": 109.0
     },
     "mtg_strxhvn_drftbooster": {
      "title": "Magic the Gathering: Strixhaven Draft Booster Box",
@@ -4457,7 +4457,7 @@
      "title": "Pokemon Scarlet and Violet: Twilight Masquerade Booster Bundle Box",
      "game": "Pokemon",
      "available": false,
-     "price": 77.0,
+     "price": 76.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-starter-deck-st-23": {
@@ -4935,7 +4935,7 @@
      "title": "Pokemon TCG: Mega Evolution - Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 330.0,
+     "price": 329.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-booster-box-pre-order": {
@@ -4949,7 +4949,7 @@
      "title": "One Piece TCG: The Best Premium Booster Volume 2 Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 418.0,
+     "price": 399.0,
      "unavail_since": 1784083330
     },
     "pokemon-scarlet-and-violet-black-bolt-japanese-booster-box": {
@@ -5012,7 +5012,7 @@
      "title": "One Piece TCG: A Fist of Divine Speed Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 621.0,
+     "price": 609.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-universed-beyond-final-fantasy-play-booster-box-pre-order": {
@@ -5033,14 +5033,14 @@
      "title": "One Piece TCG: Anime 25th Collection Booster Box (EB02)",
      "game": "One Piece",
      "available": false,
-     "price": 814.0,
+     "price": 811.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box-pre-order": {
      "title": "Pokemon Scarlet and Violet: Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 252.0,
+     "price": 255.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-anime-25th-collection-japanese-booster-box-eb02": {
@@ -5068,7 +5068,7 @@
      "title": "One Piece TCG: Emperors in the New World Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 693.0,
+     "price": 690.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-terrastrial-festival-japanese-booster-box": {
@@ -5089,7 +5089,7 @@
      "title": "Magic the Gathering: Innistrad Remastered Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 299.0,
+     "price": 300.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-royal-bloodlines-booster-box-op10-pre-order": {
@@ -5117,7 +5117,7 @@
      "title": "Pokemon Scarlet and Violet: Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 324.0,
+     "price": 320.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paradise-dragona-japanese-booster-box": {
@@ -5145,7 +5145,7 @@
      "title": "One Piece TCG: Two Legends Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 262.0,
+     "price": 252.0,
      "unavail_since": 1784083330
     },
     "one-piece-tcg-premium-japanese-booster-box-pre-order": {
@@ -5218,7 +5218,7 @@
      "title": "One Piece Card Game: Straw Hat Crew Starter Deck",
      "game": "One Piece",
      "available": false,
-     "price": 64.0,
+     "price": 65.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-pokemon-center-elite-trainer-box-miraidon": {
@@ -5239,14 +5239,14 @@
      "title": "Pokemon TCG: Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 251.0,
+     "price": 260.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-white-flare-pokemon-center-elite-trainer-box": {
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 251.0,
+     "price": 254.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
@@ -5349,7 +5349,7 @@
      "title": "One Piece Card Game: Pillars of Strength Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 530.0,
+     "price": 525.0,
      "unavail_since": 1785357604
     },
     "magic-the-gathering-murders-at-karlov-manor-play-booster-box-pre-order": {
@@ -5428,7 +5428,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 173.0,
+     "price": 178.0,
      "unavail_since": 1786269649
     },
     "riftbound-league-of-legends-tcg-vendetta-vault-bundle": {
@@ -5535,7 +5535,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7443,7 +7443,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 113,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9567,7 +9567,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10940,7 +10940,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
