@@ -11856,7 +11856,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12287,9 +12287,10 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 394.95,
-     "last_restock_alert": 1786814106
+     "last_restock_alert": 1786814106,
+     "unavail_since": 1788096606
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -12950,7 +12951,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14577,7 +14578,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16489,9 +16490,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 102,
+   "error_streak": 1,
+   "last_error": "sville: product 'pokemon-tcg-mega-evolution-base-set-booster-box-enhanced-booster-max-2-per-customer-wave-2-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17384,7 +17385,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18351,7 +18352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19027,9 +19028,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 16,
+   "error_streak": 1,
+   "last_error": "PokeRand: product 'ex-dragon-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -19084,7 +19085,7 @@
      "title": "Team Up Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 15019.49,
+     "price": 15009.49,
      "unavail_since": 1784083350
     },
     "premium-booster-vol-2-booster-box": {
@@ -19273,7 +19274,7 @@
      "title": "Foundations Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 104.75,
+     "price": 103.75,
      "unavail_since": 1786800622
     },
     "avatar-the-last-airbender-play-booster": {
@@ -19300,7 +19301,7 @@
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2649.75,
+     "price": 2649.49,
      "unavail_since": 1784083350
     },
     "legendary-heartbeat-booster-box-jp": {
@@ -19328,7 +19329,7 @@
      "title": "Raging Surf Booster Box (JP)",
      "game": "Pokemon",
      "available": true,
-     "price": 111.25,
+     "price": 109.75,
      "last_restock_alert": 1786228848
     },
     "gg-end-booster-box-jp": {
@@ -19357,14 +19358,14 @@
      "title": "Black Bolt Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 157.99,
+     "price": 158.75,
      "unavail_since": 1784083350
     },
     "white-flare-booster-box": {
      "title": "White Flare Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 154.75,
+     "price": 157.25,
      "unavail_since": 1784083350
     },
     "fusion-arts-booster-box": {
@@ -20599,7 +20600,7 @@
      "title": "Final Fantasy Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 268.75,
+     "price": 269.75,
      "unavail_since": 1784083350
     },
     "universes-beyond-final-fantasy-bundle": {
@@ -20724,7 +20725,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 238.75,
+     "price": 237.25,
      "last_restock_alert": 1786657540
     },
     "kaldheim-draft-booster-box": {
@@ -20919,7 +20920,7 @@
      "title": "Final Fantasy Commander Deck [Revival Trance]",
      "game": "MTG",
      "available": false,
-     "price": 37.75,
+     "price": 37.49,
      "unavail_since": 1785438628
     },
     "marvel-super-heroes-gift-bundle": {
@@ -20933,7 +20934,7 @@
      "title": "Core Set 2020 - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 191.75
+     "price": 189.75
     },
     "stellar-crown-pokemon-center-elite-trainer-box": {
      "title": "Stellar Crown Pokemon Center Elite Trainer Box",
@@ -21000,7 +21001,7 @@
      "title": "The Brothers' War - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 237.75
+     "price": 234.75
     },
     "core-set-2019-booster-box": {
      "title": "Core Set 2019 - Booster Box",
@@ -21084,7 +21085,7 @@
      "title": "Storm Emeralda Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 147.99
+     "price": 138.49
     },
     "pitch-black-build-battle-box": {
      "title": "Pitch Black Build & Battle Box",
@@ -21236,7 +21237,7 @@
      "title": "Strixhaven: School of Mages - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 198.99
+     "price": 194.99
     },
     "adventures-in-the-forgotten-realms-draft-booster-box": {
      "title": "Adventures in the Forgotten Realms - Draft Booster Box",
@@ -21291,7 +21292,7 @@
      "title": "Mega Symphonia Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 92.75
+     "price": 94.99
     },
     "march-of-the-machine-the-aftermath-epilogue-booster-display": {
      "title": "March of the Machine: The Aftermath - Epilogue Booster Display",
@@ -21318,7 +21319,7 @@
      "title": "Dominaria United - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 255.99,
+     "price": 274.99,
      "unavail_since": 1786195830
     },
     "strixhaven-school-of-mages-set-booster-display": {
@@ -21339,7 +21340,7 @@
      "title": "Innistrad: Midnight Hunt - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 157.49,
+     "price": 156.99,
      "last_restock_alert": 1786811743
     },
     "theros-beyond-death-booster-box": {
@@ -21373,9 +21374,10 @@
     "commander-legends-draft-booster-box": {
      "title": "Commander Legends - Draft Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 278.49,
-     "last_restock_alert": 1786657530
+     "available": false,
+     "price": 283.75,
+     "last_restock_alert": 1786657530,
+     "unavail_since": 1788096626
     },
     "time-spiral-remastered-draft-booster-box": {
      "title": "Time Spiral: Remastered - Draft Booster Box",
@@ -21550,7 +21552,7 @@
      "title": "Ultimate Masters - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 544.75
+     "price": 559.75
     },
     "prophecy-booster-box": {
      "title": "Prophecy - Booster Box",
@@ -21580,26 +21582,27 @@
     "march-of-the-machine-draft-booster-box": {
      "title": "March of the Machine - Draft Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 181.75
+     "available": false,
+     "price": 189.99,
+     "unavail_since": 1788096624
     },
     "outlaws-of-thunder-junction-play-booster-display": {
      "title": "Outlaws of Thunder Junction - Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 197.25
+     "price": 193.99
     },
     "the-lost-caverns-of-ixalan-draft-booster-display": {
      "title": "The Lost Caverns of Ixalan - Draft Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 248.99
+     "price": 258.75
     },
     "khans-of-tarkir-booster-box": {
      "title": "Khans of Tarkir - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 304.75
+     "price": 299.49
     },
     "theros-booster-box": {
      "title": "Theros - Booster Box",
@@ -21617,7 +21620,7 @@
      "title": "Masters 25 - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 303.49
+     "price": 301.75
     },
     "modern-horizons-2-draft-booster-box": {
      "title": "Modern Horizons 2 - Draft Booster Box",
@@ -21630,7 +21633,7 @@
      "title": "Wilds of Eldraine - Draft Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 329.75
+     "price": 329.99
     },
     "modern-masters-2017-booster-box": {
      "title": "Modern Masters 2017 - Booster Box",
@@ -21667,7 +21670,7 @@
      "title": "Apocalypse - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 1399.75
+     "price": 1480.25
     },
     "visions-booster-box": {
      "title": "Visions - Booster Box",
@@ -21679,13 +21682,13 @@
      "title": "Planeshift - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 2340.99
+     "price": 2006.75
     },
     "born-of-the-gods-booster-box": {
      "title": "Born of the Gods - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 247.75
+     "price": 249.49
     },
     "iconic-masters-booster-box": {
      "title": "Iconic Masters - Booster Box",
@@ -21698,13 +21701,13 @@
      "title": "Aether Revolt - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 202.25
+     "price": 214.25
     },
     "journey-into-nyx-booster-box": {
      "title": "Journey Into Nyx - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 264.75
+     "price": 270.75
     },
     "uta-collection": {
      "title": "Uta Collection",
@@ -21789,8 +21792,9 @@
     "gem-mint-vol-5-booster-box": {
      "title": "Gem Mint Vol 5 Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 49.99
+     "available": false,
+     "price": 49.99,
+     "unavail_since": 1788096624
     },
     "gem-mint-volume-6": {
      "title": "Gem Pack Volume 6 Booster Box",
@@ -21889,10 +21893,16 @@
      "game": "One Piece",
      "available": true,
      "price": 339.75
+    },
+    "avatar-the-last-airbender-booster-box": {
+     "title": "Avatar: The Last Airbender Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 67.75
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22872,7 +22882,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 97
+   "check_cursor": 31
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23170,6 +23180,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 399.99
+    },
+    "magic-the-gathering-ccg-universes-beyond-marvel-spider-man-play-booster-display-30-mtg-marvel-pb": {
+     "title": "Magic the Gathering CCG Universes Beyond Marvel Spider Man Play Booster Display (30) MTG-MARVEL-PB",
+     "game": "MTG",
+     "available": false,
+     "price": 134.99,
+     "unavail_since": 1788096668
     }
    },
    "baselined": true,
