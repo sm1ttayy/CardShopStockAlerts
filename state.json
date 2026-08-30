@@ -11236,7 +11236,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11858,9 +11858,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 11,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'one-piece-glitter-glamours-nami-egghead-style-figure' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -12953,9 +12953,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'riftbound-origins-booster-display-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16498,9 +16498,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-charizard-ex-super-premium-collection-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17393,7 +17393,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18360,7 +18360,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19036,9 +19036,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'pre-order-pokemon-mega-symphonia-m1s-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -21908,9 +21908,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Common Lands: product 'japanese-heat-wave-arena-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -22887,8 +22887,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 51
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-etb-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 91
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23190,7 +23190,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "",
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-3-unleashed-booster-display-24ct-uvsrb03bd01en' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
