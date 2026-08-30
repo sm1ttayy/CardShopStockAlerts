@@ -11856,7 +11856,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12950,7 +12950,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16489,7 +16489,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17384,7 +17384,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18351,9 +18351,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 7,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-phyrexia-all-will-be-one-collector-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19027,7 +19027,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21892,7 +21892,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22872,7 +22872,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 45
+   "check_cursor": 85
   },
   "https://sagaconcepts.com": {
    "products": {
