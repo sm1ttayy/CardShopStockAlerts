@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13036,7 +13036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16627,10 +16627,17 @@
      "game": "MTG",
      "available": true,
      "price": 39.95
+    },
+    "mtg-universes-beyond-final-fantasy-commander-deck-scions-spellcraft": {
+     "title": "MTG - Universes Beyond: Final Fantasy - Commander Deck - Scions & Spellcraft",
+     "game": "MTG",
+     "available": false,
+     "price": 79.95,
+     "unavail_since": 1788215421
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17527,7 +17534,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18526,7 +18533,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19201,7 +19208,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22111,7 +22118,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 133,
+   "check_cursor": 173,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23098,7 +23105,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 37
+   "check_cursor": 77
   },
   "https://sagaconcepts.com": {
    "products": {
