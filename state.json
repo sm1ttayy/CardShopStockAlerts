@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13036,7 +13036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16630,7 +16630,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17304,9 +17304,10 @@
     "the-hobbit-bundle": {
      "title": "The Hobbit - Bundle",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 99.99,
-     "last_restock_alert": 1787183725
+     "last_restock_alert": 1787183725,
+     "unavail_since": 1788214514
     },
     "universes-beyond-assassins-creed-bundle": {
      "title": "Universes Beyond: Assassin's Creed - Bundle",
@@ -17526,7 +17527,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18525,7 +18526,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19200,7 +19201,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21960,7 +21961,7 @@
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 83.99
+     "price": 83.75
     },
     "gem-mint-vol-5-booster-box": {
      "title": "Gem Mint Vol 5 Booster Box",
@@ -22110,7 +22111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23097,7 +23098,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 12
+   "check_cursor": 52
   },
   "https://sagaconcepts.com": {
    "products": {
