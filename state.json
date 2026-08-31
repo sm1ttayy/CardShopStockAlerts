@@ -11930,7 +11930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12141,10 +12141,9 @@
     "the-hobbit-play-booster-box-preorder": {
      "title": "The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1787871631,
-     "unavail_since": 1788112513
+     "last_restock_alert": 1788208220
     },
     "the-hobbit-collector-booster-box-preorder": {
      "title": "The Hobbit Collector Booster Box - Preorder",
@@ -12973,9 +12972,9 @@
     "poke-ball-tin-2025-display-q4-2024-6-tins": {
      "title": "Pok\u00e9 Ball Tin Display Q4 2024 (6 Tins)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 149.95,
-     "unavail_since": 1787881825
+     "last_restock_alert": 1788208216
     },
     "riftbound-unleashed-champion-deck-vex-preorder": {
      "title": "Riftbound Unleashed Champion Deck Vex",
@@ -13023,7 +13022,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16605,7 +16604,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17501,7 +17500,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18500,7 +18499,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19175,7 +19174,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22060,7 +22059,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 122,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23047,7 +23046,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 41
+   "check_cursor": 81
   },
   "https://sagaconcepts.com": {
    "products": {
