@@ -11930,7 +11930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13024,7 +13024,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15821,8 +15821,9 @@
     "pokemon-tcg-scarlet-violet-elite-trainer-box-koraidon-pre-order": {
      "title": "Pok\u00e9mon TCG: Scarlet And Violet Elite Trainer Box (Koraidon)",
      "game": "Pokemon",
-     "available": true,
-     "price": 199.99
+     "available": false,
+     "price": 199.99,
+     "unavail_since": 1788205816
     },
     "pokemon-sv-temporal-forces-half-booster-box": {
      "title": "Pokemon SV Temporal Forces Half Booster Box",
@@ -16591,7 +16592,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17486,7 +17487,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18485,7 +18486,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19160,7 +19161,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19817,7 +19818,7 @@
      "title": "Surging Sparks Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 194.75,
+     "price": 190.75,
      "unavail_since": 1784083350
     },
     "fates-collide-booster-box": {
@@ -21912,9 +21913,9 @@
     "double-pack-set-vol-10": {
      "title": "Double Pack Set Vol. 10",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 42.25,
-     "unavail_since": 1787258428
+     "last_restock_alert": 1788205828
     },
     "phantasmal-flames-booster-bundle": {
      "title": "Phantasmal Flames Booster Bundle",
@@ -22034,7 +22035,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120,
+   "check_cursor": 160,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23021,7 +23022,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 14
+   "check_cursor": 54
   },
   "https://sagaconcepts.com": {
    "products": {
