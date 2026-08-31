@@ -1271,7 +1271,7 @@
      "title": "Magic: The Gathering | Secrets of Strixhaven - Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 44.39
+     "price": 40.89
     },
     "magic-the-gathering-starter-commander-deck-draconic-destruction": {
      "title": "Magic: the Gathering: Starter Commander - Draconic Destruction Commander Deck",
@@ -1284,7 +1284,7 @@
      "title": "Magic the Gathering: Aetherdrift Commander Deck Display",
      "game": "MTG",
      "available": true,
-     "price": 169.99
+     "price": 145.83
     },
     "streets-of-new-capenna-set-booster-box-pre-order": {
      "title": "Magic: the Gathering: Streets of New Capenna - Set Booster Box",
@@ -1451,10 +1451,24 @@
      "available": false,
      "price": 120.0,
      "unavail_since": 1787738594
+    },
+    "magic-the-gathering-commander-legends-battle-for-baldurs-gate-party-time-commander-deck": {
+     "title": "Magic: the Gathering: Commander Legends: Battle for Baldur's Gate - Party Time Commander Deck",
+     "game": "MTG",
+     "available": false,
+     "price": 299.92,
+     "unavail_since": 1788209211
+    },
+    "strixhaven-commander-deck-lorehold-legacies": {
+     "title": "Magic: the Gathering: Strixhaven - Lorehold Legacies Commander Deck",
+     "game": "MTG",
+     "available": false,
+     "price": 105.37,
+     "unavail_since": 1788209211
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4025,7 +4039,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 116,
+   "check_cursor": 156,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5546,11 +5560,11 @@
      "title": "One Piece TCG: Double Pack Volume 12 Set",
      "game": "One Piece",
      "available": true,
-     "price": 47.0
+     "price": 42.0
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 94,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7478,7 +7492,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9605,7 +9619,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11013,7 +11027,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
