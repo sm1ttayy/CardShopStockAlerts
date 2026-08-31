@@ -11930,7 +11930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13024,7 +13024,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16592,7 +16592,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17487,7 +17487,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18486,9 +18486,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 21,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-illustration-box-volume-3' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19161,7 +19161,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20565,7 +20565,7 @@
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 70.25,
+     "price": 67.99,
      "last_restock_alert": 1788046527
     },
     "paldean-fates-booster-bundle": {
@@ -20734,9 +20734,9 @@
     "final-fantasy-gift-bundle": {
      "title": "Final Fantasy Gift Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 269.75,
-     "unavail_since": 1784083350
+     "last_restock_alert": 1788206170
     },
     "universes-beyond-final-fantasy-bundle": {
      "title": "Universes Beyond: FINAL FANTASY - Bundle",
@@ -20996,9 +20996,9 @@
     "pokemon-surging-sparks-booster-bundle": {
      "title": "Surging Sparks Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 61.75,
-     "unavail_since": 1788122145
+     "last_restock_alert": 1788206153
     },
     "dungeons-of-death-commander-deck": {
      "title": "Dungeons of Death Commander Deck",
@@ -21525,7 +21525,7 @@
      "title": "Black Bolt Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 97.75
+     "price": 99.99
     },
     "surging-sparks-elite-trainer-box": {
      "title": "Surging Sparks Elite Trainer Box",
@@ -21537,7 +21537,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 69.75
+     "price": 69.95
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -21854,13 +21854,13 @@
      "title": "White Flare Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 87.75
+     "price": 87.25
     },
     "mega-evolution-booster-bundle": {
      "title": "Mega Evolution Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 63.75
+     "price": 64.75
     },
     "pokemon-celebrations-deluxe-pin-collection-zacian-lv-x": {
      "title": "Celebrations Deluxe Pin Collection [Zacian LV. X]",
@@ -22035,7 +22035,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 160,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23022,7 +23022,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 54
+   "check_cursor": 0
   },
   "https://sagaconcepts.com": {
    "products": {
