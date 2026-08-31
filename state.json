@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13036,7 +13036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16630,7 +16630,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17526,7 +17526,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18525,7 +18525,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19200,7 +19200,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21891,8 +21891,9 @@
     "white-flare-booster-bundle": {
      "title": "White Flare Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 87.25
+     "available": false,
+     "price": 87.25,
+     "unavail_since": 1788214255
     },
     "mega-evolution-booster-bundle": {
      "title": "Mega Evolution Booster Bundle",
@@ -22109,7 +22110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 162,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23096,7 +23097,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 75
+   "check_cursor": 12
   },
   "https://sagaconcepts.com": {
    "products": {
