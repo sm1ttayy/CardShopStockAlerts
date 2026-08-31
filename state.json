@@ -11930,7 +11930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13024,7 +13024,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16599,7 +16599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17495,7 +17495,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18494,7 +18494,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19169,7 +19169,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20184,10 +20184,9 @@
     "prismatic-evolutions-super-premium-collection": {
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 262.99,
-     "last_restock_alert": 1786228847,
-     "unavail_since": 1787405441
+     "last_restock_alert": 1788207114
     },
     "crimson-invasion-booster-box": {
      "title": "Crimson Invasion Booster Box",
@@ -20302,9 +20301,9 @@
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
      "title": "Japanese Shiny Treasure ex High Class Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 139.75,
-     "unavail_since": 1786195841
+     "last_restock_alert": 1788207084
     },
     "pokemon-s-v-temporal-forces-booster-box": {
      "title": "Temporal Forces Booster Box",
@@ -22043,7 +22042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 100,
+   "check_cursor": 140,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23030,7 +23029,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 80
+   "check_cursor": 17
   },
   "https://sagaconcepts.com": {
    "products": {
