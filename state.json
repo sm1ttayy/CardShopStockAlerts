@@ -11930,7 +11930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13024,7 +13024,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16585,12 +16585,13 @@
     "riftbound-league-of-legends-legacy-vault-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Vault (Pre Order)",
      "game": "Riftbound",
-     "available": true,
-     "price": 44.95
+     "available": false,
+     "price": 44.95,
+     "unavail_since": 1788205214
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17485,7 +17486,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18456,7 +18457,7 @@
      "title": "RIFTBOUND VENDETTA BOOSTER BOX (LIMIT 6)",
      "game": "Riftbound",
      "available": true,
-     "price": 189.95
+     "price": 199.95
     },
     "riftbound-unleashed-booster-box": {
      "title": "RIFTBOUND UNLEASHED BOOSTER BOX (LIMIT 6)",
@@ -18484,7 +18485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19159,7 +19160,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22033,7 +22034,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23020,7 +23021,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 28
+   "check_cursor": 68
   },
   "https://sagaconcepts.com": {
    "products": {
