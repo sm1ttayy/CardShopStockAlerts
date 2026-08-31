@@ -11930,7 +11930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13024,7 +13024,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16589,10 +16589,17 @@
      "available": false,
      "price": 44.95,
      "unavail_since": 1788205214
+    },
+    "mtg-universes-beyond-teenage-mutant-ninja-turtles-commander-deck-turtle-power-pre-order": {
+     "title": "MTG - Universes Beyond: Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power!",
+     "game": "MTG",
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1788206726
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17476,8 +17483,9 @@
     "final-fantasy-commander-deck-limit-break-final-fantasy-vii": {
      "title": "FINAL FANTASY - Commander Deck (Limit Break FINAL FANTASY VII)",
      "game": "MTG",
-     "available": true,
-     "price": 119.99
+     "available": false,
+     "price": 119.99,
+     "unavail_since": 1788206717
     },
     "from-the-vault-twenty": {
      "title": "From the Vault: Twenty",
@@ -17487,7 +17495,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18486,7 +18494,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19161,7 +19169,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22035,7 +22043,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23022,7 +23030,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 40
+   "check_cursor": 80
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23135,8 +23143,9 @@
     "magic-the-gathering-ccg-nauctis-the-sunken-realm-bundle": {
      "title": "Magic the Gathering CCG Nauctis The Sunken Realm Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 59.99
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1788206765
     },
     "magic-the-gathering-secrets-of-strixhaven-prismari-artistry-commander-deck": {
      "title": "Magic The Gathering Secrets Of Strixhaven Prismari Artistry Commander Deck",
