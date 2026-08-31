@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13036,7 +13036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16618,7 +16618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17514,7 +17514,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18513,9 +18513,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 5,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-marvel-super-heroes-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19188,7 +19188,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22076,10 +22076,22 @@
      "game": "One Piece",
      "available": true,
      "price": 38.99
+    },
+    "illustration-box-vol-6": {
+     "title": "Illustration Box Vol.6",
+     "game": "One Piece",
+     "available": true,
+     "price": 104.25
+    },
+    "illustration-box-vol-5": {
+     "title": "Illustration Box Vol.5",
+     "game": "One Piece",
+     "available": true,
+     "price": 103.99
     }
    },
    "baselined": true,
-   "check_cursor": 126,
+   "check_cursor": 166,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23066,7 +23078,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 61
+   "check_cursor": 7
   },
   "https://sagaconcepts.com": {
    "products": {
