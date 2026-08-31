@@ -11930,7 +11930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13024,7 +13024,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16590,7 +16590,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17485,7 +17485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18484,7 +18484,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19159,7 +19159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19732,7 +19732,7 @@
      "title": "Two Legends Booster Box [OP08]",
      "game": "One Piece",
      "available": false,
-     "price": 239.75,
+     "price": 249.75,
      "unavail_since": 1784083350
     },
     "spanish-hgss-half-booster-box": {
@@ -19989,7 +19989,7 @@
      "title": "Unified Minds Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3518.99,
+     "price": 3847.75,
      "unavail_since": 1784083350
     },
     "darkness-ablaze-booster-box": {
@@ -20462,9 +20462,9 @@
     "double-pack-set-vol-11": {
      "title": "One Piece Double Pack Set Vol. 11",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 29.49,
-     "unavail_since": 1784083350
+     "last_restock_alert": 1788204640
     },
     "double-pack-set-volume-5": {
      "title": "Double Pack Set Volume 5",
@@ -22033,7 +22033,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 141,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23020,7 +23020,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 42
+   "check_cursor": 82
   },
   "https://sagaconcepts.com": {
    "products": {
