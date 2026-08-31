@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13036,7 +13036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16621,10 +16621,16 @@
      "game": "MTG",
      "available": true,
      "price": 69.95
+    },
+    "mtg-bloomburrow-commander-decks-family-matters": {
+     "title": "MTG - Bloomburrow - Commander Decks - Family Matters",
+     "game": "MTG",
+     "available": true,
+     "price": 39.95
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17520,7 +17526,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18519,9 +18525,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 9,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-secrets-of-strixhaven-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19194,7 +19200,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22094,10 +22100,16 @@
      "game": "One Piece",
      "available": true,
      "price": 103.99
+    },
+    "double-pack-set-volume-7": {
+     "title": "Double Pack Set Volume 7",
+     "game": "One Piece",
+     "available": true,
+     "price": 73.25
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23084,7 +23096,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 87
+   "check_cursor": 23
   },
   "https://sagaconcepts.com": {
    "products": {
