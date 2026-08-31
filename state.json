@@ -11930,7 +11930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13023,7 +13023,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14502,7 +14502,7 @@
      "title": "Pokemon - Astral Radiance - Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 499.95
+     "price": 479.95
     },
     "pokemon-first-partner-pack-kanto": {
      "title": "Pokemon - First Partner Pack - Kanto",
@@ -16595,10 +16595,17 @@
      "available": false,
      "price": 69.95,
      "unavail_since": 1788206726
+    },
+    "pokemon-30th-celebration-elite-trainer-box-pre-order": {
+     "title": "Pokemon - 30th Celebration - Elite Trainer Box (Pre Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 159.95,
+     "unavail_since": 1788207618
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17494,7 +17501,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18493,7 +18500,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19168,7 +19175,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22038,10 +22045,22 @@
      "game": "MTG",
      "available": true,
      "price": 164.75
+    },
+    "pokemon-s-v-shrouded-fable-pokemon-center-elite-trainer-box": {
+     "title": "Shrouded Fable Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 164.49
+    },
+    "ascended-heroes-elite-trainer-box": {
+     "title": "Ascended Heroes Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 169.75
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23028,7 +23047,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 57
+   "check_cursor": 1
   },
   "https://sagaconcepts.com": {
    "products": {
