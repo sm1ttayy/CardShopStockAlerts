@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13036,7 +13036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14267,8 +14267,9 @@
     "pokemon-pokemon-151-japanese-booster-box": {
      "title": "Pokemon - Pokemon 151 - Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 599.95
+     "available": false,
+     "price": 599.95,
+     "unavail_since": 1788222609
     },
     "pokemon-celebrations-special-collection-pikachu-v-union": {
      "title": "Pokemon - Celebrations - Special Collection - Pikachu V-UNION",
@@ -16641,10 +16642,16 @@
      "game": "MTG",
      "available": true,
      "price": 114.95
+    },
+    "mtg-universes-beyond-final-fantasy-commander-deck-limit-break": {
+     "title": "MTG - Universes Beyond: Final Fantasy - Commander Deck - Limit Break",
+     "game": "MTG",
+     "available": true,
+     "price": 109.95
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17541,7 +17548,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18540,7 +18547,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19215,7 +19222,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22125,7 +22132,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23112,7 +23119,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 64
+   "check_cursor": 10
   },
   "https://sagaconcepts.com": {
    "products": {
