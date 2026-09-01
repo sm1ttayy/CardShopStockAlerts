@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13037,7 +13037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16114,9 +16114,9 @@
     "pokemon-scarlet-violet-surging-sparks-bundle-pre-order": {
      "title": "Pokemon Scarlet & Violet Surging Sparks Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "unavail_since": 1788203111
+     "last_restock_alert": 1788268817
     },
     "pokemon-destined-rivals-build-and-battle-box-pre-order": {
      "title": "Pokemon Destined Rivals Build And Battle Box",
@@ -16666,7 +16666,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17563,7 +17563,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18562,9 +18562,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 43,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv4-paradox-rift-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19238,7 +19238,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19464,7 +19464,7 @@
      "title": "Brilliant Stars Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 599.25,
+     "price": 604.75,
      "unavail_since": 1784083350
     },
     "pokemon-evolving-skies-booster-box": {
@@ -19511,7 +19511,7 @@
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2614.75,
+     "price": 2705.75,
      "unavail_since": 1784083350
     },
     "legendary-heartbeat-booster-box-jp": {
@@ -21573,7 +21573,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 297.99,
+     "price": 297.75,
      "unavail_since": 1786195830
     },
     "zendikar-rising-draft-booster-box": {
@@ -21700,7 +21700,7 @@
      "title": "Gatecrash - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 164.99,
+     "price": 172.75,
      "unavail_since": 1787405427
     },
     "homelands-booster-box": {
@@ -22148,7 +22148,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23147,7 +23147,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 35
+   "check_cursor": 75
   },
   "https://sagaconcepts.com": {
    "products": {
