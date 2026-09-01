@@ -11979,7 +11979,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13090,7 +13090,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16719,7 +16719,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17616,7 +17616,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18615,9 +18615,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 1,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-dr-who-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19292,7 +19292,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22203,7 +22203,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23202,7 +23202,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 41
+   "check_cursor": 81
   },
   "https://sagaconcepts.com": {
    "products": {
