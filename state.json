@@ -11322,7 +11322,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -11944,9 +11944,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-trading-card-game-pitch-black-build-and-battle-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13036,9 +13036,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-elite-trainer-box-case-10-boxes' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16658,9 +16658,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 107,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "sville: product 'pokemon-tcg-mega-evolution-base-set-booster-box-enhanced-booster-max-2-per-customer-wave-2-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17555,7 +17555,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18554,7 +18554,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19229,9 +19229,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'team-rocket-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22139,9 +22139,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 135,
+   "check_cursor": 175,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'premium-booster-booster-box-prb01' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'two-legends-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23125,8 +23125,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-shining-fates-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 95
+   "last_error": "ed Realm: product 'magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-the-hosts-of-mordor-commander-deck' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 24
   },
   "https://sagaconcepts.com": {
    "products": {
