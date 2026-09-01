@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13037,7 +13037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15083,9 +15083,9 @@
     "mtg-secrets-of-strixhaven-play-booster-box-pre-order": {
      "title": "MTG Secrets of Strixhaven - Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 199.95,
-     "unavail_since": 1787497815
+     "last_restock_alert": 1788270313
     },
     "mtg-marvel-super-heroes-play-booster-box-pre-order": {
      "title": "MTG - Marvel Super Heroes Play Booster Box",
@@ -16666,7 +16666,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17563,7 +17563,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18562,7 +18562,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19077,7 +19077,7 @@
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2785.83,
+     "price": 2387.12,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -19239,7 +19239,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19444,7 +19444,7 @@
      "title": "Inferno X Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 119.75,
+     "price": 118.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-fusion-strike-booster-box": {
@@ -19715,7 +19715,7 @@
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
      "available": false,
-     "price": 656.75,
+     "price": 653.99,
      "unavail_since": 1784083350
     },
     "journey-together-non-enhanced-booster-box": {
@@ -21133,7 +21133,7 @@
      "title": "Final Fantasy Commander Deck [Revival Trance]",
      "game": "MTG",
      "available": false,
-     "price": 36.49,
+     "price": 36.25,
      "unavail_since": 1785438628
     },
     "marvel-super-heroes-gift-bundle": {
@@ -22149,7 +22149,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23148,7 +23148,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 48
+   "check_cursor": 88
   },
   "https://sagaconcepts.com": {
    "products": {
