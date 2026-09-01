@@ -11364,7 +11364,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11986,9 +11986,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 4,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'one-piece-op-16-the-time-of-battle-japanese-trading-card-game-op16' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13097,9 +13097,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 36,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'riftbound-vendetta-vault-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16726,9 +16726,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
+   "check_cursor": 50,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17623,7 +17623,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18622,9 +18622,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'mtg-marvel-super-heroes-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19299,9 +19299,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'great-encounters-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -22210,9 +22210,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'commander-legends-battle-for-baldurs-gate-draft-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23207,9 +23207,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'riftbound-tcg-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 108
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 55
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23529,8 +23529,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
