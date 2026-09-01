@@ -11980,7 +11980,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13073,7 +13073,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16702,7 +16702,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17599,7 +17599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18598,7 +18598,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19275,7 +19275,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22185,9 +22185,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 148,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'spanish-hgss-half-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23182,9 +23182,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 67
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'riftbound-tcg-spiritforged-league-of-legends-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 107
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23505,8 +23505,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
