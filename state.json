@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13037,7 +13037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16666,7 +16666,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17563,7 +17563,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18562,9 +18562,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv6-twilight-masquerade-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 29,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -18599,9 +18599,10 @@
     "pokemon-nihil-zero-m3-japanese-booster-box": {
      "title": "Pok\u00e9mon Nihil Zero M3 Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 69.99,
-     "last_restock_alert": 1785187220
+     "last_restock_alert": 1785187220,
+     "unavail_since": 1788270011
     },
     "pokemon-base-set-shadowless-1st-edition-booster-box": {
      "title": "Pokemon Base Set (Shadowless) [1st Edition] Booster Box",
@@ -18677,7 +18678,7 @@
      "title": "Team Rocket Booster Box [1st Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 13196.07,
+     "price": 13289.13,
      "unavail_since": 1784083349
     },
     "gym-heroes-booster-box-1st-edition": {
@@ -19238,7 +19239,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19644,7 +19645,7 @@
      "title": "Wings of the Captain Booster Box [OP06]",
      "game": "One Piece",
      "available": false,
-     "price": 398.99,
+     "price": 409.99,
      "unavail_since": 1784083350
     },
     "chilling-reign-booster-box-case": {
@@ -19665,7 +19666,7 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 249.75,
+     "price": 248.99,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
@@ -19762,7 +19763,7 @@
      "title": "XY Evolutions Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2495.25,
+     "price": 2459.75,
      "unavail_since": 1784083350
     },
     "25th-anniversary-collection-booster-box": {
@@ -22148,7 +22149,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 169,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23147,7 +23148,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 101
+   "check_cursor": 48
   },
   "https://sagaconcepts.com": {
    "products": {
