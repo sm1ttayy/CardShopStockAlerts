@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13037,7 +13037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16666,7 +16666,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17563,7 +17563,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18562,9 +18562,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 51,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv9-journey-together-booster-bundle-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19239,7 +19239,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20283,7 +20283,7 @@
      "title": "Ravnica Remastered Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1276.75,
+     "price": 1249.75,
      "unavail_since": 1784083350
     },
     "mtg-lost-caverns-of-ixalan-collector-booster-box": {
@@ -21140,7 +21140,7 @@
      "title": "Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 79.75,
+     "price": 76.99,
      "unavail_since": 1785187243
     },
     "core-set-2020-booster-box": {
@@ -22149,7 +22149,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 107,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23148,7 +23148,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 88
+   "check_cursor": 26
   },
   "https://sagaconcepts.com": {
    "products": {
