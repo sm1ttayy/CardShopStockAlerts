@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13036,7 +13036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16644,7 +16644,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17541,7 +17541,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18540,7 +18540,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19215,7 +19215,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22125,7 +22125,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 103,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23112,7 +23112,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 45
+   "check_cursor": 85
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23415,8 +23415,9 @@
     "riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01": {
      "title": "Riftbound TCG League Of Legends Set 4 Vendetta Booster Display (24Ct) UVSRB04BP01",
      "game": "Riftbound",
-     "available": true,
-     "price": 149.99
+     "available": false,
+     "price": 149.99,
+     "unavail_since": 1788221743
     },
     "riftbound-tcg-league-of-legends-gift-of-the-rift-bundle-uvsrb05bn01en": {
      "title": "Riftbound TCG League Of Legends Gift Of The Rift Bundle UVSRB05BN01EN",
