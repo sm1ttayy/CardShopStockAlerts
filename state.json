@@ -11980,7 +11980,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13073,7 +13073,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16702,7 +16702,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17599,7 +17599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18598,9 +18598,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 25,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-op-08-two-legends-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19275,7 +19275,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20751,7 +20751,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 22.75
+     "price": 23.25
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -21225,7 +21225,7 @@
      "title": "Paldean Fates Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 583.75
+     "price": 609.99
     },
     "origins-champion-deck-jinx": {
      "title": "Origins - Champion Deck (Jinx)",
@@ -22133,7 +22133,7 @@
      "title": "Astral Radiance Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 201.99
+     "price": 204.75
     },
     "one-piece-heroines-edition-booster-box": {
      "title": "One Piece Heroines Edition Booster Box",
@@ -22185,7 +22185,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 112,
+   "check_cursor": 152,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23184,7 +23184,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 81
+   "check_cursor": 28
   },
   "https://sagaconcepts.com": {
    "products": {
