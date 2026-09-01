@@ -11986,7 +11986,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13097,7 +13097,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16160,9 +16160,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 89.95,
-     "last_restock_alert": 1786394136
+     "last_restock_alert": 1786394136,
+     "unavail_since": 1788298536
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -16726,7 +16727,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17623,7 +17624,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18622,7 +18623,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19299,7 +19300,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22210,7 +22211,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 97,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23209,7 +23210,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 55
+   "check_cursor": 2
   },
   "https://sagaconcepts.com": {
    "products": {
