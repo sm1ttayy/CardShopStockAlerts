@@ -11944,7 +11944,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13036,7 +13036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15928,9 +15928,10 @@
     "league-of-legends-riftbound-tcg-vendetta-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Vendetta Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 209.95,
-     "last_restock_alert": 1788203420
+     "last_restock_alert": 1788203420,
+     "unavail_since": 1788221112
     },
     "one-piece-card-game-premium-card-collection-best-selection-vol-6-pre-order": {
      "title": "One Piece Card Game - Premium Card Collection - Best Selection Vol 6",
@@ -16637,7 +16638,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17534,7 +17535,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18533,7 +18534,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19208,7 +19209,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22118,7 +22119,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 167,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23105,7 +23106,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 60
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
