@@ -11980,7 +11980,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13073,7 +13073,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16702,7 +16702,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17599,7 +17599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18598,7 +18598,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19275,7 +19275,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22185,9 +22185,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 58,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'japanese-future-flash-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23182,9 +23182,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 13
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-st-04-animal-kingdom-pirates' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 53
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23499,8 +23499,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
