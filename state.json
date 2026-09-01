@@ -1085,7 +1085,7 @@
      "title": "One Piece TCG: [IB-08] Illustration Box Vol. 8 [English]",
      "game": "One Piece",
      "available": false,
-     "price": 36.2,
+     "price": 37.04,
      "unavail_since": 1784083333,
      "note": "Illustration Box Vol. 8 @ $22.99 (releases 7/31)"
     },
@@ -1101,7 +1101,7 @@
      "title": "One Piece TCG: [IB-07] Illustration Box Vol. 7 [English]",
      "game": "One Piece",
      "available": false,
-     "price": 35.15,
+     "price": 36.66,
      "note": "Illustration Box Vol. 7 @ $22.99 (releases 7/31)",
      "last_restock_alert": 1787252656,
      "unavail_since": 1787261727
@@ -1148,7 +1148,7 @@
      "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Display Box [English]",
      "game": "One Piece",
      "available": false,
-     "price": 299.99,
+     "price": 317.67,
      "last_restock_alert": 1786741669,
      "unavail_since": 1786764274
     },
@@ -1204,7 +1204,7 @@
      "title": "One Piece TCG: Starter Deck Green - Roronoa Zoro (ST-32)",
      "game": "One Piece",
      "available": false,
-     "price": 33.72,
+     "price": 29.17,
      "last_restock_alert": 1787875014,
      "unavail_since": 1787973505
     },
@@ -1212,7 +1212,7 @@
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
      "game": "One Piece",
      "available": false,
-     "price": 17.84,
+     "price": 16.18,
      "last_restock_alert": 1787875014,
      "unavail_since": 1787915521
     },
@@ -1220,7 +1220,7 @@
      "title": "One Piece TCG: Starter Deck Blue - Kuzan (ST-33)",
      "game": "One Piece",
      "available": false,
-     "price": 20.61,
+     "price": 19.42,
      "last_restock_alert": 1787875014,
      "unavail_since": 1787973505
     },
@@ -1228,7 +1228,7 @@
      "title": "One Piece TCG: Starter Deck Red - Monkey.D.Luffy (ST-31)",
      "game": "One Piece",
      "available": false,
-     "price": 28.6,
+     "price": 24.98,
      "last_restock_alert": 1787875014,
      "unavail_since": 1787915521
     },
@@ -1236,15 +1236,16 @@
      "title": "One Piece TCG: Starter Deck Yellow - Eustass Captain Kid (ST-36)",
      "game": "One Piece",
      "available": false,
-     "price": 21.98,
+     "price": 19.61,
      "unavail_since": 1785361280
     },
     "one-piece-tcg-starter-deck-purple-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck Purple - Charlotte Katakuri (ST-34)",
      "game": "One Piece",
-     "available": true,
-     "price": 28.45,
-     "last_restock_alert": 1787875014
+     "available": false,
+     "price": 23.75,
+     "last_restock_alert": 1787875014,
+     "unavail_since": 1788297360
     },
     "magic-the-gathering-amonkhet-booster-box": {
      "title": "Magic: the Gathering: Amonkhet - Booster Box",
@@ -1468,7 +1469,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 153,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4039,7 +4040,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 158,
+   "check_cursor": 198,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5561,10 +5562,16 @@
      "game": "One Piece",
      "available": true,
      "price": 42.0
+    },
+    "75643-lego-one-piece-tony-tony-chopper": {
+     "title": "75643  LEGO One Piece: Tony Tony Chopper",
+     "game": "One Piece",
+     "available": true,
+     "price": 70.0
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7491,7 +7498,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120,
+   "check_cursor": 160,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9651,7 +9658,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11062,7 +11069,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
