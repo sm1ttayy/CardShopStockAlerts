@@ -11979,7 +11979,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12483,7 +12483,7 @@
      "title": "Foundations Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 144.95,
+     "price": 174.95,
      "unavail_since": 1785187224
     },
     "modern-horizons-3-play-booster-display": {
@@ -13075,10 +13075,22 @@
      "game": "Pokemon",
      "available": true,
      "price": 284.95
+    },
+    "one-piece-the-time-of-battle-booster-box": {
+     "title": "One Piece The Time of Battle Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 199.95
+    },
+    "one-piece-op13-carrying-on-his-will-booster-box": {
+     "title": "One Piece Carrying On His Will Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 479.95
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16707,7 +16719,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17604,7 +17616,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18603,7 +18615,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19090,7 +19102,7 @@
      "title": "XY Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2780.55,
+     "price": 2752.33,
      "unavail_since": 1784083349
     },
     "flashfire-booster-box": {
@@ -19118,7 +19130,7 @@
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2387.12,
+     "price": 2805.48,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -19139,7 +19151,7 @@
      "title": "XY BREAKthrough Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2334.33,
+     "price": 2368.83,
      "unavail_since": 1784083349
     },
     "xy-breakpoint-booster-box": {
@@ -19153,7 +19165,7 @@
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2034.46,
+     "price": 2033.97,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
@@ -19280,7 +19292,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22190,7 +22202,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23189,7 +23201,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 9
+   "check_cursor": 49
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23454,10 +23466,9 @@
     "magic-the-gathering-universes-beyond-marvel-super-heroes-jumpstart-booster-display-24-ct": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Jumpstart Booster Display ( 24 Ct)",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 108.99,
-     "last_restock_alert": 1787343643,
-     "unavail_since": 1787962247
+     "last_restock_alert": 1788292546
     },
     "magic-the-gathering-ccg-universes-beyond-star-trek-commander-deck-b": {
      "title": "Magic the Gathering CCG Universes Beyond Star Trek Landing Party Commander Deck",
