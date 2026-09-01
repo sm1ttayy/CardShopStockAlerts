@@ -11358,7 +11358,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11980,9 +11980,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-deluxe-pin-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13073,9 +13073,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'edge-of-eternities-play-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16702,9 +16702,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 126,
+   "check_cursor": 65,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17599,7 +17599,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18598,9 +18598,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 1,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-dr-who-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19275,9 +19275,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 24,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'supreme-victors-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -22185,9 +22185,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 188,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'white-flare-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 46,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23182,9 +23182,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-op-17-the-worlds-strongest-warriors-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 36
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 76
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23505,8 +23505,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
