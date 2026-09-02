@@ -1468,7 +1468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2273,8 +2273,9 @@
     "emperors-in-the-new-world-booster-box-op09": {
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
-     "available": true,
-     "price": 685.0
+     "available": false,
+     "price": 685.0,
+     "unavail_since": 1788384085
     },
     "innistrad-remastered-collector-booster-box": {
      "title": "Innistrad Remastered Collector Booster Box",
@@ -3946,13 +3947,13 @@
      "unavail_since": 1787738594
     },
     "tin-pack-set-vol-1-gol-d-roger-ts01": {
-     "title": "One Piece - Tin Pack Set Vol. 1 -Gol.D.Roger- [TS01]",
+     "title": "One Piece - Tin Pack Vol. 1 -Gol.D.Roger- [TS01]",
      "game": "One Piece",
      "available": true,
      "price": 95.0
     },
     "tin-pack-set-vol-1-monkey-d-luffy-ts01": {
-     "title": "One Piece - Tin Pack Set Vol. 1 -Monkey.D.Luffy- [TS01]",
+     "title": "One Piece - Tin Pack Vol. 1 -Monkey.D.Luffy- [TS01]",
      "game": "One Piece",
      "available": true,
      "price": 85.0
@@ -4038,7 +4039,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5422,7 +5423,7 @@
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 34.0
+     "price": 37.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
@@ -5571,7 +5572,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 111,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7498,7 +7499,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 95,
+   "check_cursor": 135,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9658,7 +9659,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11069,7 +11070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
