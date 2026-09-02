@@ -11986,7 +11986,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13113,7 +13113,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16742,7 +16742,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17639,7 +17639,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18638,9 +18638,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 35,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-me2-5-ascended-heroes-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19334,7 +19334,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19463,7 +19463,7 @@
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 247.75,
+     "price": 244.75,
      "unavail_since": 1784083350
     },
     "secrets-of-strixhaven-collector-booster-display": {
@@ -19671,7 +19671,7 @@
      "title": "White Flare Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 157.25,
+     "price": 139.99,
      "unavail_since": 1784083350
     },
     "fusion-arts-booster-box": {
@@ -19907,7 +19907,7 @@
      "title": "Two Legends Booster Box [OP08]",
      "game": "One Piece",
      "available": false,
-     "price": 244.99,
+     "price": 249.75,
      "unavail_since": 1784083350
     },
     "spanish-hgss-half-booster-box": {
@@ -21105,7 +21105,7 @@
      "title": "Twilight Masquerade Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2254.75,
+     "price": 2269.75,
      "unavail_since": 1786195830
     },
     "perfect-order-booster-bundle": {
@@ -22251,7 +22251,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 160,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23280,7 +23280,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 42
+   "check_cursor": 82
   },
   "https://sagaconcepts.com": {
    "products": {
