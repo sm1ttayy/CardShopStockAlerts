@@ -11993,7 +11993,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13120,7 +13120,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16763,7 +16763,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17660,7 +17660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18659,7 +18659,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19356,7 +19356,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22278,9 +22278,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 191,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 39,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'flashfire-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23323,9 +23323,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 53
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-scarlet-violet-journey-together-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 93
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23648,8 +23648,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
