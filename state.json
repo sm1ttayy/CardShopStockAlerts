@@ -760,10 +760,9 @@
     "pokemon-tcg-mega-evolution-5-pitch-black-booster-display": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
-     "available": false,
-     "price": 173.99,
-     "last_restock_alert": 1785268024,
-     "unavail_since": 1787950654
+     "available": true,
+     "price": 189.17,
+     "last_restock_alert": 1788361674
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black: Build & Battle Box",
@@ -1469,7 +1468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4040,7 +4039,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4140,16 +4139,16 @@
      "price": 42.0
     },
     "pokemon-tcg-mega-evolution-chaos-rising-booster-bundle-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Bundle Box (SALE)",
+     "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 40.0
+     "price": 39.0
     },
     "pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box (SALE)",
+     "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 90.0
+     "price": 95.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
@@ -4495,7 +4494,7 @@
      "title": "One Piece TCG: Starter Deck (ST-23)",
      "game": "One Piece",
      "available": true,
-     "price": 56.0
+     "price": 57.0
     },
     "one-piece-tcg-blue-donquixote-doflamingo-starter-deck-st-17": {
      "title": "One Piece TCG: BLUE Donquixote Doflamingo Starter Deck (ST-17)",
@@ -4519,7 +4518,7 @@
      "title": "One Piece TCG: Starter Deck - Black Marshall (ST-27)",
      "game": "One Piece",
      "available": true,
-     "price": 42.0
+     "price": 45.0
     },
     "one-piece-tcg-starter-deck-st-25-pre-order": {
      "title": "One Piece TCG: Starter Deck - Blue Buggy (ST-25)",
@@ -4734,7 +4733,7 @@
      "title": "One Piece TCG: Double Pack Volume 9 Set",
      "game": "One Piece",
      "available": true,
-     "price": 36.0
+     "price": 38.0
     },
     "one-piece-tcg-double-pack-volume-10-set": {
      "title": "One Piece TCG: Double Pack Volume 10 Set",
@@ -5563,7 +5562,7 @@
      "title": "One Piece TCG: Double Pack Volume 12 Set",
      "game": "One Piece",
      "available": true,
-     "price": 42.0
+     "price": 38.0
     },
     "75643-lego-one-piece-tony-tony-chopper": {
      "title": "75643  LEGO One Piece: Tony Tony Chopper",
@@ -5573,7 +5572,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7500,7 +7499,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7637,7 +7636,7 @@
      "title": "2025 Pokemon Prismatic Evolutions Elite Trainer Box SV",
      "game": "Pokemon",
      "available": true,
-     "price": 174.99,
+     "price": 159.99,
      "last_restock_alert": 1785410680
     },
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
@@ -9660,9 +9659,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 45,
+   "error_streak": 1,
+   "last_error": "Gamers Gauntlet: product 'spiritforge-booster-box-riftbound' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -11071,7 +11070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
