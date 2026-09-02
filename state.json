@@ -11364,7 +11364,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -11992,9 +11992,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 21,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-mega-evolution-perfect-order-build-battle-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13119,9 +13119,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'pokemon-center-paldean-fates-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16762,9 +16762,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-card-game-booster-pack-double-pack-set-vol-1-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17659,7 +17659,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18658,9 +18658,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 29,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'pokemon-sv6-twilight-masquerade-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19355,9 +19355,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'xy-phantom-forces-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -22271,9 +22271,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 183,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'uta-collection' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 31,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23316,9 +23316,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-25-blue-buggy-st-25-preorder' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 46
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 86
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23609,9 +23609,10 @@
     "pokemon-tcg-scarlet-violet-10-destined-rivals-elite-trainer-box": {
      "title": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 109.99,
-     "last_restock_alert": 1788381398
+     "last_restock_alert": 1788381398,
+     "unavail_since": 1788383451
     },
     "pokemon-tcg-scarlet-violet-10-destined-rivals-booster-display-36": {
      "title": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Booster Display (36)",
@@ -23640,8 +23641,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
