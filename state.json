@@ -1468,7 +1468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1477,15 +1477,15 @@
     "one-piece-adventure-on-kamis-island-booster-box-op-15": {
      "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 240.0,
-     "unavail_since": 1784083330
+     "last_restock_alert": 1788374753
     },
     "one-piece-the-time-of-battle-booster-box-op-16": {
      "title": "One Piece The Time of Battle Booster Box [OP-16]",
      "game": "One Piece",
      "available": true,
-     "price": 215.0,
+     "price": 205.0,
      "last_restock_alert": 1787097043
     },
     "one-piece-the-azure-seas-seven-booster-box-op-14": {
@@ -1965,9 +1965,8 @@
     "one-piece-booster-box-op11": {
      "title": "One Piece A Fist of Divine Speed Booster Box [OP11]",
      "game": "One Piece",
-     "available": false,
-     "price": 620.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 600.0
     },
     "magic-the-gathering-final-fantasy-collector-booster-box": {
      "title": "Magic: The Gathering Final Fantasy Collector Booster Box",
@@ -3884,7 +3883,7 @@
      "title": "One Piece: The World's Strongest Warriors - Booster Box [OP-17]",
      "game": "One Piece",
      "available": true,
-     "price": 399.0,
+     "price": 330.0,
      "last_restock_alert": 1787454647
     },
     "pokemon-mega-evolution-ascended-heroes-collection-larry": {
@@ -4039,7 +4038,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5572,7 +5571,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 111,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7499,7 +7498,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 95,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9659,9 +9658,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
-   "error_streak": 1,
-   "last_error": "Gamers Gauntlet: product 'spiritforge-booster-box-riftbound' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 32,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -11070,7 +11069,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
