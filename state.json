@@ -11983,10 +11983,16 @@
      "game": "One Piece",
      "available": true,
      "price": 49.99
+    },
+    "pokemon-lost-abyss-s11-booster-box-sword-shield-series-japanese": {
+     "title": "Pokemon Lost Abyss S11 Booster Box - Sword & Shield Series - Japanese",
+     "game": "Pokemon",
+     "available": true,
+     "price": 659.0
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13113,7 +13119,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13225,7 +13231,7 @@
      "title": "Pokemon - Mega Evolution - Chaos Rising - Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 269.95,
+     "price": 239.95,
      "last_restock_alert": 1785187220
     },
     "pokemon-crystal-gathering-chinese-booster-box": {
@@ -14718,8 +14724,9 @@
     "one-piece-card-game-double-pack-vol-5": {
      "title": "One Piece Card Game - Two Legends - Double Pack Set - Vol.5",
      "game": "One Piece",
-     "available": true,
-     "price": 54.95
+     "available": false,
+     "price": 54.95,
+     "unavail_since": 1788382511
     },
     "pokemon-scarlet-and-violet-obsidian-flames-booster-box": {
      "title": "Pokemon - Scarlet and Violet - Obsidian Flames - Booster Box",
@@ -14752,6 +14759,12 @@
      "game": "MTG",
      "available": true,
      "price": 89.95
+    },
+    "mtg-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-food-and-fellowship": {
+     "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Commander Deck - Food and Fellowship",
+     "game": "MTG",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -16739,10 +16752,17 @@
      "game": "MTG",
      "available": true,
      "price": 349.95
+    },
+    "pokemon-mega-evolution-ascended-heroes-poster-collection-mega-gardevoir-ex-pre-order": {
+     "title": "Pokemon - Mega Evolution - Ascended Heroes - Poster Collection - Mega Gardevoir ex",
+     "game": "Pokemon",
+     "available": false,
+     "price": 229.95,
+     "unavail_since": 1788382524
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17639,7 +17659,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18638,7 +18658,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19335,7 +19355,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20988,7 +21008,7 @@
      "title": "Pokemon Day 2026 Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 38.75
+     "price": 37.25
     },
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
@@ -21032,7 +21052,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 238.75,
+     "price": 237.25,
      "last_restock_alert": 1786657540
     },
     "kaldheim-draft-booster-box": {
@@ -21754,7 +21774,7 @@
      "title": "Marvel Super Heroes Commander Deck - Wakanda Forever",
      "game": "MTG",
      "available": true,
-     "price": 49.75
+     "price": 41.99
     },
     "pikachu-zekrom-gx-premium-collection": {
      "title": "Pikachu & Zekrom GX Premium Collection",
@@ -22251,7 +22271,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 103,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23281,12 +23301,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 19.95
+    },
+    "funko-pop-one-piece-monkey-d-luffy-whole-cake-island-exclusive-2052": {
+     "title": "Funko Pop! One Piece Monkey D. Luffy (Whole Cake Island) Exclusive #2052",
+     "game": "One Piece",
+     "available": true,
+     "price": 15.95
+    },
+    "wizards-of-the-coast-gatherers-tower-sword-of-fire-and-ice-light-up-figurine": {
+     "title": "Wizards of the Coast: Gatherer's Tower Sword of Fire and Ice Light-up Figurine",
+     "game": "MTG",
+     "available": true,
+     "price": 199.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 37
+   "check_cursor": 77
   },
   "https://sagaconcepts.com": {
    "products": {
