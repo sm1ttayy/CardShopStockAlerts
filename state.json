@@ -1468,7 +1468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1491,22 +1491,22 @@
     "one-piece-the-azure-seas-seven-booster-box-op-14": {
      "title": "One Piece The Azure Sea's Seven Booster Box [OP-14]",
      "game": "One Piece",
-     "available": false,
-     "price": 250.0,
-     "unavail_since": 1784083330
+     "available": true,
+     "price": 260.0,
+     "last_restock_alert": 1788391878
     },
     "one-piece-extra-booster-heroines-edition-box-eb-03": {
      "title": "One Piece Extra Booster: Heroines Edition Box [EB-03]",
      "game": "One Piece",
-     "available": false,
-     "price": 305.0,
-     "unavail_since": 1784083330
+     "available": true,
+     "price": 330.0,
+     "last_restock_alert": 1788391878
     },
     "one-piece-legacy-of-the-master-booster-box-op12": {
      "title": "One Piece Legacy of the Master Booster Box [OP12]",
      "game": "One Piece",
      "available": true,
-     "price": 270.0
+     "price": 280.0
     },
     "mega-evolution-ascended-heroes-elite-trainer-box": {
      "title": "Pokemon - Mega Evolution: Ascended Heroes Elite Trainer Box",
@@ -1926,9 +1926,9 @@
     "one-piece-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Carrying On His Will Booster Box [OP-13]",
      "game": "One Piece",
-     "available": false,
-     "price": 459.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 475.0,
+     "last_restock_alert": 1788391878
     },
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-play-booster-box": {
      "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Play Booster Box",
@@ -2322,9 +2322,9 @@
     "500-years-in-the-future-booster-box-op07": {
      "title": "500 Years in the Future Booster Box [OP07]",
      "game": "One Piece",
-     "available": false,
-     "price": 360.0,
-     "unavail_since": 1784083330
+     "available": true,
+     "price": 330.0,
+     "last_restock_alert": 1788391878
     },
     "pillars-of-strength-booster-box-op03": {
      "title": "Pillars of Strength Booster Box [OP03]",
@@ -4039,7 +4039,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 124,
+   "check_cursor": 164,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5572,7 +5572,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7499,7 +7499,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 135,
+   "check_cursor": 175,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9659,7 +9659,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11070,7 +11070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
