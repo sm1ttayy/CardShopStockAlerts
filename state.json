@@ -12011,10 +12011,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 659.0
+    },
+    "one-piece-luffy-gear-5-laughing-sitting-pose-plush": {
+     "title": "ONE PIECE - LUFFY GEAR 5 LAUGHING SITTING POSE PLUSH",
+     "game": "One Piece",
+     "available": true,
+     "price": 39.99
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12081,7 +12087,7 @@
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 174.95,
+     "price": 179.95,
      "last_restock_alert": 1787712010
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
@@ -13141,7 +13147,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14055,7 +14061,7 @@
      "title": "One Piece Card Game - Premium Card Collection Set 25th Edition",
      "game": "One Piece",
      "available": true,
-     "price": 1999.95
+     "price": 799.95
     },
     "one-piece-card-game-premium-card-collection-live-action-pre-order": {
      "title": "One Piece Card Game Premium Card Collection  Live Action",
@@ -14959,9 +14965,10 @@
     "app-exlusive-pokemon-scarlet-and-violet-destined-rivals-booster-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 579.95,
-     "last_restock_alert": 1787776230
+     "last_restock_alert": 1787776230,
+     "unavail_since": 1788465912
     },
     "pokemon-151-surprise-pokemon-slim-pack-booster-box-simplified-chinese-pre-order": {
      "title": "Pokemon 151 Surprise - Pokemon Slim Pack Booster Box - Simplified Chinese",
@@ -15485,10 +15492,9 @@
     "pokemon-prismatic-evolutions-super-premium-collection-pre-order": {
      "title": "Pokemon Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 399.99,
-     "last_restock_alert": 1786999214,
-     "unavail_since": 1787013609
+     "last_restock_alert": 1788465914
     },
     "pokemon-scarlet-violet-151-poster-collection": {
      "title": "Pokemon Scarlet & Violet\u2014151 Poster Collection",
@@ -15684,9 +15690,10 @@
     "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 89.95,
-     "last_restock_alert": 1787869810
+     "last_restock_alert": 1787869810,
+     "unavail_since": 1788465913
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4",
@@ -16781,10 +16788,16 @@
      "available": false,
      "price": 229.95,
      "unavail_since": 1788382524
+    },
+    "one-piece-card-game-op-17-the-worlds-strongest-warriors-japanese-booster-box": {
+     "title": "One Piece Card Game OP-17 - The World's Strongest Warriors (Japanese) - Booster Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 179.95
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17606,8 +17619,9 @@
     "final-fantasy-commander-deck-counter-blitz-final-fantasy-x": {
      "title": "FINAL FANTASY - Commander Deck (Counter Blitz FINAL FANTASY X)",
      "game": "MTG",
-     "available": true,
-     "price": 99.99
+     "available": false,
+     "price": 99.99,
+     "unavail_since": 1788465925
     },
     "marvel-super-heroes-commander-deck-avengers-assemble": {
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
@@ -17678,10 +17692,16 @@
      "game": "MTG",
      "available": true,
      "price": 199.99
+    },
+    "pre-order-lorwyn-eclipsed-play-booster-display": {
+     "title": "Lorwyn Eclipsed - Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 229.99
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18680,7 +18700,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18709,10 +18729,9 @@
     "pokemon-ninja-spinner-m4-japanese-booster-box": {
      "title": "Pok\u00e9mon Ninja Spinner M4 Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 74.99,
-     "last_restock_alert": 1786737310,
-     "unavail_since": 1788268210
+     "last_restock_alert": 1788465913
     },
     "pokemon-nihil-zero-m3-japanese-booster-box": {
      "title": "Pok\u00e9mon Nihil Zero M3 Japanese Booster Box",
@@ -19278,9 +19297,9 @@
     "pokemon-mega-brave-m1l-japanese-booster-box": {
      "title": "Pok\u00e9mon Mega Brave M1L Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 80.99,
-     "unavail_since": 1788378311
+     "available": true,
+     "price": 79.99,
+     "last_restock_alert": 1788465913
     },
     "battle-partners-booster-box-sv9-pokemon-japanese": {
      "title": "Pok\u00e9mon Battle Partners Booster Box SV9",
@@ -19377,7 +19396,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22299,9 +22318,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
-   "error_streak": 3,
-   "last_error": "Common Lands: product 'assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 47,
+   "error_streak": 4,
+   "last_error": "Common Lands: product 'gg-end-booster-box-jp' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23344,9 +23363,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-four-emperors-in-the-new-world-op-09-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 31
+   "error_streak": 4,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me01-mega-evolution-booster-bundle-6-boosters' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 71
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23669,7 +23688,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
+   "error_streak": 4,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
