@@ -12036,7 +12036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13176,7 +13176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16846,7 +16846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 89,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17750,7 +17750,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18749,7 +18749,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19446,7 +19446,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22367,7 +22367,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 106,
+   "check_cursor": 146,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23428,9 +23428,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 11
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-the-azure-seas-seven-op-14-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 51
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23754,8 +23754,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
