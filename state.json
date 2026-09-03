@@ -1468,7 +1468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3530,23 +3530,23 @@
     "starter-deck-24-green-jewelry-bonney": {
      "title": "Starter Deck 24: GREEN Jewelry Bonney [ST-24]",
      "game": "One Piece",
-     "available": false,
-     "price": 40.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 42.0,
+     "last_restock_alert": 1788398658
     },
     "starter-deck-25-blue-buggy": {
      "title": "Starter Deck 25: BLUE Buggy [ST-25]",
      "game": "One Piece",
-     "available": false,
-     "price": 30.0,
-     "unavail_since": 1784083331
+     "available": true,
+     "price": 37.0,
+     "last_restock_alert": 1788398658
     },
     "starter-deck-22-blue-ace-newgate-st-22": {
      "title": "Starter Deck 22: BLUE Ace & Newgate [ST-22]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 20.0,
-     "unavail_since": 1784083331
+     "last_restock_alert": 1788398658
     },
     "starter-deck-23-red-shanks": {
      "title": "Starter Deck 23: RED Shanks [ST-23]",
@@ -3579,9 +3579,9 @@
     "starter-deck-27-black-marshall-d-luffy": {
      "title": "Starter Deck 27: BLACK Marshall.D.Teach [ST-27]",
      "game": "One Piece",
-     "available": false,
-     "price": 35.0,
-     "unavail_since": 1785276757
+     "available": true,
+     "price": 42.0,
+     "last_restock_alert": 1788398658
     },
     "double-pack-set-volume-6-dp06-1": {
      "title": "Double Pack Set Volume 6 [DP06]",
@@ -3950,13 +3950,13 @@
      "title": "One Piece - Tin Pack Vol. 1 -Gol.D.Roger- [TS01]",
      "game": "One Piece",
      "available": true,
-     "price": 95.0
+     "price": 60.0
     },
     "tin-pack-set-vol-1-monkey-d-luffy-ts01": {
      "title": "One Piece - Tin Pack Vol. 1 -Monkey.D.Luffy- [TS01]",
      "game": "One Piece",
      "available": true,
-     "price": 85.0
+     "price": 60.0
     },
     "30th-celebration-ex-box-set-of-2": {
      "title": "[PREORDER] 30th Celebration - Greninja & Sylveon ex Box [Set of 2]",
@@ -4036,10 +4036,16 @@
      "available": false,
      "price": 100.0,
      "unavail_since": 1788188465
+    },
+    "one-piece-tin-pack-set-vol-2-set-of-3-ts02": {
+     "title": "One Piece - Tin Pack Set Vol. 2 [Set Of 3] [TS02]",
+     "game": "One Piece",
+     "available": true,
+     "price": 170.0
     }
    },
    "baselined": true,
-   "check_cursor": 164,
+   "check_cursor": 204,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5572,7 +5578,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7499,7 +7505,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 175,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9659,7 +9665,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11070,7 +11076,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
