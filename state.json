@@ -12035,7 +12035,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12529,9 +12529,10 @@
     "foundations-jumpstart-booster-display": {
      "title": "Foundations Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 109.95,
-     "last_restock_alert": 1788378316
+     "last_restock_alert": 1788378316,
+     "unavail_since": 1788472539
     },
     "buy-mtg-foundations-play-booster-display": {
      "title": "Foundations Play Booster Box",
@@ -13174,7 +13175,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16844,7 +16845,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17748,7 +17749,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18747,9 +18748,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 7,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-phyrexia-all-will-be-one-collector-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19444,7 +19445,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22365,7 +22366,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 126,
+   "check_cursor": 166,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23428,7 +23429,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 15
+   "check_cursor": 55
   },
   "https://sagaconcepts.com": {
    "products": {
