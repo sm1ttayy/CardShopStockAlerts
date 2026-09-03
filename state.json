@@ -11386,7 +11386,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -12020,9 +12020,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 22,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-mega-evolution-phantasmal-flames-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13159,9 +13159,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'me02-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16330,9 +16330,10 @@
     "pokemon-first-partner-illustration-collections-series-2-pre-order": {
      "title": "Pokemon First Partner Illustration Collections - Series 2",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 49.99,
-     "last_restock_alert": 1786664734
+     "last_restock_alert": 1786664734,
+     "unavail_since": 1788470122
     },
     "pokemon-tcg-mega-latias-ex-box-pre-order": {
      "title": "Pokemon TCG: Mega Latias ex Box",
@@ -16828,9 +16829,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 71,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pre-order-magic-the-gathering-kaldheim-draft-booster-february-2021' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17732,7 +17733,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18731,9 +18732,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 35,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-me2-5-ascended-heroes-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19428,9 +19429,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'jungle-booster-box-unlimited-edition' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -21719,7 +21720,7 @@
      "title": "Dominaria United - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 256.99,
+     "price": 274.99,
      "unavail_since": 1786195830
     },
     "strixhaven-school-of-mages-set-booster-display": {
@@ -22349,9 +22350,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 186,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'white-flare-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 36,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23410,9 +23411,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-pokemon-go-premier-deck-holder-collection-dragonite-vstar' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 81
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 20
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23736,8 +23737,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
