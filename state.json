@@ -12020,7 +12020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13159,7 +13159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16732,9 +16732,9 @@
     "mtg-universes-beyond-the-hobbit-gift-bundle-pre-order-1": {
      "title": "MTG - Universes Beyond: The Hobbit - Gift Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 199.95,
-     "unavail_since": 1788466526
+     "last_restock_alert": 1788468034
     },
     "riftbound-league-of-legends-legacy-vault-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Vault (Pre Order)",
@@ -16828,7 +16828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 116,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17732,7 +17732,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18731,7 +18731,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19428,7 +19428,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20539,7 +20539,7 @@
      "title": "Japanese Transformation Mask Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 94.99,
+     "price": 102.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-super-electric-breaker-booster-box": {
@@ -20923,7 +20923,7 @@
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 70.75,
+     "price": 67.75,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -22186,7 +22186,7 @@
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 85.99,
+     "price": 87.75,
      "unavail_since": 1788292830
     },
     "gem-mint-vol-5-booster-box": {
@@ -22285,7 +22285,7 @@
      "title": "Astral Radiance Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 204.75
+     "price": 203.75
     },
     "one-piece-heroines-edition-booster-box": {
      "title": "One Piece Heroines Edition Booster Box",
@@ -22349,9 +22349,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'mtg-wilds-of-eldraine-set-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 137,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23410,9 +23410,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'secrets-of-strixhaven-play-booster-display' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 0
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23736,8 +23736,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
