@@ -11672,7 +11672,8 @@
      "game": "MTG",
      "available": false,
      "price": 52.99,
-     "unavail_since": 1784083341
+     "unavail_since": 1784083341,
+     "delisted": true
     },
     "magic-the-gathering-marvels-spider-man-bundle": {
      "title": "MTG Spider-Man Bundle - 9 Boosters, Lands & Accessories | Magic The Gathering",
@@ -12035,7 +12036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13175,7 +13176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16845,7 +16846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17749,7 +17750,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18748,7 +18749,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19445,7 +19446,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20004,7 +20005,7 @@
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 413.64,
+     "price": 403.99,
      "last_restock_alert": 1787505026
     },
     "korean-blue-sky-stream-booster-box": {
@@ -20509,7 +20510,7 @@
      "title": "Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 141.75
+     "price": 138.99
     },
     "mtg-wilds-of-eldraine-set-booster-box": {
      "title": "Wilds of Eldraine Set Booster Box",
@@ -21581,7 +21582,7 @@
      "title": "Pokemon GO Mini Tin Display [Sealed]",
      "game": "Pokemon",
      "available": true,
-     "price": 699.75
+     "price": 499.75
     },
     "tapu-lele-pin-collection": {
      "title": "Tapu Lele Pin Collection",
@@ -21918,7 +21919,7 @@
      "title": "Kaladesh - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 205.75
+     "price": 198.99
     },
     "strixhaven-school-of-mages-bundle": {
      "title": "Strixhaven: School of Mages - Bundle",
@@ -22246,7 +22247,7 @@
      "title": "30th Celebration Ultra-Premium Collection [Night]",
      "game": "Pokemon",
      "available": true,
-     "price": 695.49
+     "price": 667.75
     },
     "30th-celebration-greninja-ex-box": {
      "title": "30th Celebration Greninja ex Box",
@@ -22366,7 +22367,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 176,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23429,7 +23430,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 73
+   "check_cursor": 22
   },
   "https://sagaconcepts.com": {
    "products": {
