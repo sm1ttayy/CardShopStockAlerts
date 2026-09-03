@@ -1468,7 +1468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 126,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1865,9 +1865,9 @@
     "one-piece-double-pack-set-vol-10-op15-eb04": {
      "title": "One Piece Double Pack Set Vol. 10 [DP-10]",
      "game": "One Piece",
-     "available": false,
-     "price": 45.0,
-     "unavail_since": 1784083332
+     "available": true,
+     "price": 40.0,
+     "last_restock_alert": 1788416664
     },
     "magic-the-gathering-the-hobbit-collector-booster-box": {
      "title": "[PREORDER] Magic: The Gathering - The Hobbit Collector Booster Box",
@@ -4045,7 +4045,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 204,
+   "check_cursor": 244,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5578,7 +5578,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5712,10 +5712,11 @@
     "one-piece-op-17-booster-box": {
      "title": "One Piece The World's Strongest Warriors (OP-17) Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 399.75,
      "note": "OP-17 booster box placeholder",
-     "last_restock_alert": 1788286916
+     "last_restock_alert": 1788286916,
+     "unavail_since": 1788416662
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
      "title": "Pokemon Mega Evolution Chaos Rising Booster Box",
@@ -7505,7 +7506,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8748,6 +8749,12 @@
      "game": "MTG",
      "available": true,
      "price": 184.99
+    },
+    "one-piece-tcg-tamashi-nation-logotype-luffy-figure": {
+     "title": "One Piece TCG: Tamashi Nation Logotype Luffy Figure",
+     "game": "One Piece",
+     "available": true,
+     "price": 13.99
     }
    },
    "baselined": true,
@@ -9665,7 +9672,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9704,10 +9711,9 @@
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
      "title": "Pokemon TCG: Mega Greninja ex Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 37.99,
-     "delisted": true,
-     "unavail_since": 1788129613
+     "delisted": true
     },
     "magic-the-gathering-final-fantasy-commander-deck-display-collectors-edition": {
      "title": "Magic: the Gathering - FINAL FANTASY Commander Deck Display",
@@ -11076,7 +11082,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
