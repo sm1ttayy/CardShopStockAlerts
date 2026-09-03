@@ -11386,7 +11386,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12020,9 +12020,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-elite-trainer-box-plus-zamazenta' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13147,9 +13147,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'unova-poster-collection-sv-black-bolt' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -14793,6 +14793,12 @@
      "game": "MTG",
      "available": true,
      "price": 149.95
+    },
+    "mtg-tarkir-dragonstorm-commander-decks-sultai-arisen": {
+     "title": "MTG - Tarkir: Dragonstorm - Commander Deck - Sultai Arisen",
+     "game": "MTG",
+     "available": true,
+     "price": 109.95
     }
    },
    "baselined": true,
@@ -16797,9 +16803,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 5,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'ashiok-accessories-bundle-for-magic-the-gathering' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17701,7 +17707,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18700,9 +18706,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 37,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-sv10-5-black-bolt-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19396,9 +19402,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'neo-revelation-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22318,9 +22324,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 4,
-   "last_error": "Common Lands: product 'gg-end-booster-box-jp' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'mtg-assassins-creed-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23364,8 +23370,8 @@
    },
    "baselined": true,
    "error_streak": 4,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me01-mega-evolution-booster-bundle-6-boosters' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 71
+   "last_error": "Undiscovered Realm: product 'secrets-of-strixhaven-play-booster-display' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 0
   },
   "https://sagaconcepts.com": {
    "products": {
