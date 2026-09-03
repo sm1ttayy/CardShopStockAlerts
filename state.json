@@ -11400,8 +11400,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1,
-   "last_error": "Moonshot Games: product 'one-piece-tcg-wings-of-the-captain-booster-box-op-06' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -12036,9 +12036,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
-   "error_streak": 1,
-   "last_error": "Super Anime Store: product 'magic-the-gathering-marvels-spider-man-bundle' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 46,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13176,9 +13176,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
-   "error_streak": 1,
-   "last_error": "Geekery Games: product 'spider-man-play-booster-display-preorder' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 38,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16846,9 +16846,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 129,
-   "error_streak": 1,
-   "last_error": "Hobbiesville: product 'reprint-pokemon-scarlet-and-violet-journey-together-non-enhanced-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 73,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17750,7 +17750,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18749,7 +18749,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19446,9 +19446,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
-   "error_streak": 1,
-   "last_error": "PokeRand: product 'rising-rivals-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 17,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -22367,7 +22367,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 186,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23430,7 +23430,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 91
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
