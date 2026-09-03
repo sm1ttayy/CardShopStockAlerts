@@ -12020,7 +12020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13159,7 +13159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16828,7 +16828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17732,7 +17732,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18731,7 +18731,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19428,7 +19428,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19633,7 +19633,7 @@
      "title": "Inferno X Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 116.49,
+     "price": 116.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-fusion-strike-booster-box": {
@@ -20243,7 +20243,7 @@
      "title": "Japanese Heat Wave Arena Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 127.99,
+     "price": 127.75,
      "unavail_since": 1786195839
     },
     "japanese-glory-of-team-rocket-booster-box": {
@@ -21320,7 +21320,7 @@
      "title": "Final Fantasy Commander Deck [Revival Trance]",
      "game": "MTG",
      "available": false,
-     "price": 34.49,
+     "price": 37.49,
      "unavail_since": 1785438628
     },
     "marvel-super-heroes-gift-bundle": {
@@ -21472,7 +21472,7 @@
      "title": "Innistrad: Crimson Vow - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 156.75,
+     "price": 156.49,
      "unavail_since": 1786195830
     },
     "pokemon-charizard-ex-super-premium-collection": {
@@ -22349,9 +22349,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'dominaria-united-set-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 66,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23410,9 +23410,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-lorwyn-eclipsed-bundle' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 12
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 52
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23736,8 +23736,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
