@@ -12020,7 +12020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13159,7 +13159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16819,10 +16819,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 369.95
+    },
+    "pokemon-paldean-fates-elite-trainer-box-pre-order": {
+     "title": "Pokemon Scarlet And Violet Paldean Fates Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 729.95
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17726,7 +17732,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18725,9 +18731,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv3-obsidian-flames-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 23,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19422,7 +19428,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22343,7 +22349,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23201,9 +23207,8 @@
     "one-piece-tcg-four-emperors-in-the-new-world-op-09-english-booster-box-24-packs": {
      "title": "One Piece TCG Four Emperors In The New World (OP-09) English Booster Box (24 Packs)",
      "game": "One Piece",
-     "available": false,
-     "price": 164.95,
-     "unavail_since": 1786195851
+     "available": true,
+     "price": 699.95
     },
     "funko-pop-one-piece-monkey-d-dragon-exclusive-signed-autographed-by-bryan-massey-2206-jsa-certified": {
      "title": "Funko Pop! One Piece Monkey D. Dragon Exclusive Signed Autographed by Bryan Massey #2206 (JSA Certified)",
@@ -23407,7 +23412,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 28
+   "check_cursor": 68
   },
   "https://sagaconcepts.com": {
    "products": {
