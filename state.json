@@ -1468,7 +1468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 96,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4046,7 +4046,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 173,
+   "check_cursor": 213,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5580,7 +5580,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5714,10 +5714,11 @@
     "one-piece-op-17-booster-box": {
      "title": "One Piece The World's Strongest Warriors (OP-17) Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 399.75,
      "note": "OP-17 booster box placeholder",
-     "last_restock_alert": 1788461001
+     "last_restock_alert": 1788461001,
+     "unavail_since": 1788478166
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
      "title": "Pokemon Mega Evolution Chaos Rising Booster Box",
@@ -7508,7 +7509,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9674,7 +9675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11106,7 +11107,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
