@@ -12037,7 +12037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12923,8 +12923,9 @@
     "first-partner-illustration-collection-series-3": {
      "title": "First Partner Illustration Collection (Series 3)",
      "game": "Pokemon",
-     "available": true,
-     "price": 29.95
+     "available": false,
+     "price": 29.95,
+     "unavail_since": 1788478522
     },
     "ascended-heroes-premium-poster-collection-mega-lucario": {
      "title": "Ascended Heroes Premium Poster Collection - Mega Lucario",
@@ -13177,7 +13178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16847,7 +16848,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17751,7 +17752,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18750,7 +18751,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19447,7 +19448,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22368,7 +22369,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 168,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23431,7 +23432,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 86
+   "check_cursor": 35
   },
   "https://sagaconcepts.com": {
    "products": {
