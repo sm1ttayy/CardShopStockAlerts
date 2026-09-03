@@ -12020,7 +12020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13159,7 +13159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16822,7 +16822,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16982,7 +16982,7 @@
      "title": "Monkey.D.Luffy (Starter Deck 11: Uta Deck Battle) [Winner] [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 147.0,
+     "price": 146.4,
      "unavail_since": 1784083349
     },
     "monkey-d-luffy-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -17726,7 +17726,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18725,9 +18725,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 41,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv3-obsidian-flames-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19422,7 +19422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19493,7 +19493,7 @@
      "title": "Unleashed Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 199.75,
+     "price": 198.49,
      "unavail_since": 1784083350
     },
     "tmnt-play-booster-box": {
@@ -19744,7 +19744,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 463.99,
+     "price": 459.99,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800622
     },
@@ -19925,7 +19925,7 @@
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 83.75,
+     "price": 84.99,
      "unavail_since": 1784083350
     },
     "japanese-forbidden-light-booster-box-sm6": {
@@ -19953,7 +19953,7 @@
      "title": "25th Anniversary Collection Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 379.99,
+     "price": 389.75,
      "unavail_since": 1784083350
     },
     "japanese-crimson-haze-booster-box": {
@@ -20037,7 +20037,7 @@
      "title": "Japanese Wild Force Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 107.75,
+     "price": 106.99,
      "unavail_since": 1786195837
     },
     "stellar-miracle-booster-box": {
@@ -20072,7 +20072,7 @@
      "title": "Japanese Ancient Roar Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 101.99,
+     "price": 100.75,
      "unavail_since": 1784083350
     },
     "surging-sparks-half-booster-box": {
@@ -21191,7 +21191,7 @@
      "title": "Twilight Masquerade Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2269.75,
+     "price": 2249.75,
      "unavail_since": 1786195830
     },
     "perfect-order-booster-bundle": {
@@ -21445,7 +21445,7 @@
      "title": "Vendetta Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 178.99,
+     "price": 178.75,
      "last_restock_alert": 1786403130,
      "unavail_since": 1786919752
     },
@@ -21762,7 +21762,7 @@
      "title": "Zendikar Rising - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 178.99,
+     "price": 180.75,
      "unavail_since": 1786195830
     },
     "commander-legends-draft-booster-box": {
@@ -22112,7 +22112,7 @@
      "title": "White Flare Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 88.49,
+     "price": 88.75,
      "unavail_since": 1788214255
     },
     "mega-evolution-booster-bundle": {
@@ -22343,7 +22343,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 167,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22380,9 +22380,9 @@
     "one-piece-tcg-pillars-of-strength-op-03-sealed-booster-box-24-packs": {
      "title": "One Piece TCG: Pillars Of Strength Op-03 Sealed Booster Box (24 Packs)",
      "game": "One Piece",
-     "available": false,
-     "price": 78.95,
-     "unavail_since": 1784158611
+     "available": true,
+     "price": 499.95,
+     "last_restock_alert": 1788467148
     },
     "one-piece-tcg-wings-of-the-captain-op-06-booster-box-24-packs": {
      "title": "One Piece TCG Wings of the Captain (OP-06) Booster Box (24 Packs)",
@@ -23407,7 +23407,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 80
+   "check_cursor": 28
   },
   "https://sagaconcepts.com": {
    "products": {
