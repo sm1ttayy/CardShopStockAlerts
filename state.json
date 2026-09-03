@@ -12020,7 +12020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13159,7 +13159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14814,7 +14814,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16828,7 +16828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17732,7 +17732,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18731,9 +18731,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 31,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19428,7 +19428,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19862,7 +19862,7 @@
      "title": "March of the Machine Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 306.75,
+     "price": 307.25,
      "unavail_since": 1784083350
     },
     "the-brothers-war-set-booster-box": {
@@ -19883,7 +19883,7 @@
      "title": "Memorial Collection Booster Box [EB01]",
      "game": "One Piece",
      "available": false,
-     "price": 883.99,
+     "price": 879.75,
      "unavail_since": 1784083350
     },
     "paramount-war-booster-box-op02": {
@@ -20386,7 +20386,7 @@
      "title": "Kamigawa: Neon Dynasty Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 409.99,
+     "price": 409.49,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-remastered-draft-booster-box": {
@@ -20597,7 +20597,7 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 219.99,
+     "price": 211.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-151-booster-box": {
@@ -20992,7 +20992,7 @@
      "title": "Marvel Super Heroes Play Booster Bundle",
      "game": "MTG",
      "available": false,
-     "price": 44.75,
+     "price": 43.75,
      "unavail_since": 1784083350
     },
     "final-fantasy-gift-bundle": {
@@ -21327,7 +21327,7 @@
      "title": "Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 76.75,
+     "price": 76.49,
      "unavail_since": 1785187243
     },
     "core-set-2020-booster-box": {
@@ -22024,7 +22024,7 @@
      "title": "Modern Horizons 2 - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 325.75,
+     "price": 326.25,
      "unavail_since": 1787405427
     },
     "wilds-of-eldraine-draft-booster-display": {
@@ -22349,7 +22349,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 106,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23412,7 +23412,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 52
+   "check_cursor": 1
   },
   "https://sagaconcepts.com": {
    "products": {
