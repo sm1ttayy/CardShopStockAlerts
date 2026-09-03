@@ -12020,7 +12020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13159,7 +13159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15503,9 +15503,9 @@
     "pokemon-prismatic-evolutions-poster-collection-pre-order": {
      "title": "Pokemon Prismatic Evolutions Poster Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 69.95,
-     "unavail_since": 1786479919
+     "last_restock_alert": 1788466888
     },
     "pokemon-prismatic-evolutions-super-premium-collection-pre-order": {
      "title": "Pokemon Prismatic Evolutions Super-Premium Collection",
@@ -16822,7 +16822,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17726,7 +17726,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18725,7 +18725,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19422,7 +19422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19514,7 +19514,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 206.75,
+     "price": 209.75,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -19529,7 +19529,7 @@
      "title": "Secrets of Strixhaven Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 141.49,
+     "price": 137.99,
      "unavail_since": 1784083350
     },
     "legacy-of-the-master-booster-box-op12": {
@@ -19967,7 +19967,7 @@
      "title": "Surging Sparks Booster Box Case [Sealed]",
      "game": "Pokemon",
      "available": false,
-     "price": 1947.25,
+     "price": 1946.75,
      "unavail_since": 1786195837
     },
     "mega-evolution-booster-box-non-enhanced": {
@@ -20223,7 +20223,7 @@
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 304.49,
+     "price": 309.49,
      "last_restock_alert": 1787505026
     },
     "japanese-sky-legend-booster-box": {
@@ -20646,7 +20646,7 @@
      "title": "Starter Deck EX: Luffy & Ace",
      "game": "One Piece",
      "available": false,
-     "price": 31.75,
+     "price": 29.75,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-11-uta": {
@@ -20979,7 +20979,7 @@
      "title": "Secrets of Strixhaven - Codex Bundle",
      "game": "MTG",
      "available": false,
-     "price": 138.49,
+     "price": 135.75,
      "unavail_since": 1784083350
     },
     "marvel-superheroes-play-booster-bundle": {
@@ -20993,7 +20993,7 @@
      "title": "Final Fantasy Gift Bundle",
      "game": "MTG",
      "available": true,
-     "price": 269.75,
+     "price": 274.75,
      "last_restock_alert": 1788206170
     },
     "universes-beyond-final-fantasy-bundle": {
@@ -21074,7 +21074,7 @@
      "title": "Pokemon Day 2026 Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 37.25
+     "price": 38.25
     },
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
@@ -21832,7 +21832,7 @@
      "title": "Spiritforged Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 213.75,
+     "price": 214.75,
      "last_restock_alert": 1786999234,
      "unavail_since": 1787258433
     },
@@ -21913,7 +21913,7 @@
      "title": "Zendikar Rising - Bundle Gift Edition",
      "game": "MTG",
      "available": true,
-     "price": 108.99
+     "price": 111.75
     },
     "zendikar-booster-box": {
      "title": "Zendikar - Booster Box",
@@ -21932,7 +21932,7 @@
      "title": "The Azure Sea's Seven Booster Box [OP14]",
      "game": "One Piece",
      "available": false,
-     "price": 263.25,
+     "price": 262.75,
      "unavail_since": 1786800618
     },
     "amonkhet-booster-box": {
@@ -22343,7 +22343,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 127,
+   "check_cursor": 167,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23407,7 +23407,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 40
+   "check_cursor": 80
   },
   "https://sagaconcepts.com": {
    "products": {
