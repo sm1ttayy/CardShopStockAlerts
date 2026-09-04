@@ -1466,7 +1466,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 95,
+   "check_cursor": 135,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4045,7 +4045,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
+   "check_cursor": 142,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5579,7 +5579,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7508,7 +7508,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9671,10 +9671,58 @@
      "game": "One Piece",
      "available": true,
      "price": 40.0
+    },
+    "commander-2019-deck": {
+     "title": "Commander 2019 Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 50.0
+    },
+    "secrets-of-strixhaven-commander-decks-mtg": {
+     "title": "Secrets of Strixhaven Commander Decks [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 50.0
+    },
+    "commander-starter-deck": {
+     "title": "Commander Starter Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 35.0
+    },
+    "commander-2020-deck": {
+     "title": "Commander 2020 Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 75.0
+    },
+    "final-fantasy-commander-deck-universes-beyond-mtg": {
+     "title": "Final Fantasy Commander Deck (Universes Beyond) [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 55.0
+    },
+    "lorwyn-eclipsed-commander-decks-mtg": {
+     "title": "Lorwyn Eclipsed Commander Decks [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 40.0
+    },
+    "modern-horizons-commander-deck-mtg": {
+     "title": "Modern Horizons 3 Commander Deck [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 55.0
+    },
+    "commander-2021-deck": {
+     "title": "Commander 2021 Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 50.0
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11106,7 +11154,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
