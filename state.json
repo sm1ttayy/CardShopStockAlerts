@@ -761,7 +761,7 @@
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 189.17,
+     "price": 170.93,
      "last_restock_alert": 1788361674
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
@@ -1463,10 +1463,17 @@
      "available": false,
      "price": 105.37,
      "unavail_since": 1788209211
+    },
+    "pokemon-tcg-destined-rivals-booster-display": {
+     "title": "Pokemon TCG: Destined Rivals Booster Display",
+     "game": "Pokemon",
+     "available": false,
+     "price": 389.06,
+     "unavail_since": 1788545848
     }
    },
    "baselined": true,
-   "check_cursor": 135,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2320,9 +2327,10 @@
     "500-years-in-the-future-booster-box-op07": {
      "title": "One Piece: 500 Years in the Future - Booster Box [OP07]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 330.0,
-     "last_restock_alert": 1788391878
+     "last_restock_alert": 1788391878,
+     "unavail_since": 1788545844
     },
     "pillars-of-strength-booster-box-op03": {
      "title": "Pillars of Strength Booster Box [OP03]",
@@ -4045,7 +4053,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 142,
+   "check_cursor": 182,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4148,19 +4156,19 @@
      "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 39.0
+     "price": 40.0
     },
     "pokemon-tcg-mega-evolution-ascended-heroes-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 95.0
+     "price": 94.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 44.0
+     "price": 43.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -4507,13 +4515,13 @@
      "title": "One Piece TCG: BLUE Donquixote Doflamingo Starter Deck (ST-17)",
      "game": "One Piece",
      "available": true,
-     "price": 104.0
+     "price": 105.0
     },
     "one-piece-tcg-monkey-d-luffy-starter-deck-st-18-pre-order": {
      "title": "One Piece TCG: Monkey D Luffy Starter Deck (ST-18)",
      "game": "One Piece",
      "available": true,
-     "price": 193.0
+     "price": 194.0
     },
     "2023-one-piece-starter-deck-st05-one-piece-film-edition-shanks-psa-10": {
      "title": "2023 One Piece Starter Deck St05-One Piece Film Edition Shanks PSA 10",
@@ -5430,7 +5438,7 @@
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 36.0
+     "price": 37.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
@@ -5569,17 +5577,29 @@
      "title": "One Piece TCG: Double Pack Volume 12 Set",
      "game": "One Piece",
      "available": true,
-     "price": 39.0
+     "price": 36.0
     },
     "75643-lego-one-piece-tony-tony-chopper": {
      "title": "75643  LEGO One Piece: Tony Tony Chopper",
      "game": "One Piece",
      "available": true,
      "price": 70.0
+    },
+    "pokemon-scarlet-and-violet-journey-together-bundle-box-pre-order": {
+     "title": "Pokemon Scarlet and Violet: Journey Together Bundle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 47.0
+    },
+    "pokemon-tcg-scarlet-and-violet-destined-rivals-bundle-box-pre-order": {
+     "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Bundle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 78.0
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7461,7 +7481,7 @@
      "title": "Pokemon Scarlet & Violet Shrouded Fable Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 74.75
+     "price": 69.75
     },
     "pokemon-sv-151-ultra-premium-collection-box": {
      "title": "Pok\u00e9mon Scarlet & Violet 151 Ultra Premium Collection Box",
@@ -7508,7 +7528,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 127,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8756,6 +8776,12 @@
      "game": "One Piece",
      "available": true,
      "price": 13.99
+    },
+    "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
+     "title": "Pokemon Mega Evolution - Ascended Heroes Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 189.0
     }
    },
    "baselined": true,
@@ -8869,7 +8895,7 @@
      "title": "Prismatic Evolutions Elite Trainer Box [Pokemon]",
      "game": "Pokemon",
      "available": true,
-     "price": 175.0
+     "price": 160.0
     },
     "destined-rivals-elite-trainer-box-pokemon-1": {
      "title": "Destined Rivals Elite Trainer Box [Pok\u00e9mon]",
@@ -9722,7 +9748,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10164,6 +10190,13 @@
      "available": false,
      "price": 600.0,
      "unavail_since": 1788470609
+    },
+    "pokemon-mega-battle-deck-mega-gengar-diancie-ex-10-24-25": {
+     "title": "Pokemon: Mega Battle Deck - Mega Gengar/Diancie ex",
+     "game": "Pokemon",
+     "available": false,
+     "price": 80.0,
+     "unavail_since": 1788545847
     }
    },
    "baselined": true,
@@ -10240,7 +10273,7 @@
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 164.99,
+     "price": 149.99,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-perfect-order-elite-trainer-box": {
@@ -10254,7 +10287,7 @@
      "title": "Pok\u00e9mon TCG: Destined Rivals (SV10): Elite Trainer Box - Pok\u00e9mon Center",
      "game": "Pokemon",
      "available": true,
-     "price": 529.99
+     "price": 499.99
     },
     "pokemon-tcg-prismatic-evolutions-elite-trainer-box-pokemon-center-edition": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Elite Trainer Box - Pokemon Center Edition",
@@ -11091,8 +11124,9 @@
     "pokemon-tcg-brilliant-stars-elite-trainer-box-pokemon-center": {
      "title": "Pok\u00e9mon TCG: Brilliant Stars: Elite Trainer Box Pok\u00e9mon Center",
      "game": "Pokemon",
-     "available": true,
-     "price": 261.99
+     "available": false,
+     "price": 261.99,
+     "unavail_since": 1788545849
     },
     "pokemon-tcg-pokemon-go-pokemon-center-elite-trainer-box-plus": {
      "title": "Pok\u00e9mon TCG: Pok\u00e9mon GO: Pokemon Center Elite Trainer Box Plus",
@@ -11151,10 +11185,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 119.99
+    },
+    "pokemon-tcg-fusion-strike-pokemon-center-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Fusion Strike Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 489.99
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
