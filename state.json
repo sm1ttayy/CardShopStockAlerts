@@ -12037,7 +12037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13178,7 +13178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16752,9 +16752,10 @@
     "mtg-universes-beyond-the-hobbit-gift-bundle-pre-order-1": {
      "title": "MTG - Universes Beyond: The Hobbit - Gift Bundle",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 199.95,
-     "last_restock_alert": 1788468034
+     "last_restock_alert": 1788468034,
+     "unavail_since": 1788482135
     },
     "riftbound-league-of-legends-legacy-vault-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Vault (Pre Order)",
@@ -16848,7 +16849,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17752,7 +17753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18751,7 +18752,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19448,7 +19449,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22369,7 +22370,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23432,7 +23433,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 12
+   "check_cursor": 52
   },
   "https://sagaconcepts.com": {
    "products": {
