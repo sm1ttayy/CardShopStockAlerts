@@ -12124,7 +12124,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13053,8 +13053,9 @@
     "marvel-super-heroes-commander-deck-set-of-4-preorder": {
      "title": "Marvel Super Heroes Commander Deck Set of 4",
      "game": "MTG",
-     "available": true,
-     "price": 184.95
+     "available": false,
+     "price": 184.95,
+     "unavail_since": 1788552615
     },
     "mega-gardevoir-elite-trainer-box-me01": {
      "title": "ME01 Mega Gardevoir Elite Trainer Box",
@@ -13262,10 +13263,16 @@
      "game": "MTG",
      "available": true,
      "price": 149.95
+    },
+    "modern-horizons-3-graveyard-overdrive-commander-deck": {
+     "title": "Modern Horizons 3 Graveyard Overdrive Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13513,8 +13520,9 @@
     "riftbound-league-of-legends-tcg-spiritforged-booster-box": {
      "title": "Riftbound: League of Legends - Spiritforged Booster Box",
      "game": "Riftbound",
-     "available": true,
-     "price": 339.95
+     "available": false,
+     "price": 339.95,
+     "unavail_since": 1788552612
     },
     "league-of-legends-riftbound-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends - Origins Booster Box",
@@ -13891,9 +13899,10 @@
     "mtg-secrets-of-strixhaven-codex-bundle": {
      "title": "MTG - Secrets of Strixhaven - Codex Bundle",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 229.95,
-     "last_restock_alert": 1787168447
+     "last_restock_alert": 1787168447,
+     "unavail_since": 1788552616
     },
     "mtg-universes-beyond-marvels-spider-man-bundle": {
      "title": "MTG - Universes Beyond: Marvel's Spider-Man - Bundle",
@@ -14917,10 +14926,16 @@
      "game": "MTG",
      "available": true,
      "price": 109.95
+    },
+    "pokemon-crown-zenith-premium-treasures-collection-morpeko-v-union": {
+     "title": "Pokemon - Crown Zenith - Premium Treasures Collection - Morpeko V-UNION",
+     "game": "Pokemon",
+     "available": true,
+     "price": 359.95
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16875,8 +16890,9 @@
     "mtg-bloomburrow-commander-decks-family-matters": {
      "title": "MTG - Bloomburrow - Commander Decks - Family Matters",
      "game": "MTG",
-     "available": true,
-     "price": 39.95
+     "available": false,
+     "price": 39.95,
+     "unavail_since": 1788552615
     },
     "mtg-universes-beyond-final-fantasy-commander-deck-scions-spellcraft": {
      "title": "MTG - Universes Beyond: Final Fantasy - Commander Deck - Scions & Spellcraft",
@@ -16937,7 +16953,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17118,7 +17134,7 @@
      "title": "Sabo (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 17.6,
+     "price": 16.7,
      "unavail_since": 1784083349
     },
     "kaido-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -17841,7 +17857,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18815,10 +18831,10 @@
      "price": 199.95
     },
     "riftbound-unleashed-booster-box": {
-     "title": "RIFTBOUND UNLEASHED BOOSTER BOX (LIMIT 6)",
+     "title": "RIFTBOUND UNLEASHED BOOSTER BOX (LIMIT 2)",
      "game": "Riftbound",
      "available": true,
-     "price": 189.95
+     "price": 199.95
     },
     "riftbound-origins-booster-display": {
      "title": "RIFTBOUND ORIGINS BOOSTER DISPLAY (LIMIT 1)",
@@ -18840,7 +18856,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19353,7 +19369,7 @@
      "title": "XY Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2805.48,
+     "price": 2387.12,
      "unavail_since": 1784083349
     },
     "xy-roaring-skies-booster-box": {
@@ -19388,7 +19404,7 @@
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2033.97,
+     "price": 2034.46,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
@@ -19531,11 +19547,11 @@
      "title": "Exclusive Pokemon Center Japanese Special Box Bundle (Hiroshima, Tohoku & Fukuoka)",
      "game": "Pokemon",
      "available": true,
-     "price": 359.99
+     "price": 349.99
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19955,14 +19971,14 @@
      "title": "Dungeons & Dragons Battle for Baldur's Gate Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 374.75,
+     "price": 354.75,
      "unavail_since": 1784083350
     },
     "crimson-vow-set-booster-box": {
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 245.25,
+     "price": 241.25,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
@@ -20011,7 +20027,7 @@
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
      "available": false,
-     "price": 653.99,
+     "price": 649.99,
      "unavail_since": 1784083350
     },
     "journey-together-non-enhanced-booster-box": {
@@ -20261,7 +20277,7 @@
      "title": "Japanese Cyber Judge Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 66.75,
+     "price": 90.75,
      "unavail_since": 1784083350
     },
     "japanese-snow-hazard-booster-box": {
@@ -20557,7 +20573,7 @@
      "title": "Crimson Invasion Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 679.75,
+     "price": 679.49,
      "unavail_since": 1784083350
     },
     "lost-thunder-booster-box": {
@@ -22457,7 +22473,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23520,7 +23536,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 37
+   "check_cursor": 77
   },
   "https://sagaconcepts.com": {
    "products": {
