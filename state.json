@@ -11488,7 +11488,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12123,9 +12123,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 30,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-mega-evolution-phantasmal-flames-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13271,9 +13271,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'mega-lucario-elite-trainer-box-me01' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16952,9 +16952,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-card-game-starter-deck-monkey-d-luffy-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -17856,7 +17856,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18855,9 +18855,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-swsh3-darkness-ablaze-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19550,9 +19550,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'xy-phantom-forces-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22472,9 +22472,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 113,
    "error_streak": 2,
-   "last_error": "Common Lands: product 'korean-lost-abyss-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'origins-champion-deck-jinx' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23534,8 +23534,8 @@
    },
    "baselined": true,
    "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-ascended-heroes-mega-evolution-elite-trainer-box-etb-pre-order' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 61
+   "last_error": "Undiscovered Realm: product 'pokemon-unified-minds-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 101
   },
   "https://sagaconcepts.com": {
    "products": {
