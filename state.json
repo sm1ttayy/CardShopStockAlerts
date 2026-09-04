@@ -12037,7 +12037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13178,7 +13178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14842,9 +14842,10 @@
     "one-piece-cg-eb-03-extra-booster-box-pre-order": {
      "title": "One Piece CG EB-03 Extra Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 499.95,
-     "last_restock_alert": 1787087103
+     "last_restock_alert": 1787087103,
+     "unavail_since": 1788487503
     },
     "one-piece-op-10-booster-box-pre-order": {
      "title": "One Piece OP-10 Royal Blood Booster Box",
@@ -16849,7 +16850,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17753,7 +17754,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18752,7 +18753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19449,7 +19450,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22370,7 +22371,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23433,7 +23434,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 68
+   "check_cursor": 7
   },
   "https://sagaconcepts.com": {
    "products": {
