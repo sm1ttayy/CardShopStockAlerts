@@ -12037,7 +12037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13178,7 +13178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16848,7 +16848,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 96,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17752,7 +17752,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18751,7 +18751,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19448,7 +19448,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22369,9 +22369,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 71,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'korean-blue-sky-stream-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23430,9 +23430,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 53
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sun-and-moon-unbroken-bonds-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 93
   },
   "https://sagaconcepts.com": {
    "products": {
