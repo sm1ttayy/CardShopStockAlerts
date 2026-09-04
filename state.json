@@ -12037,7 +12037,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13178,7 +13178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16849,7 +16849,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17753,7 +17753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18752,9 +18752,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 19,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-eb-03-extra-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19449,7 +19449,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22370,7 +22370,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 132,
+   "check_cursor": 172,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23433,7 +23433,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 54
+   "check_cursor": 3
   },
   "https://sagaconcepts.com": {
    "products": {
