@@ -12124,7 +12124,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12289,9 +12289,10 @@
     "riftbound-spiritforged-booster-box": {
      "title": "Riftbound Spiritforged Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 189.95,
-     "last_restock_alert": 1788553237
+     "last_restock_alert": 1788553237,
+     "unavail_since": 1788553525
     },
     "riftbound-vendetta-booster-box": {
      "title": "Riftbound Vendetta Booster Box",
@@ -13271,7 +13272,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14108,7 +14109,7 @@
      "title": "Pokemon - Lost Origin - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 319.95
+     "price": 299.95
     },
     "one-piece-card-game-eb04-egghead-crisis-extra-booster-japanese-booster-box": {
      "title": "One Piece Card Game - EB04 - Egghead Crisis - Extra Booster - Japanese Booster Box",
@@ -16952,7 +16953,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17856,7 +17857,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18855,9 +18856,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv4-paradox-rift-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 25,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19550,7 +19551,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22472,9 +22473,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 137,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 177,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'unbroken-bonds-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23533,9 +23534,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 49
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-etb-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 89
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23859,8 +23860,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
