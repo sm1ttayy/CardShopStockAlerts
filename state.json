@@ -12120,10 +12120,16 @@
      "game": "One Piece",
      "available": true,
      "price": 39.99
+    },
+    "pokemon-x-nintendo-3ds-game-only": {
+     "title": "Pokemon X - Nintendo 3DS - (Game Only)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 52.99
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13272,7 +13278,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16951,7 +16957,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17132,7 +17138,7 @@
      "title": "Sabo (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 16.7,
+     "price": 16.3,
      "unavail_since": 1784083349
     },
     "kaido-premium-card-collection-leader-collection-one-piece-promotion-cards": {
@@ -17855,7 +17861,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18854,7 +18860,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19549,7 +19555,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22476,7 +22482,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 135,
+   "check_cursor": 175,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23534,12 +23540,18 @@
      "game": "One Piece",
      "available": true,
      "price": 74.95
+    },
+    "pokemon-tcg-30th-celebration-elite-trainer-box-anniversary-etb": {
+     "title": "Pokemon TCG 30th Celebration Elite Trainer Box Anniversary (ETB) (Pre Order)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 78
+   "check_cursor": 28
   },
   "https://sagaconcepts.com": {
    "products": {
