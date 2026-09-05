@@ -1473,7 +1473,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3537,9 +3537,10 @@
     "starter-deck-24-green-jewelry-bonney": {
      "title": "Starter Deck 24: GREEN Jewelry Bonney [ST-24]",
      "game": "One Piece",
-     "available": true,
-     "price": 42.0,
-     "last_restock_alert": 1788398658
+     "available": false,
+     "price": 40.0,
+     "last_restock_alert": 1788398658,
+     "unavail_since": 1788631690
     },
     "starter-deck-25-blue-buggy": {
      "title": "Starter Deck 25: BLUE Buggy [ST-25]",
@@ -3586,9 +3587,10 @@
     "starter-deck-27-black-marshall-d-luffy": {
      "title": "Starter Deck 27: BLACK Marshall.D.Teach [ST-27]",
      "game": "One Piece",
-     "available": true,
-     "price": 42.0,
-     "last_restock_alert": 1788398658
+     "available": false,
+     "price": 45.0,
+     "last_restock_alert": 1788398658,
+     "unavail_since": 1788631690
     },
     "double-pack-set-volume-6-dp06-1": {
      "title": "Double Pack Set Volume 6 [DP06]",
@@ -4050,10 +4052,58 @@
      "game": "One Piece",
      "available": true,
      "price": 170.0
+    },
+    "starter-deck-ex-30-luffy-ace-st-30-one-piece": {
+     "title": "One Piece: Starter Deck EX 30 - Luffy & Ace [ST-30]",
+     "game": "One Piece",
+     "available": true,
+     "price": 30.0
+    },
+    "one-piece-starter-deck-35-red-black-sabo-st-35": {
+     "title": "One Piece: Starter Deck 35 - RED/BLACK Sabo [ST-35]",
+     "game": "One Piece",
+     "available": true,
+     "price": 20.0
+    },
+    "one-piece-starter-deck-33-blue-kuzan-st-33": {
+     "title": "One Piece: Starter Deck 33 - BLUE Kuzan [ST-33]",
+     "game": "One Piece",
+     "available": true,
+     "price": 20.0
+    },
+    "one-piece-starter-deck-31-red-monkey-d-luffy-st-31": {
+     "title": "One Piece: Starter Deck 31 - RED Monkey.D.Luffy [ST-31]",
+     "game": "One Piece",
+     "available": true,
+     "price": 25.0
+    },
+    "one-piece-starter-deck-32-green-roronoa-zoro-st-32": {
+     "title": "One Piece: Starter Deck 32 - GREEN Roronoa Zoro [ST-32]",
+     "game": "One Piece",
+     "available": true,
+     "price": 35.0
+    },
+    "double-pack-set-volume-7-dp07": {
+     "title": "One Piece: A Fist of Divine Speed Double Pack Set Volume 7 [DP07]",
+     "game": "One Piece",
+     "available": true,
+     "price": 80.0
+    },
+    "one-piece-tcg-illustration-box-vol-8": {
+     "title": "One Piece: Illustration Box Vol.8 [IB-08]",
+     "game": "One Piece",
+     "available": true,
+     "price": 40.0
+    },
+    "one-piece-tcg-illustration-box-vol-6": {
+     "title": "One Piece: Illustration Box Vol.6 [IB-06]",
+     "game": "One Piece",
+     "available": true,
+     "price": 100.0
     }
    },
    "baselined": true,
-   "check_cursor": 116,
+   "check_cursor": 156,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4510,7 +4560,7 @@
      "title": "One Piece TCG: Starter Deck (ST-23)",
      "game": "One Piece",
      "available": true,
-     "price": 57.0
+     "price": 63.0
     },
     "one-piece-tcg-blue-donquixote-doflamingo-starter-deck-st-17": {
      "title": "One Piece TCG: BLUE Donquixote Doflamingo Starter Deck (ST-17)",
@@ -4749,7 +4799,7 @@
      "title": "One Piece TCG: Double Pack Volume 9 Set",
      "game": "One Piece",
      "available": true,
-     "price": 35.0
+     "price": 38.0
     },
     "one-piece-tcg-double-pack-volume-10-set": {
      "title": "One Piece TCG: Double Pack Volume 10 Set",
@@ -5506,7 +5556,7 @@
      "title": "One Piece TCG: Red/Black Sabo Starter Deck EX (ST-35)",
      "game": "One Piece",
      "available": true,
-     "price": 19.0
+     "price": 17.0
     },
     "one-piece-tcg-yellow-eustass-captain-kid-starter-deck-ex-st-36": {
      "title": "One Piece TCG: Yellow Eustass Captain Kid Starter Deck EX (ST-36)",
@@ -5600,7 +5650,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7528,7 +7578,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 141,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8906,8 +8956,9 @@
     "crimson-invasion-elite-trainer-box-pokemon": {
      "title": "Crimson Invasion Elite Trainer Box [Pok\u00e9mon]",
      "game": "Pokemon",
-     "available": true,
-     "price": 225.0
+     "available": false,
+     "price": 225.0,
+     "unavail_since": 1788631692
     },
     "destined-rivals-pokemon-center-elite-trainer-box-pokemon": {
      "title": "Destined Rivals Pok\u00e9mon Center Elite Trainer Box [Pokemon]",
@@ -9748,7 +9799,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10198,6 +10249,66 @@
      "available": false,
      "price": 80.0,
      "unavail_since": 1788545847
+    },
+    "pokemon-tcg-discord-only-me01-mega-base-booster-box-case-double-box": {
+     "title": "Pokemon TCG: ME01 Mega Base Booster Box Case - Double Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1940.0
+    },
+    "pokemon-tcg-discord-only-me05-pitch-black-booster-box-case-double-box": {
+     "title": "Pokemon TCG:  ME05 Pitch Black Booster Box Case - Double Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1020.0
+    },
+    "pokemon-tcg-discord-only-me04-chaos-rising-booster-box-case-double-box": {
+     "title": "Pokemon TCG: ME04 Chaos Rising Booster Box Case - Double Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1100.0
+    },
+    "pokemon-tcg-discord-only-ascended-heroes-tin-case-double-boxed": {
+     "title": "Pokemon TCG: Ascended Heroes Tin CASE - Double Boxed",
+     "game": "Pokemon",
+     "available": true,
+     "price": 330.0
+    },
+    "pokemon-tcg-discord-only-me05-pitch-black-booster-bundle-case": {
+     "title": "Pokemon TCG:  ME05 Pitch Black Booster Bundle Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 830.0
+    },
+    "pokemon-tcg-discord-only-me05-pitch-black-elite-trainer-box-case": {
+     "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 650.0
+    },
+    "pokemon-tcg-discord-only-lumiose-city-mini-tin-display-case": {
+     "title": "Pokemon TCG:   Lumiose City Mini Tin Display Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 450.0
+    },
+    "pokemon-tcg-discord-only-mega-moonlit-tin-case": {
+     "title": "Pokemon TCG: Mega Moonlit Tin  Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 130.0
+    },
+    "pokemon-tcg-discord-only-mega-zygarde-ex-premium-collection-case": {
+     "title": "Pokemon TCG:  Mega Zygarde ex Premium Collection Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 285.0
+    },
+    "pokemon-tcg-discord-only-first-partner-illustration-collection-series-3-case": {
+     "title": "Pokemon TCG: First Partner Illustration Collection - Series 3 - Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 180.0
     }
    },
    "baselined": true,
@@ -11195,7 +11306,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
