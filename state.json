@@ -12254,7 +12254,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13404,7 +13404,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17110,7 +17110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17951,8 +17951,9 @@
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island [OP-15] - Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 359.99
+     "available": false,
+     "price": 359.99,
+     "unavail_since": 1788639905
     },
     "the-hobbit-draft-night": {
      "title": "The Hobbit - Draft Night",
@@ -18020,7 +18021,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19019,7 +19020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19714,7 +19715,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22647,7 +22648,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23722,7 +23723,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 44
+   "check_cursor": 84
   },
   "https://sagaconcepts.com": {
    "products": {
