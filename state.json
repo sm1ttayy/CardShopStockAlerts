@@ -12137,7 +12137,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13286,7 +13286,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16242,8 +16242,9 @@
     "wave-2-pre-order-pokemon-sword-and-shield-5-battle-styles-booster-box-end-of-april": {
      "title": "Pokemon Sword And Shield battle styles- Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 394.95
+     "available": false,
+     "price": 394.95,
+     "unavail_since": 1788616511
     },
     "pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "Pokemon 30th Celebration Booster Bundle (Pre Order)",
@@ -16971,7 +16972,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17875,7 +17876,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18874,7 +18875,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19569,7 +19570,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22502,7 +22503,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23577,7 +23578,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 29
+   "check_cursor": 69
   },
   "https://sagaconcepts.com": {
    "products": {
