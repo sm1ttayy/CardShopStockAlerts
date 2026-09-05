@@ -12137,7 +12137,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12203,10 +12203,9 @@
     "pokemon-me05-pitch-black-booster-box": {
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1787712010,
-     "unavail_since": 1788615006
+     "last_restock_alert": 1787712010
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
      "title": "Pokemon ME04 Chaos Rising Elite Trainer Box",
@@ -12569,10 +12568,9 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 414.95,
-     "last_restock_alert": 1786814106,
-     "unavail_since": 1788615006
+     "last_restock_alert": 1786814106
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -13241,9 +13239,8 @@
     "one-piece-the-time-of-battle-booster-box": {
      "title": "One Piece The Time of Battle Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 199.95,
-     "unavail_since": 1788615006
+     "available": true,
+     "price": 199.95
     },
     "one-piece-op13-carrying-on-his-will-booster-box": {
      "title": "One Piece Carrying On His Will Booster Box",
@@ -13289,7 +13286,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14955,16 +14952,10 @@
      "game": "One Piece",
      "available": true,
      "price": 499.95
-    },
-    "pokemon-blue-sky-stream-japanese-booster-box": {
-     "title": "Pokemon - Blue Sky Stream - Japanese Booster Box",
-     "game": "Pokemon",
-     "available": true,
-     "price": 1899.95
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16977,20 +16968,6 @@
      "game": "Pokemon",
      "available": true,
      "price": 729.95
-    },
-    "pokemon-tcg-mega-set-7-booster-box-pre-order": {
-     "title": "Pokemon TCG Mega Set 7 Booster Box (Pre Order)",
-     "game": "Pokemon",
-     "available": false,
-     "price": 269.95,
-     "unavail_since": 1788615008
-    },
-    "mtg-the-lord-of-the-rings-tales-of-middle-earth-english-set-booster-box-restock-pre-order": {
-     "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - English Set Booster Box (Restock Pre Order)",
-     "game": "MTG",
-     "available": false,
-     "price": 349.95,
-     "unavail_since": 1788615010
     }
    },
    "baselined": true,
@@ -17895,13 +17872,6 @@
      "game": "MTG",
      "available": true,
      "price": 229.99
-    },
-    "reality-fracture-play-booster-display": {
-     "title": "Reality Fracture - Play Booster Display",
-     "game": "MTG",
-     "available": false,
-     "price": 189.99,
-     "unavail_since": 1788615008
     }
    },
    "baselined": true,
@@ -18901,13 +18871,6 @@
      "game": "Riftbound",
      "available": true,
      "price": 64.95
-    },
-    "riftbound-radiance-booster-box": {
-     "title": "RIFTBOUND RADIANCE BOOSTER BOX (LIMIT 3) PRE ORDER ^ OCT 23/26",
-     "game": "Riftbound",
-     "available": false,
-     "price": 179.95,
-     "unavail_since": 1788615012
     }
    },
    "baselined": true,
@@ -19603,13 +19566,6 @@
      "game": "Pokemon",
      "available": true,
      "price": 349.99
-    },
-    "pokemon-tcg-mega-evolution-pitch-black-booster-box": {
-     "title": "Pok\u00e9mon TCG: Mega Evolution Pitch Black - Booster Box",
-     "game": "Pokemon",
-     "available": false,
-     "price": 154.99,
-     "unavail_since": 1788615006
     }
    },
    "baselined": true,
