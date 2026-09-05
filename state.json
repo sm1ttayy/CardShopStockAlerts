@@ -12143,7 +12143,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13292,7 +13292,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16976,10 +16976,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 729.95
+    },
+    "pokemon-30th-celebration-ultra-premium-collection-night-pre-order": {
+     "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Night (Pre Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 419.95,
+     "unavail_since": 1788627609
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17883,7 +17890,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18882,7 +18889,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19577,7 +19584,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22510,7 +22517,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23585,7 +23592,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 53
+   "check_cursor": 2
   },
   "https://sagaconcepts.com": {
    "products": {
