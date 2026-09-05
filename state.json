@@ -12137,7 +12137,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12203,9 +12203,10 @@
     "pokemon-me05-pitch-black-booster-box": {
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 179.95,
-     "last_restock_alert": 1787712010
+     "last_restock_alert": 1787712010,
+     "unavail_since": 1788615006
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
      "title": "Pokemon ME04 Chaos Rising Elite Trainer Box",
@@ -12568,9 +12569,10 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 414.95,
-     "last_restock_alert": 1786814106
+     "last_restock_alert": 1786814106,
+     "unavail_since": 1788615006
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -13239,8 +13241,9 @@
     "one-piece-the-time-of-battle-booster-box": {
      "title": "One Piece The Time of Battle Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 199.95
+     "available": false,
+     "price": 199.95,
+     "unavail_since": 1788615006
     },
     "one-piece-op13-carrying-on-his-will-booster-box": {
      "title": "One Piece Carrying On His Will Booster Box",
@@ -13286,7 +13289,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14952,10 +14955,16 @@
      "game": "One Piece",
      "available": true,
      "price": 499.95
+    },
+    "pokemon-blue-sky-stream-japanese-booster-box": {
+     "title": "Pokemon - Blue Sky Stream - Japanese Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1899.95
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16968,10 +16977,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 729.95
+    },
+    "pokemon-tcg-mega-set-7-booster-box-pre-order": {
+     "title": "Pokemon TCG Mega Set 7 Booster Box (Pre Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 269.95,
+     "unavail_since": 1788615008
+    },
+    "mtg-the-lord-of-the-rings-tales-of-middle-earth-english-set-booster-box-restock-pre-order": {
+     "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - English Set Booster Box (Restock Pre Order)",
+     "game": "MTG",
+     "available": false,
+     "price": 349.95,
+     "unavail_since": 1788615010
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17872,10 +17895,17 @@
      "game": "MTG",
      "available": true,
      "price": 229.99
+    },
+    "reality-fracture-play-booster-display": {
+     "title": "Reality Fracture - Play Booster Display",
+     "game": "MTG",
+     "available": false,
+     "price": 189.99,
+     "unavail_since": 1788615008
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18871,10 +18901,17 @@
      "game": "Riftbound",
      "available": true,
      "price": 64.95
+    },
+    "riftbound-radiance-booster-box": {
+     "title": "RIFTBOUND RADIANCE BOOSTER BOX (LIMIT 3) PRE ORDER ^ OCT 23/26",
+     "game": "Riftbound",
+     "available": false,
+     "price": 179.95,
+     "unavail_since": 1788615012
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19566,10 +19603,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 349.99
+    },
+    "pokemon-tcg-mega-evolution-pitch-black-booster-box": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution Pitch Black - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 154.99,
+     "unavail_since": 1788615006
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22502,9 +22546,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 88,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23575,9 +23619,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 11
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-the-azure-seas-seven-op-14-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 51
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -23908,8 +23952,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
