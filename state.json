@@ -1473,9 +1473,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-murders-at-karlov-manor-collector-booster-box' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4053,9 +4053,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 109,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'innistrad-crimson-vow-collector-booster-box-display' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -5599,9 +5599,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'pokemon-scarlet-and-violet-prismatic-evolutions-elite-trainer-box-pre-order' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -7527,9 +7527,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 107,
+   "check_cursor": 147,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product 'one-piece-double-pack-set-volume-8-6-box-case' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -8786,7 +8786,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'sword-shielld-vivid-voltage-booster-box' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -9747,9 +9747,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 22,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'one-piece-zoro-and-sanjii-starter-deck-st-12' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -10201,7 +10201,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-prismatic-lucario-ex-tyranitar-ex-premium-box' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -11193,9 +11193,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 31,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'pokemon-tcg-paradox-rift-booster-display' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
