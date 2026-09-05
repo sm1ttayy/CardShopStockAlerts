@@ -12143,7 +12143,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13287,12 +13287,13 @@
     "modern-horizons-3-graveyard-overdrive-commander-deck": {
      "title": "Modern Horizons 3 Graveyard Overdrive Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 64.95
+     "available": false,
+     "price": 64.95,
+     "unavail_since": 1788629413
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16997,7 +16998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17901,7 +17902,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18900,7 +18901,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19595,7 +19596,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22528,7 +22529,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 113,
+   "check_cursor": 153,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23603,7 +23604,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 20
+   "check_cursor": 60
   },
   "https://sagaconcepts.com": {
    "products": {
