@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13501,7 +13501,7 @@
      "title": "Pokemon - Ninja Spinner - Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 154.95
+     "price": 139.95
     },
     "pokemon-nihil-zero-japanese-booster-box": {
      "title": "Pokemon - Nihil Zero - Japanese Booster Box",
@@ -14263,7 +14263,7 @@
      "title": "Pokemon - Mega Brave - Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 159.95
+     "price": 129.95
     },
     "mtg-tarkir-dragonstorm-commander-decks-jeskai-striker": {
      "title": "MTG - Tarkir: Dragonstorm - Commander Deck - Jeskai Striker",
@@ -14474,8 +14474,9 @@
     "mtg-commander-legends-draft-booster-box": {
      "title": "MTG - Commander Legends - Draft Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 449.95
+     "available": false,
+     "price": 449.95,
+     "unavail_since": 1788704716
     },
     "one-piece-card-game-illustration-box-vol-4": {
      "title": "One Piece Card Game - Illustration Box Vol.4",
@@ -15079,6 +15080,18 @@
      "game": "One Piece",
      "available": true,
      "price": 499.95
+    },
+    "pokemon-battle-partners-japanese-booster-box": {
+     "title": "Pokemon - Battle Partners - Japanese Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 129.95
+    },
+    "pokemon-the-glory-of-team-rocket-japanese-booster-box": {
+     "title": "Pokemon - The Glory of Team Rocket - Japanese Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 299.95
     }
    },
    "baselined": true,
@@ -15252,9 +15265,10 @@
     "app-exlusive-pokemon-scarlet-and-violet-destined-rivals-booster-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 579.95,
-     "last_restock_alert": 1788659713
+     "last_restock_alert": 1788659713,
+     "unavail_since": 1788704710
     },
     "pokemon-151-surprise-pokemon-slim-pack-booster-box-simplified-chinese-pre-order": {
      "title": "Pokemon 151 Surprise - Pokemon Slim Pack Booster Box - Simplified Chinese",
@@ -17119,7 +17133,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18030,7 +18044,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18967,8 +18981,9 @@
     "mtg-reality-fracture-bundle": {
      "title": "MTG REALITY FRACTURE BUNDLE PRE ORDER ^ SEPT 25/26",
      "game": "MTG",
-     "available": true,
-     "price": 69.95
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1788704718
     },
     "riftbound-league-of-legends-tcg-radiance-vault": {
      "title": "RIFTBOUND LEAGUE OF LEGENDS TCG RADIANCE VAULT (LIMIT 1) PRE ORDER ^ OCT 23/26",
@@ -19029,7 +19044,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19724,7 +19739,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22663,9 +22678,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 94,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'mtg-return-to-ravnica-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23736,9 +23751,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 19
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-sword-shield-brilliant-stars-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 59
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24075,8 +24090,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
