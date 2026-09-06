@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17146,7 +17146,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18070,7 +18070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19070,7 +19070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19765,7 +19765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20779,7 +20779,7 @@
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 262.99,
+     "price": 259.75,
      "last_restock_alert": 1788207114
     },
     "crimson-invasion-booster-box": {
@@ -22712,7 +22712,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23787,7 +23787,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 64
+   "check_cursor": 8
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24124,8 +24124,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
