@@ -12255,7 +12255,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13387,8 +13387,9 @@
     "modern-horizons-3-eldrazi-incursion-commander-deck": {
      "title": "Modern Horizons 3 Eldrazi Incursion Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 189.95
+     "available": false,
+     "price": 189.95,
+     "unavail_since": 1788659737
     },
     "the-hobbit-gift-bundle-preorder": {
      "title": "The Hobbit Gift Bundle",
@@ -13405,7 +13406,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15244,10 +15245,9 @@
     "app-exlusive-pokemon-scarlet-and-violet-destined-rivals-booster-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 579.95,
-     "last_restock_alert": 1787776230,
-     "unavail_since": 1788465912
+     "last_restock_alert": 1788659713
     },
     "pokemon-151-surprise-pokemon-slim-pack-booster-box-simplified-chinese-pre-order": {
      "title": "Pokemon 151 Surprise - Pokemon Slim Pack Booster Box - Simplified Chinese",
@@ -15968,10 +15968,9 @@
     "pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 89.95,
-     "last_restock_alert": 1787869810,
-     "unavail_since": 1788465913
+     "last_restock_alert": 1788659724
     },
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4",
@@ -17111,7 +17110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18022,7 +18021,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19021,7 +19020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19716,7 +19715,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22649,7 +22648,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 157,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23724,7 +23723,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 48
+   "check_cursor": 88
   },
   "https://sagaconcepts.com": {
    "products": {
