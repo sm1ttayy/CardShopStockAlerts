@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15092,6 +15092,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 299.95
+    },
+    "one-piece-card-game-double-pack-set-vol-12": {
+     "title": "One Piece Card Game - The World's Strongest Warriors - Double Pack Set - Vol. 12",
+     "game": "One Piece",
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1788709809
     }
    },
    "baselined": true,
@@ -17133,7 +17140,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18044,7 +18051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19044,7 +19051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19739,7 +19746,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20165,7 +20172,7 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 242.99,
+     "price": 239.99,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
@@ -21370,8 +21377,9 @@
     "surging-sparks-pokemon-center-elite-trainer-box-1": {
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 279.75
+     "available": false,
+     "price": 274.99,
+     "unavail_since": 1788709844
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
      "title": "Paldea Evolved Pokemon Center Elite Trainer Box",
@@ -22675,10 +22683,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 23.75
+    },
+    "special-box-pokemon-center-hiroshima": {
+     "title": "Special BOX Pokemon Center Hiroshima",
+     "game": "Pokemon",
+     "available": true,
+     "price": 189.75
     }
    },
    "baselined": true,
-   "check_cursor": 178,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23753,7 +23767,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 92
+   "check_cursor": 36
   },
   "https://sagaconcepts.com": {
    "products": {
