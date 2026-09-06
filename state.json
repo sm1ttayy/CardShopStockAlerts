@@ -11614,7 +11614,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12261,9 +12261,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 22,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-plush-doll-all-star-collection-mew-s' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13413,9 +13413,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'teenage-mutant-ninja-turtles-bundle-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -17133,9 +17133,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-mega-evolution-ascended-heroes-poster-collection-mega-gardevoir-ex-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18044,7 +18044,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19044,7 +19044,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19739,9 +19739,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'jungle-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22678,9 +22678,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'japanese-future-flash-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'one-piece-3d2y-starter-deck-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23752,8 +23752,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-phantasmal-flames-elite-trainer-box-etb-me02-pre-order' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 80
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-lorwyn-eclipsed-bundle' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 12
   },
   "https://sagaconcepts.com": {
    "products": {
