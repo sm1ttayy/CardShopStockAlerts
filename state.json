@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17146,7 +17146,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 99,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18070,7 +18070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19070,7 +19070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19765,7 +19765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22712,9 +22712,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 140,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 180,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'universes-beyond-final-fantasy-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23785,9 +23785,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 92
+   "error_streak": 1,
+   "last_error": "ed Realm: product 'magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-the-hosts-of-mordor-commander-deck' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 24
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24124,8 +24124,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
