@@ -11614,7 +11614,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12261,9 +12261,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'zombicide-the-boys-character-packs-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13413,9 +13413,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'pokemon-center-paldean-fates-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -17145,9 +17145,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 111,
+   "check_cursor": 12,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'magic-the-gathering-lorwyn-eclipsed-bundle-pre-order-copy' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18069,7 +18069,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19069,7 +19069,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19764,9 +19764,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'jungle-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22711,9 +22711,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 88,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Common Lands: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23785,8 +23785,8 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 9
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-st-03-seven-warlords-of-the-sea' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 49
   },
   "https://sagaconcepts.com": {
    "products": {
