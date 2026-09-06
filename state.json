@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17133,7 +17133,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18044,7 +18044,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19044,7 +19044,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19739,7 +19739,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22678,9 +22678,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 58,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'japanese-future-flash-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23751,9 +23751,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 40
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-phantasmal-flames-elite-trainer-box-etb-me02-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 80
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24090,8 +24090,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
