@@ -1202,9 +1202,10 @@
     "one-piece-tcg-starter-deck-green-roronoa-zoro-st-32": {
      "title": "One Piece TCG: Starter Deck Green - Roronoa Zoro (ST-32)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 30.62,
-     "last_restock_alert": 1788529025
+     "last_restock_alert": 1788529025,
+     "unavail_since": 1788668584
     },
     "one-piece-tcg-starter-deck-red-black-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
@@ -1473,7 +1474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4104,7 +4105,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5651,7 +5652,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 107,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7579,7 +7580,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 121,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9800,7 +9801,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11307,7 +11308,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
