@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15272,10 +15272,9 @@
     "app-exlusive-pokemon-scarlet-and-violet-destined-rivals-booster-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 579.95,
-     "last_restock_alert": 1788659713,
-     "unavail_since": 1788704710
+     "last_restock_alert": 1788716116
     },
     "pokemon-151-surprise-pokemon-slim-pack-booster-box-simplified-chinese-pre-order": {
      "title": "Pokemon 151 Surprise - Pokemon Slim Pack Booster Box - Simplified Chinese",
@@ -17140,7 +17139,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18051,7 +18050,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19051,7 +19050,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19746,7 +19745,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22693,7 +22692,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 120,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23768,7 +23767,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 44
+   "check_cursor": 84
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24105,8 +24104,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
