@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15102,7 +15102,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17140,7 +17140,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18051,7 +18051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19051,9 +19051,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 14,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-dp04-double-pack-set-vol-4' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19746,7 +19746,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19964,7 +19964,7 @@
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 435.75,
+     "price": 429.49,
      "last_restock_alert": 1786664125
     },
     "brilliant-stars-booster-box": {
@@ -21121,7 +21121,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 179.99
+     "price": 176.49
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -21133,13 +21133,13 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 92.75
+     "price": 91.49
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 90.75,
+     "price": 89.75,
      "last_restock_alert": 1787961356
     },
     "destined-rivals-booster-bundle": {
@@ -21283,7 +21283,7 @@
      "title": "Aetherdrift Commander Deck - Eternal Might",
      "game": "MTG",
      "available": true,
-     "price": 39.75
+     "price": 38.99
     },
     "edge-of-eternities-commander-deck-counter-intelligence": {
      "title": "Edge of Eternities Counter Intelligence Commander Deck",
@@ -21360,7 +21360,7 @@
      "title": "151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 1191.49
+     "price": 1190.75
     },
     "celebrations-pokemon-center-elite-trainer-box": {
      "title": "Celebrations Pokemon Center Elite Trainer Box",
@@ -21398,7 +21398,7 @@
      "title": "Pokemon Day 2026 Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 38.25
+     "price": 36.99
     },
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
@@ -21469,7 +21469,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 53.99
+     "price": 53.49
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -21573,13 +21573,13 @@
      "title": "Lost Origin Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 360.75
+     "price": 355.75
     },
     "pokemon-surging-sparks-booster-bundle": {
      "title": "Surging Sparks Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 64.75,
+     "price": 64.25,
      "last_restock_alert": 1788206153
     },
     "dungeons-of-death-commander-deck": {
@@ -22498,7 +22498,7 @@
      "title": "Double Pack Set Vol. 10",
      "game": "One Piece",
      "available": true,
-     "price": 42.25,
+     "price": 41.49,
      "last_restock_alert": 1788205828
     },
     "phantasmal-flames-booster-bundle": {
@@ -22536,25 +22536,25 @@
      "title": "30th Celebration Tin [Sylveon ex]",
      "game": "Pokemon",
      "available": true,
-     "price": 58.25
+     "price": 57.99
     },
     "30th-celebration-sylveon-ex-box": {
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 77.99
+     "price": 77.75
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
      "game": "Pokemon",
      "available": true,
-     "price": 667.75
+     "price": 664.75
     },
     "30th-celebration-greninja-ex-box": {
      "title": "30th Celebration Greninja ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 53.49
+     "price": 53.25
     },
     "30th-celebration-ditto-premium-collection": {
      "title": "30th Celebration Ditto Premium Collection",
@@ -22566,7 +22566,7 @@
      "title": "30th Celebration Ultra-Premium Collection [Day]",
      "game": "Pokemon",
      "available": true,
-     "price": 612.99
+     "price": 611.75
     },
     "the-hobbit-draft-night": {
      "title": "The Hobbit Draft Night",
@@ -22578,7 +22578,7 @@
      "title": "30th Celebration Tin [Greninja ex]",
      "game": "Pokemon",
      "available": true,
-     "price": 49.49
+     "price": 48.99
     },
     "one-piece-tin-pack-set-vol-2-monkey-d-luffy": {
      "title": "One Piece Tin Pack Set Vol. 2 -Monkey.D.Luffy-",
@@ -22604,7 +22604,7 @@
      "title": "Astral Radiance Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 203.75
+     "price": 202.99
     },
     "one-piece-heroines-edition-booster-box": {
      "title": "One Piece Heroines Edition Booster Box",
@@ -22640,7 +22640,7 @@
      "title": "Illustration Box Vol.6",
      "game": "One Piece",
      "available": true,
-     "price": 103.75
+     "price": 102.75
     },
     "illustration-box-vol-5": {
      "title": "Illustration Box Vol.5",
@@ -22692,7 +22692,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23767,7 +23767,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 0
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
