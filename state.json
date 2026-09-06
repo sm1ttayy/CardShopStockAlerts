@@ -12255,7 +12255,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13407,7 +13407,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17107,12 +17107,13 @@
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor-pre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 44.95
+     "available": false,
+     "price": 44.95,
+     "unavail_since": 1788663617
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18023,7 +18024,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19022,7 +19023,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19717,7 +19718,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22656,7 +22657,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 119,
+   "check_cursor": 159,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23731,7 +23732,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 86
+   "check_cursor": 33
   },
   "https://sagaconcepts.com": {
    "products": {
