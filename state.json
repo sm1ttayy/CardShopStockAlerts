@@ -304,9 +304,9 @@
     "magic-the-gathering-avatar-the-last-airbender-play-booster-display-box": {
      "title": "Magic: The Gathering: Avatar: The Last Airbender Play Booster Display Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 147.99,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1788699456
     },
     "magic-the-gathering-murders-at-karlov-manor-play-booster-box": {
      "title": "Magic: The Gathering - Murders at Karlov Manor Play Booster Box",
@@ -354,7 +354,7 @@
      "title": "Magic: The Gathering - The Lord of the Rings: Tales of Middle-earth Special Edition Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 5537.17,
+     "price": 5972.38,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-ravnica-remastered-collector-booster-box": {
@@ -409,7 +409,7 @@
      "title": "Magic: The Gathering | Secrets of Strixhaven - Collector Booster Display Box",
      "game": "MTG",
      "available": false,
-     "price": 468.62,
+     "price": 487.26,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-lord-of-the-rings-tales-of-middle-earth-collector-booster-box": {
@@ -601,28 +601,28 @@
      "title": "Magic the Gathering: Edge of Eternities Commander Deck - Counter Intelligence",
      "game": "MTG",
      "available": false,
-     "price": 39.99,
+     "price": 39.45,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-final-fantasy-commander-deck-scions-spellcraft": {
      "title": "Magic the Gathering: Final Fantasy Commander Deck - Scions & Spellcraft",
      "game": "MTG",
      "available": false,
-     "price": 64.99,
+     "price": 63.49,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-final-fantasy-commander-deck-limit-break": {
      "title": "Magic the Gathering: Final Fantasy Commander Deck - Limit Break",
      "game": "MTG",
      "available": false,
-     "price": 54.99,
+     "price": 56.35,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-commander-deck-world-shaper": {
      "title": "Magic the Gathering: Edge of Eternities Commander Deck - World Shaper",
      "game": "MTG",
      "available": false,
-     "price": 49.99,
+     "price": 51.34,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-lorwyn-eclipsed-blight-curse-commander-deck-pre-order": {
@@ -1276,7 +1276,7 @@
      "title": "Magic: the Gathering: Starter Commander - Draconic Destruction Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 39.99,
+     "price": 46.19,
      "unavail_since": 1786144860
     },
     "magic-the-gathering-aetherdrift-commander-deck-display": {
@@ -1474,7 +1474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 153,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1697,9 +1697,10 @@
     "magic-the-gathering-foundations-jumpstart-booster-box": {
      "title": "Magic: The Gathering Foundations Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 95.0,
-     "last_restock_alert": 1787133212
+     "last_restock_alert": 1787133212,
+     "unavail_since": 1788699428
     },
     "magic-the-gathering-secrets-of-strixhaven-play-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Play Booster Box",
@@ -1866,7 +1867,7 @@
      "title": "Magic: The Gathering - Secrets of Strixhaven Bundle",
      "game": "MTG",
      "available": false,
-     "price": 40.0,
+     "price": 45.0,
      "unavail_since": 1784083329
     },
     "one-piece-double-pack-set-vol-10-op15-eb04": {
@@ -2337,9 +2338,10 @@
     "pillars-of-strength-booster-box-op03": {
      "title": "Pillars of Strength Booster Box [OP03]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 490.0,
-     "last_restock_alert": 1788442812
+     "last_restock_alert": 1788442812,
+     "unavail_since": 1788699429
     },
     "judgement-booster-box-display": {
      "title": "Judgment Booster Box Display",
@@ -4105,7 +4107,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 122,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4157,7 +4159,7 @@
      "title": "One Piece TCG: The Azure Seas Seven Booster Box (OP-14)",
      "game": "One Piece",
      "available": false,
-     "price": 276.0,
+     "price": 275.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-box-pre-order": {
@@ -4362,7 +4364,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 259.0,
+     "price": 273.0,
      "last_restock_alert": 1786552782,
      "unavail_since": 1787566199
     },
@@ -4376,7 +4378,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 204.0,
+     "price": 203.0,
      "last_restock_alert": 1786552782,
      "unavail_since": 1787566195
     },
@@ -4455,7 +4457,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 130.0,
+     "price": 127.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
@@ -4487,21 +4489,21 @@
      "title": "Magic The Gathering: Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 443.0,
+     "price": 455.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-collector-booster-box-pre-order": {
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 462.0,
+     "price": 459.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-collector-booster-box-pre-order": {
      "title": "Magic The Gathering: Edge of Eternities Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 767.0,
+     "price": 751.0,
      "unavail_since": 1784083329
     },
     "mtg_cl_bldrgt_cbb": {
@@ -4529,7 +4531,7 @@
      "title": "Magic the Gathering: Unfinity Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 430.0,
+     "price": 420.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-foundations-jumpstart-booster-box": {
@@ -4931,7 +4933,7 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 538.0,
+     "price": 526.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-carrying-on-his-will-japanese-booster-box-op-13": {
@@ -4952,7 +4954,7 @@
      "title": "One Piece TCG: Adventure on Kamis Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 260.0,
+     "price": 261.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-gem-volume-4-booster-box-chinese": {
@@ -5005,14 +5007,14 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 133.0,
+     "price": 135.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-avatar-the-last-airbender-collector-booster-box-pre-order": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 359.0,
+     "price": 525.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-marvel-spider-man-play-booster-box-pre-order": {
@@ -5026,21 +5028,21 @@
      "title": "Magic The Gathering: Marvel Spider-Man Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 441.0,
+     "price": 430.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-booster-box-pre-order-1": {
      "title": "Pokemon TCG: Mega Evolution - Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 327.0,
+     "price": 326.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-booster-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 307.0,
+     "price": 304.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -5125,14 +5127,14 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 512.0,
+     "price": 504.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-anime-25th-collection-booster-box-eb02-pre-order": {
      "title": "One Piece TCG: Anime 25th Collection Booster Box (EB02)",
      "game": "One Piece",
      "available": false,
-     "price": 814.0,
+     "price": 819.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box-pre-order": {
@@ -5188,7 +5190,7 @@
      "title": "Magic the Gathering: Innistrad Remastered Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 302.0,
+     "price": 303.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-royal-bloodlines-booster-box-op10-pre-order": {
@@ -5258,7 +5260,7 @@
      "title": "Magic the Gathering: Duskmourn: House of Horror Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 786.0,
+     "price": 787.0,
      "unavail_since": 1784083329
     },
     "2021-pokemon-japanese-25th-anniversary-collection-fa-pikachu-psa-17": {
@@ -5359,7 +5361,7 @@
      "title": "Magic the Gathering: Bloomburrow Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1470.0,
+     "price": 1450.0,
      "unavail_since": 1784083329
     },
     "2021-pokemon-japanese-25th-anniversary-collection-fa-pikachu-psa-11": {
@@ -5652,7 +5654,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7580,7 +7582,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7589,9 +7591,10 @@
     "pos-one-piece-tcg-the-time-of-battle-booster-box-op16": {
      "title": "One Piece Card Game - The Time of Battle Booster Box (OP16)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 214.99,
-     "last_restock_alert": 1787950652
+     "last_restock_alert": 1787950652,
+     "unavail_since": 1788699433
     },
     "one-piece-card-game-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Card Game - Carrying On His Will Booster Box (OP-13)",
@@ -9801,7 +9804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10235,7 +10238,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 200.0,
-     "unavail_since": 1788470609
+     "unavail_since": 1788470609,
+     "delisted": true
     },
     "pokemon-tcg-charizard-ultra-premium-collection": {
      "title": "Pokemon TCG: Charizard Ultra-Premium Collection",
@@ -10250,7 +10254,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 80.0,
-     "unavail_since": 1788545847
+     "unavail_since": 1788545847,
+     "delisted": true
     },
     "pokemon-tcg-discord-only-me01-mega-base-booster-box-case-double-box": {
      "title": "Pokemon TCG: ME01 Mega Base Booster Box Case - Double Box",
@@ -10897,7 +10902,7 @@
      "title": "Magic the Gathering: Secrets of Strixhaven: Codex Bundle",
      "game": "MTG",
      "available": false,
-     "price": 89.99,
+     "price": 124.99,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-3dy2-starter-deck": {
@@ -11308,7 +11313,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
