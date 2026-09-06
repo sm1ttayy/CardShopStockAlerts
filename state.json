@@ -11614,7 +11614,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12261,9 +12261,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 31,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-pitch-black-3-pack-blister-binacle-me05-pitch-black-me05' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13413,9 +13413,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'ascended-heroes-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -17139,9 +17139,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'mtg-zendikar-rising-collector-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18063,7 +18063,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19063,7 +19063,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19758,9 +19758,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'unleashed-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22705,9 +22705,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'commander-legends-battle-for-baldurs-gate-draft-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'japanese-forbidden-light-booster-box-sm6' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23779,8 +23779,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-marvels-spider-man-play-booster-box-30-boosters-pre-order' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 17
+   "last_error": "Undiscovered Realm: product 'pokemon-sun-moon-team-up-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 57
   },
   "https://sagaconcepts.com": {
    "products": {
