@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17139,7 +17139,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18050,7 +18050,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19050,7 +19050,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19745,7 +19745,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22692,9 +22692,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'dungeons-dragons-battle-for-baldurs-gate-set-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 71,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23765,9 +23765,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me03-perfect-order-booster-bundle' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 70
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 4
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24104,7 +24104,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
+   "error_streak": 2,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
