@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17133,7 +17133,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18044,7 +18044,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19044,7 +19044,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19739,7 +19739,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19845,7 +19845,7 @@
      "title": "Secrets of Strixhaven Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 141.49,
+     "price": 144.99,
      "unavail_since": 1784083350
     },
     "legacy-of-the-master-booster-box-op12": {
@@ -20616,7 +20616,7 @@
      "title": "Japanese Paradigm Trigger Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 185.75,
+     "price": 185.25,
      "unavail_since": 1784083350
     },
     "pokemon-chilling-reign-booster-box": {
@@ -20856,14 +20856,14 @@
      "title": "Japanese Super Electric Breaker Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 134.99,
+     "price": 137.99,
      "unavail_since": 1784083350
     },
     "pokemon-terastal-festival-ex-booster-box-sv8a": {
      "title": "Japanese Terastal Festival ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 119.75,
+     "price": 120.99,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
@@ -21004,7 +21004,7 @@
      "title": "One Piece Starter Deck 6: Absolute Justice",
      "game": "One Piece",
      "available": false,
-     "price": 23.99,
+     "price": 24.99,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-4-animal-kingdom-pirates": {
@@ -22678,7 +22678,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 108,
+   "check_cursor": 148,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23751,9 +23751,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-chilling-reign-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 63
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 4
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24090,8 +24090,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
