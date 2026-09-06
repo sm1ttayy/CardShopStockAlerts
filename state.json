@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17139,7 +17139,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 106,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18054,10 +18054,16 @@
      "game": "MTG",
      "available": true,
      "price": 189.99
+    },
+    "reality-fracture-bundle": {
+     "title": "Reality Fracture - Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 79.99
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19057,7 +19063,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19752,7 +19758,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22699,9 +22705,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'mtg-lord-of-the-rings-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 130,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23772,9 +23778,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'riftbound-tcg-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 105
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 45
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24111,8 +24117,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
