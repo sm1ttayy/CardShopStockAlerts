@@ -12255,7 +12255,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12321,9 +12321,10 @@
     "pokemon-me05-pitch-black-booster-box": {
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 179.95,
-     "last_restock_alert": 1787712010
+     "last_restock_alert": 1787712010,
+     "unavail_since": 1788660022
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
      "title": "Pokemon ME04 Chaos Rising Elite Trainer Box",
@@ -13406,7 +13407,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17110,7 +17111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 88,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18021,7 +18022,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19020,7 +19021,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19715,7 +19716,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22648,7 +22649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23723,7 +23724,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 88
+   "check_cursor": 34
   },
   "https://sagaconcepts.com": {
    "products": {
