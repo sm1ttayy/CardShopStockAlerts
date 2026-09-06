@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17139,7 +17139,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18057,7 +18057,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19057,7 +19057,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19752,7 +19752,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22699,9 +22699,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 90,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'mtg-lord-of-the-rings-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23772,9 +23772,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 65
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'riftbound-tcg-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 105
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24111,8 +24111,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
