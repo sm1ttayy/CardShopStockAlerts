@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17140,12 +17140,13 @@
     "pokemon-30th-celebration-poster-collection-pre-order": {
      "title": "Pokemon 30th Celebration Poster Collection (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 44.95
+     "available": false,
+     "price": 44.95,
+     "unavail_since": 1788729624
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18069,7 +18070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19069,7 +19070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19764,7 +19765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22711,7 +22712,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 168,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23786,7 +23787,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 32
+   "check_cursor": 72
   },
   "https://sagaconcepts.com": {
    "products": {
