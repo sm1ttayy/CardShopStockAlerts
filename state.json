@@ -12262,7 +12262,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12948,7 +12948,7 @@
      "title": "Marvel Super Heroes Wakanda Forever Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 47.95,
+     "price": 42.95,
      "last_restock_alert": 1785187233
     },
     "final-fantasy-xiv-scions-spellcraft-yshtola-preorder": {
@@ -13414,7 +13414,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13514,7 +13514,7 @@
      "title": "Pokemon - Mega Symphonia - Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 149.95
+     "price": 119.95
     },
     "pokemon-mega-evolution-pitch-black-booster-box": {
      "title": "Pokemon - Mega Evolution - Pitch Black - Booster Box",
@@ -17083,9 +17083,9 @@
     "mtg-secrets-of-strixhaven-commander-deck-prismari-artistry": {
      "title": "MTG - Secrets of Strixhaven - Commander Deck - Prismari Artistry",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 59.99,
-     "unavail_since": 1788224128
+     "last_restock_alert": 1788811819
     },
     "mtg-star-trek-commander-deck-pre-order": {
      "title": "MTG Star Trek Commander Deck (Pre Order)",
@@ -17148,7 +17148,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 95,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17850,8 +17850,9 @@
     "marvel-super-heroes-commander-deck-doom-prevails": {
      "title": "Marvel Super Heroes Commander Deck - Doom Prevails",
      "game": "MTG",
-     "available": true,
-     "price": 129.99
+     "available": false,
+     "price": 129.99,
+     "unavail_since": 1788811819
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
@@ -18072,7 +18073,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19072,7 +19073,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19767,7 +19768,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22714,9 +22715,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 156,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 3,
+   "error_streak": 1,
+   "last_error": "Common Lands: product '500-years-in-the-future-booster-box-op07' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23787,9 +23788,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 37
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-paradox-rift-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 77
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24126,8 +24127,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
