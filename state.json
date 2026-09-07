@@ -1263,7 +1263,7 @@
      "title": "Magic: The Gathering | The Hobbit - Gift Bundle (Pre-Order)",
      "game": "MTG",
      "available": false,
-     "price": 89.99,
+     "price": 139.99,
      "unavail_since": 1786136040
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-deck": {
@@ -1474,7 +1474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1562,9 +1562,10 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG - Vendetta Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 169.0,
-     "last_restock_alert": 1787950644
+     "last_restock_alert": 1787950644,
+     "unavail_since": 1788793652
     },
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
@@ -2143,9 +2144,8 @@
     "pre-order-march-of-the-machine-collector-booster-display": {
      "title": "March of the Machine Collector Booster Display",
      "game": "MTG",
-     "available": false,
-     "price": 650.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 950.0
     },
     "throne-of-eldraine-collector-booster-box": {
      "title": "Throne of Eldraine Collector Booster Box",
@@ -2519,9 +2519,10 @@
     "bloomburrow-play-booster-display": {
      "title": "Bloomburrow Play Booster Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 185.0,
-     "last_restock_alert": 1786016208
+     "last_restock_alert": 1786016208,
+     "unavail_since": 1788793654
     },
     "paramount-war-booster-box-op02": {
      "title": "Paramount War Booster Box [OP02]",
@@ -4107,7 +4108,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4117,7 +4118,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 502.0,
+     "price": 494.0,
      "last_restock_alert": 1784587256,
      "unavail_since": 1784996007
     },
@@ -4159,7 +4160,7 @@
      "title": "One Piece TCG: The Azure Seas Seven Booster Box (OP-14)",
      "game": "One Piece",
      "available": false,
-     "price": 275.0,
+     "price": 274.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-box-pre-order": {
@@ -4287,7 +4288,7 @@
      "title": "Pokemon Celebrations Elite Trainer Box (Pokemon Center Exclusive)",
      "game": "Pokemon",
      "available": false,
-     "price": 504.0,
+     "price": 499.0,
      "unavail_since": 1784083329
     },
     "pkm_generation_elite_box": {
@@ -4301,7 +4302,7 @@
      "title": "Pokemon TCG: Celebrations - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 378.0,
+     "price": 385.0,
      "unavail_since": 1784083329
     },
     "pkm_shining_legends_etb": {
@@ -4357,14 +4358,14 @@
      "title": "Pokemon TCG: Scarlet and Violet - Obsidian Flames - Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 119.0,
+     "price": 132.0,
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 273.0,
+     "price": 284.0,
      "last_restock_alert": 1786552782,
      "unavail_since": 1787566199
     },
@@ -4378,7 +4379,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 203.0,
+     "price": 224.0,
      "last_restock_alert": 1786552782,
      "unavail_since": 1787566195
     },
@@ -4425,7 +4426,7 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 168.0,
+     "price": 169.0,
      "unavail_since": 1785267925
     },
     "magic-the-gathering-aetherdrift-play-booster-box-pre-order": {
@@ -4607,7 +4608,7 @@
      "title": "One Piece TCG: YELLOW Charlotte Katakuri Starter Deck (ST-20)",
      "game": "One Piece",
      "available": false,
-     "price": 61.0,
+     "price": 62.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-edward-newgate-starter-deck-pre-order": {
@@ -4634,7 +4635,7 @@
      "title": "One Piece Card Game: Premium Card Collection 25th Anniversary Edition (Japanese)",
      "game": "One Piece",
      "available": false,
-     "price": 525.0,
+     "price": 630.0,
      "unavail_since": 1784083332
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection-box-pre-order": {
@@ -4823,7 +4824,7 @@
      "title": "One Piece TCG: Double Pack Volume 6 Set",
      "game": "One Piece",
      "available": false,
-     "price": 102.0,
+     "price": 103.0,
      "unavail_since": 1784083332
     },
     "one-piece-tcg-double-pack-volume-8-set": {
@@ -4877,9 +4878,10 @@
     "pokemon-tcg-mega-evolution-pitch-black-booster-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 194.0,
-     "last_restock_alert": 1784243702
+     "last_restock_alert": 1784243702,
+     "unavail_since": 1788793658
     },
     "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box",
@@ -4954,7 +4956,7 @@
      "title": "One Piece TCG: Adventure on Kamis Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 261.0,
+     "price": 264.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-gem-volume-4-booster-box-chinese": {
@@ -5134,7 +5136,7 @@
      "title": "One Piece TCG: Anime 25th Collection Booster Box (EB02)",
      "game": "One Piece",
      "available": false,
-     "price": 819.0,
+     "price": 840.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box-pre-order": {
@@ -5190,7 +5192,7 @@
      "title": "Magic the Gathering: Innistrad Remastered Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 303.0,
+     "price": 304.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-royal-bloodlines-booster-box-op10-pre-order": {
@@ -5319,7 +5321,7 @@
      "title": "One Piece Card Game: Straw Hat Crew Starter Deck",
      "game": "One Piece",
      "available": false,
-     "price": 59.0,
+     "price": 58.0,
      "unavail_since": 1784083329
     },
     "pokemon-scarlet-and-violet-pokemon-center-elite-trainer-box-miraidon": {
@@ -5450,7 +5452,7 @@
      "title": "One Piece Card Game: Pillars of Strength Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 488.0,
+     "price": 504.0,
      "unavail_since": 1785357604
     },
     "magic-the-gathering-murders-at-karlov-manor-play-booster-box-pre-order": {
@@ -5654,7 +5656,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7582,7 +7584,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 161,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9056,8 +9058,9 @@
     "unleashed-booster-box-riftbound": {
      "title": "Unleashed Booster Box [Riftbound] (5/8)",
      "game": "Riftbound",
-     "available": true,
-     "price": 160.0
+     "available": false,
+     "price": 160.0,
+     "unavail_since": 1788793670
     },
     "spiritforge-booster-box-riftbound": {
      "title": "Spiritforged Booster Box [Riftbound]",
@@ -9804,7 +9807,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11313,7 +11316,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
