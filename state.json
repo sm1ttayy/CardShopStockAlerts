@@ -12262,7 +12262,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13414,7 +13414,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17151,7 +17151,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18077,7 +18077,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19077,7 +19077,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19772,7 +19772,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22725,9 +22725,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 66,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'japanese-snow-hazard-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23799,9 +23799,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 69
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'secrets-of-strixhaven-play-booster-display' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 0
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24138,8 +24138,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
