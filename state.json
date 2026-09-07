@@ -12262,7 +12262,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13414,7 +13414,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 89,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15104,7 +15104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17150,7 +17150,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18076,7 +18076,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19076,9 +19076,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 23,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-illustration-box-volume-4' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19771,7 +19771,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20043,7 +20043,7 @@
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2624.75,
+     "price": 2623.75,
      "unavail_since": 1784083350
     },
     "legendary-heartbeat-booster-box-jp": {
@@ -20197,7 +20197,7 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 239.99,
+     "price": 239.75,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
@@ -20462,7 +20462,7 @@
      "title": "Destined Rivals European Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 364.99,
+     "price": 399.99,
      "unavail_since": 1784083350
     },
     "mega-evolution-booster-box": {
@@ -21341,7 +21341,7 @@
      "title": "Final Fantasy Gift Bundle",
      "game": "MTG",
      "available": true,
-     "price": 264.75,
+     "price": 270.49,
      "last_restock_alert": 1788206170
     },
     "universes-beyond-final-fantasy-bundle": {
@@ -21663,7 +21663,7 @@
      "title": "Final Fantasy Commander Deck [Revival Trance]",
      "game": "MTG",
      "available": false,
-     "price": 35.99,
+     "price": 35.75,
      "unavail_since": 1785438628
     },
     "marvel-super-heroes-gift-bundle": {
@@ -22724,7 +22724,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23800,7 +23800,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 76
+   "check_cursor": 23
   },
   "https://sagaconcepts.com": {
    "products": {
