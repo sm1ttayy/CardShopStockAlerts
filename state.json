@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17146,7 +17146,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18070,7 +18070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19070,7 +19070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19765,7 +19765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22712,9 +22712,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 110,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23785,9 +23785,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-mega-evolution-mega-gardevoir-elite-trainer-box-etb-pre-order' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 73
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 17
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24124,8 +24124,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
