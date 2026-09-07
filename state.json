@@ -1202,18 +1202,16 @@
     "one-piece-tcg-starter-deck-green-roronoa-zoro-st-32": {
      "title": "One Piece TCG: Starter Deck Green - Roronoa Zoro (ST-32)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 30.62,
-     "last_restock_alert": 1788529025,
-     "unavail_since": 1788668584
+     "last_restock_alert": 1788810646
     },
     "one-piece-tcg-starter-deck-red-black-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 15.45,
-     "last_restock_alert": 1787875014,
-     "unavail_since": 1787915521
+     "last_restock_alert": 1788810646
     },
     "one-piece-tcg-starter-deck-blue-kuzan-st-33": {
      "title": "One Piece TCG: Starter Deck Blue - Kuzan (ST-33)",
@@ -1240,10 +1238,9 @@
     "one-piece-tcg-starter-deck-purple-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck Purple - Charlotte Katakuri (ST-34)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 23.1,
-     "last_restock_alert": 1787875014,
-     "unavail_since": 1788297360
+     "last_restock_alert": 1788810646
     },
     "magic-the-gathering-amonkhet-booster-box": {
      "title": "Magic: the Gathering: Amonkhet - Booster Box",
@@ -1474,7 +1471,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4108,7 +4105,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 133,
+   "check_cursor": 173,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5656,7 +5653,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5790,10 +5787,11 @@
     "one-piece-op-17-booster-box": {
      "title": "One Piece The World's Strongest Warriors (OP-17) Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 399.75,
      "note": "OP-17 booster box placeholder",
-     "last_restock_alert": 1788555031
+     "last_restock_alert": 1788555031,
+     "unavail_since": 1788810646
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
      "title": "Pokemon Mega Evolution Chaos Rising Booster Box",
@@ -7584,7 +7582,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 115,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9807,7 +9805,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11316,7 +11314,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
