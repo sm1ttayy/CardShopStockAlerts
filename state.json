@@ -12262,7 +12262,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13414,7 +13414,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15150,9 +15150,10 @@
     "one-piece-cg-op-12-booster-box-pre-order": {
      "title": "One Piece CG OP-12 Legacy of The Master Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 399.95,
-     "last_restock_alert": 1787086203
+     "last_restock_alert": 1787086203,
+     "unavail_since": 1788812720
     },
     "one-piece-tcg-flanked-by-legends-booster-box-pre-order": {
      "title": "One Piece TCG OP-06 Wings Of The Captain Booster Box",
@@ -17149,7 +17150,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17236,9 +17237,10 @@
     "riftbound-league-of-legends-tcg-unleashed-booster-box": {
      "title": "Riftbound: League of Legends TCG: Unleashed - Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 219.99,
-     "last_restock_alert": 1787961324
+     "last_restock_alert": 1787961324,
+     "unavail_since": 1788812714
     },
     "riftbound-league-of-legends-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends TCG: Origins - Booster Box",
@@ -17338,7 +17340,7 @@
      "title": "Kaido (Premium Card Collection -Leader Collection-) [One Piece Promotion Cards]",
      "game": "One Piece",
      "available": false,
-     "price": 26.5,
+     "price": 26.2,
      "unavail_since": 1784083349
     },
     "pokemon-2021-all-star-collection-alcremie-milky": {
@@ -18074,7 +18076,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19074,7 +19076,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19153,7 +19155,7 @@
      "title": "Base Set Booster Box [Revised Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 369.14,
+     "price": 369.62,
      "unavail_since": 1784083349
     },
     "jungle-booster-box-1st-edition": {
@@ -19601,7 +19603,7 @@
      "title": "XY Ancient Origins Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1218.16,
+     "price": 1219.75,
      "unavail_since": 1784083349
     },
     "xy-breakthrough-booster-box": {
@@ -19622,7 +19624,7 @@
      "title": "XY Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2033.97,
+     "price": 2036.61,
      "unavail_since": 1784083349
     },
     "steam-siege-booster-box": {
@@ -19643,7 +19645,7 @@
      "title": "XY Evolutions Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1865.99,
+     "price": 1867.8,
      "unavail_since": 1784083349
     },
     "sun-moon-booster-box": {
@@ -19769,7 +19771,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20027,7 +20029,7 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 294.75,
+     "price": 293.75,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
@@ -20126,7 +20128,7 @@
      "title": "Pillars of Strength Booster Box [OP03]",
      "game": "One Piece",
      "available": false,
-     "price": 464.99,
+     "price": 479.75,
      "unavail_since": 1784083350
     },
     "perfect-order-booster-box": {
@@ -20872,7 +20874,7 @@
      "title": "The Lord of the Rings: Tales of Middle-earth Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 2084.99,
+     "price": 2050.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-transformation-mask-booster-box": {
@@ -21034,14 +21036,14 @@
      "title": "One Piece Starter Deck 6: Absolute Justice",
      "game": "One Piece",
      "available": false,
-     "price": 24.99,
+     "price": 25.25,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-4-animal-kingdom-pirates": {
      "title": "One Piece Starter Deck 4: Animal Kingdom Pirates",
      "game": "One Piece",
      "available": false,
-     "price": 28.99,
+     "price": 28.75,
      "unavail_since": 1784083350
     },
     "premium-card-collection-best-selection-vol-4": {
@@ -21256,14 +21258,14 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 1055.75,
+     "price": 1044.99,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 63.99,
+     "price": 67.75,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -21504,7 +21506,7 @@
      "title": "One Piece Card Game Illustration Box Vol. 1",
      "game": "One Piece",
      "available": false,
-     "price": 268.75,
+     "price": 259.75,
      "unavail_since": 1785187236
     },
     "one-piece-illustration-box-vol-3": {
@@ -21525,7 +21527,7 @@
      "title": "One Piece: Illustration Box Vol. 2",
      "game": "One Piece",
      "available": false,
-     "price": 159.75,
+     "price": 139.75,
      "unavail_since": 1784158890
     },
     "pokemon-sword-shield-ultra-premium-collection-charizard": {
@@ -22180,7 +22182,7 @@
      "title": "Spiritforged Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 214.75,
+     "price": 212.75,
      "last_restock_alert": 1786999234,
      "unavail_since": 1787258433
     },
@@ -22646,7 +22648,7 @@
      "title": "Shrouded Fable Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 169.75
+     "price": 170.99
     },
     "ascended-heroes-elite-trainer-box": {
      "title": "Ascended Heroes Elite Trainer Box",
@@ -22713,10 +22715,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 189.75
+    },
+    "black-bolt-elite-trainer-box": {
+     "title": "Black Bolt Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 176.75
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 123,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23792,7 +23800,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 49
+   "check_cursor": 89
   },
   "https://sagaconcepts.com": {
    "products": {
