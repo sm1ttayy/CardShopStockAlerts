@@ -12261,7 +12261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13413,7 +13413,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17146,7 +17146,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18070,7 +18070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19070,7 +19070,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19765,7 +19765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22712,9 +22712,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 150,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 190,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'wild-force-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23785,9 +23785,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 57
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sword-shield-fusion-strike-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 97
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24124,8 +24124,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
