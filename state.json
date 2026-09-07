@@ -12262,7 +12262,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13414,7 +13414,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17151,7 +17151,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18077,7 +18077,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19077,7 +19077,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19772,7 +19772,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22725,7 +22725,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 106,
+   "check_cursor": 146,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23801,7 +23801,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 40
+   "check_cursor": 80
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24138,8 +24138,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
