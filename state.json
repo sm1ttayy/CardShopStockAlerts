@@ -11632,7 +11632,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12279,9 +12279,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'one-piece-eb-04-egghead-crisis-booster-box-japanese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13444,9 +13444,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 89,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'star-trek-play-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -17182,9 +17182,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 123,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pre-order-pokemon-darkness-ablaze-elite-trainer-box-april-2022-restock' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18110,7 +18110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19110,7 +19110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19806,9 +19806,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'xy-fates-collide-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22759,9 +22759,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'brilliant-stars-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'incandescent-arcana-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23834,8 +23834,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'riftbound-league-of-legends-tcg-vendetta-vault' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 103
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-op-17-the-worlds-strongest-warriors-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 34
   },
   "https://sagaconcepts.com": {
    "products": {
