@@ -12263,7 +12263,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13421,7 +13421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17158,7 +17158,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18085,7 +18085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19085,7 +19085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19780,7 +19780,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22733,9 +22733,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 68,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'japanese-vstar-universe-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23807,9 +23807,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 19
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-sword-shield-brilliant-stars-elite-trainer-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 59
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24146,8 +24146,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
