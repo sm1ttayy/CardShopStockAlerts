@@ -12272,7 +12272,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13437,7 +13437,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14876,7 +14876,7 @@
      "title": "Pokemon - Storm Emeralda - Japanese Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 174.95,
+     "price": 164.95,
      "last_restock_alert": 1787602535,
      "unavail_since": 1788812110
     },
@@ -15129,7 +15129,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17167,10 +17167,17 @@
      "available": false,
      "price": 44.95,
      "unavail_since": 1788729624
+    },
+    "mtg-universes-beyond-the-hobbit-draft-night-pre-order": {
+     "title": "MTG - Universes Beyond: The Hobbit Draft Night",
+     "game": "MTG",
+     "available": false,
+     "price": 179.95,
+     "unavail_since": 1788898233
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18097,7 +18104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19097,9 +19104,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 25,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-op-02-paramount-war-booster' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19211,7 +19218,7 @@
      "title": "Team Rocket Booster Box [1st Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 13289.13,
+     "price": 13306.41,
      "unavail_since": 1784083349
     },
     "gym-heroes-booster-box-1st-edition": {
@@ -19561,7 +19568,7 @@
      "title": "Plasma Freeze Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3543.77,
+     "price": 3548.38,
      "unavail_since": 1784083349
     },
     "plasma-blast-booster-box": {
@@ -19793,7 +19800,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20011,7 +20018,7 @@
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 436.75,
+     "price": 437.99,
      "last_restock_alert": 1786664125
     },
     "brilliant-stars-booster-box": {
@@ -20177,7 +20184,7 @@
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 431.75,
+     "price": 430.49,
      "unavail_since": 1784083350
     },
     "assassins-creed-beyond-booster-box": {
@@ -20309,7 +20316,7 @@
      "title": "Japanese Rapid Strike Master Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 216.75,
+     "price": 225.75,
      "unavail_since": 1784083350
     },
     "xy-evolutions-booster-box": {
@@ -20961,14 +20968,14 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 220.75,
+     "price": 212.75,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-151-booster-box": {
      "title": "Japanese 151 Booster Box [Sealed]",
      "game": "Pokemon",
      "available": true,
-     "price": 307.75,
+     "price": 314.99,
      "last_restock_alert": 1786650927
     },
     "pokemon-paldea-evolved-booster-box-sealed-36-packs": {
@@ -21356,7 +21363,7 @@
      "title": "Marvel Super Heroes Play Booster Bundle",
      "game": "MTG",
      "available": false,
-     "price": 43.99,
+     "price": 38.75,
      "unavail_since": 1784083350
     },
     "final-fantasy-gift-bundle": {
@@ -22161,7 +22168,7 @@
      "title": "Surging Sparks Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 124.75
+     "price": 128.49
     },
     "ascended-heroes-first-partners-deluxe-pin-collection": {
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
@@ -22477,7 +22484,7 @@
      "title": "Uta Collection",
      "game": "One Piece",
      "available": false,
-     "price": 131.99,
+     "price": 131.75,
      "unavail_since": 1787168464
     },
     "white-flare-booster-bundle": {
@@ -22746,7 +22753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 82,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23822,7 +23829,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 30
+   "check_cursor": 70
   },
   "https://sagaconcepts.com": {
    "products": {
