@@ -12279,7 +12279,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13444,7 +13444,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15135,7 +15135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17182,7 +17182,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18110,7 +18110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19110,9 +19110,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'mtg-the-hobbit-bundle' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 51,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19806,7 +19806,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22759,7 +22759,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 137,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23447,12 +23447,11 @@
      "unavail_since": 1785525048
     },
     "magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs": {
-     "title": "Magic: The Gathering The Hobbit Play Booster Box (30 Booster Packs) (Pre Order 8/19)",
+     "title": "Magic: The Gathering The Hobbit Play Booster Box (30 Booster Packs)",
      "game": "MTG",
-     "available": false,
-     "price": 179.95,
-     "last_restock_alert": 1786566069,
-     "unavail_since": 1787258436
+     "available": true,
+     "price": 159.95,
+     "last_restock_alert": 1788909969
     },
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-english-booster-box-24-packs": {
      "title": "One Piece TCG OP-17  The World's Strongest Warriors English Booster Box (24 Packs) (Pre Order)",
@@ -23835,7 +23834,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 72
+   "check_cursor": 18
   },
   "https://sagaconcepts.com": {
    "products": {
