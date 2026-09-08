@@ -12279,7 +12279,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13444,7 +13444,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17183,7 +17183,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18111,7 +18111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19111,9 +19111,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 33,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-go-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19807,7 +19807,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22760,7 +22760,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 146,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23836,7 +23836,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 2
+   "check_cursor": 42
   },
   "https://sagaconcepts.com": {
    "products": {
