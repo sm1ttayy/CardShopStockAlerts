@@ -11675,7 +11675,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12322,9 +12322,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 16,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'one-piece-tcg-op-09-the-new-emperor-booster-box-japanese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13487,9 +13487,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'prismatic-evolutions-super-premium-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -17225,9 +17225,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-card-game-premium-card-collection-best-selection-vol-5-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18153,7 +18153,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19153,7 +19153,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19849,9 +19849,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'next-destinies-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22802,9 +22802,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 2,
-   "last_error": "Common Lands: product 'japanese-shiny-star-v-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'one-piece-premium-card-collection-best-selection-vol-2' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23876,8 +23876,8 @@
    },
    "baselined": true,
    "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-kingdoms-of-intrigue-double-pack-set' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 30
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me03-perfect-order-booster-bundle' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 70
   },
   "https://sagaconcepts.com": {
    "products": {
