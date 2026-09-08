@@ -11632,7 +11632,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -12237,9 +12237,9 @@
     "pokemon-trading-card-game-destined-rivals-elite-trainer-box-sv10-destined-rivals-dri": {
      "title": "Pokemon Trading Card Game: Destined Rivals Elite Trainer Box - SV10: Destined Rivals (DRI)",
      "game": "Pokemon",
-     "available": false,
-     "price": 99.99,
-     "unavail_since": 1787869810
+     "available": true,
+     "price": 109.99,
+     "last_restock_alert": 1788902717
     },
     "nanoblock-mininano-series-pokemon-normal-type-set-1-box-of-6": {
      "title": "Nanoblock: Mininano Series: Pokemon (Normal Type) Set 1 Box of 6",
@@ -12279,9 +12279,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'magic-the-gathering-marvels-spider-man-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13444,9 +13444,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'destined-rivals-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -17183,9 +17183,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 120,
+   "check_cursor": 57,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pre-order-magic-the-gathering-kaldheim-draft-booster-february-2021' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18111,7 +18111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19111,9 +19111,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 35,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-me04-chaos-rising-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19807,9 +19807,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 36,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'xy-breakthrough-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -22760,9 +22760,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'memorial-collection-booster-box-eb01' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 123,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23834,9 +23834,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-lorwyn-eclipsed-play-booster-box-30-boosters' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 13
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 53
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24180,8 +24180,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
