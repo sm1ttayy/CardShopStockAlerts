@@ -11615,7 +11615,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12262,9 +12262,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 7,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "me Store: product 'magic-the-gathering-universes-beyond-warhammer-40k-collectors-edition-commander-deck-tyranid-swarm' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13420,9 +13420,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 28,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'extra-booster-one-piece-heroines-edition-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -17157,9 +17157,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-tcg-double-pack-set-volume-6-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18084,7 +18084,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19084,7 +19084,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19779,9 +19779,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'jungle-booster-box-1st-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22732,9 +22732,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 148,
+   "check_cursor": 188,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'spanish-hgss-half-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'white-flare-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23807,8 +23807,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me01-mega-evolution-booster-bundle-6-boosters' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 69
+   "last_error": "Undiscovered Realm: product 'secrets-of-strixhaven-play-booster-display' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 0
   },
   "https://sagaconcepts.com": {
    "products": {
