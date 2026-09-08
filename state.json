@@ -12272,7 +12272,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13437,7 +13437,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17176,7 +17176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18104,7 +18104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19104,7 +19104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19800,7 +19800,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22753,9 +22753,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 99,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'one-piece-card-game-illustration-box-vol-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23827,9 +23827,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 28
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-hidden-fates-elite-trainer-box-etb' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 68
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24173,8 +24173,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
