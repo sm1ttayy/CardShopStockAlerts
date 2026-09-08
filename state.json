@@ -11632,7 +11632,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12279,9 +12279,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-trading-card-game-pitch-black-build-and-battle-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13444,9 +13444,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 17,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'buy-mtg-wilds-of-eldraine-set-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -15135,7 +15135,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17183,9 +17183,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 111,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-set-5-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18111,7 +18111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19111,9 +19111,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 39,
    "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-swsh6-chilling-reign-booster' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19807,9 +19807,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'mega-evolution-booster-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -22760,9 +22760,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 140,
+   "check_cursor": 180,
    "error_streak": 2,
-   "last_error": "Common Lands: product 'primal-clash-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'universes-beyond-final-fantasy-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23835,8 +23835,8 @@
    },
    "baselined": true,
    "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-the-azure-seas-seven-op-14-english-booster-box-24-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 51
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-scarlet-violet-journey-together-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 91
   },
   "https://sagaconcepts.com": {
    "products": {
