@@ -12279,7 +12279,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13444,7 +13444,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17183,7 +17183,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18111,7 +18111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19111,7 +19111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19807,7 +19807,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22760,9 +22760,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 147,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 187,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'vmax-climax-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23834,9 +23834,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 49
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-scarlet-violet-destined-rivals-booster-box-36-packs-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 89
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24187,8 +24187,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
