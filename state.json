@@ -12279,7 +12279,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13444,7 +13444,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17183,7 +17183,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 97,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18111,7 +18111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19111,7 +19111,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19807,7 +19807,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22760,7 +22760,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 163,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23836,7 +23836,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 93
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24177,6 +24177,13 @@
      "game": "MTG",
      "available": true,
      "price": 86.99
+    },
+    "magic-the-gathering-ccg-aetherdrift-play-booster-display-30-mtg-deathrace-pb": {
+     "title": "Magic the Gathering CCG Aetherdrift Play Booster Display (30) MTG-DeathRace-PB",
+     "game": "MTG",
+     "available": false,
+     "price": 106.99,
+     "unavail_since": 1788903344
     }
    },
    "baselined": true,
