@@ -11616,7 +11616,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -12263,9 +12263,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'one-piece-tcg-will-that-is-passed-down-op-13-booster-box-japanese-edition' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13421,9 +13421,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'phyrexia-all-will-be-one-set-booster-display' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -15112,9 +15112,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 5,
    "error_streak": 0,
-   "last_error": "401 Games: product 'pokemon-mega-evolution-delta-reign-booster-box' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://hobbiesville.com": {
    "products": {
@@ -17158,9 +17158,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-trading-card-game-3d2y-starter-deck-pre-order' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18085,9 +18085,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
-   "last_error": "Fusion Gaming Online: product 'diamond-pearl-booster-box' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://exorgames.com": {
    "products": {
@@ -19085,9 +19085,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 38,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'pokemon-swsh4-vivid-voltage-booster' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19780,9 +19780,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'jungle-booster-box-1st-edition' failed: HTTP Error 403: Forbidden"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -22733,9 +22733,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'assassins-creed-beyond-booster-box' failed: HTTP Error 403: Forbidden"
+   "check_cursor": 55,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23807,9 +23807,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-sword-shield-fusion-strike-booster-box' failed: HTTP Error 403: Forbidden",
-   "check_cursor": 11
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 51
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24146,8 +24146,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 403: Forbidden",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
