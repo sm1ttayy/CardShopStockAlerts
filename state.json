@@ -12272,7 +12272,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13437,7 +13437,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14875,10 +14875,9 @@
     "pokemon-storm-emeralda-japanese-booster-box": {
      "title": "Pokemon - Storm Emeralda - Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 164.95,
-     "last_restock_alert": 1787602535,
-     "unavail_since": 1788812110
+     "last_restock_alert": 1788899116
     },
     "pokemon-lost-origin-booster-box": {
      "title": "Pokemon - Lost Origin - Booster Box",
@@ -15129,7 +15128,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17177,7 +17176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18105,7 +18104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19105,9 +19104,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 27,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-op-10-royal-blood-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19801,7 +19800,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20373,7 +20372,7 @@
      "title": "Two Legends Booster Box [OP08]",
      "game": "One Piece",
      "available": false,
-     "price": 249.75,
+     "price": 248.99,
      "unavail_since": 1784083350
     },
     "spanish-hgss-half-booster-box": {
@@ -22193,7 +22192,7 @@
      "title": "Treasure Booster Set",
      "game": "One Piece",
      "available": false,
-     "price": 192.75,
+     "price": 191.75,
      "unavail_since": 1787788531
     },
     "first-partner-illustration-collection-series-3": {
@@ -22492,7 +22491,7 @@
      "title": "White Flare Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 88.75,
+     "price": 88.99,
      "unavail_since": 1788214255
     },
     "mega-evolution-booster-bundle": {
@@ -22754,7 +22753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 162,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23830,7 +23829,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 49
+   "check_cursor": 89
   },
   "https://sagaconcepts.com": {
    "products": {
