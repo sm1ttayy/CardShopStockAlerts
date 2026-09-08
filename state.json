@@ -12263,7 +12263,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13421,7 +13421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17158,7 +17158,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18085,7 +18085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19085,7 +19085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19780,7 +19780,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22733,9 +22733,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 128,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'pokemon-s-v-paradox-rift-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23807,9 +23807,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 0
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-21-ex-gear-5-st-21' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 40
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24146,8 +24146,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
