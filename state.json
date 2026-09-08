@@ -12279,7 +12279,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13444,7 +13444,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15763,10 +15763,9 @@
     "one-piece-card-game-premium-card-collection-best-selection-vol-3-pre-order": {
      "title": "One Piece Card Game - Premium Card Collection - Best Selection Vol 3",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 194.95,
-     "last_restock_alert": 1786664706,
-     "unavail_since": 1786737308
+     "last_restock_alert": 1788906607
     },
     "nami-premium-card-collection-one-piece-film-red-edition-st01-007-c-one-piece-promotion-cards-foil": {
      "title": "Nami (Premium Card Collection -ONE PIECE FILM RED Edition-) ST01-007 C One Piece Promotion Cards  Foil",
@@ -17183,7 +17182,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18111,7 +18110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19111,9 +19110,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv3-obsidian-flames-elite-trainer-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 24,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19807,7 +19806,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20586,7 +20585,7 @@
      "title": "Japanese Remix Bout Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1249.99,
+     "price": 1199.75,
      "unavail_since": 1784083350
     },
     "japanese-eevee-heroes-booster-box": {
@@ -22760,7 +22759,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23836,7 +23835,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 36
+   "check_cursor": 76
   },
   "https://sagaconcepts.com": {
    "products": {
