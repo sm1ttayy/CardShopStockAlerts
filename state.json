@@ -11616,7 +11616,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 403: Forbidden"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12263,9 +12263,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 27,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-hidden-fates-elite-trainer-box' failed: HTTP Error 403: Forbidden"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13421,9 +13421,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'avatar-the-last-airbender-jumpstart-booster-display-preorder' failed: HTTP Error 403: Forbidden"
   },
   "https://store.401games.ca": {
    "products": {
@@ -17158,9 +17158,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-card-game-illustration-box-vol-5-pre-order' failed: HTTP Error 403: Forbidden"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18085,7 +18085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19085,7 +19085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19780,9 +19780,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'unleashed-booster-box' failed: HTTP Error 403: Forbidden"
   },
   "https://common-lands.com": {
    "products": {
@@ -22733,9 +22733,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 128,
+   "check_cursor": 168,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'pokemon-s-v-paradox-rift-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'the-lord-of-the-rings-tales-of-middle-earth-set-booster-box' failed: HTTP Error 403: Forbidden"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23808,8 +23808,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-21-ex-gear-5-st-21' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 40
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-phantasmal-flames-booster-bundle-me02-6-boosters-pre-order' failed: HTTP Error 403: Forbidden",
+   "check_cursor": 80
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24147,7 +24147,7 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 403: Forbidden",
    "check_cursor": 0
   }
  }
