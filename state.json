@@ -12279,7 +12279,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13444,7 +13444,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17182,7 +17182,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18110,7 +18110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19110,9 +19110,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv5-temporal-forces-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 26,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19806,7 +19806,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22759,9 +22759,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 163,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 10,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'brilliant-stars-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23833,9 +23833,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 63
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'riftbound-league-of-legends-tcg-vendetta-vault' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 103
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24186,8 +24186,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
