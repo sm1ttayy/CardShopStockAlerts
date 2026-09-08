@@ -12272,7 +12272,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13437,7 +13437,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17176,7 +17176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18104,7 +18104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19104,9 +19104,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'one-piece-cg-prb01-premium-booster' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 10,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19232,7 +19232,7 @@
      "title": "Gym Challenge Booster Box [Unlimited Edition]",
      "game": "Pokemon",
      "available": false,
-     "price": 10335.99,
+     "price": 10349.43,
      "unavail_since": 1784083349
     },
     "gym-heroes-booster-box-unlimited-edition": {
@@ -19624,7 +19624,7 @@
      "title": "XY Roaring Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3237.18,
+     "price": 3241.39,
      "unavail_since": 1784083349
     },
     "xy-ancient-origins-booster-box": {
@@ -19673,7 +19673,7 @@
      "title": "XY Evolutions Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1867.8,
+     "price": 1881.05,
      "unavail_since": 1784083349
     },
     "sun-moon-booster-box": {
@@ -19800,7 +19800,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20240,7 +20240,7 @@
      "title": "The Brothers' War Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 386.99,
+     "price": 398.99,
      "unavail_since": 1784083350
     },
     "500-years-in-the-future-booster-box-op07": {
@@ -20344,7 +20344,7 @@
      "title": "Surging Sparks Booster Box Case [Sealed]",
      "game": "Pokemon",
      "available": false,
-     "price": 1946.75,
+     "price": 1931.75,
      "unavail_since": 1786195837
     },
     "mega-evolution-booster-box-non-enhanced": {
@@ -20792,7 +20792,7 @@
      "title": "Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 476.75,
+     "price": 479.75,
      "unavail_since": 1784083350
     },
     "pokemon-scarlet-violet-booster-box": {
@@ -22753,7 +22753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 139,
+   "check_cursor": 179,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23829,7 +23829,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 5
+   "check_cursor": 45
   },
   "https://sagaconcepts.com": {
    "products": {
