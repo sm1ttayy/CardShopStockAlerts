@@ -12272,7 +12272,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13437,7 +13437,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16412,9 +16412,9 @@
     "wave-2-pre-order-pokemon-sword-and-shield-5-battle-styles-booster-box-end-of-april": {
      "title": "Pokemon Sword And Shield battle styles- Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 394.95,
-     "unavail_since": 1788616511
+     "available": true,
+     "price": 399.95,
+     "last_restock_alert": 1788900608
     },
     "pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "Pokemon 30th Celebration Booster Bundle (Pre Order)",
@@ -17176,7 +17176,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18104,7 +18104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19104,7 +19104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19800,7 +19800,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22753,9 +22753,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 179,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 26,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'dominaria-united-set-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23827,9 +23827,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 45
+   "error_streak": 1,
+   "last_error": "overed Realm: product 'pokemon-tcg-scarlet-violet-10-5-black-bolt-white-flare-elite-trainer-box-etb-bundle-set-of-two' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 85
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24173,8 +24173,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
