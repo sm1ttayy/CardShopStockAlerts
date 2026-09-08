@@ -1471,7 +1471,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3554,9 +3554,10 @@
     "starter-deck-22-blue-ace-newgate-st-22": {
      "title": "Starter Deck 22: BLUE Ace & Newgate [ST-22]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 20.0,
-     "last_restock_alert": 1788398658
+     "last_restock_alert": 1788398658,
+     "unavail_since": 1788828225
     },
     "starter-deck-23-red-shanks": {
      "title": "Starter Deck 23: RED Shanks [ST-23]",
@@ -4105,7 +4106,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 213,
+   "check_cursor": 253,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5653,7 +5654,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7582,7 +7583,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 155,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9805,7 +9806,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11314,7 +11315,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
