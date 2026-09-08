@@ -11632,7 +11632,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -12279,9 +12279,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 35,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-sword-shield-elite-trainer-box-plus-zamazenta' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13444,9 +13444,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 28,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'riftbound-spiritforged-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -17182,9 +17182,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 105,
+   "check_cursor": 37,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-evolution-elite-trainer-box-gardevoir-max-2-wave-2-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18110,7 +18110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19110,9 +19110,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'one-piece-cg-op-12-legacy-of-the-master-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19806,9 +19806,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'xy-phantom-forces-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -22759,9 +22759,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 130,
-   "error_streak": 2,
-   "last_error": "Common Lands: product 'pokemon-s-v-twilight-masquerade-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 170,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23833,9 +23833,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-core-2021-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 5
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 45
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24186,8 +24186,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
