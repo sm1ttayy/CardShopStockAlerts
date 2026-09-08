@@ -1209,9 +1209,10 @@
     "one-piece-tcg-starter-deck-red-black-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 15.45,
-     "last_restock_alert": 1788810646
+     "last_restock_alert": 1788810646,
+     "unavail_since": 1788909955
     },
     "one-piece-tcg-starter-deck-blue-kuzan-st-33": {
      "title": "One Piece TCG: Starter Deck Blue - Kuzan (ST-33)",
@@ -1471,7 +1472,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 141,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4107,7 +4108,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 218,
+   "check_cursor": 258,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5656,13 +5657,13 @@
     "one-piece-tcg-the-worlds-strongest-warriors-japanese-booster-box-op-17": {
      "title": "One Piece TCG: The Worlds Strongest Warriors Japanese Booster Box (OP-17)",
      "game": "One Piece",
-     "available": false,
-     "price": 74.0,
-     "unavail_since": 1788901484
+     "available": true,
+     "price": 200.0,
+     "last_restock_alert": 1788909954
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7590,7 +7591,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 172,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9815,7 +9816,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11328,10 +11329,52 @@
      "game": "Pokemon",
      "available": true,
      "price": 489.99
+    },
+    "one-piece-tcg-starter-deck-monkey-d-luffy-st-31": {
+     "title": "One Piece TCG: Starter Deck: Monkey.D.Luffy (ST-31)",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.99,
+     "unavail_since": 1788909955
+    },
+    "one-piece-tcg-starter-deck-sabo-st-35": {
+     "title": "One Piece TCG: Starter Deck: Sabo (ST-35)",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.99,
+     "unavail_since": 1788909955
+    },
+    "one-piece-tcg-starter-deck-roronoa-zoro-st-32": {
+     "title": "One Piece TCG: Starter Deck: Roronoa Zoro (ST-32)",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.99,
+     "unavail_since": 1788909955
+    },
+    "one-piece-tcg-starter-deck-charlotte-katakuri-st-34": {
+     "title": "One Piece TCG: Starter Deck: Charlotte Katakuri (ST-34)",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.99,
+     "unavail_since": 1788909955
+    },
+    "one-piece-tcg-starter-deck-eustass-captain-kid-st-36": {
+     "title": "One Piece TCG: Starter Deck: Eustass \"Captain\" Kid (ST-36)",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.99,
+     "unavail_since": 1788909955
+    },
+    "one-piece-tcg-starter-deck-kuzani-st-33": {
+     "title": "One Piece TCG: Starter Deck: Kuzani (ST-33)",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.99,
+     "unavail_since": 1788909955
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
