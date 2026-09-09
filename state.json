@@ -1472,7 +1472,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4105,10 +4105,16 @@
      "game": "One Piece",
      "available": true,
      "price": 100.0
+    },
+    "one-piece-starter-deck-36-yellow-eustace-captain-kid-st-36": {
+     "title": "One Piece: Starter Deck 36 - YELLOW Eustace \"Captain\" Kid [ST-36]",
+     "game": "One Piece",
+     "available": true,
+     "price": 20.0
     }
    },
    "baselined": true,
-   "check_cursor": 258,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4804,7 +4810,7 @@
      "title": "One Piece TCG: Double Pack Volume 9 Set",
      "game": "One Piece",
      "available": true,
-     "price": 37.0
+     "price": 38.0
     },
     "one-piece-tcg-double-pack-volume-10-set": {
      "title": "One Piece TCG: Double Pack Volume 10 Set",
@@ -5663,7 +5669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5686,8 +5692,9 @@
     "one-piece-awakening-of-the-new-era-booster-boxtradingcards": {
      "title": "One Piece Awakening of the New Era (OP-05) Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 1274.75
+     "available": false,
+     "price": 1274.75,
+     "unavail_since": 1788917263
     },
     "one-piece-tcg-emperors-in-the-new-world-booster-box-op09": {
      "title": "One Piece Emperors in the New World (OP-09) Booster Box",
@@ -7591,7 +7598,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9658,10 +9665,9 @@
     "the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21": {
      "title": "The World's Strongest Warriors Booster Box OP-17 [One Piece] (08/21)",
      "game": "One Piece",
-     "available": false,
-     "price": 350.0,
-     "last_restock_alert": 1787600198,
-     "unavail_since": 1787709170
+     "available": true,
+     "price": 325.0,
+     "last_restock_alert": 1788917262
     },
     "starter-deck-st-34-one-piece-07-31": {
      "title": "Starter Deck ST-34 PURPLE Charlotte Katakuri [One Piece] (07/31)",
@@ -9816,7 +9822,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11374,7 +11380,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
