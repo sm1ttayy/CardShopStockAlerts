@@ -12319,10 +12319,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 83.0
+    },
+    "megahouse-portrait-of-pirates-one-piece-sailing-again-koala": {
+     "title": "Megahouse: Portrait of Pirates One Piece - Sailing Again Koala",
+     "game": "One Piece",
+     "available": true,
+     "price": 179.99
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13487,7 +13493,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13563,7 +13569,7 @@
      "title": "Pokemon - Abyss Eye - Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 124.95
+     "price": 109.95
     },
     "pokemon-gem-pack-vol-5-chinese-booster-box": {
      "title": "Pokemon - Gem Pack Vol. 5 - Chinese Booster Box",
@@ -14480,7 +14486,7 @@
      "title": "Pokemon - Vivid Voltage - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 249.95,
+     "price": 199.95,
      "last_restock_alert": 1786479917
     },
     "pokemon-champions-path-elite-trainer-box": {
@@ -15199,6 +15205,30 @@
      "game": "MTG",
      "available": true,
      "price": 239.95
+    },
+    "tamashi-nations-one-piece-luffy": {
+     "title": "Tamashi Nations - One Piece Luffy's - Archive of Adventure - Vol.2 - Blind Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 23.95
+    },
+    "pokemon-sword-and-shield-elite-trainer-box-plus-zacian": {
+     "title": "Pokemon - Sword And Shield Elite Trainer Box Plus - Zacian",
+     "game": "Pokemon",
+     "available": true,
+     "price": 319.95
+    },
+    "pokemon-mega-tyranitar-ex-premium-collection": {
+     "title": "Pokemon - Mega Tyranitar-EX - Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 499.95
+    },
+    "pokemon-shining-fates-premium-collection-dragapult-v": {
+     "title": "Pokemon - Shining Fates - Premium Collection - Dragapult V",
+     "game": "Pokemon",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -17283,10 +17313,36 @@
      "game": "MTG",
      "available": true,
      "price": 99.95
+    },
+    "november-release-vivid-voltage-elite-trainer-box": {
+     "title": "Vivid Voltage Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 179.95,
+     "unavail_since": 1788917114
+    },
+    "mtg-commander-2019-deck-mystic-intellect": {
+     "title": "MTG - Commander 2019 Deck - Mystic Intellect",
+     "game": "MTG",
+     "available": true,
+     "price": 74.95
+    },
+    "mtg-universes-beyond-marvel-super-heroes-commander-deck-avengers-assemble": {
+     "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Avengers Assemble",
+     "game": "MTG",
+     "available": true,
+     "price": 89.95
+    },
+    "mtg-march-of-the-machine-commander-deck-divine-convocation": {
+     "title": "MTG - March of the Machine - Commander Deck - Divine Convocation",
+     "game": "MTG",
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1788917133
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18221,7 +18277,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18679,7 +18735,7 @@
      "title": "POKEMON SV8.5 PRISMATIC EVOLUTIONS SUPER PREMIUM COLLECTION",
      "game": "Pokemon",
      "available": true,
-     "price": 999999.0
+     "price": 9999999.0
     },
     "mtg-bloomburrow-commander-deck": {
      "title": "MTG BLOOMBURROW COMMANDER DECK",
@@ -19224,10 +19280,16 @@
      "game": "MTG",
      "available": true,
      "price": 92.95
+    },
+    "pokemon-celebrations-ultra-premium-collection": {
+     "title": "POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION",
+     "game": "Pokemon",
+     "available": true,
+     "price": 999999.0
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19923,7 +19985,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21280,7 +21342,7 @@
      "title": "Crown Zenith Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 338.75
+     "price": 314.75
     },
     "pokemon-s-v-prismatic-evolutions-elite-trainer-box": {
      "title": "Prismatic Evolutions Elite Trainer Box",
@@ -22866,17 +22928,23 @@
      "title": "Special BOX Pokemon Center Hiroshima",
      "game": "Pokemon",
      "available": true,
-     "price": 189.75
+     "price": 188.75
     },
     "black-bolt-elite-trainer-box": {
      "title": "Black Bolt Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
      "price": 176.75
+    },
+    "phantasmal-flames-elite-trainer-box": {
+     "title": "Phantasmal Flames Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 159.75
     }
    },
    "baselined": true,
-   "check_cursor": 112,
+   "check_cursor": 152,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23952,12 +24020,30 @@
      "game": "One Piece",
      "available": true,
      "price": 174.95
+    },
+    "box-damage-funko-pop-one-piece-eustass-kid-wondrous-convention-exclusive-1287": {
+     "title": "(Light Box Damage) Funko Pop! One Piece Eustass Kid Wondrous Convention Exclusive #1287",
+     "game": "One Piece",
+     "available": true,
+     "price": 29.99
+    },
+    "funko-pop-pokemon-eevee-action-stance-nycc-convention-exclusive-626": {
+     "title": "Funko Pop! Pokemon Eevee (Action Stance) Diamond NYCC (Official Sticker) Exclusive #626",
+     "game": "Pokemon",
+     "available": true,
+     "price": 39.95
+    },
+    "funko-pop-pokemon-cresselia-c2e2-official-sticker-exclusive-10-inch-965": {
+     "title": "Funko Pop! Pokemon Cresselia C2E2 (Official Sticker) Exclusive 10 Inch #965",
+     "game": "Pokemon",
+     "available": true,
+     "price": 69.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 70
+   "check_cursor": 23
   },
   "https://sagaconcepts.com": {
    "products": {
