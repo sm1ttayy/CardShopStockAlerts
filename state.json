@@ -12473,7 +12473,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13648,7 +13648,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17579,7 +17579,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18514,7 +18514,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19497,8 +19497,9 @@
     "riftbound-origins-booster-display": {
      "title": "RIFTBOUND ORIGINS BOOSTER DISPLAY (LIMIT 1)",
      "game": "Riftbound",
-     "available": true,
-     "price": 389.95
+     "available": false,
+     "price": 389.95,
+     "unavail_since": 1788998114
     },
     "riftbound-proving-grounds-box-set": {
      "title": "RIFTBOUND PROVING GROUNDS BOX SET(LIMIT 1)",
@@ -19561,7 +19562,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20257,7 +20258,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23247,7 +23248,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24353,7 +24354,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 75
+   "check_cursor": 20
   },
   "https://sagaconcepts.com": {
    "products": {
