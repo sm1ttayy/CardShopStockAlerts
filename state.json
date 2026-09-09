@@ -12331,10 +12331,30 @@
      "game": "One Piece",
      "available": true,
      "price": 179.99
+    },
+    "megahouse-portrait-of-pirates-one-piece-warriors-alliance-osoba-mask": {
+     "title": "Megahouse: Portrait of Pirates One Piece - \"Warriors Alliance\" - Osoba Mask",
+     "game": "One Piece",
+     "available": true,
+     "price": 191.99
+    },
+    "pokemon-25th-anniversary-collection-s8a-booster-box-sword-shield-series-japanese": {
+     "title": "Pokemon 25th Anniversary Collection S8A Booster Box - Sword & Shield Series - Japanese",
+     "game": "Pokemon",
+     "available": false,
+     "price": 470.0,
+     "unavail_since": 1788917410
+    },
+    "new-nintendo-3ds-pokemon-20th-anniversary-edition-nintendo-3ds": {
+     "title": "New Nintendo 3DS Pokemon 20th Anniversary Edition - Nintendo 3DS",
+     "game": "Pokemon",
+     "available": false,
+     "price": 1144.0,
+     "unavail_since": 1788917410
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13443,8 +13463,9 @@
     "one-piece-op13-carrying-on-his-will-booster-box": {
      "title": "One Piece Carrying On His Will Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 479.95
+     "available": false,
+     "price": 479.95,
+     "unavail_since": 1788917406
     },
     "first-partner-illustration-collection-series-1": {
      "title": "First Partner Illustration Collection (Series 1)",
@@ -13499,7 +13520,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15238,7 +15259,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17345,10 +17366,43 @@
      "available": false,
      "price": 69.95,
      "unavail_since": 1788917133
+    },
+    "one-piece-card-game-japanese-2nd-anniversary-set": {
+     "title": "One Piece Card Game - Japanese 2nd Anniversary Set",
+     "game": "One Piece",
+     "available": true,
+     "price": 1999.95
+    },
+    "one-piece-japanese-3rd-anniversary-special-set-pre-order": {
+     "title": "One Piece Japanese 3rd Anniversary Special Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 1999.95,
+     "unavail_since": 1788917404
+    },
+    "one-piece-op-09-emperors-in-the-new-world-booster-pack": {
+     "title": "One Piece OP-09 Emperors in the New World Booster Pack",
+     "game": "One Piece",
+     "available": false,
+     "price": 37.95,
+     "unavail_since": 1788917406
+    },
+    "chogokin-going-merry-one-piece-animation-25th-anniversary-memorial-edition-one-piece": {
+     "title": "Chogokin Going Merry - One Piece - Animation 25th Anniversary Memorial Edition - \"One Piece\"",
+     "game": "One Piece",
+     "available": true,
+     "price": 349.95
+    },
+    "pokemon-temporal-forces-booster-bundle-pre-order": {
+     "title": "Pokemon Temporal Forces Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 59.95,
+     "unavail_since": 1788917409
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18283,7 +18337,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19295,9 +19349,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 48,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv6-twilight-masquerade-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -19991,7 +20045,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21915,7 +21969,7 @@
      "title": "Core Set 2021 - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 184.25
+     "price": 183.25
     },
     "sea-sky-premium-collection": {
      "title": "Sea & Sky Premium Collection",
@@ -22146,7 +22200,7 @@
      "title": "Pokemon GO Mini Tin [Magikarp]",
      "game": "Pokemon",
      "available": true,
-     "price": 49.49
+     "price": 61.75
     },
     "champions-path-pin-collection-hulbury-gym": {
      "title": "Champion's Path Pin Collection [Hulbury Gym]",
@@ -22201,7 +22255,7 @@
      "title": "Strixhaven: School of Mages - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 198.99
+     "price": 189.75
     },
     "adventures-in-the-forgotten-realms-draft-booster-box": {
      "title": "Adventures in the Forgotten Realms - Draft Booster Box",
@@ -22509,7 +22563,7 @@
      "title": "Amonkhet - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 409.75
+     "price": 408.75
     },
     "ultimate-masters-booster-box": {
      "title": "Ultimate Masters - Booster Box",
@@ -22947,10 +23001,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 159.75
+    },
+    "pokemon-go-tin-snorlax": {
+     "title": "Pokemon GO Tin [Snorlax]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 91.75
     }
    },
    "baselined": true,
-   "check_cursor": 152,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24044,12 +24104,19 @@
      "game": "Pokemon",
      "available": true,
      "price": 69.95
+    },
+    "pokemon-tcg-sword-and-shield-vivid-voltage-elite-trainer-box": {
+     "title": "Pokemon TCG Sword and Shield Vivid Voltage Elite Trainer Box (In Stock)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1788917498
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 23
+   "check_cursor": 63
   },
   "https://sagaconcepts.com": {
    "products": {
