@@ -1469,10 +1469,16 @@
      "available": false,
      "price": 389.06,
      "unavail_since": 1788545848
+    },
+    "pirates-on-vacation-one-piece-box-8-megahouse-ochatomo": {
+     "title": "Pirates on Vacation, \"One Piece\" Megahouse Ochatomo",
+     "game": "One Piece",
+     "available": true,
+     "price": 20.49
     }
    },
    "baselined": true,
-   "check_cursor": 106,
+   "check_cursor": 146,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4114,7 +4120,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5489,7 +5495,7 @@
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
      "game": "One Piece",
      "available": true,
-     "price": 20.0
+     "price": 19.0
     },
     "one-piece-tcg-red-monkey-d-luffy-starter-deck-ex-st-31": {
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
@@ -5507,7 +5513,7 @@
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 26.0
+     "price": 25.0
     },
     "one-piece-tcg-illustration-box-volume-8": {
      "title": "One Piece TCG: Illustration Box Volume 8",
@@ -5622,7 +5628,7 @@
      "title": "One Piece TCG: Luffy Gear 5 Ultra Starter Deck (ST-21)",
      "game": "One Piece",
      "available": true,
-     "price": 78.0
+     "price": 77.0
     },
     "pokemon-tcg-mega-evolution-mega-venusaur-ex-premium-collection-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Mega Venusaur EX Premium Collection Box",
@@ -5669,7 +5675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 88,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7598,7 +7604,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 112,
+   "check_cursor": 152,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9822,7 +9828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10341,6 +10347,42 @@
      "available": false,
      "price": 2000.0,
      "unavail_since": 1788874900
+    },
+    "pokemon-tcg-me05-pitch-black-booster-box-1": {
+     "title": "Pokemon TCG:  ME05 Pitch Black Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 174.99
+    },
+    "pokemon-tcg-me05-pitch-black-elite-trainer-box-1": {
+     "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 60.99
+    },
+    "pokemon-tcg-mega-zygarde-ex-premium-collection-box": {
+     "title": "Pokemon TCG:  Mega Zygarde ex Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 45.0
+    },
+    "pokemon-tcg-me04-chaos-rising-booster-box-1": {
+     "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 171.99
+    },
+    "pokemon-tcg-me01-mega-base-booster-box-non-enhanced": {
+     "title": "Pokemon TCG: ME01 Mega Base Booster Box - Non Enhanced",
+     "game": "Pokemon",
+     "available": true,
+     "price": 294.99
+    },
+    "pokemon-tcg-mega-moonlit-tin-set-one-of-each": {
+     "title": "Pokemon TCG: Mega Moonlit Tin Set (one of each)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 45.0
     }
    },
    "baselined": true,
@@ -11380,7 +11422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
