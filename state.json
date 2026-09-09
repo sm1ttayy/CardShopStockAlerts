@@ -12360,7 +12360,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13526,7 +13526,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15283,7 +15283,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17432,7 +17432,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18367,7 +18367,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19407,9 +19407,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 52,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv6-twilight-masquerade-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -20103,7 +20103,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23065,10 +23065,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 91.75
+    },
+    "pokemon-swsh-evolving-skies-elite-trainer-box-leafeon-umbreon-jolteon-flareon": {
+     "title": "Evolving Skies Elite Trainer Box [Leafeon, Umbreon, Jolteon, Flareon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 542.75
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 126,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24174,7 +24180,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 47
+   "check_cursor": 87
   },
   "https://sagaconcepts.com": {
    "products": {
