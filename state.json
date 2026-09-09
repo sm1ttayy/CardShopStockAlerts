@@ -12322,7 +12322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13487,7 +13487,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15178,7 +15178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17225,7 +17225,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18153,7 +18153,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19153,9 +19153,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-me2-5-ascended-heroes-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 17,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -19849,7 +19849,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22802,9 +22802,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 81,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'marvel-superheroes-play-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -23875,9 +23875,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 6
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-starter-deck-st-01-straw-hat-crew' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 46
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24228,8 +24228,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
