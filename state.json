@@ -11676,6 +11676,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 25.0
+    },
+    "teenage-mutant-ninja-turtles-play-booster-box": {
+     "title": "Teenage Mutant Ninja Turtles - Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 129.99
     }
    },
    "baselined": true,
@@ -12354,7 +12360,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13053,7 +13059,7 @@
      "title": "Marvel Super Heroes Doom Prevails Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 76.95
+     "price": 74.95
     },
     "marvel-super-heroes-bundle-preorder": {
      "title": "Marvel Super Heroes Bundle",
@@ -13520,7 +13526,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15256,10 +15262,28 @@
      "game": "Pokemon",
      "available": true,
      "price": 149.95
+    },
+    "one-piece-card-game-premium-card-collection-japanese-6-assort-vol-1": {
+     "title": "One Piece Card Game - Premium Card Collection - Japanese - 6 Assort Vol. 1",
+     "game": "One Piece",
+     "available": true,
+     "price": 89.95
+    },
+    "mtg-alliances-english-booster-box": {
+     "title": "MTG - Alliances - English Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 2999.95
+    },
+    "mtg-judgment-english-booster-box": {
+     "title": "MTG - Judgment - English Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 1299.95
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17399,10 +17423,16 @@
      "available": false,
      "price": 59.95,
      "unavail_since": 1788917409
+    },
+    "mtg-iconic-masters-booster-box": {
+     "title": "MTG Iconic Masters Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 449.95
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18337,7 +18367,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19346,12 +19376,40 @@
      "game": "Pokemon",
      "available": true,
      "price": 999999.0
+    },
+    "pokemon-sv3-5-151-booster-bundle-pre-order": {
+     "title": "POKEMON SV3.5 151 BOOSTER BUNDLE LIMIT 1",
+     "game": "Pokemon",
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1788917718
+    },
+    "pokemon-sv3-5-151-poster-collection-pre-order": {
+     "title": "POKEMON SV3.5 151 POSTER COLLECTION",
+     "game": "Pokemon",
+     "available": false,
+     "price": 59.95,
+     "unavail_since": 1788917718
+    },
+    "pokemon-sv3-5-151-ultra-premium-collection": {
+     "title": "POKEMON SV3.5 151 ULTRA PREMIUM COLLECTION",
+     "game": "Pokemon",
+     "available": false,
+     "price": 149.95,
+     "unavail_since": 1788917718
+    },
+    "pokemon-sv3-obsidian-flames-booster-bundle-pre-order": {
+     "title": "POKEMON SV3 OBSIDIAN FLAMES BOOSTER BUNDLE",
+     "game": "Pokemon",
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1788917718
     }
    },
    "baselined": true,
-   "check_cursor": 48,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv6-twilight-masquerade-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 30,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -20045,7 +20103,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23010,7 +23068,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24116,7 +24174,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 63
+   "check_cursor": 7
   },
   "https://sagaconcepts.com": {
    "products": {
