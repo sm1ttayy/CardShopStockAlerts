@@ -12322,7 +12322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13487,7 +13487,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14066,7 +14066,7 @@
      "title": "Pokemon - First Partner Illustration Collection - Series 2",
      "game": "Pokemon",
      "available": true,
-     "price": 49.95
+     "price": 39.95
     },
     "pokemon-shining-fates-premium-collection-crobat-v": {
      "title": "Pokemon - Shining Fates - Premium Collection - Crobat V",
@@ -14583,7 +14583,7 @@
      "title": "MTG - Bloomburrow - Commander Deck - Animated Army",
      "game": "MTG",
      "available": true,
-     "price": 74.95
+     "price": 84.95
     },
     "one-piece-card-game-illustration-box-vol-6": {
      "title": "One Piece Card Game - Illustration Box Vol.6",
@@ -14871,13 +14871,13 @@
      "title": "MTG - Bloomburrow - Commander Deck - Squirreled Away",
      "game": "MTG",
      "available": true,
-     "price": 89.95
+     "price": 99.95
     },
     "pokemon-first-partner-illustration-collection-series-3": {
      "title": "Pokemon - First Partner Illustration Collection - Series 3",
      "game": "Pokemon",
      "available": true,
-     "price": 49.95
+     "price": 44.95
     },
     "mtg-universes-beyond-the-hobbit-bundle": {
      "title": "MTG - Universes Beyond: The Hobbit - Bundle",
@@ -15175,6 +15175,30 @@
      "available": false,
      "price": 69.95,
      "unavail_since": 1788709809
+    },
+    "mtg-modern-horizons-3-commander-deck-graveyard-overdrive-pre-order": {
+     "title": "MTG - Modern Horizons 3 - Commander Deck - Graveyard Overdrive",
+     "game": "MTG",
+     "available": true,
+     "price": 99.95
+    },
+    "mtg-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-the-hosts-of-mordor": {
+     "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Commander Deck - The Hosts of Mordor",
+     "game": "MTG",
+     "available": true,
+     "price": 149.95
+    },
+    "mtg-universes-beyond-the-hobbit-gift-bundle": {
+     "title": "MTG - Universes Beyond: The Hobbit - Gift Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 179.95
+    },
+    "mtg-kamigawa-neon-dynasty-english-bundle": {
+     "title": "MTG - Kamigawa: Neon Dynasty - English Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 239.95
     }
    },
    "baselined": true,
@@ -16817,9 +16841,10 @@
     "mtg-fate-reforged-english-booster-box": {
      "title": "MTG - Fate Reforged - English Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 289.95,
-     "last_restock_alert": 1786664721
+     "last_restock_alert": 1786664721,
+     "unavail_since": 1788916833
     },
     "one-piece-card-game-devil-fruits-collection-vol-1-pre-order": {
      "title": "One Piece Card Game - Devil Fruits Collection Vol.1",
@@ -17222,10 +17247,46 @@
      "available": false,
      "price": 179.95,
      "unavail_since": 1788898233
+    },
+    "pokemon-paradox-rift-half-booster-box-18-packs-euro": {
+     "title": "Pokemon Paradox Rift Half Booster Box (18 packs) (Euro)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 219.95
+    },
+    "pokemon-unified-minds-booster-box": {
+     "title": "Pok\u00e9mon Unified Minds Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 4400.0
+    },
+    "riftbound-league-of-legends-proving-grounds-box-set-2nd-edition-pre-order": {
+     "title": "Riftbound: League of Legends - Proving Grounds Box Set 2nd Edition (Pre Order)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 47.95
+    },
+    "pre-order-mtg-strixhaven-draft-booster-box": {
+     "title": "MTG - Strixhaven School Of Mages- Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 279.95
+    },
+    "mtg-ikoria-lair-of-behemoths-english-booster-box": {
+     "title": "MTG - Ikoria Lair of Behemoths - English Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 369.95
+    },
+    "pre-order-mtg-streets-of-new-capenna-english-bundle": {
+     "title": "MTG - Streets of New Capenna - English Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 99.95
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18150,10 +18211,17 @@
      "available": false,
      "price": 79.99,
      "unavail_since": 1788824722
+    },
+    "reality-fracture-commander-deck-multiverse-reforged": {
+     "title": "Reality Fracture Commander Deck - Multiverse Reforged",
+     "game": "MTG",
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1788916814
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18368,7 +18436,7 @@
      "title": "POKEMON ME04 CHAOS RISING BOOSTER BUNDLE",
      "game": "Pokemon",
      "available": true,
-     "price": 69.95,
+     "price": 59.95,
      "last_restock_alert": 1785187221
     },
     "pokemon-sv6-twilight-masquerade-booster-bundle": {
@@ -19015,7 +19083,7 @@
      "title": "POKEMON FIRST PARTNER ILLUSTRATION COLLECTION SERIES 3 (LIMIT 2)",
      "game": "Pokemon",
      "available": true,
-     "price": 54.95
+     "price": 44.95
     },
     "pokemon-me03-perfect-order-booster-bundle": {
      "title": "POKEMON ME03 PERFECT ORDER BOOSTER BUNDLE",
@@ -19150,10 +19218,16 @@
      "game": "Riftbound",
      "available": true,
      "price": 64.95
+    },
+    "mtg-foundations-starter-collection": {
+     "title": "MTG FOUNDATIONS STARTER COLLECTION",
+     "game": "MTG",
+     "available": true,
+     "price": 92.95
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19849,7 +19923,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21925,7 +21999,7 @@
      "title": "Mega Brave Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 103.99
+     "price": 99.75
     },
     "puzzle-one-piece-sailing-the-going-merry-1000-piece": {
      "title": "Puzzle: One Piece \"Sailing The Going Merry\" 1000 piece",
@@ -22664,7 +22738,7 @@
      "title": "30th Celebration Ditto Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 197.75
+     "price": 197.25
     },
     "30th-celebration-ultra-premium-collection-day": {
      "title": "30th Celebration Ultra-Premium Collection [Day]",
@@ -22802,7 +22876,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 112,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23872,12 +23946,18 @@
      "game": "One Piece",
      "available": true,
      "price": 79.95
+    },
+    "john-gremillion-signed-autographed-nbsp-one-piece-dracule-mihawk-funko-pop-w-quote-jsa-certified-quotes-and-colors-may-vary": {
+     "title": "John Gremillion Signed Autographed One Piece Dracule Mihawk Funko Pop #1521 w/ Quote (JSA Certified) (Quotes and Colors May Vary)",
+     "game": "One Piece",
+     "available": true,
+     "price": 174.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 30
+   "check_cursor": 70
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24216,8 +24296,9 @@
     "magic-the-gathering-ccg-foundations-jumpstart-booster-display-24-mtg-fnd-jumpstartboosterdisplay": {
      "title": "Magic the Gathering CCG Foundations Jumpstart Booster Display 24 MTG-FND-JumpstartBoosterDisplay",
      "game": "MTG",
-     "available": true,
-     "price": 86.99
+     "available": false,
+     "price": 86.99,
+     "unavail_since": 1788916884
     },
     "magic-the-gathering-ccg-aetherdrift-play-booster-display-30-mtg-deathrace-pb": {
      "title": "Magic the Gathering CCG Aetherdrift Play Booster Display (30) MTG-DeathRace-PB",
