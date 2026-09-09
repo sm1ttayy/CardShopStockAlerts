@@ -12473,7 +12473,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13458,7 +13458,7 @@
      "title": "Edge of Eternities Commander Deck Set of 2",
      "game": "MTG",
      "available": true,
-     "price": 79.95
+     "price": 84.95
     },
     "the-hobbit-scene-box-set-of-2-preorder": {
      "title": "The Hobbit Scene Box (Set of 2)",
@@ -13544,8 +13544,9 @@
     "preorder-final-fantasy-commander-deck-case": {
      "title": "Final Fantasy Commander Deck Set of 4",
      "game": "MTG",
-     "available": true,
-     "price": 179.95
+     "available": false,
+     "price": 179.95,
+     "unavail_since": 1788993332
     },
     "pokemon-1": {
      "title": "Pokemon Celebrations V Memories Special Collection",
@@ -13647,7 +13648,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17578,7 +17579,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18513,7 +18514,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19560,7 +19561,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20256,7 +20257,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20307,7 +20308,7 @@
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 117.99
+     "price": 116.75
     },
     "team-up-booster-box": {
      "title": "Team Up Booster Box",
@@ -20758,7 +20759,7 @@
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 85.75,
+     "price": 85.49,
      "unavail_since": 1784083350
     },
     "japanese-forbidden-light-booster-box-sm6": {
@@ -20905,7 +20906,7 @@
      "title": "Japanese Ancient Roar Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 101.75,
+     "price": 101.99,
      "unavail_since": 1784083350
     },
     "surging-sparks-half-booster-box": {
@@ -20919,7 +20920,7 @@
      "title": "Fates Collide Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 6989.75,
+     "price": 5499.99,
      "unavail_since": 1784083350
     },
     "flashfire-booster-box": {
@@ -21162,7 +21163,7 @@
      "title": "Awakening of the New Era Booster Box [OP05]",
      "game": "One Piece",
      "available": true,
-     "price": 1089.75
+     "price": 1049.75
     },
     "pokemon-s-v-obsidian-flames-booster-box": {
      "title": "Obsidian Flames Booster Box",
@@ -21589,7 +21590,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 73.99
+     "price": 72.25
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -21613,13 +21614,13 @@
      "title": "Crown Zenith Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 314.75
+     "price": 313.75
     },
     "pokemon-s-v-prismatic-evolutions-elite-trainer-box": {
      "title": "Prismatic Evolutions Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 154.75
+     "price": 154.25
     },
     "destined-rivals-elite-trainer-box": {
      "title": "Destined Rivals Elite Trainer Box",
@@ -21643,7 +21644,7 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 93.75
+     "price": 90.99
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -21656,7 +21657,7 @@
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 69.99,
+     "price": 67.99,
      "last_restock_alert": 1788046527
     },
     "paldean-fates-booster-bundle": {
@@ -21729,7 +21730,7 @@
      "title": "Pitch Black 3 Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 22.75
+     "price": 22.49
     },
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
@@ -21743,7 +21744,7 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 1034.99,
+     "price": 1033.99,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
@@ -22058,7 +22059,7 @@
      "title": "Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
      "game": "Pokemon",
      "available": true,
-     "price": 259.99
+     "price": 259.75
     },
     "double-masters-booster-box": {
      "title": "Double Masters - Booster Box",
@@ -22116,7 +22117,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 46.99
+     "price": 46.25
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -22548,7 +22549,7 @@
      "title": "Dominaria United - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 306.75,
+     "price": 299.99,
      "unavail_since": 1786195830
     },
     "strixhaven-school-of-mages-set-booster-display": {
@@ -22562,7 +22563,7 @@
      "title": "Adventures in the Forgotten Realms - Set Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 327.75,
+     "price": 329.75,
      "unavail_since": 1786195830
     },
     "innistrad-midnight-hunt-draft-booster-box": {
@@ -22687,7 +22688,7 @@
      "title": "Costco Pokemon Prismatic Evolutions 2-Pack Trainer Box and Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 284.75
+     "price": 284.49
     },
     "ascended-heroes-premium-poster-collection": {
      "title": "Ascended Heroes Premium Poster Collection [Mega Lucario]",
@@ -23053,7 +23054,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 77.75
+     "price": 77.25
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -23065,13 +23066,13 @@
      "title": "30th Celebration Greninja ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 53.25
+     "price": 51.75
     },
     "30th-celebration-ditto-premium-collection": {
      "title": "30th Celebration Ditto Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 197.25
+     "price": 196.75
     },
     "30th-celebration-ultra-premium-collection-day": {
      "title": "30th Celebration Ultra-Premium Collection [Day]",
@@ -23121,7 +23122,7 @@
      "title": "One Piece Heroines Edition Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 329.75
+     "price": 322.99
     },
     "commander-legends-battle-for-baldurs-gate-exit-from-exile-commander-deck": {
      "title": "Commander Legends: Battle for Baldur's Gate - Exit from Exile Commander Deck",
@@ -23200,7 +23201,7 @@
      "title": "Special BOX Pokemon Center Hiroshima",
      "game": "Pokemon",
      "available": true,
-     "price": 188.75
+     "price": 188.49
     },
     "black-bolt-elite-trainer-box": {
      "title": "Black Bolt Elite Trainer Box",
@@ -23212,7 +23213,7 @@
      "title": "Phantasmal Flames Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 159.75
+     "price": 154.75
     },
     "pokemon-go-tin-snorlax": {
      "title": "Pokemon GO Tin [Snorlax]",
@@ -23224,29 +23225,29 @@
      "title": "Evolving Skies Elite Trainer Box [Leafeon, Umbreon, Jolteon, Flareon]",
      "game": "Pokemon",
      "available": true,
-     "price": 542.75
+     "price": 539.75
     },
     "obsidian-flames-elite-trainer-box": {
      "title": "Obsidian Flames Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 294.75
+     "price": 291.75
     },
     "twilight-masquerade-booster-bundle": {
      "title": "Twilight Masquerade Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 71.75
+     "price": 71.49
     },
     "special-box-pokemon-center-tohoku": {
      "title": "Special BOX Pokemon Center Tohoku",
      "game": "Pokemon",
      "available": true,
-     "price": 146.25
+     "price": 142.75
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24352,7 +24353,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 59
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
