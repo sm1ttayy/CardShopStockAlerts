@@ -1084,7 +1084,7 @@
      "title": "One Piece TCG: [IB-08] Illustration Box Vol. 8 [English]",
      "game": "One Piece",
      "available": false,
-     "price": 36.79,
+     "price": 35.96,
      "unavail_since": 1784083333,
      "note": "Illustration Box Vol. 8 @ $22.99 (releases 7/31)"
     },
@@ -1203,14 +1203,14 @@
      "title": "One Piece TCG: Starter Deck Green - Roronoa Zoro (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 30.62,
+     "price": 29.55,
      "last_restock_alert": 1788810646
     },
     "one-piece-tcg-starter-deck-red-black-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
      "game": "One Piece",
      "available": false,
-     "price": 15.45,
+     "price": 13.91,
      "last_restock_alert": 1788810646,
      "unavail_since": 1788909955
     },
@@ -1218,14 +1218,14 @@
      "title": "One Piece TCG: Starter Deck Blue - Kuzan (ST-33)",
      "game": "One Piece",
      "available": true,
-     "price": 18.23,
+     "price": 16.25,
      "last_restock_alert": 1788529025
     },
     "one-piece-tcg-starter-deck-red-monkey-d-luffy-st-31": {
      "title": "One Piece TCG: Starter Deck Red - Monkey.D.Luffy (ST-31)",
      "game": "One Piece",
      "available": false,
-     "price": 23.3,
+     "price": 24.92,
      "last_restock_alert": 1787875014,
      "unavail_since": 1787915521
     },
@@ -1233,14 +1233,14 @@
      "title": "One Piece TCG: Starter Deck Yellow - Eustass Captain Kid (ST-36)",
      "game": "One Piece",
      "available": true,
-     "price": 18.26,
+     "price": 16.74,
      "last_restock_alert": 1788529031
     },
     "one-piece-tcg-starter-deck-purple-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck Purple - Charlotte Katakuri (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 23.1,
+     "price": 22.25,
      "last_restock_alert": 1788810646
     },
     "magic-the-gathering-amonkhet-booster-box": {
@@ -1485,7 +1485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4158,7 +4158,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 115,
+   "check_cursor": 155,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5711,7 +5711,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 107,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7655,7 +7655,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9730,9 +9730,10 @@
     "the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21": {
      "title": "The World's Strongest Warriors Booster Box OP-17 [One Piece] (08/21)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 325.0,
-     "last_restock_alert": 1788917262
+     "last_restock_alert": 1788917262,
+     "unavail_since": 1789069718
     },
     "starter-deck-st-34-one-piece-07-31": {
      "title": "Starter Deck ST-34 PURPLE Charlotte Katakuri [One Piece] (07/31)",
@@ -9887,7 +9888,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11522,7 +11523,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
