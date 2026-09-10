@@ -1485,7 +1485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 122,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4134,7 +4134,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 267,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5509,7 +5509,7 @@
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
      "game": "One Piece",
      "available": true,
-     "price": 19.0
+     "price": 20.0
     },
     "one-piece-tcg-red-monkey-d-luffy-starter-deck-ex-st-31": {
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
@@ -5689,7 +5689,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7619,7 +7619,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 127,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9846,7 +9846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10408,6 +10408,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 250.0
+    },
+    "pokemon-tcg-lumiose-city-mini-tin-display": {
+     "title": "Pokemon TCG:   Lumiose City Mini Tin Display",
+     "game": "Pokemon",
+     "available": true,
+     "price": 104.99
     }
    },
    "baselined": true,
@@ -11468,7 +11474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
