@@ -12564,7 +12564,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13750,7 +13750,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17008,9 +17008,9 @@
     "mtg-marvel-super-heroes-bundle-pre-order": {
      "title": "MTG - Marvel Super Heroes Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 84.95,
-     "unavail_since": 1787691625
+     "last_restock_alert": 1789083924
     },
     "mtg-universes-beyond-avatar-the-last-airbender-gift-bundle-pre-order": {
      "title": "MTG - Universes Beyond: Avatar The Last Airbender - Gift Bundle - Commander Bundle",
@@ -17703,7 +17703,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18638,7 +18638,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19687,7 +19687,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20383,7 +20383,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22060,7 +22060,7 @@
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 416.75
+     "price": 419.75
     },
     "jumpstart-booster-box": {
      "title": "Jumpstart - Booster Box",
@@ -22333,7 +22333,7 @@
      "title": "Paldean Fates Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 609.99
+     "price": 596.99
     },
     "origins-champion-deck-jinx": {
      "title": "Origins - Champion Deck (Jinx)",
@@ -23374,7 +23374,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 89,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24480,7 +24480,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 8
+   "check_cursor": 48
   },
   "https://sagaconcepts.com": {
    "products": {
