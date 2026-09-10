@@ -12564,7 +12564,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13750,7 +13750,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17703,7 +17703,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 96,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18638,7 +18638,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19687,7 +19687,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20383,7 +20383,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20504,7 +20504,7 @@
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 191.99,
+     "price": 207.0,
      "last_restock_alert": 1785526241
     },
     "adventure-on-kamis-island-booster-box": {
@@ -21862,10 +21862,9 @@
     "pitch-black-booster-bundle": {
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 39.75,
-     "last_restock_alert": 1785187238,
-     "unavail_since": 1787776554
+     "last_restock_alert": 1789084248
     },
     "riftbound-worlds-bundle-2025": {
      "title": "Riftbound Worlds Bundle 2025",
@@ -22015,9 +22014,9 @@
     "surging-sparks-pokemon-center-elite-trainer-box-1": {
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 272.49,
-     "unavail_since": 1788709844
+     "last_restock_alert": 1789084228
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
      "title": "Paldea Evolved Pokemon Center Elite Trainer Box",
@@ -22054,7 +22053,7 @@
      "title": "Journey Together Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 204.75
+     "price": 195.49
     },
     "prismatic-evolutions-pokemon-center-elite-trainer-box": {
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
@@ -22296,7 +22295,7 @@
      "title": "Stellar Crown Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 171.25
+     "price": 171.75
     },
     "dominaria-united-draft-booster-box": {
      "title": "Dominaria United - Draft Booster Box",
@@ -23371,10 +23370,40 @@
      "game": "Pokemon",
      "available": true,
      "price": 142.75
+    },
+    "paradox-rift-pokemon-center-elite-trainer-box-iron-valiant": {
+     "title": "Paradox Rift Pokemon Center Elite Trainer Box [Iron Valiant]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 191.25
+    },
+    "pokemon-scarlet-violet-temporal-forces-pokemon-center-elite-trainer-box-walking-wake": {
+     "title": "Temporal Forces Pokemon Center Elite Trainer Box [Walking Wake]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 209.75
+    },
+    "pokemon-s-v-temporal-forces-pokemon-center-elite-trainer-box-iron-leaves": {
+     "title": "Temporal Forces Pokemon Center Elite Trainer Box [Iron Leaves]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 204.75
+    },
+    "pokemon-go-pin-collection-squirtle": {
+     "title": "Pokemon GO Pin Collection [Squirtle]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 87.75
+    },
+    "paradox-rift-pokemon-center-elite-trainer-box-roaring-moon": {
+     "title": "Paradox Rift Pokemon Center Elite Trainer Box [Roaring Moon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 219.25
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 129,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24480,7 +24509,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 48
+   "check_cursor": 3
   },
   "https://sagaconcepts.com": {
    "products": {
