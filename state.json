@@ -1485,7 +1485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4075,8 +4075,9 @@
     "starter-deck-ex-30-luffy-ace-st-30-one-piece": {
      "title": "One Piece: Starter Deck EX 30 - Luffy & Ace [ST-30]",
      "game": "One Piece",
-     "available": true,
-     "price": 30.0
+     "available": false,
+     "price": 30.0,
+     "unavail_since": 1789060589
     },
     "one-piece-starter-deck-35-red-black-sabo-st-35": {
      "title": "One Piece: Starter Deck 35 - RED/BLACK Sabo [ST-35]",
@@ -4117,8 +4118,9 @@
     "one-piece-tcg-illustration-box-vol-6": {
      "title": "One Piece: Illustration Box Vol.6 [IB-06]",
      "game": "One Piece",
-     "available": true,
-     "price": 100.0
+     "available": false,
+     "price": 100.0,
+     "unavail_since": 1789060590
     },
     "one-piece-starter-deck-36-yellow-eustace-captain-kid-st-36": {
      "title": "One Piece: Starter Deck 36 - YELLOW Eustace \"Captain\" Kid [ST-36]",
@@ -4156,7 +4158,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 115,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5709,7 +5711,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7653,7 +7655,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9885,7 +9887,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11520,7 +11522,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
