@@ -1475,10 +1475,17 @@
      "game": "One Piece",
      "available": true,
      "price": 20.49
+    },
+    "one-piece-tcg-mini-case-set-vol-3-ts-03": {
+     "title": "One Piece TCG: Mini Tin - Vol. 3 [TS-03] (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 49.99,
+     "unavail_since": 1789031278
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 122,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4117,10 +4124,17 @@
      "game": "One Piece",
      "available": true,
      "price": 20.0
+    },
+    "starter-deck-17-blue-donquixote-doflamingo-display-st-17": {
+     "title": "Starter Deck 17: BLUE Donquixote Doflamingo Display [ST-17]",
+     "game": "One Piece",
+     "available": false,
+     "price": 750.0,
+     "unavail_since": 1789031278
     }
    },
    "baselined": true,
-   "check_cursor": 227,
+   "check_cursor": 267,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4577,7 +4591,7 @@
      "title": "One Piece TCG: Starter Deck (ST-23)",
      "game": "One Piece",
      "available": true,
-     "price": 63.0
+     "price": 61.0
     },
     "one-piece-tcg-blue-donquixote-doflamingo-starter-deck-st-17": {
      "title": "One Piece TCG: BLUE Donquixote Doflamingo Starter Deck (ST-17)",
@@ -5628,7 +5642,7 @@
      "title": "One Piece TCG: Luffy Gear 5 Ultra Starter Deck (ST-21)",
      "game": "One Piece",
      "available": true,
-     "price": 77.0
+     "price": 78.0
     },
     "pokemon-tcg-mega-evolution-mega-venusaur-ex-premium-collection-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Mega Venusaur EX Premium Collection Box",
@@ -5675,7 +5689,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7605,7 +7619,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9832,7 +9846,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11454,7 +11468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
