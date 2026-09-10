@@ -12564,7 +12564,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13750,7 +13750,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15817,9 +15817,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 44.95,
-     "last_restock_alert": 1787871022
+     "last_restock_alert": 1787871022,
+     "unavail_since": 1789079710
     },
     "pokemon-tcg-crown-zenith-booster-bundle-6-packs-incoming-item": {
      "title": "Pokemon TCG: Crown Zenith Booster Bundle - 6 Packs",
@@ -17702,7 +17703,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18637,7 +18638,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19686,7 +19687,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20382,7 +20383,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20586,7 +20587,7 @@
      "title": "Inferno X Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 116.75,
+     "price": 115.75,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-fusion-strike-booster-box": {
@@ -20766,7 +20767,7 @@
      "title": "Lorwyn Eclipsed Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 430.49,
+     "price": 431.75,
      "unavail_since": 1784083350
     },
     "assassins-creed-beyond-booster-box": {
@@ -20836,7 +20837,7 @@
      "title": "Memorial Collection Booster Box [EB01]",
      "game": "One Piece",
      "available": false,
-     "price": 893.99,
+     "price": 874.75,
      "unavail_since": 1784083350
     },
     "paramount-war-booster-box-op02": {
@@ -21168,7 +21169,7 @@
      "title": "Japanese Eevee Heroes Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 894.75,
+     "price": 846.99,
      "unavail_since": 1784083350
     },
     "steam-siege-booster-box": {
@@ -21550,7 +21551,7 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 212.75,
+     "price": 218.99,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-151-booster-box": {
@@ -21946,7 +21947,7 @@
      "title": "Marvel Super Heroes Play Booster Bundle",
      "game": "MTG",
      "available": false,
-     "price": 43.75,
+     "price": 43.49,
      "unavail_since": 1784083350
     },
     "final-fantasy-gift-bundle": {
@@ -22428,7 +22429,7 @@
      "title": "Innistrad: Crimson Vow - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 155.49,
+     "price": 155.25,
      "unavail_since": 1786195830
     },
     "pokemon-charizard-ex-super-premium-collection": {
@@ -23048,7 +23049,7 @@
      "title": "Iconic Masters - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 360.99,
+     "price": 361.75,
      "unavail_since": 1787405427
     },
     "aether-revolt-booster-box": {
@@ -23373,7 +23374,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24479,7 +24480,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 43
+   "check_cursor": 83
   },
   "https://sagaconcepts.com": {
    "products": {
