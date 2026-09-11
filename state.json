@@ -12649,7 +12649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13842,7 +13842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17837,7 +17837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18774,7 +18774,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19829,7 +19829,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20525,7 +20525,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 76,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22415,9 +22415,9 @@
     "final-fantasy-commander-deck-revival-trance": {
      "title": "Final Fantasy Commander Deck [Revival Trance]",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 36.75,
-     "unavail_since": 1785438628
+     "last_restock_alert": 1789170669
     },
     "marvel-super-heroes-gift-bundle": {
      "title": "Marvel Super Heroes - Gift Bundle",
@@ -23549,7 +23549,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 181,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24655,7 +24655,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 80
+   "check_cursor": 28
   },
   "https://sagaconcepts.com": {
    "products": {
