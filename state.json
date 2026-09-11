@@ -12624,7 +12624,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13811,7 +13811,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17755,8 +17755,9 @@
     "mtg-the-lord-of-the-rings-tales-of-middle-earth-english-set-booster-box-restock-pre-order": {
      "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - English Set Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 399.95
+     "available": false,
+     "price": 399.95,
+     "unavail_since": 1789165229
     },
     "mtg-aetherdrift-commander-decks-living-energy": {
      "title": "MTG - Aetherdrift - Commander Decks - Living Energy",
@@ -17786,7 +17787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18360,7 +18361,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 99.99,
-     "unavail_since": 1784083349
+     "unavail_since": 1784083349,
+     "delisted": true
     },
     "one-piece-a-fist-of-divine-speed-op-11-booster-box": {
      "title": "One Piece - A Fist of Divine Speed (OP-11) - Booster Box",
@@ -18721,7 +18723,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 75,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19776,7 +19778,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20472,7 +20474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23384,7 +23386,7 @@
      "title": "30th Celebration Battle Deck [Umbreon ex]",
      "game": "Pokemon",
      "available": true,
-     "price": 37.75
+     "price": 51.25
     },
     "30th-celebration-booster-bundle": {
      "title": "30th Celebration Booster Bundle",
@@ -23496,7 +23498,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24602,7 +24604,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 60
+   "check_cursor": 2
   },
   "https://sagaconcepts.com": {
    "products": {
