@@ -1485,7 +1485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 113,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2321,7 +2321,7 @@
      "title": "Scarlet & Violet: Surging Sparks - Booster Box Display",
      "game": "Pokemon",
      "available": false,
-     "price": 310.0,
+     "price": 300.0,
      "unavail_since": 1784083333
     },
     "zendikar-booster-box-display": {
@@ -2776,7 +2776,7 @@
      "title": "Scarlet and Violet: Obsidian Flames - Booster Box Display",
      "game": "Pokemon",
      "available": false,
-     "price": 350.0,
+     "price": 365.0,
      "unavail_since": 1784083329
     },
     "innistrad-booster-box-display": {
@@ -4160,7 +4160,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 157,
+   "check_cursor": 197,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5713,7 +5713,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7669,7 +7669,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 140,
+   "check_cursor": 180,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9917,10 +9917,16 @@
      "game": "MTG",
      "available": true,
      "price": 145.0
+    },
+    "journey-together-booster-display-pokemon": {
+     "title": "Journey Together Booster Display [Pok\u00e9mon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 250.0
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10488,6 +10494,25 @@
      "game": "Pokemon",
      "available": true,
      "price": 104.99
+    },
+    "one-piece-tcg-st-30-starter-deck-ex-luffy-ace": {
+     "title": "One Piece TCG: ST- 30 Starter Deck EX: Luffy & Ace",
+     "game": "One Piece",
+     "available": false,
+     "price": 22.0,
+     "unavail_since": 1789165650
+    },
+    "pokemon-tcg-paldean-fates-international-tin-charizard-ex": {
+     "title": "Pokemon TCG: Paldean Fates International Tin [Charizard ex]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 160.0
+    },
+    "pokemon-tcg-paldean-fates-international-tin-iron-treads-ex": {
+     "title": "Pokemon TCG: Paldean Fates International Tin [Iron Treads ex]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 150.0
     }
    },
    "baselined": true,
@@ -11570,7 +11595,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
