@@ -12618,7 +12618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13805,7 +13805,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16478,9 +16478,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-5-booster-bundle-max-6-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 5 Pitch Black - Booster Bundle MAX 4",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 49.95,
-     "last_restock_alert": 1788897915
+     "last_restock_alert": 1788897915,
+     "unavail_since": 1789154126
     },
     "mtg-ultimate-masters-english-booster-box": {
      "title": "MTG - Ultimate Masters - English Booster Box",
@@ -17771,7 +17772,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18706,7 +18707,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19761,9 +19762,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv10-destined-rivals-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 20,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -20457,7 +20458,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23477,7 +23478,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 131,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24583,7 +24584,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 37
+   "check_cursor": 77
   },
   "https://sagaconcepts.com": {
    "products": {
