@@ -1485,7 +1485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 107,
+   "check_cursor": 147,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4112,8 +4112,9 @@
     "one-piece-tcg-illustration-box-vol-8": {
      "title": "One Piece: Illustration Box Vol.8 [IB-08]",
      "game": "One Piece",
-     "available": true,
-     "price": 40.0
+     "available": false,
+     "price": 40.0,
+     "unavail_since": 1789133888
     },
     "one-piece-tcg-illustration-box-vol-6": {
      "title": "One Piece: Illustration Box Vol.6 [IB-06]",
@@ -4158,7 +4159,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5711,7 +5712,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7667,7 +7668,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 103,
+   "check_cursor": 143,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9899,7 +9900,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11549,7 +11550,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
