@@ -12618,7 +12618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13805,7 +13805,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17761,10 +17761,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 799.95
+    },
+    "one-piece-trading-card-game-set-sail-deck-set-sd01-pre-order": {
+     "title": "One Piece Trading Card Game Set Sail Deck Set SD01 (Pre Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1789147506
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17852,7 +17859,7 @@
      "title": "Riftbound: League of Legends TCG: Unleashed - Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 219.99,
+     "price": 249.99,
      "last_restock_alert": 1787961324,
      "unavail_since": 1788812714
     },
@@ -18699,7 +18706,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 83,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19754,7 +19761,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20450,7 +20457,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20542,7 +20549,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 234.75,
+     "price": 239.75,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -20556,7 +20563,7 @@
      "title": "Secrets of Strixhaven Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 136.75,
+     "price": 138.99,
      "unavail_since": 1784083350
     },
     "legacy-of-the-master-booster-box-op12": {
@@ -21313,7 +21320,7 @@
      "title": "Silver Tempest Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 532.49,
+     "price": 534.99,
      "unavail_since": 1784083350
     },
     "pokemon-journey-together-booster-box": {
@@ -21442,7 +21449,7 @@
      "title": "Tarkir Dragonstorm Collector Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 479.99,
+     "price": 479.75,
      "unavail_since": 1784083350
     },
     "pokemon-scarlet-violet-booster-box": {
@@ -21673,7 +21680,7 @@
      "title": "Starter Deck EX: Luffy & Ace",
      "game": "One Piece",
      "available": false,
-     "price": 29.25,
+     "price": 28.75,
      "unavail_since": 1784083350
     },
     "one-piece-starter-deck-11-uta": {
@@ -21944,7 +21951,7 @@
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 69.75,
+     "price": 68.99,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -23470,7 +23477,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 132,
+   "check_cursor": 172,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24576,7 +24583,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 37
+   "check_cursor": 77
   },
   "https://sagaconcepts.com": {
    "products": {
