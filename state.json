@@ -11914,7 +11914,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -12649,9 +12649,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-trading-card-game-pitch-black-booster-box-me05-pitch-black-me05' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -13836,9 +13836,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'reality-fracture-play-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -17819,9 +17819,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-cg-op-14-booster-box-pre-order-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18756,7 +18756,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19811,7 +19811,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20507,9 +20507,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'xy-primal-clash-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -23531,9 +23531,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'ikoria-lair-of-behemoths-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'mtg-lord-of-the-rings-collector-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -24636,8 +24636,8 @@
    },
    "baselined": true,
    "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me03-perfect-order-booster-bundle' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 70
+   "last_error": "Undiscovered Realm: product 'copy-of-one-piece-tcg-starter-deck-8-monkey-d-luffy-st-08' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 1
   },
   "https://sagaconcepts.com": {
    "products": {
