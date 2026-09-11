@@ -12649,7 +12649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13836,7 +13836,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17819,7 +17819,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18456,7 +18456,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 99.99,
-     "unavail_since": 1784331908
+     "unavail_since": 1784331908,
+     "delisted": true
     },
     "scarlet-violet-paldea-evolved-elite-trainer-box": {
      "title": "Scarlet & Violet: Paldea Evolved - Elite Trainer Box",
@@ -18755,7 +18756,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19810,7 +19811,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20506,7 +20507,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23530,7 +23531,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 113,
+   "check_cursor": 153,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24636,7 +24637,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 42
+   "check_cursor": 82
   },
   "https://sagaconcepts.com": {
    "products": {
