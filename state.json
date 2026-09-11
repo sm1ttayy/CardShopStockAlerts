@@ -12583,7 +12583,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13769,7 +13769,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17722,7 +17722,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18657,7 +18657,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 83,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19706,7 +19706,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20402,7 +20402,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 79,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21173,9 +21173,9 @@
     "japanese-shiny-star-v-booster-box": {
      "title": "Japanese Shiny Star V Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 187.75,
-     "unavail_since": 1784083350
+     "last_restock_alert": 1789085155
     },
     "japanese-remix-bout-booster-box": {
      "title": "Japanese Remix Bout Booster Box",
@@ -23422,7 +23422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24528,7 +24528,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 83
+   "check_cursor": 38
   },
   "https://sagaconcepts.com": {
    "products": {
