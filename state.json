@@ -11878,6 +11878,12 @@
      "game": "MTG",
      "available": true,
      "price": 59.99
+    },
+    "ultra-pro-pokemon-9-pocket-portfolio-mega-evolutions-chaos-rising": {
+     "title": "Ultra Pro Pokemon: 9-Pocket Portfolio Mega Evolutions - Chaos Rising",
+     "game": "Pokemon",
+     "available": true,
+     "price": 15.99
     }
    },
    "baselined": true,
@@ -12618,7 +12624,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13805,7 +13811,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15656,8 +15662,9 @@
     "one-piece-tcg-op-09-booster-box-pre-order": {
      "title": "One Piece TCG OP-09 Emperors In The New World Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 899.95
+     "available": false,
+     "price": 899.95,
+     "unavail_since": 1789163406
     },
     "pre-order-one-piece-the-great-pirates-100-landscapes-world-collectable-series-vol-10-mini-figure-case-of-12": {
      "title": "One Piece The Great Pirates 100 Landscapes World Collectable Series Vol. 10 Mini-Figure Case of 12",
@@ -17772,7 +17779,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18701,13 +18708,13 @@
     "reality-fracture-commander-deck-multiverse-reforged": {
      "title": "Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 69.99,
-     "unavail_since": 1788916814
+     "last_restock_alert": 1789163417
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19762,7 +19769,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20458,7 +20465,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23478,9 +23485,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 171,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 19,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'crimson-invasion-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -24582,9 +24589,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 21
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-ascended-heroes-mega-evolution-elite-trainer-box-etb-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 61
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -24948,8 +24955,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
