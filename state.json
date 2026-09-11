@@ -12649,7 +12649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13836,7 +13836,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 93,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17819,7 +17819,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18756,7 +18756,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19811,7 +19811,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20507,7 +20507,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23531,9 +23531,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 51,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'ikoria-lair-of-behemoths-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -24635,9 +24635,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 30
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-me03-perfect-order-booster-bundle' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 70
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -25002,8 +25002,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
