@@ -13091,10 +13091,9 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 414.95,
-     "last_restock_alert": 1786814106,
-     "unavail_since": 1789219806
+     "last_restock_alert": 1786814106
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -15630,16 +15629,10 @@
      "game": "Pokemon",
      "available": true,
      "price": 349.95
-    },
-    "pokemon-blue-sky-stream-japanese-booster-box": {
-     "title": "Pokemon - Blue Sky Stream - Japanese Booster Box",
-     "game": "Pokemon",
-     "available": true,
-     "price": 1899.95
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17929,8 +17922,8 @@
    },
    "baselined": true,
    "check_cursor": 94,
-   "error_streak": 1,
-   "last_error": "Hobbiesville: product 'one-piece-tcg-op-09-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -20613,13 +20606,6 @@
      "game": "Pokemon",
      "available": true,
      "price": 349.99
-    },
-    "pokemon-tcg-mega-evolution-pitch-black-booster-box": {
-     "title": "Pok\u00e9mon TCG: Mega Evolution Pitch Black - Booster Box",
-     "game": "Pokemon",
-     "available": false,
-     "price": 154.99,
-     "unavail_since": 1789219808
     }
    },
    "baselined": true,
