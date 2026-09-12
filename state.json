@@ -12658,7 +12658,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13851,7 +13851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17921,7 +17921,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18858,7 +18858,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19913,7 +19913,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20609,7 +20609,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23633,7 +23633,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24745,7 +24745,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 77
+   "check_cursor": 8
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -25078,8 +25078,9 @@
     "magic-the-gathering-ccg-lorwyn-eclipsed-play-booster-display-30": {
      "title": "Magic the Gathering CCG Lorwyn Eclipsed Play Booster Display (30)",
      "game": "MTG",
-     "available": true,
-     "price": 119.99
+     "available": false,
+     "price": 119.99,
+     "unavail_since": 1789249868
     },
     "magic-the-gathering-ccg-foundations-jumpstart-booster-display-24-mtg-fnd-jumpstartboosterdisplay": {
      "title": "Magic the Gathering CCG Foundations Jumpstart Booster Display 24 MTG-FND-JumpstartBoosterDisplay",
