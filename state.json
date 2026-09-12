@@ -12649,7 +12649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13842,7 +13842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17841,10 +17841,16 @@
      "available": false,
      "price": 54.95,
      "unavail_since": 1789172117
+    },
+    "pokemon-paldean-fates-premium-collections-quaquaval-ex-pre-order": {
+     "title": "Pokemon Paldean Fates Premium Collections - Quaquaval ex",
+     "game": "Pokemon",
+     "available": true,
+     "price": 329.95
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18781,7 +18787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19836,7 +19842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20532,7 +20538,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23556,9 +23562,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 98,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'one-piece-3d2y-starter-deck-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -24660,9 +24666,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 38
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'pokemon-tcg-phantasmal-flames-booster-box-me02-36-packs' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 78
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -25027,8 +25033,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
