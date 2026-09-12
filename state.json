@@ -12658,7 +12658,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13851,7 +13851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15632,7 +15632,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17921,7 +17921,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 94,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18858,7 +18858,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19913,9 +19913,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 18,
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'one-piece-cg-dp08-double-pack-set-vol-8' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -20609,7 +20609,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21684,7 +21684,7 @@
      "title": "Universes Beyond Assassin's Creed Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 155.99,
+     "price": 151.99,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-united-collector-booster-box": {
@@ -23633,9 +23633,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'japanese-violet-ex-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 107,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -24743,9 +24743,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-kingdoms-of-intrigue-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 29
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 69
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -25110,8 +25110,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
