@@ -11914,7 +11914,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-v-union-special-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -12649,9 +12649,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'one-piece-trading-card-game-royal-blood-booster-display-box-op-10-24-packs' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -13842,9 +13842,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'pokemon-evolving-skies-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -17857,7 +17857,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 103,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18794,7 +18794,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19849,9 +19849,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 33,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'pokemon-sv6-twilight-masquerade-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -20545,9 +20545,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 26,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'team-rocket-returns-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -23569,9 +23569,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'crimson-invasion-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 59,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -24673,9 +24673,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'pokemon-sword-shield-brilliant-stars-booster-box' failed: HTTP Error 429: Too Many Requests",
-   "check_cursor": 57
+   "error_streak": 0,
+   "last_error": "",
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -25040,8 +25040,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
