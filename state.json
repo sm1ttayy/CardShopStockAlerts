@@ -12649,7 +12649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13842,7 +13842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15614,6 +15614,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 449.95
+    },
+    "pokemon-mega-evolution-ascended-heroes-focused-fighters-premium-collection": {
+     "title": "Pokemon - Mega Evolution - Ascended Heroes - Focused Fighters Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 349.95
     }
    },
    "baselined": true,
@@ -17900,7 +17906,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18837,7 +18843,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19892,7 +19898,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20588,7 +20594,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20798,14 +20804,14 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 979.99,
+     "price": 982.49,
      "unavail_since": 1786800622
     },
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 432.75,
+     "price": 432.99,
      "last_restock_alert": 1786664125
     },
     "brilliant-stars-booster-box": {
@@ -20951,7 +20957,7 @@
      "title": "Perfect Order Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 174.75,
+     "price": 177.25,
      "last_restock_alert": 1784328042
     },
     "innistrad-remastered-collector-booster-box": {
@@ -21131,7 +21137,7 @@
      "title": "Surging Sparks Booster Box Case [Sealed]",
      "game": "Pokemon",
      "available": false,
-     "price": 1899.75,
+     "price": 1859.75,
      "unavail_since": 1786195837
     },
     "mega-evolution-booster-box-non-enhanced": {
@@ -21387,7 +21393,7 @@
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 304.75,
+     "price": 306.75,
      "last_restock_alert": 1787505026
     },
     "japanese-sky-legend-booster-box": {
@@ -21457,7 +21463,7 @@
      "title": "Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 253.63,
+     "price": 259.75,
      "last_restock_alert": 1787872843
     },
     "pokemon-japanese-paradigm-trigger-booster-box": {
@@ -21711,7 +21717,7 @@
      "title": "Japanese Terastal Festival ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 116.75,
+     "price": 114.99,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
@@ -21969,13 +21975,13 @@
      "title": "Chaos Rising Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 37.75
+     "price": 38.49
     },
     "prismatic-evolutions-booster-bundle": {
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 90.99
+     "price": 93.99
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -22074,7 +22080,7 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 1055.75,
+     "price": 1090.25,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
@@ -22694,7 +22700,7 @@
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 189.75
+     "price": 189.99
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-gardevoir": {
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Gardevoir]",
@@ -22839,7 +22845,7 @@
      "title": "Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": false,
-     "price": 30.75,
+     "price": 29.75,
      "unavail_since": 1786195236
     },
     "the-hobbit-play-booster-display": {
@@ -23612,7 +23618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 114,
+   "check_cursor": 154,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24713,12 +24719,18 @@
      "available": false,
      "price": 49.95,
      "unavail_since": 1788917498
+    },
+    "funko-pop-premium-charizard-1213": {
+     "title": "Funko Pop! Premium Charizard #1213",
+     "game": "Pokemon",
+     "available": true,
+     "price": 19.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 35
+   "check_cursor": 75
   },
   "https://sagaconcepts.com": {
    "products": {
