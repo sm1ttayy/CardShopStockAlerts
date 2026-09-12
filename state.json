@@ -12649,7 +12649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13842,7 +13842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17834,10 +17834,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 269.95
+    },
+    "pokemon-shrouded-fable-booster-bundle-pre-order": {
+     "title": "Pokemon Scarlet And Violet Shrouded Fable Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 54.95,
+     "unavail_since": 1789172117
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18774,7 +18781,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19829,7 +19836,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20525,7 +20532,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 74,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23549,7 +23556,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24655,7 +24662,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 90
+   "check_cursor": 38
   },
   "https://sagaconcepts.com": {
    "products": {
