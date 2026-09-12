@@ -12658,7 +12658,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13091,9 +13091,10 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 414.95,
-     "last_restock_alert": 1786814106
+     "last_restock_alert": 1786814106,
+     "unavail_since": 1789219806
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -13851,7 +13852,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15629,10 +15630,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 349.95
+    },
+    "pokemon-blue-sky-stream-japanese-booster-box": {
+     "title": "Pokemon - Blue Sky Stream - Japanese Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1899.95
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17921,9 +17928,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 94,
+   "error_streak": 1,
+   "last_error": "Hobbiesville: product 'one-piece-tcg-op-09-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -18858,7 +18865,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19913,7 +19920,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20606,10 +20613,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 349.99
+    },
+    "pokemon-tcg-mega-evolution-pitch-black-booster-box": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution Pitch Black - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 154.99,
+     "unavail_since": 1789219808
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23633,9 +23647,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 67,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'japanese-violet-ex-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -24743,9 +24757,9 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
-   "check_cursor": 98
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-kingdoms-of-intrigue-booster-box' failed: HTTP Error 429: Too Many Requests",
+   "check_cursor": 29
   },
   "https://sagaconcepts.com": {
    "products": {
@@ -25110,8 +25124,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
