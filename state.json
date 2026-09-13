@@ -18161,8 +18161,9 @@
     "pre-order-pokemon-sword-and-shield-brilliant-stars-booster-box": {
      "title": "Pokemon Sword And Shield Brilliant Stars Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 799.95
+     "available": false,
+     "price": 799.95,
+     "unavail_since": 1789328108
     },
     "one-piece-trading-card-game-set-sail-deck-set-sd01-pre-order": {
      "title": "One Piece Trading Card Game Set Sail Deck Set SD01 (Pre Order)",
@@ -18267,7 +18268,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23986,7 +23987,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25152,7 +25153,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 73
+   "check_cursor": 5
   },
   "https://sagaconcepts.com": {
    "products": {
