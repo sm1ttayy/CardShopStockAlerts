@@ -13061,9 +13061,10 @@
     "pokemon-me05-pitch-black-booster-box": {
      "title": "Pokemon ME05 Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 194.95,
-     "last_restock_alert": 1789079109
+     "last_restock_alert": 1789079109,
+     "unavail_since": 1789309512
     },
     "pokemon-me04-chaos-rising-elite-trainer-box": {
      "title": "Pokemon ME04 Chaos Rising Elite Trainer Box",
@@ -14187,7 +14188,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16029,9 +16030,10 @@
     "one-piece-cg-op-15-booster-box-pre-order": {
      "title": "One Piece CG OP-15 Adventure on KAMI\u2019S Island Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 349.95,
-     "last_restock_alert": 1789079105
+     "last_restock_alert": 1789079105,
+     "unavail_since": 1789309506
     },
     "one-piece-cg-op-14-booster-box-pre-order-1": {
      "title": "One Piece CG OP-14 -The Azure Sea\u2019s Seven - Booster Box",
@@ -18257,7 +18259,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21169,7 +21171,7 @@
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 432.99,
+     "price": 438.99,
      "last_restock_alert": 1786664125
     },
     "brilliant-stars-booster-box": {
@@ -21189,7 +21191,7 @@
      "title": "Aetherdrift Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 105.75,
+     "price": 105.99,
      "last_restock_alert": 1786658434
     },
     "foundations-jumpstart-booster-display": {
@@ -21315,7 +21317,7 @@
      "title": "Perfect Order Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 177.25,
+     "price": 179.99,
      "last_restock_alert": 1784328042
     },
     "innistrad-remastered-collector-booster-box": {
@@ -21412,7 +21414,7 @@
      "title": "Paramount War Booster Box [OP02]",
      "game": "One Piece",
      "available": false,
-     "price": 489.99,
+     "price": 489.75,
      "unavail_since": 1787602549
     },
     "premium-booster-booster-box-prb01": {
@@ -21751,7 +21753,7 @@
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 306.75,
+     "price": 309.75,
      "last_restock_alert": 1787505026
     },
     "japanese-sky-legend-booster-box": {
@@ -21842,7 +21844,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 408.99,
+     "price": 402.99,
      "last_restock_alert": 1787094696,
      "unavail_since": 1787405440
     },
@@ -22111,7 +22113,7 @@
      "title": "Foundations Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 178.75,
+     "price": 184.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1788033932
     },
@@ -22339,7 +22341,7 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 93.99
+     "price": 94.75
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -22359,7 +22361,7 @@
      "title": "Paldean Fates Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 168.75
+     "price": 173.25
     },
     "paldea-evolved-booster-bundle": {
      "title": "Paldea Evolved Booster Bundle",
@@ -22583,7 +22585,7 @@
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 272.49,
+     "price": 272.75,
      "last_restock_alert": 1789084228
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
@@ -22621,7 +22623,7 @@
      "title": "Journey Together Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 193.75
+     "price": 202.75
     },
     "prismatic-evolutions-pokemon-center-elite-trainer-box": {
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
@@ -22640,7 +22642,7 @@
      "title": "Dominaria - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 219.99,
+     "price": 232.75,
      "last_restock_alert": 1786658431
     },
     "ixalan-booster-box": {
@@ -22686,7 +22688,7 @@
      "title": "One Piece Card Game Illustration Box Vol. 1",
      "game": "One Piece",
      "available": false,
-     "price": 259.75,
+     "price": 232.99,
      "unavail_since": 1785187236
     },
     "one-piece-illustration-box-vol-3": {
@@ -22700,7 +22702,7 @@
      "title": "One Piece Illustration Box Vol. 4",
      "game": "One Piece",
      "available": false,
-     "price": 87.75,
+     "price": 88.75,
      "unavail_since": 1784158890
     },
     "one-piece-illustration-box-vol-2": {
@@ -22727,7 +22729,7 @@
      "title": "Perfect Order Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 38.75
+     "price": 39.75
     },
     "adventures-in-the-forgotten-realms-bundle-gift-edition": {
      "title": "Adventures in the Forgotten Realms - Bundle Gift Edition",
@@ -22784,7 +22786,7 @@
      "title": "Surging Sparks Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 63.75,
+     "price": 64.75,
      "last_restock_alert": 1788206153
     },
     "dungeons-of-death-commander-deck": {
@@ -22893,7 +22895,7 @@
      "title": "Obsidian Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 599.99,
+     "price": 651.75,
      "unavail_since": 1788715251
     },
     "pokemon-s-v-paldean-fates-pokemon-center-elite-trainer-box": {
@@ -22906,7 +22908,7 @@
      "title": "Origins - Champion Deck (Jinx)",
      "game": "Riftbound",
      "available": false,
-     "price": 33.75,
+     "price": 29.75,
      "unavail_since": 1785333928
     },
     "commander-2020-deck-ruthless-regiment": {
@@ -22996,7 +22998,7 @@
      "title": "Innistrad: Crimson Vow - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 151.99,
+     "price": 155.49,
      "unavail_since": 1786195830
     },
     "pokemon-charizard-ex-super-premium-collection": {
@@ -23235,7 +23237,7 @@
      "title": "Phyrexia: All Will Be One - Set Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 293.99,
+     "price": 293.75,
      "last_restock_alert": 1786657842,
      "unavail_since": 1787405428
     },
@@ -23461,7 +23463,7 @@
      "title": "The Azure Sea's Seven Booster Box [OP14]",
      "game": "One Piece",
      "available": false,
-     "price": 254.75,
+     "price": 255.75,
      "unavail_since": 1786800618
     },
     "amonkhet-booster-box": {
@@ -23547,7 +23549,7 @@
      "title": "Modern Horizons 2 - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 324.25,
+     "price": 325.49,
      "unavail_since": 1787405427
     },
     "wilds-of-eldraine-draft-booster-display": {
@@ -23710,7 +23712,7 @@
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 87.49,
+     "price": 87.99,
      "unavail_since": 1788292830
     },
     "gem-mint-vol-5-booster-box": {
@@ -23976,7 +23978,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24671,7 +24673,7 @@
      "last_restock_alert": 1788909969
     },
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-english-booster-box-24-packs": {
-     "title": "One Piece TCG OP-17  The World's Strongest Warriors English Booster Box (24 Packs) (Pre Order)",
+     "title": "One Piece TCG OP-17  The World's Strongest Warriors English Booster Box (24 Packs)",
      "game": "One Piece",
      "available": false,
      "price": 324.95,
@@ -25089,12 +25091,60 @@
      "game": "Pokemon",
      "available": true,
      "price": 83.95
+    },
+    "pokemon-tcg-30th-celebration-poster-collection-pre-order": {
+     "title": "Pokemon TCG 30th Celebration Poster Collection (Pre Order)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 44.95
+    },
+    "pokemon-tcg-30th-celebration-tech-sticker-collection-set-of-2-alolan-exeggutor-lucario-pre-order": {
+     "title": "Pokemon TCG 30th Celebration Tech Sticker Collection Set of 2 Alolan Exeggutor & Lucario (Pre Order)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 84.95
+    },
+    "pokemon-tcg-30th-celebration-knockout-collection-2-booster-packs-pre-order": {
+     "title": "Pokemon TCG 30th Celebration Knockout Collection (2 Booster Packs) (Pre Order)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.95
+    },
+    "magic-the-gathering-reality-fracture-play-booster-box-30-booster-packs-pre-order": {
+     "title": "Magic: The Gathering Reality Fracture Play Booster Box (30 Booster Packs) (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 144.95
+    },
+    "magic-the-gathering-reality-foundations-commander-deck-set-of-5-pre-order": {
+     "title": "Magic: The Gathering Reality Foundations Commander Deck (Set of 5) (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 148.95
+    },
+    "magic-the-gathering-reality-fracture-multiverse-reforged-commander-deck-pre-order": {
+     "title": "Magic: The Gathering Reality Fracture Multiverse Reforged Commander Deck (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 49.95
+    },
+    "magic-the-gathering-reality-fracture-bundle-pre-order": {
+     "title": "Magic: The Gathering Reality Fracture Bundle (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 56.89
+    },
+    "magic-the-gathering-reality-fracture-draft-night-pre-order": {
+     "title": "Magic: The Gathering Reality Fracture Draft Night (Pre Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 99.95
     }
    },
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 81
+   "check_cursor": 13
   },
   "https://sagaconcepts.com": {
    "products": {
