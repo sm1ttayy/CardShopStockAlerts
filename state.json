@@ -1485,7 +1485,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 127,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3777,7 +3777,7 @@
      "title": "Mega Evolution: Pitch Black - 3-Pack Blister [Binacle]",
      "game": "Pokemon",
      "available": true,
-     "price": 21.0
+     "price": 25.0
     },
     "universes-beyond-doctor-who-collector-booster-display": {
      "title": "Universes Beyond: Doctor Who Collector Booster Box Display",
@@ -3963,7 +3963,7 @@
      "unavail_since": 1786887472
     },
     "30th-celebration-knockout-collection": {
-     "title": "[PREORDER] 30th Celebration - Knockout Collection",
+     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Knockout Collection",
      "game": "Pokemon",
      "available": true,
      "price": 27.0
@@ -3989,13 +3989,13 @@
      "price": 60.0
     },
     "30th-celebration-ex-box-set-of-2": {
-     "title": "[PREORDER] 30th Celebration - Greninja & Sylveon ex Box [Set of 2]",
+     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Greninja & Sylveon ex Box [Set of 2]",
      "game": "Pokemon",
      "available": true,
      "price": 145.0
     },
     "30th-celebration-alolan-exeggutor-and-lucario-tech-sticker-collection-set-of-2": {
-     "title": "[PREORDER] 30th Celebration - Alolan Exeggutor & Lucario Tech Sticker Collection [Set of 2]",
+     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Alolan Exeggutor & Lucario Tech Sticker Collection [Set of 2]",
      "game": "Pokemon",
      "available": true,
      "price": 85.0
@@ -4157,10 +4157,64 @@
      "available": false,
      "price": 100.0,
      "unavail_since": 1789047753
+    },
+    "scarlet-and-violet-obsidian-flames-booster-bundle": {
+     "title": "Scarlet and Violet: Obsidian Flames - Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 120.0,
+     "unavail_since": 1789260593
+    },
+    "sea-sky-premium-collection-crown-zenith-crz": {
+     "title": "Pokemon: Sea & Sky Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 375.0,
+     "unavail_since": 1789260594
+    },
+    "combined-powers-premium-collection": {
+     "title": "Combined Powers Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 100.0,
+     "unavail_since": 1789260594
+    },
+    "charizard-ex-super-premium-collection": {
+     "title": "Charizard ex - Super-Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 160.0,
+     "unavail_since": 1789260594
+    },
+    "scarlet-and-violet-151-ultra-premium-collection": {
+     "title": "Scarlet and Violet 151 - Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 1050.0,
+     "unavail_since": 1789260594
+    },
+    "pokemon-first-partner-illustration-collection-series-3": {
+     "title": "Pok\u00e9mon: First Partner Illustration Collection [Series 3]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 30.0
+    },
+    "riftbound-league-of-legends-tcg-origins-champion-deck-lee-sin": {
+     "title": "Riftbound: League of Legends TCG - Origins Champion Deck [Lee Sin]",
+     "game": "Riftbound",
+     "available": false,
+     "price": 50.0,
+     "unavail_since": 1789260596
+    },
+    "riftbound-league-of-legends-tcg-unleashed-champion-deck-vi": {
+     "title": "Riftbound: League of Legends TCG - Unleashed Champion Deck [Vi]",
+     "game": "Riftbound",
+     "available": true,
+     "price": 15.0
     }
    },
    "baselined": true,
-   "check_cursor": 203,
+   "check_cursor": 243,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4269,13 +4323,13 @@
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 94.0
+     "price": 89.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 41.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -4689,22 +4743,22 @@
      "unavail_since": 1784083332
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection-box-pre-order": {
-     "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box (SALE)",
+     "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 40.0
+     "price": 56.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-2-box": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 35.0
+     "price": 31.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-3-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 3 Box",
+     "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 3 Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 35.0
+     "price": 27.0
     },
     "pokemon-tcg-scarlet-and-violet-prismatic-evolutions-accessory-pouch-special-collection-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Prismatic Evolutions Accessory Pouch Special Collection Box",
@@ -5569,7 +5623,7 @@
      "title": "Pokemon Scarlet and Violet: Twilight Masquerade Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 120.0
+     "price": 108.0
     },
     "pkm_ss_lostorigin_etb": {
      "title": "Pokemon TCG: Sword and Shield - Lost Origin Elite Trainer Box",
@@ -5716,10 +5770,46 @@
      "game": "Pokemon",
      "available": true,
      "price": 275.0
+    },
+    "pkm_incandarcana_jpn_booster": {
+     "title": "Pokemon TCG: Sword and Shield - Incandescent Arcana Booster Box (Japanese)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 158.0
+    },
+    "pkm_ss_shinefate_elite": {
+     "title": "Pokemon TCG: Sword and Shield - Shining Fates Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 159.0
+    },
+    "pokemon-scarlet-and-violet-surging-sparks-elite-trainer-box-pre-order": {
+     "title": "Pokemon Scarlet and Violet: Surging Sparks Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 134.0
+    },
+    "pokemon-scarlet-and-violet-journey-together-elite-trainer-box-pre-order": {
+     "title": "Pokemon Scarlet and Violet: Journey Together Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 146.0
+    },
+    "pokemon-tcg-mega-evolution-mega-charizard-x-ex-ultra-premium-collection-box-pre-order": {
+     "title": "Pokemon TCG: Mega Evolution - Mega Charizard X EX Ultra Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 255.0
+    },
+    "pokemon-tcg-salamence-ex-and-reshiram-ex-premium-collection-box-pre-order": {
+     "title": "Pokemon TCG: Salamence ex and Reshiram ex Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 96.0
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 105,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7407,7 +7497,7 @@
      "title": "Pokemon Mega Evolution Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 72.75
+     "price": 69.75
     },
     "pokemon-mega-evolution-pitch-black-6-pack-booster-bundle": {
      "title": "Pokemon Mega Evolution: Pitch Black 6-Pack Booster Bundle",
@@ -7672,10 +7762,49 @@
      "game": "Pokemon",
      "available": true,
      "price": 534.75
+    },
+    "pokemon-mega-zygarde-ex-premium-collection-6-box-case": {
+     "title": "Pokemon Mega Zygarde EX Premium Collection 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 299.75
+    },
+    "pokemon-mega-greninja-ex-premium-collection-6-box-case": {
+     "title": "Pokemon Mega Greninja ex Premium Collection 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 399.75
+    },
+    "pokemon-first-partner-illustration-collection-series-3-box": {
+     "title": "Pokemon First Partner Illustration Collection Series 3 Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 44.75
+    },
+    "2026-pokemon-day-collection-6-box-case": {
+     "title": "2026 Pokemon Day Collection 6-Box Case",
+     "game": "Pokemon",
+     "available": false,
+     "price": 199.75,
+     "unavail_since": 1789260595
+    },
+    "2026-pokemon-day-collection-box": {
+     "title": "2026 Pokemon Day Collection Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 39.75,
+     "unavail_since": 1789260595
+    },
+    "pokemon-30th-celebration-elite-trainer-box": {
+     "title": "Pokemon 30th Celebration Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 174.75,
+     "unavail_since": 1789260595
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7778,7 +7907,7 @@
      "title": "Pokemon Mega Evolution - Perfect Order Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 72.99
+     "price": 122.99
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box-presale": {
      "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box",
@@ -7813,9 +7942,10 @@
     "scarlet-violet-prismatic-evolutions-pokemon-center-elite-trainer-box": {
      "title": "2025 Pokemon Prismatic Evolutions Elite Trainer Box SV",
      "game": "Pokemon",
-     "available": true,
-     "price": 159.99,
-     "last_restock_alert": 1785410680
+     "available": false,
+     "price": 154.99,
+     "last_restock_alert": 1785410680,
+     "unavail_since": 1789260594
     },
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
      "title": "Pokemon Mega Evolution - Chaos Rising Booster Bundle",
@@ -7845,9 +7975,8 @@
     "prismatic-evolutions-booster-bundle": {
      "title": "2025 Pokemon Prismatic Evolutions Booster Bundle SV",
      "game": "Pokemon",
-     "available": false,
-     "price": 89.99,
-     "unavail_since": 1784083329,
+     "available": true,
+     "price": 99.99,
      "delisted": true
     },
     "pokemon-mega-evolution-perfect-order-booster-bundle": {
@@ -7861,7 +7990,7 @@
      "title": "Scarlet & Violet - Silver Tempest Booster Bundle - Pokemon TCG",
      "game": "Pokemon",
      "available": false,
-     "price": 79.99,
+     "price": 114.99,
      "unavail_since": 1784083329,
      "delisted": true
     },
@@ -8827,7 +8956,7 @@
      "title": "Pokemon TCG: First Partner Illustration Collection (Series 3)",
      "game": "Pokemon",
      "available": true,
-     "price": 29.99
+     "price": 33.99
     },
     "magic-the-gathering-the-hobbit-bundle": {
      "title": "Magic: The Gathering The Hobbit - Bundle",
@@ -8952,6 +9081,113 @@
      "game": "MTG",
      "available": true,
      "price": 299.99
+    },
+    "crown-zenith-elite-trainer-box": {
+     "title": "Pokemon TCG: Crown Zenith Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 345.99,
+     "unavail_since": 1789260594
+    },
+    "pokemon-mega-evolution-phantasmal-flames-elite-trainer-box": {
+     "title": "Pokemon Mega Evolution - Phantasmal Flames Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 175.0
+    },
+    "pokemon-scarlet-violet-black-bolt-elite-trainer-box": {
+     "title": "Pokemon Scarlet & Violet - Black Bolt Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 175.0
+    },
+    "scarlet-violet-surging-sparks-elite-trainer-box-pokemon-tcg": {
+     "title": "Surging Sparks Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 135.0
+    },
+    "pokemon-scarlet-violet-white-flare-booster-bundle": {
+     "title": "Pokemon Scarlet & Violet - White Flare Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 89.99,
+     "unavail_since": 1789260594
+    },
+    "scarlet-violet-surging-sparks-booster-bundle-pokemon-tcg": {
+     "title": "Pokemon Scarlet & Violet - Surging Sparks Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 69.99
+    },
+    "pokemon-tcg-sword-shield-charizard-ultra-premium-collection": {
+     "title": "Pokemon TCG: Sword & Shield - Charizard Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 599.99,
+     "unavail_since": 1789260595
+    },
+    "mega-charizard-x-ex-ultra-premium-collection-2025-pokemon": {
+     "title": "2025 Pokemon Mega Charizard X ex Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 239.99,
+     "unavail_since": 1789260595
+    },
+    "pokemon-tcg-salamence-ex-reshiram-ex-premium-collection": {
+     "title": "Pokemon TCG: Salamence ex / Reshiram ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.99
+    },
+    "masks-ogerpon-premium-collection-pokemon": {
+     "title": "Masks of Ogerpon Premium Collection - Pokemon TCG",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.99
+    },
+    "paldean-fates-ex-premium-collection-pokemon-tcg": {
+     "title": "Pokemon TCG: Scarlet & Violet - Paldean Fates Ex Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 234.99,
+     "unavail_since": 1789260595
+    },
+    "pos-hoopa-v-box-dragonite-v-box-swsh08-fusion-strike-swsh08-copy": {
+     "title": "Shining Fates Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 139.99
+    },
+    "vaulted-rarities-pokemon-premium-re-pack-electric-vault": {
+     "title": "Vaulted Rarities - Pokemon Premium Re-Pack - Electric Vault",
+     "game": "Pokemon",
+     "available": true,
+     "price": 100.0
+    },
+    "pokemon-30th-celebration-ex-box-presale": {
+     "title": "Pokemon 30th Celebration - ex Box (Presale)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 59.99
+    },
+    "pokemon-30th-celebration-battle-deck-presale": {
+     "title": "Pokemon 30th Celebration - Battle Deck (Presale)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.99
+    },
+    "pokemon-mega-evolution-mega-moonlit-tin": {
+     "title": "Pokemon Mega Evolution - Mega Moonlit Tin",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.99
+    },
+    "japanese-pokemon-tcg-pokemon-center-special-box-tohoku": {
+     "title": "(Japanese) Pok\u00e9mon TCG: Pok\u00e9mon Center Special Box Tohoku",
+     "game": "Pokemon",
+     "available": true,
+     "price": 170.0
     }
    },
    "baselined": true,
@@ -9363,7 +9599,7 @@
      "title": "First Partner Illustration Collection - Series 1 [Pokemon]",
      "game": "Pokemon",
      "available": true,
-     "price": 65.0
+     "price": 70.0
     },
     "double-pack-set-10-adventure-on-kamis-island-op-15-one-piece": {
      "title": "Double Pack Set 10 - Adventure on Kami's Island OP-15 [One Piece]",
@@ -9929,10 +10165,34 @@
      "game": "Pokemon",
      "available": true,
      "price": 250.0
+    },
+    "black-white-plasma-freeze-booster-pack-pokemon": {
+     "title": "Black & White Plasma Freeze Booster Pack [Pok\u00e9mon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 300.0
+    },
+    "black-white-plasma-blast-booster-pack-pokemon": {
+     "title": "Black & White Plasma Blast Booster Pack [Pok\u00e9mon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 250.0
+    },
+    "pokemon-go-v-battle-deck-bundle": {
+     "title": "Pok\u00e9mon GO V Battle Deck Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 35.0
+    },
+    "base-set-shadowless-booster-pack": {
+     "title": "Base Set Shadowless Booster Pack",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1250.0
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10522,6 +10782,32 @@
      "game": "Pokemon",
      "available": true,
      "price": 150.0
+    },
+    "pokemon-tcg-paldean-fates-international-tin-great-tusk-ex": {
+     "title": "Pokemon TCG: Paldean Fates International Tin [Great Tusk ex]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 150.0
+    },
+    "pokemon-tcg-151-booster-pack": {
+     "title": "Pokemon TCG: 151 Booster Pack",
+     "game": "Pokemon",
+     "available": false,
+     "price": 30.0,
+     "unavail_since": 1789260594
+    },
+    "pokemon-tcg-me05-pitch-black-booster-bundle-1": {
+     "title": "Pokemon TCG:  ME05 Pitch Black Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 33.0
+    },
+    "magic-the-gathering-lorwyn-eclipsed-play-booster": {
+     "title": "Magic: The Gathering - Lorwyn Eclipsed Play Booster",
+     "game": "MTG",
+     "available": false,
+     "price": 105.0,
+     "unavail_since": 1789260599
     }
    },
    "baselined": true,
@@ -10656,9 +10942,10 @@
     "pokemon-tcg-chaos-rising-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Chaos Rising: Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 37.99,
-     "last_restock_alert": 1785843609
+     "last_restock_alert": 1785843609,
+     "unavail_since": 1789260594
     },
     "pokemon-tcg-perfect-order-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Perfect Order: Booster Bundle",
@@ -10695,7 +10982,7 @@
      "title": "Pok\u00e9mon TCG: Destined Rivals: Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 74.99,
+     "price": 64.99,
      "last_restock_alert": 1788271982
     },
     "pokemon-tcg-crown-zenith-booster-bundle": {
@@ -11263,8 +11550,9 @@
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
      "title": "Pok\u00e9mon TCG: Mega Greninja Ex Premium Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 39.99
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1789260595
     },
     "magic-the-gathering-lorwyn-eclipsed-commander-decks": {
      "title": "Magic the Gathering: Lorwyn Eclipsed: Commander Decks (Set of Two)",
@@ -11601,10 +11889,35 @@
      "available": false,
      "price": 24.99,
      "unavail_since": 1789117467
+    },
+    "pokemon-tcg-mega-evolution-three-booster-blister": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution: Three-Booster Blister",
+     "game": "Pokemon",
+     "available": true,
+     "price": 39.99
+    },
+    "pokemon-tcg-paldean-fates-booster-pack-36-pack": {
+     "title": "Pokemon TCG: Paldean Fates Booster Pack: 36 Pack",
+     "game": "Pokemon",
+     "available": false,
+     "price": 219.99,
+     "unavail_since": 1789260594
+    },
+    "pokemon-tcg-151-ultra-premium-collection": {
+     "title": "Pok\u00e9mon TCG: 151: Ultra-Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 914.99
+    },
+    "pokemon-tcg-pitch-black-build-and-battle-box": {
+     "title": "Pok\u00e9mon TCG: Pitch Black: Build and Battle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.99
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
