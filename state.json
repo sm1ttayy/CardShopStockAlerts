@@ -16833,9 +16833,10 @@
     "one-piece-tcg-double-pack-set-volume-9-pre-order": {
      "title": "One Piece TCG Double Pack Set VOLUME 9",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 49.95,
-     "last_restock_alert": 1789079108
+     "last_restock_alert": 1789079108,
+     "unavail_since": 1789334114
     },
     "one-piece-tcg-double-pack-set-volume-13-pre-order": {
      "title": "One Piece TCG Double Pack Set VOLUME 13 (Pre Order)",
@@ -18268,7 +18269,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23987,7 +23988,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25153,7 +25154,7 @@
    "baselined": true,
    "error_streak": 0,
    "last_error": "",
-   "check_cursor": 9
+   "check_cursor": 49
   },
   "https://sagaconcepts.com": {
    "products": {
