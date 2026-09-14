@@ -13328,9 +13328,9 @@
     "spider-man-play-booster-display-preorder": {
      "title": "Spider-Man Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 129.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1789427721
     },
     "preorder-spider-man-collector-booster-display": {
      "title": "Spider-Man Collector Booster Box",
@@ -14195,6 +14195,12 @@
      "game": "MTG",
      "available": true,
      "price": 94.95
+    },
+    "journey-together-booster-box-display-copy": {
+     "title": "Pokemon SV09 Journey Together Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 229.95
     }
    },
    "baselined": true,
@@ -18315,7 +18321,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24061,7 +24067,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
