@@ -17160,9 +17160,9 @@
     "pokemon-tcg-scarlet-violet-elite-trainer-box-miraidon-pre-order": {
      "title": "Pok\u00e9mon TCG: Scarlet And Violet Elite Trainer Box (Miraidon)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 219.95,
-     "unavail_since": 1789174512
+     "last_restock_alert": 1789419072
     },
     "pokemon-go-pin-collection-bulbasaur": {
      "title": "Pokemon GO Pin Collection - Bulbasaur",
@@ -17745,10 +17745,9 @@
     "pokemon-ascended-rivals-first-partners-deluxe-pin-collection": {
      "title": "Pokemon Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1787871023,
-     "unavail_since": 1788897912
+     "last_restock_alert": 1789419060
     },
     "mtg-universes-beyond-final-fantasy-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: Final Fantasy - Play Booster Box",
@@ -18284,7 +18283,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24028,7 +24027,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
