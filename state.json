@@ -17864,9 +17864,10 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection (Pre Order)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 24.95,
-     "last_restock_alert": 1788625809
+     "last_restock_alert": 1788625809,
+     "unavail_since": 1789417820
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -18011,7 +18012,7 @@
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Night (Pre Order)",
      "game": "Pokemon",
      "available": false,
-     "price": 419.95,
+     "price": 479.95,
      "unavail_since": 1788627609
     },
     "pokemon-30th-celebration-tech-sticker-collection-lucariopre-order": {
@@ -18284,7 +18285,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 69,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20284,8 +20285,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -21222,7 +21223,7 @@
      "title": "Foundations Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 107.75,
+     "price": 107.99,
      "unavail_since": 1786800622
     },
     "avatar-the-last-airbender-play-booster": {
@@ -21403,7 +21404,7 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 248.99,
+     "price": 259.75,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
@@ -22700,7 +22701,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 51.49
+     "price": 51.75
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -23022,7 +23023,7 @@
      "title": "Innistrad: Crimson Vow - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 155.49,
+     "price": 156.49,
      "unavail_since": 1786195830
     },
     "pokemon-charizard-ex-super-premium-collection": {
@@ -23318,7 +23319,7 @@
      "title": "Zendikar Rising - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 176.75,
+     "price": 179.75,
      "unavail_since": 1786195830
     },
     "commander-legends-draft-booster-box": {
@@ -23480,7 +23481,7 @@
      "title": "Ikoria: Lair of Behemoths - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 119.75,
+     "price": 146.99,
      "unavail_since": 1786800344
     },
     "the-azure-seas-seven-booster-box-op14": {
@@ -24016,7 +24017,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25557,6 +25558,12 @@
      "game": "MTG",
      "available": true,
      "price": 94.99
+    },
+    "magic-the-gathering-ccg-universes-beyond-final-fantasy-commander-deck-limit-break-mtg-finalfantasy-cdc-a": {
+     "title": "Magic the Gathering CCG Universes Beyond Final Fantasy Commander Deck Limit Break MTG-FinalFantasy-CDC-A",
+     "game": "MTG",
+     "available": true,
+     "price": 52.99
     }
    },
    "baselined": true,
