@@ -12994,6 +12994,13 @@
      "available": false,
      "price": 299.99,
      "unavail_since": 1789146606
+    },
+    "pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese": {
+     "title": "Pokemon Snow Hazard SV2P Booster Box - Scarlet & Violet Series - Japanese",
+     "game": "Pokemon",
+     "available": false,
+     "price": 115.0,
+     "unavail_since": 1789422009
     }
    },
    "baselined": true,
@@ -15988,6 +15995,18 @@
      "game": "MTG",
      "available": true,
      "price": 89.95
+    },
+    "pokemon-mega-evolution-ascended-heroes-mega-meganium-ex-box": {
+     "title": "Pokemon - Mega Evolution - Ascended Heroes - Mega Meganium ex Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 89.95
+    },
+    "mtg-lorwyn-eclipsed-commander-deck-set-of-2": {
+     "title": "MTG - Lorwyn Eclipsed - Commander Deck - Set of 2",
+     "game": "MTG",
+     "available": true,
+     "price": 109.95
     }
    },
    "baselined": true,
@@ -17284,9 +17303,10 @@
     "pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "Pokemon 30th Celebration Booster Bundle (Pre Order)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1789417520
+     "last_restock_alert": 1789417520,
+     "unavail_since": 1789422010
     },
     "one-piece-double-pack-vol-14-pre-order": {
      "title": "One Piece Double Pack Vol. 14 (Pre Order)",
@@ -18279,10 +18299,23 @@
      "game": "MTG",
      "available": true,
      "price": 144.95
+    },
+    "pokemon-scarlet-and-violet-stellar-crown-18-pack-euro-half-booster-box": {
+     "title": "Pokemon - Scarlet and Violet - Stellar Crown - 18 Pack Euro Half Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 279.99
+    },
+    "pokemon-celebrations-collection-box-lances-charizard": {
+     "title": "Pokemon Celebrations Collection Box - Lance's Charizard",
+     "game": "Pokemon",
+     "available": false,
+     "price": 199.95,
+     "unavail_since": 1789422012
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20998,7 +21031,7 @@
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
      "available": true,
-     "price": 318.0,
+     "price": 253.99,
      "last_restock_alert": 1789164650
     },
     "prb-01-one-piece-card-the-best-booster-box-jp": {
@@ -22363,7 +22396,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 176.75
+     "price": 173.49
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -23398,7 +23431,7 @@
      "title": "Spiritforged Booster Display",
      "game": "Riftbound",
      "available": true,
-     "price": 270.0,
+     "price": 199.75,
      "last_restock_alert": 1789164650
     },
     "marvel-super-heroes-commander-deck-wakanda-forever": {
@@ -24026,7 +24059,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25187,6 +25220,13 @@
      "game": "MTG",
      "available": true,
      "price": 99.95
+    },
+    "pokemon-tcg-sword-shield-astral-radiance-elite-trainer-box-etb": {
+     "title": "Pokemon TCG: Sword & Shield\u2014 Astral Radiance Elite Trainer Box (ETB)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 39.95,
+     "unavail_since": 1789422041
     }
    },
    "baselined": true,
