@@ -18315,7 +18315,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21030,9 +21030,10 @@
     "origins-booster-display": {
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 253.99,
-     "last_restock_alert": 1789164650
+     "last_restock_alert": 1789164650,
+     "unavail_since": 1789424137
     },
     "prb-01-one-piece-card-the-best-booster-box-jp": {
      "title": "PRB-01 - One Piece Card the Best Booster Box (JP)",
@@ -23430,9 +23431,10 @@
     "spiritforged-booster-display": {
      "title": "Spiritforged Booster Display",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 199.75,
-     "last_restock_alert": 1789164650
+     "last_restock_alert": 1789164650,
+     "unavail_since": 1789424138
     },
     "marvel-super-heroes-commander-deck-wakanda-forever": {
      "title": "Marvel Super Heroes Commander Deck - Wakanda Forever",
@@ -24059,7 +24061,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
