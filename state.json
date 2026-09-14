@@ -14191,7 +14191,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18282,7 +18282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20294,8 +20294,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -24026,7 +24026,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
