@@ -17412,10 +17412,9 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1788897912,
-     "unavail_since": 1789417519
+     "last_restock_alert": 1789418122
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -18285,7 +18284,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20281,12 +20280,24 @@
      "available": false,
      "price": 149.95,
      "unavail_since": 1789264511
+    },
+    "mtg-star-trek-commander-set-of-4": {
+     "title": "MTG STAR TREK COMMANDER SET OF 4  PRE ORDER ^ NOV 6/26",
+     "game": "MTG",
+     "available": true,
+     "price": 359.95
+    },
+    "mtg-aetherdrift-commander-living-energy": {
+     "title": "MTG AETHERDRIFT COMMANDER LIVING ENERGY",
+     "game": "MTG",
+     "available": true,
+     "price": 47.95
     }
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -23738,7 +23749,7 @@
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 87.99,
+     "price": 89.75,
      "unavail_since": 1788292830
     },
     "gem-mint-vol-5-booster-box": {
@@ -24017,7 +24028,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
