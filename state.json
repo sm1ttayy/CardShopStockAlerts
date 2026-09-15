@@ -14452,7 +14452,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18242,9 +18242,9 @@
     "mtg-universes-beyond-final-fantasy-commander-deck-scions-spellcraft": {
      "title": "MTG - Universes Beyond: Final Fantasy - Commander Deck - Scions & Spellcraft",
      "game": "MTG",
-     "available": false,
-     "price": 79.95,
-     "unavail_since": 1788215421
+     "available": true,
+     "price": 104.95,
+     "last_restock_alert": 1789515049
     },
     "mtg-secrets-of-strixhaven-draft-night-box-pre-order": {
      "title": "MTG - Secrets of Strixhaven - Draft Night Box",
@@ -18613,7 +18613,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23071,7 +23071,7 @@
      "title": "One Piece Card Game Illustration Box Vol. 1",
      "game": "One Piece",
      "available": false,
-     "price": 232.99,
+     "price": 259.75,
      "unavail_since": 1785187236
     },
     "one-piece-illustration-box-vol-3": {
@@ -23933,7 +23933,7 @@
      "title": "Modern Horizons 2 - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 330.25,
+     "price": 337.75,
      "unavail_since": 1787405427
     },
     "wilds-of-eldraine-draft-booster-display": {
@@ -24376,7 +24376,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
