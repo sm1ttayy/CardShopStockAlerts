@@ -4231,7 +4231,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5748,8 +5748,9 @@
     "one-piece-tcg-the-world-x27-s-strongest-warriors-booster-box-op-17": {
      "title": "One Piece TCG: The World&#x27;s Strongest Warriors Booster Box (OP-17)",
      "game": "One Piece",
-     "available": true,
-     "price": 356.0
+     "available": false,
+     "price": 360.0,
+     "unavail_since": 1789467774
     },
     "one-piece-tcg-double-pack-volume-12-set": {
      "title": "One Piece TCG: Double Pack Volume 12 Set",
@@ -12055,7 +12056,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
