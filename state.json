@@ -1084,7 +1084,7 @@
      "title": "One Piece TCG: [IB-08] Illustration Box Vol. 8 [English]",
      "game": "One Piece",
      "available": false,
-     "price": 35.96,
+     "price": 36.37,
      "unavail_since": 1784083333,
      "note": "Illustration Box Vol. 8 @ $22.99 (releases 7/31)"
     },
@@ -1203,14 +1203,14 @@
      "title": "One Piece TCG: Starter Deck Green - Roronoa Zoro (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 29.55,
+     "price": 31.75,
      "last_restock_alert": 1788810646
     },
     "one-piece-tcg-starter-deck-red-black-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
      "game": "One Piece",
      "available": false,
-     "price": 13.91,
+     "price": 14.67,
      "last_restock_alert": 1788810646,
      "unavail_since": 1788909955
     },
@@ -1218,14 +1218,14 @@
      "title": "One Piece TCG: Starter Deck Blue - Kuzan (ST-33)",
      "game": "One Piece",
      "available": true,
-     "price": 16.25,
+     "price": 16.97,
      "last_restock_alert": 1788529025
     },
     "one-piece-tcg-starter-deck-red-monkey-d-luffy-st-31": {
      "title": "One Piece TCG: Starter Deck Red - Monkey.D.Luffy (ST-31)",
      "game": "One Piece",
      "available": false,
-     "price": 24.92,
+     "price": 25.52,
      "last_restock_alert": 1787875014,
      "unavail_since": 1787915521
     },
@@ -1233,14 +1233,14 @@
      "title": "One Piece TCG: Starter Deck Yellow - Eustass Captain Kid (ST-36)",
      "game": "One Piece",
      "available": true,
-     "price": 16.74,
+     "price": 16.4,
      "last_restock_alert": 1788529031
     },
     "one-piece-tcg-starter-deck-purple-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck Purple - Charlotte Katakuri (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 22.25,
+     "price": 22.82,
      "last_restock_alert": 1788810646
     },
     "magic-the-gathering-amonkhet-booster-box": {
@@ -1494,7 +1494,7 @@
      "title": "One Piece TCG: The Time Of Battle Booster Pack (OP-16)",
      "game": "One Piece",
      "available": false,
-     "price": 10.0,
+     "price": 10.49,
      "unavail_since": 1789485239
     },
     "one-piece-tcg-extra-booster-eb-03": {
@@ -1969,9 +1969,10 @@
     "one-piece-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Carrying On His Will Booster Box [OP-13]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 475.0,
-     "last_restock_alert": 1788391878
+     "last_restock_alert": 1788391878,
+     "unavail_since": 1789510147
     },
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-play-booster-box": {
      "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Play Booster Box",
@@ -3937,7 +3938,7 @@
      "title": "One Piece: The World's Strongest Warriors - Booster Box [OP-17]",
      "game": "One Piece",
      "available": false,
-     "price": 335.0,
+     "price": 340.0,
      "last_restock_alert": 1787454647,
      "unavail_since": 1788442810
     },
@@ -4259,7 +4260,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
