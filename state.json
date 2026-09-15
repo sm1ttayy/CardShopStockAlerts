@@ -1482,6 +1482,27 @@
      "available": false,
      "price": 49.99,
      "unavail_since": 1789031278
+    },
+    "one-piece-tcg-op-17-title-tba-booster-pack-english": {
+     "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Booster Pack [English]",
+     "game": "One Piece",
+     "available": false,
+     "price": 14.99,
+     "unavail_since": 1789485239
+    },
+    "one-piece-tcg-paramount-war-title-tba-booster-pack-op-16": {
+     "title": "One Piece TCG: The Time Of Battle Booster Pack (OP-16)",
+     "game": "One Piece",
+     "available": false,
+     "price": 10.0,
+     "unavail_since": 1789485239
+    },
+    "one-piece-tcg-extra-booster-eb-03": {
+     "title": "One Piece TCG: [EB-03] Heroines Edition - Extra Booster Pack [English]",
+     "game": "One Piece",
+     "available": false,
+     "price": 11.49,
+     "unavail_since": 1789485239
     }
    },
    "baselined": true,
@@ -4228,10 +4249,17 @@
      "available": false,
      "price": 190.0,
      "unavail_since": 1789450037
+    },
+    "sword-shield-silver-tempest-build-battle-stadium": {
+     "title": "Sword & Shield: Silver Tempest - Build & Battle Stadium",
+     "game": "Pokemon",
+     "available": false,
+     "price": 50.0,
+     "unavail_since": 1789485243
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4340,13 +4368,13 @@
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 94.0
+     "price": 90.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 40.0
+     "price": 42.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -4686,13 +4714,13 @@
      "title": "One Piece TCG: Starter Deck (ST-23)",
      "game": "One Piece",
      "available": true,
-     "price": 62.0
+     "price": 59.0
     },
     "one-piece-tcg-blue-donquixote-doflamingo-starter-deck-st-17": {
      "title": "One Piece TCG: BLUE Donquixote Doflamingo Starter Deck (ST-17)",
      "game": "One Piece",
      "available": true,
-     "price": 105.0
+     "price": 110.0
     },
     "one-piece-tcg-monkey-d-luffy-starter-deck-st-18-pre-order": {
      "title": "One Piece TCG: Monkey D Luffy Starter Deck (ST-18)",
@@ -4763,7 +4791,7 @@
      "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 56.0
+     "price": 57.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-2-box": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box (SALE)",
@@ -5640,7 +5668,7 @@
      "title": "Pokemon Scarlet and Violet: Twilight Masquerade Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 108.0
+     "price": 107.0
     },
     "pkm_ss_lostorigin_etb": {
      "title": "Pokemon TCG: Sword and Shield - Lost Origin Elite Trainer Box",
@@ -5719,7 +5747,7 @@
      "title": "One Piece Card Game: Zoro and Sanji Starter Deck",
      "game": "One Piece",
      "available": true,
-     "price": 51.0
+     "price": 50.0
     },
     "one-piece-the-three-captains-deck-pre-order": {
      "title": "One Piece The Three Captains Deck",
@@ -5800,7 +5828,7 @@
      "title": "Pokemon TCG: Sword and Shield - Shining Fates Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 155.0
+     "price": 147.0
     },
     "pokemon-scarlet-and-violet-surging-sparks-elite-trainer-box-pre-order": {
      "title": "Pokemon Scarlet and Violet: Surging Sparks Elite Trainer Box",
@@ -5855,6 +5883,18 @@
      "game": "MTG",
      "available": true,
      "price": 121.0
+    },
+    "one-piece-tcg-double-pack-volume-11-set": {
+     "title": "One Piece TCG: Double Pack Volume 11 Set",
+     "game": "One Piece",
+     "available": true,
+     "price": 32.0
+    },
+    "pokemon-scarlet-and-violet-shrouded-fable-elite-trainer-box-case": {
+     "title": "Pokemon Scarlet and Violet: Shrouded Fable Elite Trainer Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 400.0
     }
    },
    "baselined": true,
@@ -7899,6 +7939,18 @@
      "available": false,
      "price": 299.75,
      "unavail_since": 1789450033
+    },
+    "pokemon-scarlet-violet-prismatic-evolutions-super-premium-collection-box": {
+     "title": "Pokemon Scarlet & Violet Prismatic Evolutions Super-Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 279.75
+    },
+    "pokemon-tcg-blooming-waters-premium-collection-box": {
+     "title": "Pokemon Scarlet & Violet 151 Blooming Waters Premium Collection Box in",
+     "game": "Pokemon",
+     "available": true,
+     "price": 399.75
     }
    },
    "baselined": true,
@@ -8959,11 +9011,10 @@
      "price": 96.99
     },
     "pos-one-piece-card-game-double-pack-set-vol-10-adventure-on-kamis-island-op15-eb04": {
-     "title": "One Piece Card Game - Double Pack Set Vol. 10 - Adventure on Kami's Island (OP15-EB04)",
+     "title": "(POS) One Piece Card Game - Double Pack Set Vol. 10 - Adventure on Kami's Island (OP15-EB04)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 54.99,
-     "unavail_since": 1786829328,
      "delisted": true
     },
     "pos-one-piece-card-game-double-pack-set-vol-9": {
@@ -9289,6 +9340,72 @@
      "game": "Pokemon",
      "available": true,
      "price": 170.0
+    },
+    "pos-one-piece-card-game-the-azure-seas-seven-booster-box": {
+     "title": "(POS) One Piece Card Game - The Azure Sea's Seven Booster Box (OP-14)",
+     "game": "One Piece",
+     "available": true,
+     "price": 239.99
+    },
+    "starter-deck-22-ace-newgate-st-22": {
+     "title": "(POS) One Piece Card Game - Starter Deck 22: Ace & Newgate (ST-22)",
+     "game": "One Piece",
+     "available": true,
+     "price": 14.99
+    },
+    "starter-deck-28-green-yellow-yamato-starter-deck-28-green-yellow-yamato-st-28": {
+     "title": "(POS) One Piece Card Game - Starter Deck 28: Green/Yellow Yamato (ST-28)",
+     "game": "One Piece",
+     "available": true,
+     "price": 13.99
+    },
+    "starter-deck-26-purple-black-monkey-d-luffy-starter-deck-26-purple-black-monkey-d-luffy-st-26": {
+     "title": "(POS) One Piece Card Game - Starter Deck 26: Purple/Black Monkey.D.Luffy (ST-26)",
+     "game": "One Piece",
+     "available": true,
+     "price": 14.99
+    },
+    "pos-one-piece-card-game-starter-deck-33-blue-kuzan": {
+     "title": "(POS) One Piece Card Game - Starter Deck 33: BLUE Kuzan",
+     "game": "One Piece",
+     "available": true,
+     "price": 24.99
+    },
+    "pos-one-piece-card-game-starter-deck-36-yellow-eustasscaptainkid": {
+     "title": "(POS) One Piece Card Game - Starter Deck 36: YELLOW Eustass\"Captain\"Kid",
+     "game": "One Piece",
+     "available": true,
+     "price": 24.99
+    },
+    "pos-one-piece-card-game-starter-deck-29-egghead": {
+     "title": "(POS) One Piece Card Game - Starter Deck 29: Egghead",
+     "game": "One Piece",
+     "available": true,
+     "price": 27.99
+    },
+    "pos-one-piece-card-game-starter-deck-31-red-monkey-d-luffy": {
+     "title": "(POS) One Piece Card Game - Starter Deck 31: RED Monkey.D.Luffy",
+     "game": "One Piece",
+     "available": true,
+     "price": 34.99
+    },
+    "pos-one-piece-card-game-starter-deck-34-purple-charlotte-katakuri": {
+     "title": "(POS) One Piece Card Game - Starter Deck 34: PURPLE Charlotte Katakuri",
+     "game": "One Piece",
+     "available": true,
+     "price": 24.99
+    },
+    "pos-one-piece-card-game-starter-deck-35-red-black-sabo": {
+     "title": "(POS) One Piece Card Game - Starter Deck 35: RED/BLACK Sabo",
+     "game": "One Piece",
+     "available": true,
+     "price": 19.99
+    },
+    "pos-one-piece-card-game-starter-deck-32-green-roronoa-zoro": {
+     "title": "(POS) One Piece Card Game - Starter Deck 32: GREEN Roronoa Zoro",
+     "game": "One Piece",
+     "available": true,
+     "price": 34.99
     }
    },
    "baselined": true,
@@ -10921,6 +11038,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 140.0
+    },
+    "pokemon-tcg-30th-anniversary-platinum-bundle": {
+     "title": "Pokemon TCG: 30th Anniversary Platinum Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 385.0
     }
    },
    "baselined": true,
@@ -12056,6 +12179,13 @@
      "available": false,
      "price": 27.99,
      "unavail_since": 1789450035
+    },
+    "ultimate-guard-omnihive-1000-one-piece": {
+     "title": "Ultimate Guard: Omnihive 1000+ One Piece",
+     "game": "One Piece",
+     "available": false,
+     "price": 99.99,
+     "unavail_since": 1789485237
     }
    },
    "baselined": true,
