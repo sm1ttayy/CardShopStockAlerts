@@ -14452,7 +14452,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17030,9 +17030,9 @@
     "magic-the-gathering-kamigawa-neon-dynasty-bundle": {
      "title": "Magic The Gathering Kamigawa Neon Dynasty Bundle",
      "game": "MTG",
-     "available": false,
-     "price": 159.95,
-     "unavail_since": 1786135220
+     "available": true,
+     "price": 239.95,
+     "last_restock_alert": 1789514751
     },
     "magic-the-gathering-lorwyn-eclipsed-bundle-pre-order-copy": {
      "title": "Magic The Gathering - Lorwyn Eclipsed - Bundle",
@@ -18613,7 +18613,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21547,7 +21547,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 980.99,
+     "price": 979.99,
      "unavail_since": 1786800622
     },
     "destined-rivals-booster-box": {
@@ -21657,7 +21657,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 448.75,
+     "price": 454.75,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800622
     },
@@ -21762,7 +21762,7 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 259.75,
+     "price": 287.75,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
@@ -22227,7 +22227,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 409.75,
+     "price": 405.75,
      "last_restock_alert": 1787094696,
      "unavail_since": 1787405440
     },
@@ -22873,7 +22873,7 @@
      "title": "Aetherdrift Commander Deck - Eternal Might",
      "game": "MTG",
      "available": true,
-     "price": 38.75
+     "price": 36.75
     },
     "edge-of-eternities-commander-deck-counter-intelligence": {
      "title": "Edge of Eternities Counter Intelligence Commander Deck",
@@ -23059,7 +23059,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 51.75
+     "price": 51.25
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -23455,7 +23455,7 @@
      "title": "Pokemon GO Pin Collection [Bulbasaur]",
      "game": "Pokemon",
      "available": true,
-     "price": 74.99
+     "price": 75.75
     },
     "pokemon-go-radiant-eevee-premium-collection": {
      "title": "Pokemon GO Radiant Eevee Premium Collection",
@@ -23588,7 +23588,7 @@
      "title": "Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": false,
-     "price": 29.49,
+     "price": 29.25,
      "unavail_since": 1786195236
     },
     "the-hobbit-play-booster-display": {
@@ -23747,7 +23747,7 @@
      "title": "Spiritforged Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 199.75,
+     "price": 199.99,
      "last_restock_alert": 1789164650,
      "unavail_since": 1789424138
     },
@@ -23847,7 +23847,7 @@
      "title": "The Azure Sea's Seven Booster Box [OP14]",
      "game": "One Piece",
      "available": false,
-     "price": 259.75,
+     "price": 258.75,
      "unavail_since": 1786800618
     },
     "amonkhet-booster-box": {
@@ -24208,7 +24208,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Exit from Exile Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 177.75
+     "price": 176.75
     },
     "pokemon-s-v-shrouded-fable-pokemon-center-elite-trainer-box": {
      "title": "Shrouded Fable Pokemon Center Elite Trainer Box",
@@ -24376,7 +24376,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25933,8 +25933,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
