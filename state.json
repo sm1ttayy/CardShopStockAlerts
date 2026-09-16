@@ -14545,7 +14545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18140,9 +18140,10 @@
     "riftbound-league-of-legends-legacy-booster-box-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 189.95,
-     "last_restock_alert": 1789597526
+     "last_restock_alert": 1789597526,
+     "unavail_since": 1789597820
     },
     "one-piece-tcg-op07-booster-box-pre-order": {
      "title": "One Piece TCG OP07 500 Years In The Future Booster Box",
@@ -18800,7 +18801,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24622,7 +24623,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26185,8 +26186,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
