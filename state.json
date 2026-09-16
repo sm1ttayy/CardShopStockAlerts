@@ -12514,7 +12514,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -13258,7 +13258,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-deluxe-pin-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -14457,9 +14457,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 4,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'riftbound-vendetta-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -18618,9 +18618,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 79,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-celebrations-sylveon-collections-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -21349,7 +21349,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: search 'magic bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -24387,9 +24387,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'marvel-super-heroes-gift-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -25558,8 +25558,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -25944,8 +25944,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
