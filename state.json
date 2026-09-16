@@ -1488,21 +1488,24 @@
      "game": "One Piece",
      "available": false,
      "price": 14.99,
-     "unavail_since": 1789485239
+     "unavail_since": 1789485239,
+     "delisted": true
     },
     "one-piece-tcg-paramount-war-title-tba-booster-pack-op-16": {
      "title": "One Piece TCG: The Time Of Battle Booster Pack (OP-16)",
      "game": "One Piece",
      "available": false,
      "price": 10.49,
-     "unavail_since": 1789485239
+     "unavail_since": 1789485239,
+     "delisted": true
     },
     "one-piece-tcg-extra-booster-eb-03": {
      "title": "One Piece TCG: [EB-03] Heroines Edition - Extra Booster Pack [English]",
      "game": "One Piece",
      "available": false,
      "price": 11.49,
-     "unavail_since": 1789485239
+     "unavail_since": 1789485239,
+     "delisted": true
     }
    },
    "baselined": true,
@@ -1587,7 +1590,7 @@
      "title": "Riftbound: League of Legends TCG - Unleashed Booster Box Display",
      "game": "Riftbound",
      "available": false,
-     "price": 160.0,
+     "price": 200.0,
      "last_restock_alert": 1785929597,
      "unavail_since": 1786530647
     },
@@ -1595,7 +1598,7 @@
      "title": "Riftbound: League of Legends TCG - Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 169.0,
+     "price": 185.0,
      "last_restock_alert": 1787950644,
      "unavail_since": 1788793652
     },
@@ -1603,7 +1606,7 @@
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
      "game": "Riftbound",
      "available": false,
-     "price": 269.0,
+     "price": 280.0,
      "last_restock_alert": 1785929597,
      "unavail_since": 1786960910
     },
@@ -1618,7 +1621,7 @@
      "title": "Riftbound: League of Legends TCG - Vendetta Vault",
      "game": "Riftbound",
      "available": false,
-     "price": 45.0,
+     "price": 50.0,
      "unavail_since": 1784475662
     },
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
@@ -2044,7 +2047,7 @@
      "title": "MTG: Lord of the Rings Tales of Middle-Earth Set Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 300.0,
+     "price": 360.0,
      "unavail_since": 1784083329
     },
     "new-phyrexia-draft-booster-box-display": {
@@ -2072,7 +2075,7 @@
      "title": "MTG: Lord of the Rings Tales of Middle-Earth Draft Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 239.0,
+     "price": 435.0,
      "unavail_since": 1784083329
     },
     "pre-order-mtg-lord-of-the-rings-tales-of-middle-earth-collector-booster-display": {
@@ -4265,7 +4268,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4522,7 +4525,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 263.0,
+     "price": 268.0,
      "last_restock_alert": 1789047767
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -4561,7 +4564,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 123.0,
+     "price": 120.0,
      "last_restock_alert": 1789450037
     },
     "magic-the-gathering-foundations-play-booster-box-pre-order": {
@@ -4613,7 +4616,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 125.0,
+     "price": 122.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
@@ -5083,7 +5086,7 @@
      "title": "Magic The Gathering: The Hobbit Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 179.0,
+     "price": 181.0,
      "last_restock_alert": 1787092422
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
@@ -5111,7 +5114,7 @@
      "title": "One Piece TCG: Adventure on Kamis Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 286.0,
+     "price": 264.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-gem-volume-4-booster-box-chinese": {
@@ -5164,7 +5167,7 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 133.0,
+     "price": 132.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-avatar-the-last-airbender-collector-booster-box-pre-order": {
@@ -5178,7 +5181,7 @@
      "title": "Magic The Gathering: Marvel Spider-Man Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 134.0,
+     "price": 133.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-marvel-spider-man-collector-booster-box-pre-order": {
@@ -5192,14 +5195,14 @@
      "title": "Pokemon TCG: Mega Evolution - Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 310.0,
+     "price": 323.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-booster-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 308.0,
+     "price": 314.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -9143,9 +9146,9 @@
     "mystery-booster-2-booster-box": {
      "title": "Mystery Booster 2 Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 309.99,
-     "unavail_since": 1787392126
+     "last_restock_alert": 1789568089
     },
     "one-piece-premium-dice-set": {
      "title": "One Piece Premium Dice Set",
@@ -9430,6 +9433,13 @@
      "game": "One Piece",
      "available": true,
      "price": 39.99
+    },
+    "dominaria-united-jumpstart-booster-box": {
+     "title": "Dominaria United Jumpstart Booster Box - Magic The Gathering",
+     "game": "MTG",
+     "available": false,
+     "price": 84.99,
+     "unavail_since": 1789568098
     }
    },
    "baselined": true,
@@ -12209,11 +12219,12 @@
      "game": "One Piece",
      "available": false,
      "price": 99.99,
-     "unavail_since": 1789485237
+     "unavail_since": 1789485237,
+     "delisted": true
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
