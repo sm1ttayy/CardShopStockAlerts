@@ -14545,7 +14545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18801,7 +18801,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24617,12 +24617,13 @@
     "30th-celebration-knock-out-collection": {
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 29.75
+     "available": false,
+     "price": 29.75,
+     "unavail_since": 1789595446
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
