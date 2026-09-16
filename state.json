@@ -14545,7 +14545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18140,10 +18140,9 @@
     "riftbound-league-of-legends-legacy-booster-box-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 189.95,
-     "last_restock_alert": 1786800910,
-     "unavail_since": 1786804511
+     "last_restock_alert": 1789597526
     },
     "one-piece-tcg-op07-booster-box-pre-order": {
      "title": "One Piece TCG OP07 500 Years In The Future Booster Box",
@@ -18801,7 +18800,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24623,7 +24622,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
