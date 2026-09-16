@@ -14477,7 +14477,7 @@
      "title": "The Hobbit Gift Bundle",
      "game": "MTG",
      "available": true,
-     "price": 119.95
+     "price": 114.95
     },
     "modern-horizons-3-graveyard-overdrive-commander-deck": {
      "title": "Modern Horizons 3 Graveyard Overdrive Commander Deck",
@@ -14538,7 +14538,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18769,10 +18769,17 @@
      "game": "MTG",
      "available": true,
      "price": 79.95
+    },
+    "mtg-tarkir-dragonstorm-commander-decks-sultai-arisen": {
+     "title": "MTG - Tarkir: Dragonstorm - Commander Decks - Sultai Arisen",
+     "game": "MTG",
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1789592142
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22080,7 +22087,7 @@
      "title": "Japanese Crimson Haze Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 121.99,
+     "price": 149.7,
      "last_restock_alert": 1785969940
     },
     "surging-sparks-booster-box-case-sealed": {
@@ -22680,10 +22687,9 @@
     "pokemon-s-v-temporal-forces-booster-box": {
      "title": "Temporal Forces Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 321.75,
-     "last_restock_alert": 1786664149,
-     "unavail_since": 1787405441
+     "available": true,
+     "price": 377.64,
+     "last_restock_alert": 1789592146
     },
     "pokemon-japanese-clay-burst-booster-box": {
      "title": "Japanese Clay Burst Booster Box",
@@ -22695,9 +22701,9 @@
     "pokemon-s-v-twilight-masquerade-booster-box": {
      "title": "Twilight Masquerade Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 349.75,
-     "unavail_since": 1788128425
+     "available": true,
+     "price": 355.99,
+     "last_restock_alert": 1789592146
     },
     "mtg-foundations-play-booster-box": {
      "title": "Foundations Play Booster Box",
@@ -22871,7 +22877,7 @@
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 251.49
+     "price": 242.75
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
@@ -23188,7 +23194,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 294.75,
+     "price": 288.75,
      "last_restock_alert": 1786479935
     },
     "pokemon-day-2026-collection": {
@@ -23201,7 +23207,7 @@
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 489.75
+     "price": 449.49
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
@@ -23219,7 +23225,7 @@
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 418.25
+     "price": 412.99
     },
     "jumpstart-booster-box": {
      "title": "Jumpstart - Booster Box",
@@ -23656,7 +23662,7 @@
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Gardevoir]",
      "game": "Pokemon",
      "available": true,
-     "price": 199.75
+     "price": 190.25
     },
     "pokemon-go-pin-collection-bulbasaur": {
      "title": "Pokemon GO Pin Collection [Bulbasaur]",
@@ -24583,7 +24589,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25760,8 +25766,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26146,7 +26152,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
+   "error_streak": 2,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
