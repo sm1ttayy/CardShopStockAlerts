@@ -12582,7 +12582,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -13329,7 +13329,7 @@
      "price": 170.0
     },
     "pokemon-30th-celebration-poster-collection-me-30th-celebration-30c": {
-     "title": "Pokemon: 30th Celebration Poster Collection - ME: 30th Celebration (30C)",
+     "title": "Pok\u00e9mon 30th Celebration Poster Collection | ME 30C",
      "game": "Pokemon",
      "available": false,
      "price": 34.99,
@@ -13339,7 +13339,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -14545,9 +14545,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 7,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'first-partner-illustration-collection-series-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16410,8 +16410,9 @@
     "pokemon-30th-celebration-tech-sticker-collection-lucario": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Lucario",
      "game": "Pokemon",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1789599009
     },
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon - 30th Celebration - Knock Out Collection",
@@ -18802,9 +18803,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 100,
+   "check_cursor": 48,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pre-order-pokemon-darkness-ablaze-elite-trainer-box-april-2022-restock' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -21575,7 +21576,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'pokemon-30th-celebration-m6a-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -23216,9 +23217,10 @@
     "phantasmal-flames-pokemon-center-elite-trainer-box": {
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 288.75,
-     "last_restock_alert": 1786479935
+     "last_restock_alert": 1786479935,
+     "unavail_since": 1789599038
     },
     "pokemon-day-2026-collection": {
      "title": "Pokemon Day 2026 Collection",
@@ -24622,12 +24624,18 @@
      "available": true,
      "price": 37.5,
      "last_restock_alert": 1789598432
+    },
+    "30th-celebration-pack": {
+     "title": "30th Celebration Pack",
+     "game": "Pokemon",
+     "available": true,
+     "price": 18.75
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'japanese-heat-wave-arena-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -25803,7 +25811,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26189,7 +26197,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 0
   }
  }
