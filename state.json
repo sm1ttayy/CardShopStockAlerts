@@ -14545,7 +14545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16423,8 +16423,9 @@
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Alolan Exeggutor",
      "game": "Pokemon",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1789601710
     },
     "mtg-double-masters-booster-box": {
      "title": "MTG - Double Masters - Booster Box",
@@ -18803,7 +18804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19766,6 +19767,12 @@
      "available": false,
      "price": 14.99,
      "unavail_since": 1789588509
+    },
+    "secret-lair-drop-series-secret-lair-x-jaws-terror-of-amity-island-rainbow-foil-edition": {
+     "title": "Secret Lair: Drop Series - Secret Lair x Jaws: Terror of Amity Island (Rainbow Foil Edition)",
+     "game": "MTG",
+     "available": true,
+     "price": 449.99
     }
    },
    "baselined": true,
@@ -22931,7 +22938,7 @@
      "title": "Crown Zenith Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 313.75
+     "price": 309.99
     },
     "pokemon-s-v-prismatic-evolutions-elite-trainer-box": {
      "title": "Prismatic Evolutions Elite Trainer Box",
@@ -24633,7 +24640,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
