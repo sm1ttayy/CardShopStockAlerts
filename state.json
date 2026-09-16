@@ -4265,10 +4265,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 165.0
+    },
+    "30th-celebration-poster-collection": {
+     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration Poster Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 40.0,
+     "unavail_since": 1789584539
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5762,7 +5769,7 @@
      "title": "One Piece The Three Captains Deck",
      "game": "One Piece",
      "available": true,
-     "price": 104.0
+     "price": 107.0
     },
     "one-piece-tcg-soundloader-luffy-edition-2025": {
      "title": "One Piece TCG: Soundloader Luffy Edition 2025",
@@ -12056,8 +12063,9 @@
     "pokemon-tcg-terastal-fest-ex-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Terastal Fest ex Booster Display (Japanese)",
      "game": "Pokemon",
-     "available": true,
-     "price": 159.99
+     "available": false,
+     "price": 159.99,
+     "unavail_since": 1789584539
     },
     "pokemon-tcg-nihil-zero-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Nihil Zero: Booster Display (Japanese)",
@@ -12224,7 +12232,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
