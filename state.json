@@ -14538,7 +14538,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18606,9 +18606,10 @@
     "mtg-the-lord-of-the-rings-tales-of-middle-earth-english-set-booster-box-restock-pre-order": {
      "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - English Set Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 399.95,
-     "last_restock_alert": 1789593925
+     "last_restock_alert": 1789593925,
+     "unavail_since": 1789595125
     },
     "mtg-aetherdrift-commander-decks-living-energy": {
      "title": "MTG - Aetherdrift - Commander Decks - Living Energy",
@@ -18793,7 +18794,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24605,10 +24606,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 154.99
+    },
+    "30th-celebration-knock-out-collection": {
+     "title": "30th Celebration Knock Out Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 29.75
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
