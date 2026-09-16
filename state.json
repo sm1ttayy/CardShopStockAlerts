@@ -12514,7 +12514,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -13258,7 +13258,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-deluxe-pin-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -14457,9 +14457,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'ascended-heroes-collection-erika' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -18618,9 +18618,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-op-09-emperors-in-the-new-world-booster-pack' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -21349,7 +21349,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: search 'magic bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -24387,9 +24387,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 4,
    "error_streak": 2,
-   "last_error": "Common Lands: product 'origins-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'crimson-vow-set-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
