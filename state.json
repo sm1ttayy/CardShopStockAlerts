@@ -14538,7 +14538,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18776,10 +18776,24 @@
      "available": false,
      "price": 89.95,
      "unavail_since": 1789592142
+    },
+    "pokemon-first-partner-illustration-collections-series-3-pre-order": {
+     "title": "Pokemon First Partner Illustration Collections - Series 3",
+     "game": "Pokemon",
+     "available": false,
+     "price": 44.95,
+     "unavail_since": 1789593020
+    },
+    "pokemon-tcg-mega-set-6-delta-reign-3-pack-blister-pre-order": {
+     "title": "Pokemon TCG Mega Set 6 Delta Reign 3 Pack Blister (Pre Order)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 29.95,
+     "unavail_since": 1789593020
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24594,7 +24608,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
