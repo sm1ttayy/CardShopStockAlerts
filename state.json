@@ -14538,7 +14538,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18744,14 +18744,14 @@
      "price": 89.95
     },
     "30th-celebration-pokemon-ex-box-sylveon-ex-pre-order": {
-     "title": "30th Celebration Pokemon ex Box - Sylveon ex (Pre Order)",
+     "title": "30th Celebration Pokemon ex Box - Sylveon ex",
      "game": "Pokemon",
      "available": false,
      "price": 49.95,
      "unavail_since": 1789512920
     },
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
-     "title": "30th Celebration Pokemon ex Box - Greninja Ex (Pre Order)",
+     "title": "30th Celebration Pokemon ex Box - Greninja Ex",
      "game": "Pokemon",
      "available": false,
      "price": 49.95,
@@ -18779,7 +18779,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22709,7 +22709,7 @@
      "title": "Foundations Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 183.75,
+     "price": 179.25,
      "last_restock_alert": 1786657830,
      "unavail_since": 1788033932
     },
@@ -24594,7 +24594,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26157,8 +26157,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
