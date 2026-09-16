@@ -1524,7 +1524,7 @@
      "title": "One Piece The Time of Battle Booster Box [OP-16]",
      "game": "One Piece",
      "available": true,
-     "price": 205.0,
+     "price": 220.0,
      "last_restock_alert": 1787097043
     },
     "one-piece-the-azure-seas-seven-booster-box-op-14": {
@@ -3937,10 +3937,9 @@
     "one-piece-the-worlds-strongest-warriors-booster-box-op-17": {
      "title": "One Piece: The World's Strongest Warriors - Booster Box [OP-17]",
      "game": "One Piece",
-     "available": false,
-     "price": 340.0,
-     "last_restock_alert": 1787454647,
-     "unavail_since": 1788442810
+     "available": true,
+     "price": 330.0,
+     "last_restock_alert": 1789518391
     },
     "pokemon-mega-evolution-ascended-heroes-collection-larry": {
      "title": "Pokemon - Mega Evolution: Ascended Heroes Collection [Larry]",
@@ -4257,10 +4256,16 @@
      "available": false,
      "price": 50.0,
      "unavail_since": 1789485243
+    },
+    "30th-celebration-elite-trainer-box": {
+     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 165.0
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8931,7 +8936,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 89.99
+     "price": 74.99
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
      "title": "Pokemon Mega Evolution - Pitch Black Booster Bundle",
