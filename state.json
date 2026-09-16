@@ -14519,7 +14519,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18753,7 +18753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20823,8 +20823,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -24563,9 +24563,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 50,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'stellar-crown-half-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -25740,8 +25740,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26126,8 +26126,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
