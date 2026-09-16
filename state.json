@@ -14538,7 +14538,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18779,7 +18779,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 90,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23370,7 +23370,7 @@
      "title": "Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 274.75
+     "price": 275.49
     },
     "lost-origin-pokemon-center-elite-trainer-box": {
      "title": "Lost Origin Pokemon Center Elite Trainer Box",
@@ -23564,10 +23564,9 @@
     "pitch-black-elite-trainer-box-pokemon-center": {
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 123.75,
-     "last_restock_alert": 1787000431,
-     "unavail_since": 1787006128
+     "available": true,
+     "price": 124.25,
+     "last_restock_alert": 1789592445
     },
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
@@ -23650,7 +23649,7 @@
      "title": "Chaos Rising Elite Trainer Box \u2014 Pokemon Center",
      "game": "Pokemon",
      "available": true,
-     "price": 143.75
+     "price": 125.99
     },
     "twilight-masquerade-pokemon-center-elite-trainer-box": {
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
@@ -23911,7 +23910,7 @@
      "title": "Black Bolt Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 99.99
+     "price": 103.75
     },
     "surging-sparks-elite-trainer-box": {
      "title": "Surging Sparks Elite Trainer Box",
@@ -24239,9 +24238,9 @@
     "white-flare-booster-bundle": {
      "title": "White Flare Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 94.25,
-     "unavail_since": 1788214255
+     "last_restock_alert": 1789592443
     },
     "mega-evolution-booster-bundle": {
      "title": "Mega Evolution Booster Bundle",
@@ -24309,9 +24308,9 @@
     "phantasmal-flames-booster-bundle": {
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 89.75,
-     "unavail_since": 1788292830
+     "last_restock_alert": 1789592443
     },
     "gem-mint-vol-5-booster-box": {
      "title": "Gem Mint Vol 5 Booster Box",
@@ -24586,10 +24585,16 @@
      "game": "Riftbound",
      "available": true,
      "price": 16.49
+    },
+    "prismatic-evolutions-booster-bundle-surprise-box-bundle-sams-club": {
+     "title": "Prismatic Evolutions Booster Bundle + Surprise Box Bundle (Sam's Club)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 154.99
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26152,7 +26157,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
+   "error_streak": 3,
    "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
