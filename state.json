@@ -12557,7 +12557,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -13314,7 +13314,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -14513,9 +14513,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 38,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'prismatic-evolutions-tech-sticker-collection-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -18746,9 +18746,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 97,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pre-order-pokemon-shining-fates-premium-collection-dragapult-v-february-2021' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -19694,6 +19694,13 @@
      "available": false,
      "price": 69.99,
      "unavail_since": 1789587608
+    },
+    "premium-card-collection-best-selection-vol-3": {
+     "title": "Premium Card Collection -Best Selection Vol. 3-",
+     "game": "One Piece",
+     "available": false,
+     "price": 89.99,
+     "unavail_since": 1789587908
     }
    },
    "baselined": true,
@@ -21492,7 +21499,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'pokemon-30th-celebration-m6a-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -24530,9 +24537,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'eternal-masters-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'tarkir-dragonstorm-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
