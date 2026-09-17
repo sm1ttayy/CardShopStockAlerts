@@ -14546,7 +14546,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18808,7 +18808,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24652,7 +24652,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26215,8 +26215,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
