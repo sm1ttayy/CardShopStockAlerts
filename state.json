@@ -14576,7 +14576,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18861,7 +18861,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21874,7 +21874,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 979.99,
+     "price": 949.99,
      "unavail_since": 1786800622
     },
     "destined-rivals-booster-box": {
@@ -22207,7 +22207,7 @@
      "title": "Surging Sparks Booster Box Case [Sealed]",
      "game": "Pokemon",
      "available": false,
-     "price": 1859.75,
+     "price": 1916.99,
      "unavail_since": 1786195837
     },
     "mega-evolution-booster-box-non-enhanced": {
@@ -22554,7 +22554,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 405.75,
+     "price": 409.75,
      "last_restock_alert": 1787094696,
      "unavail_since": 1787405440
     },
@@ -22590,7 +22590,7 @@
      "title": "Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 164.99,
+     "price": 167.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1788123662
     },
@@ -22996,7 +22996,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 72.99
+     "price": 74.75
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -23157,7 +23157,7 @@
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 64.75,
+     "price": 63.99,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -23682,14 +23682,14 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 124.25,
+     "price": 123.75,
      "last_restock_alert": 1789592445
     },
     "vendetta-booster-display": {
      "title": "Vendetta Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 183.49,
+     "price": 183.25,
      "last_restock_alert": 1786403130,
      "unavail_since": 1786919752
     },
@@ -23697,7 +23697,7 @@
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 44.99,
+     "price": 44.75,
      "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
@@ -23766,7 +23766,7 @@
      "title": "Chaos Rising Elite Trainer Box \u2014 Pokemon Center",
      "game": "Pokemon",
      "available": true,
-     "price": 125.99
+     "price": 123.99
     },
     "twilight-masquerade-pokemon-center-elite-trainer-box": {
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
@@ -23999,7 +23999,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 304.75,
+     "price": 294.75,
      "unavail_since": 1786195830
     },
     "zendikar-rising-draft-booster-box": {
@@ -24732,7 +24732,7 @@
      "title": "Team Rocket\u2019s Moltres ex Ultra-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 349.99,
+     "price": 300.75,
      "unavail_since": 1789611633
     },
     "final-fantasy-limit-break-commander-deck": {
@@ -24743,7 +24743,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25890,8 +25890,9 @@
     "magic-the-gathering-reality-fracture-multiverse-reforged-commander-deck-pre-order": {
      "title": "Magic: The Gathering Reality Fracture Multiverse Reforged Commander Deck (Pre Order)",
      "game": "MTG",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1789677669
     },
     "magic-the-gathering-reality-fracture-bundle-pre-order": {
      "title": "Magic: The Gathering Reality Fracture Bundle (Pre Order)",
@@ -26315,8 +26316,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 5,
-   "last_error": "crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
