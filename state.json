@@ -12582,7 +12582,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -13339,7 +13339,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -14546,9 +14546,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 36,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'riftbound-unleashed-champion-deck-vex-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -17865,9 +17865,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1789418122
+     "last_restock_alert": 1789418122,
+     "unavail_since": 1789609824
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -18807,9 +18808,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'mtg-duskmourn-house-of-horror-play-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -21586,7 +21587,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'pokemon-30th-celebration-m6a-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -24651,9 +24652,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'japanese-heat-wave-arena-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -25829,7 +25830,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26214,8 +26215,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
