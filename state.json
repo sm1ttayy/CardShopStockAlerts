@@ -4282,7 +4282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9462,6 +9462,19 @@
      "available": false,
      "price": 84.99,
      "unavail_since": 1789568098
+    },
+    "pokemon-30th-celebration-tech-sticker-collection": {
+     "title": "Pokemon 30th Celebration - Tech Sticker Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 39.99
+    },
+    "pokemon-30th-celebration-ex-box": {
+     "title": "Pokemon 30th Celebration - EX Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 74.99,
+     "unavail_since": 1789669748
     }
    },
    "baselined": true,
@@ -11006,8 +11019,9 @@
     "pokemon-tcg-me05-pitch-black-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 60.99
+     "available": false,
+     "price": 60.99,
+     "unavail_since": 1789669748
     },
     "pokemon-tcg-mega-zygarde-ex-premium-collection-box": {
      "title": "Pokemon TCG:  Mega Zygarde ex Premium Collection Box",
