@@ -14540,12 +14540,13 @@
     "pokemon-30th-celebration-ex-box-set-of-2-sylveon-and-greninja": {
      "title": "Pokemon 30th Celebration ex Box Set of 2 (Sylveon and Greninja)",
      "game": "Pokemon",
-     "available": true,
-     "price": 119.95
+     "available": false,
+     "price": 119.95,
+     "unavail_since": 1789607716
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18806,7 +18807,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22939,8 +22940,9 @@
     "pokemon-swsh-crown-zenith-elite-trainer-box": {
      "title": "Crown Zenith Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 309.99
+     "available": false,
+     "price": 309.99,
+     "unavail_since": 1789607731
     },
     "pokemon-s-v-prismatic-evolutions-elite-trainer-box": {
      "title": "Prismatic Evolutions Elite Trainer Box",
@@ -24649,7 +24651,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
