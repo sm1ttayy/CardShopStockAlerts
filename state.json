@@ -14576,7 +14576,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18861,7 +18861,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21666,7 +21666,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 22.99,
-     "unavail_since": 1789678218
+     "unavail_since": 1789678218,
+     "delisted": true
     }
    },
    "baselined": true,
@@ -24750,7 +24751,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
