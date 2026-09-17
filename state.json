@@ -4282,7 +4282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4291,10 +4291,9 @@
     "one-piece-tcg-carrying-on-his-will-booster-box-pre-order": {
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 472.0,
-     "last_restock_alert": 1784587256,
-     "unavail_since": 1784996007
+     "last_restock_alert": 1789681209
     },
     "one-piece-extra-booster-heroines-japanese-edition-box-eb-03": {
      "title": "One Piece: Extra Booster - Heroines Japanese Edition Box (EB-03)",
@@ -12263,7 +12262,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
