@@ -4282,7 +4282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5924,6 +5924,13 @@
      "game": "One Piece",
      "available": true,
      "price": 18.0
+    },
+    "one-piece-tcg-memorial-collection-extra-japanese-booster-box": {
+     "title": "One Piece TCG: Memorial Collection Extra Japanese Booster Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 65.0,
+     "unavail_since": 1789620171
     }
    },
    "baselined": true,
