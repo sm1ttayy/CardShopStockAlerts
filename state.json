@@ -14576,7 +14576,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18815,9 +18815,9 @@
     "mtg-reality-fracture-commander-deck-multiverse-reforged-pre-order": {
      "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged (Pre Order)",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 64.95,
-     "unavail_since": 1789587622
+     "last_restock_alert": 1789677974
     },
     "mtg-universes-beyond-marvel-super-heroes-commander-deck-fantastic-four": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Fantastic Four",
@@ -18861,7 +18861,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23020,7 +23020,7 @@
      "title": "Crown Zenith Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 309.99,
+     "price": 309.75,
      "unavail_since": 1789607731
     },
     "pokemon-s-v-prismatic-evolutions-elite-trainer-box": {
@@ -24743,7 +24743,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
