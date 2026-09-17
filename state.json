@@ -12605,7 +12605,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -13368,7 +13368,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -14575,9 +14575,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 4,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'final-fantasy-chocobox-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -18866,9 +18866,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-tcg-op07-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -21686,7 +21686,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'pokemon-30th-celebration-m6a-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -24764,9 +24764,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'unleashed-champion-deck-vex' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -25943,7 +25943,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26337,8 +26337,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 3,
-   "last_error": "crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
