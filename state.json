@@ -14546,7 +14546,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18808,7 +18808,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24652,7 +24652,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25829,8 +25829,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26215,8 +26215,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
