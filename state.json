@@ -14576,7 +14576,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18800,9 +18800,10 @@
     "30th-celebration-pokemon-ex-box-sylveon-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Sylveon ex",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 69.95,
-     "last_restock_alert": 1789675814
+     "last_restock_alert": 1789675814,
+     "unavail_since": 1789676726
     },
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Greninja Ex",
@@ -18860,7 +18861,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20952,6 +20953,12 @@
      "game": "MTG",
      "available": true,
      "price": 67.95
+    },
+    "mtg-the-brothers-war-jumpstart-booster": {
+     "title": "MTG THE BROTHERS WAR JUMPSTART BOOSTER BOX",
+     "game": "MTG",
+     "available": true,
+     "price": 99.95
     }
    },
    "baselined": true,
@@ -24736,7 +24743,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25913,8 +25920,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26308,7 +26315,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
+   "error_streak": 3,
    "last_error": "crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
