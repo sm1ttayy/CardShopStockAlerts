@@ -14546,7 +14546,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18808,7 +18808,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24649,10 +24649,17 @@
      "game": "Pokemon",
      "available": true,
      "price": 43.75
+    },
+    "team-rocket-s-moltres-ex-ultra-premium-collection": {
+     "title": "Team Rocket\u2019s Moltres ex Ultra-Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 349.99,
+     "unavail_since": 1789611633
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26179,9 +26186,10 @@
     "magic-the-gathering-ccg-aetherdrift-play-booster-display-30-mtg-deathrace-pb": {
      "title": "Magic the Gathering CCG Aetherdrift Play Booster Display (30) MTG-DeathRace-PB",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 106.99,
-     "last_restock_alert": 1789513579
+     "last_restock_alert": 1789513579,
+     "unavail_since": 1789611657
     },
     "pokemon-tcg-mega-evolution-perfect-order-me03-booster-display-36ct-pkm-me03-bd": {
      "title": "Pokemon TCG: Mega Evolution Perfect Order ME03 Booster Display 36Ct PKM-ME03-BD",
