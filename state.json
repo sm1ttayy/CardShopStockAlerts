@@ -4019,7 +4019,7 @@
      "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Greninja & Sylveon ex Box [Set of 2]",
      "game": "Pokemon",
      "available": true,
-     "price": 145.0
+     "price": 120.0
     },
     "30th-celebration-alolan-exeggutor-and-lucario-tech-sticker-collection-set-of-2": {
      "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Alolan Exeggutor & Lucario Tech Sticker Collection [Set of 2]",
@@ -4269,9 +4269,9 @@
     "30th-celebration-poster-collection": {
      "title": "[PREORDER] Pok\u00e9mon: 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 40.0,
-     "unavail_since": 1789584539
+     "last_restock_alert": 1789688637
     },
     "one-piece-tcg-illustration-box-vol-7-ib-07": {
      "title": "One Piece: Illustration Box Vol.7 [IB-07]",
@@ -4282,7 +4282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4390,13 +4390,13 @@
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 90.0
+     "price": 93.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 42.0
+     "price": 43.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -4813,7 +4813,7 @@
      "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 57.0
+     "price": 56.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-2-box": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box (SALE)",
@@ -5931,6 +5931,54 @@
      "available": false,
      "price": 65.0,
      "unavail_since": 1789620171
+    },
+    "pokemon-scarlet-and-violet-prismatic-evolutions-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon Scarlet and Violet: Prismatic Evolutions Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 431.0
+    },
+    "pokemon-tcg-30th-celebration-elite-trainer-box": {
+     "title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 200.0
+    },
+    "pokemon-tcg-30th-celebration-greninja-ex-box": {
+     "title": "Pokemon TCG: 30th Celebration Greninja EX Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 70.0
+    },
+    "pokemon-tcg-30th-celebration-poster-collection-box": {
+     "title": "Pokemon TCG: 30th Celebration Poster Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 46.0
+    },
+    "pokemon-tcg-30th-celebration-sylveon-ex-box": {
+     "title": "Pokemon TCG: 30th Celebration Sylveon EX Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 70.0
+    },
+    "pokemon-tcg-30th-celebration-knock-out-collection-box": {
+     "title": "Pokemon TCG: 30th Celebration Knock Out Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 31.0
+    },
+    "pokemon-tcg-30th-celebration-tech-sticker-collection-blister-alolan-exeggutor": {
+     "title": "Pokemon TCG: 30th Celebration Tech Sticker Collection Blister (Alolan Exeggutor)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 41.0
+    },
+    "pokemon-tcg-30th-celebration-tech-sticker-collection-blister-lucario": {
+     "title": "Pokemon TCG: 30th Celebration Tech Sticker Collection Blister (Lucario)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 41.0
     }
    },
    "baselined": true,
@@ -7923,9 +7971,9 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 174.75,
-     "unavail_since": 1789260595
+     "available": true,
+     "price": 179.75,
+     "last_restock_alert": 1789688636
     },
     "2021-pok-mon-shining-fates-pikachu-v-box": {
      "title": "2021 Pok\u00e9mon Shining Fates Pikachu V Box",
@@ -7936,9 +7984,8 @@
     "pokemon-30th-celebration-elite-trainer-10-box-case": {
      "title": "Pokemon 30th Celebration Elite Trainer 10-Box Case",
      "game": "Pokemon",
-     "available": false,
-     "price": 1749.75,
-     "unavail_since": 1789450033
+     "available": true,
+     "price": 1799.75
     },
     "pokemon-30th-celebration-booster-bundle-box": {
      "title": "Pokemon 30th Celebration Booster Bundle Box",
@@ -7964,9 +8011,9 @@
     "pokemon-30th-celebration-knock-out-collection-box": {
      "title": "Pokemon 30th Celebration Knock Out Collection Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 34.75,
-     "unavail_since": 1789450033
+     "last_restock_alert": 1789688636
     },
     "pokemon-30th-celebration-battle-deck-6-box-case": {
      "title": "Pokemon 30th Celebration Battle Deck 6-Box Case",
@@ -7986,6 +8033,66 @@
      "game": "Pokemon",
      "available": true,
      "price": 399.75
+    },
+    "pokemon-first-partner-illustration-collection-series-2-6-box-case": {
+     "title": "Pokemon First Partner Illustration Collection Series 2 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 359.75
+    },
+    "pokemon-first-partner-illustration-collection-series-1-box": {
+     "title": "Pokemon First Partner Illustration Collection Series 1 Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 69.75
+    },
+    "pokemon-first-partner-illustration-collection-series-3-6-box-case": {
+     "title": "Pokemon First Partner Illustration Collection Series 3 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 299.75
+    },
+    "2022-pok-mon-silver-tempest-etb-box": {
+     "title": "Pokemon Sword & Shield Silver Tempest Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 189.75
+    },
+    "pokemon-30th-celebration-knock-out-collection-24-box-case": {
+     "title": "Pokemon 30th Celebration Knock Out Collection 24-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 834.75
+    },
+    "pokemon-30th-celebration-greninja-ex-box": {
+     "title": "Pokemon 30th Celebration Sylveon Greninja ex Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 109.75
+    },
+    "pokemon-30th-celebration-poster-collection-box": {
+     "title": "Pokemon 30th Celebration Poster Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 64.75
+    },
+    "pokemon-30th-celebration-tech-sticker-12-collection-case": {
+     "title": "Pokemon 30th Celebration Tech Sticker 12-Collection Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 549.75
+    },
+    "pokemon-30th-celebration-greninja-ex-6-box-case": {
+     "title": "Pokemon 30th Celebration Sylveon Greninja ex 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 649.75
+    },
+    "pokemon-30th-celebration-poster-collection-6-box-case": {
+     "title": "Pokemon 30th Celebration Poster Collection 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 549.75
     }
    },
    "baselined": true,
@@ -9474,6 +9581,18 @@
      "available": false,
      "price": 74.99,
      "unavail_since": 1789669748
+    },
+    "pokemon-30th-celebration-elite-trainer-box": {
+     "title": "Pokemon 30th Celebration - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 169.99
+    },
+    "pokemon-30th-celebration-ultra-premium-collection": {
+     "title": "Pokemon 30th Celebration - Ultra-Premium Collection (Presale)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 599.99
     }
    },
    "baselined": true,
@@ -9586,8 +9705,9 @@
     "prismatic-evolutions-elite-trainer-box-pokemon": {
      "title": "Prismatic Evolutions Elite Trainer Box [Pokemon]",
      "game": "Pokemon",
-     "available": true,
-     "price": 160.0
+     "available": false,
+     "price": 160.0,
+     "unavail_since": 1789688635
     },
     "destined-rivals-elite-trainer-box-pokemon-1": {
      "title": "Destined Rivals Elite Trainer Box [Pok\u00e9mon]",
@@ -10481,6 +10601,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 900.0
+    },
+    "151-blooming-waters-premium-collection-pokemon": {
+     "title": "151 Blooming Waters Premium Collection (Pokemon)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 340.0
     }
    },
    "baselined": true,
@@ -12259,6 +12385,12 @@
      "price": 99.99,
      "unavail_since": 1789485237,
      "delisted": true
+    },
+    "pokemon-tcg-151-mini-tin-5-pack": {
+     "title": "Pok\u00e9mon TCG: 151: Mini Tin 5-Pack",
+     "game": "Pokemon",
+     "available": true,
+     "price": 259.99
     }
    },
    "baselined": true,
