@@ -14545,7 +14545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16610,9 +16610,10 @@
     "app-exlusive-pokemon-scarlet-and-violet-destined-rivals-booster-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 579.95,
-     "last_restock_alert": 1788716116
+     "last_restock_alert": 1788716116,
+     "unavail_since": 1789607414
     },
     "pokemon-151-surprise-pokemon-slim-pack-booster-box-simplified-chinese-pre-order": {
      "title": "Pokemon 151 Surprise - Pokemon Slim Pack Booster Box - Simplified Chinese",
@@ -18805,7 +18806,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24648,7 +24649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
