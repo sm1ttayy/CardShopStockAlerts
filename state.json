@@ -14575,7 +14575,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16473,6 +16473,12 @@
     },
     "mtg-modern-horizons-3-commander-deck-creative-energy-pre-order": {
      "title": "MTG - Modern Horizons 3 - Commander Deck - Creative Energy",
+     "game": "MTG",
+     "available": true,
+     "price": 74.95
+    },
+    "mtg-edge-of-eternities-commander-deck-world-shaper": {
+     "title": "MTG - Edge of Eternities - Commander Deck - World Shaper",
      "game": "MTG",
      "available": true,
      "price": 74.95
@@ -18860,7 +18866,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24750,7 +24756,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
