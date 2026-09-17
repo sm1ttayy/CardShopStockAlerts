@@ -14545,7 +14545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18804,7 +18804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24638,10 +24638,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 18.75
+    },
+    "shrouded-fable-mini-tin-zoroark": {
+     "title": "Shrouded Fable Mini Tin [Zoroark]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 43.75
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
