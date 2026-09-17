@@ -14545,7 +14545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -18804,7 +18804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23238,8 +23238,9 @@
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 449.49
+     "available": false,
+     "price": 449.49,
+     "unavail_since": 1789603830
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
@@ -24640,7 +24641,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26203,8 +26204,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
