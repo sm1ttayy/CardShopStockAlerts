@@ -13532,7 +13532,7 @@
      "title": "Pokemon Snow Hazard SV2P Booster Box - Scarlet & Violet Series - Japanese",
      "game": "Pokemon",
      "available": false,
-     "price": 115.0,
+     "price": 120.0,
      "unavail_since": 1789422009
     },
     "pokemon-shiny-star-v-s4a-booster-box-sword-shield-series-japanese": {
@@ -14765,7 +14765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15020,9 +15020,10 @@
     "league-of-legends-riftbound-tcg-origins-booster-box": {
      "title": "Riftbound: League of Legends - Origins Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 429.95,
-     "last_restock_alert": 1787084413
+     "last_restock_alert": 1787084413,
+     "unavail_since": 1789761017
     },
     "riftbound-league-of-legends-unleashed-booster-box": {
      "title": "Riftbound: League of Legends - Unleashed Booster Box",
@@ -15227,7 +15228,7 @@
      "title": "One Piece Card Game - A Fist of Divine Speed Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 999.95
+     "price": 829.95
     },
     "one-piece-card-game-starter-deck-st37": {
      "title": "One Piece Card Game - Starter Deck - ST37 (Pre-Order)",
@@ -16672,6 +16673,13 @@
      "game": "MTG",
      "available": true,
      "price": 74.95
+    },
+    "pokemon-battle-styles-elite-trainer-box-rapid-strike-urshifu": {
+     "title": "Pokemon - Battle Styles - Elite Trainer Box - Rapid Strike Urshifu",
+     "game": "Pokemon",
+     "available": false,
+     "price": 199.95,
+     "unavail_since": 1789761014
     }
    },
    "baselined": true,
@@ -16691,10 +16699,9 @@
     "one-piece-op-10-booster-box-pre-order": {
      "title": "One Piece OP-10 Royal Blood Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 349.95,
-     "last_restock_alert": 1787086505,
-     "unavail_since": 1787776225
+     "available": true,
+     "price": 399.95,
+     "last_restock_alert": 1789761008
     },
     "one-piece-card-game-two-legends-booster-box-pre-order": {
      "title": "One Piece Card Game Two Legends Booster Box",
@@ -17488,9 +17495,9 @@
     "one-piece-tcg-double-pack-set-volume-11-pre-order": {
      "title": "One Piece TCG Double Pack Set VOLUME 11",
      "game": "One Piece",
-     "available": false,
-     "price": 35.99,
-     "unavail_since": 1784083348
+     "available": true,
+     "price": 49.95,
+     "last_restock_alert": 1789761011
     },
     "one-piece-tcg-double-pack-set-volume-10-pre-order": {
      "title": "One Piece TCG Double Pack Set VOLUME 10",
@@ -18312,7 +18319,7 @@
      "unavail_since": 1789587610
     },
     "reprint-pokemon-scarlet-and-violet-journey-together-non-enhanced-booster-box-pre-order": {
-     "title": "Pokemon - Scarlet and Violet - Journey Together non enhanced Booster Box (Pre Order)",
+     "title": "Pokemon - Scarlet and Violet - Journey Together non enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
      "price": 319.95,
@@ -18388,9 +18395,9 @@
     "one-piece-tcg-op07-booster-box-pre-order": {
      "title": "One Piece TCG OP07 500 Years In The Future Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 429.95,
-     "unavail_since": 1789675806
+     "available": true,
+     "price": 449.95,
+     "last_restock_alert": 1789761008
     },
     "pokemon-silver-tempest-booster-bundle-sealed-case-of-25": {
      "title": "Pokemon - Silver Tempest - Booster Bundle - Sealed Case of 25",
@@ -19056,7 +19063,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21154,6 +21161,18 @@
      "game": "MTG",
      "available": true,
      "price": 99.95
+    },
+    "pokemon-eevee-trainer-journey-587-pcs": {
+     "title": "POKEMON EEVEE TRAINER JOURNEY 587 PCS",
+     "game": "Pokemon",
+     "available": true,
+     "price": 109.95
+    },
+    "mtg-kaldheim-draft-booster": {
+     "title": "MTG KALDHEIM DRAFT BOOSTER BOX",
+     "game": "MTG",
+     "available": true,
+     "price": 259.95
     }
    },
    "baselined": true,
@@ -21173,7 +21192,7 @@
      "title": "Pok\u00e9mon Abyss Eye M5 Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 64.99,
+     "price": 59.99,
      "last_restock_alert": 1786737310
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-box": {
@@ -21194,7 +21213,7 @@
      "title": "Pok\u00e9mon Nihil Zero M3 Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 64.99,
+     "price": 59.99,
      "last_restock_alert": 1788552548
     },
     "pokemon-base-set-shadowless-1st-edition-booster-box": {
@@ -21747,7 +21766,7 @@
      "title": "Pokemon Mega Dream ex M2A Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 94.99,
+     "price": 84.99,
      "last_restock_alert": 1789512918
     },
     "pokemon-mega-brave-m1l-japanese-booster-box": {
@@ -21828,7 +21847,7 @@
      "title": "Pok\u00e9mon Storm Emeralda M6 Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 99.99,
+     "price": 94.99,
      "last_restock_alert": 1789417519
     },
     "japanese-hiroshima-special-box": {
@@ -21852,9 +21871,9 @@
     "pokemon-30th-celebration-m6a-japanese-booster-box": {
      "title": "[Pre Order] Pok\u00e9mon 30th Celebration M6A Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 164.99,
-     "unavail_since": 1789587610
+     "last_restock_alert": 1789761013
     },
     "pokemon-tcg-ex-tin-greninja-30th-celebration": {
      "title": "Pok\u00e9mon TCG: ex Tin - Greninja - 30th Celebration",
@@ -24962,9 +24981,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 31,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'one-piece-card-game-illustration-box-vol-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -26140,8 +26159,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26535,8 +26554,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
