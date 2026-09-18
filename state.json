@@ -14765,7 +14765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16632,16 +16632,18 @@
     "pokemon-30th-celebration-tech-sticker-collection-lucario": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Lucario",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 54.95,
-     "last_restock_alert": 1789762513
+     "last_restock_alert": 1789762513,
+     "unavail_since": 1789762810
     },
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon - 30th Celebration - Knock Out Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 39.95,
-     "last_restock_alert": 1789762513
+     "last_restock_alert": 1789762513,
+     "unavail_since": 1789762810
     },
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Alolan Exeggutor",
@@ -19074,7 +19076,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24255,7 +24257,7 @@
      "title": "Zendikar Rising - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 179.75,
+     "price": 174.75,
      "unavail_since": 1786195830
     },
     "commander-legends-draft-booster-box": {
@@ -25004,7 +25006,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
