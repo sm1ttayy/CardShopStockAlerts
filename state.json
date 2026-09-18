@@ -18563,10 +18563,9 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 24.95,
-     "last_restock_alert": 1788625809,
-     "unavail_since": 1789417820
+     "available": true,
+     "price": 29.95,
+     "last_restock_alert": 1789769423
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -18717,23 +18716,23 @@
     "pokemon-30th-celebration-tech-sticker-collection-lucariopre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 44.95,
-     "unavail_since": 1788748811
+     "last_restock_alert": 1789769423
     },
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor-pre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 44.95,
-     "unavail_since": 1788663617
+     "last_restock_alert": 1789769423
     },
     "pokemon-30th-celebration-poster-collection-pre-order": {
      "title": "Pokemon 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 44.95,
-     "unavail_since": 1788729624
+     "available": true,
+     "price": 47.95,
+     "last_restock_alert": 1789769423
     },
     "mtg-universes-beyond-the-hobbit-draft-night-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Draft Night",
@@ -19091,7 +19090,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25021,7 +25020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
