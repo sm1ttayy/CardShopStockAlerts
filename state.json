@@ -12746,7 +12746,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 75.0,
-     "unavail_since": 1789691425
+     "unavail_since": 1789691425,
+     "delisted": true
     },
     "pokemon-tcg-30th-celebration-1x-pack-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration 1x Pack - Moonshot Rips (OPENED LIVE ON STREAM)",
@@ -14729,7 +14730,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19020,7 +19021,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21841,7 +21842,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 21.99,
-     "unavail_since": 1789694420
+     "unavail_since": 1789694420,
+     "delisted": true
     }
    },
    "baselined": true,
@@ -24925,7 +24927,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26103,8 +26105,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26498,8 +26500,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
