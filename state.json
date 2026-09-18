@@ -1513,6 +1513,13 @@
      "available": false,
      "price": 36.99,
      "unavail_since": 1789748286
+    },
+    "figure-one-piece-battle-record-collection-extra-charlotte-linlin": {
+     "title": "One Piece: Charlotte Linlin - Battle Record Collection Extra Figure",
+     "game": "One Piece",
+     "available": false,
+     "price": 36.0,
+     "unavail_since": 1789758264
     }
    },
    "baselined": true,
@@ -4289,7 +4296,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5674,7 +5681,7 @@
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 32.0
+     "price": 35.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
@@ -10628,6 +10635,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 340.0
+    },
+    "set-sail-deck-set-sd-01-one-piece-09-18": {
+     "title": "Set Sail Deck Set SD-01 [One Piece] (09/18)",
+     "game": "One Piece",
+     "available": true,
+     "price": 35.0
     }
    },
    "baselined": true,
