@@ -1506,6 +1506,13 @@
      "price": 11.49,
      "unavail_since": 1789485239,
      "delisted": true
+    },
+    "one-piece-tcg-sd01-set-sail-deck-set": {
+     "title": "One Piece TCG: [SD01] Set Sail Deck Set (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 36.99,
+     "unavail_since": 1789748286
     }
    },
    "baselined": true,
@@ -4282,7 +4289,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5777,7 +5784,7 @@
      "title": "One Piece The Three Captains Deck",
      "game": "One Piece",
      "available": true,
-     "price": 107.0
+     "price": 110.0
     },
     "one-piece-tcg-soundloader-luffy-edition-2025": {
      "title": "One Piece TCG: Soundloader Luffy Edition 2025",
