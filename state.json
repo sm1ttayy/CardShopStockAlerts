@@ -14730,9 +14730,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 16,
    "error_streak": 1,
-   "last_error": "Geekery Games: product 'one-piece-the-time-of-battle-booster-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
+   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-booster-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16641,8 +16641,8 @@
    },
    "baselined": true,
    "check_cursor": 6,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "401 Games: product 'one-piece-card-game-double-pack-set-vol-12' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://hobbiesville.com": {
    "products": {
@@ -19021,7 +19021,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21124,7 +21124,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
+   "last_error": "Exor Games: product 'pokemon-mega-greninja-ex-premium-collection' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://pokerand.net": {
    "products": {
@@ -24927,7 +24927,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26105,8 +26105,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: <urlopen error [Errno 11001] getaddrinfo failed>",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26500,8 +26500,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: <urlopen error [Errno 11001] getaddrinfo failed>",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
