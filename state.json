@@ -19020,7 +19020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21835,6 +21835,13 @@
      "price": 19.99,
      "unavail_since": 1789683920,
      "delisted": true
+    },
+    "pokemon-tcg-ex-tin-sylveon-30th-celebration": {
+     "title": "Pok\u00e9mon TCG: ex Tin - Sylveon - 30th Celebration",
+     "game": "Pokemon",
+     "available": false,
+     "price": 21.99,
+     "unavail_since": 1789694420
     }
    },
    "baselined": true,
@@ -24918,7 +24925,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26096,8 +26103,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26491,8 +26498,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
