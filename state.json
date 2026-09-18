@@ -14731,8 +14731,8 @@
    },
    "baselined": true,
    "check_cursor": 16,
-   "error_streak": 1,
-   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-booster-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -16641,8 +16641,8 @@
    },
    "baselined": true,
    "check_cursor": 6,
-   "error_streak": 1,
-   "last_error": "401 Games: product 'one-piece-card-game-double-pack-set-vol-12' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://hobbiesville.com": {
    "products": {
@@ -19021,7 +19021,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21123,8 +21123,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-mega-greninja-ex-premium-collection' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -21848,8 +21848,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1,
-   "last_error": "PokeRand: product 'pokemon-30th-celebration-m6a-japanese-booster-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -24927,7 +24927,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
