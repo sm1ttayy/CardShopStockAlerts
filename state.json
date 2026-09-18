@@ -14765,7 +14765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16382,9 +16382,9 @@
     "pokemon-scarlet-and-violet-obsidian-flames-booster-box": {
      "title": "Pokemon - Scarlet and Violet - Obsidian Flames - Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 529.95,
-     "unavail_since": 1787961321
+     "last_restock_alert": 1789763422
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box-pokemon-center": {
      "title": "Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box (POKEMON CENTER)",
@@ -19076,7 +19076,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22728,7 +22728,7 @@
      "title": "Japanese Heat Wave Arena Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 126.75,
+     "price": 127.99,
      "unavail_since": 1786195839
     },
     "japanese-glory-of-team-rocket-booster-box": {
@@ -23685,7 +23685,7 @@
      "title": "Twilight Masquerade Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2249.75,
+     "price": 2224.75,
      "unavail_since": 1786195830
     },
     "perfect-order-booster-bundle": {
@@ -25006,7 +25006,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
