@@ -14765,9 +14765,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 34,
+   "error_streak": 1,
+   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-build-battle-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -19082,7 +19082,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21196,8 +21196,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://pokerand.net": {
    "products": {
@@ -26190,8 +26190,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-core-2021-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26583,8 +26583,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: <urlopen error [Errno 11001] getaddrinfo failed>",
    "check_cursor": 0
   }
  }
