@@ -19096,7 +19096,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21798,9 +21798,10 @@
     "pokemon-mega-dream-ex-m2a-japanese-booster-box": {
      "title": "Pokemon Mega Dream ex M2A Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 84.99,
-     "last_restock_alert": 1789512918
+     "last_restock_alert": 1789512918,
+     "unavail_since": 1789772713
     },
     "pokemon-mega-brave-m1l-japanese-booster-box": {
      "title": "Pok\u00e9mon Mega Brave M1L Japanese Booster Box",
@@ -25026,7 +25027,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
