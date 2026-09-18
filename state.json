@@ -14765,7 +14765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16632,23 +16632,23 @@
     "pokemon-30th-celebration-tech-sticker-collection-lucario": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Lucario",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 54.95,
-     "unavail_since": 1789599009
+     "last_restock_alert": 1789762513
     },
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon - 30th Celebration - Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 39.95,
-     "unavail_since": 1789675812
+     "last_restock_alert": 1789762513
     },
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Alolan Exeggutor",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 54.95,
-     "unavail_since": 1789601710
+     "last_restock_alert": 1789762521
     },
     "mtg-double-masters-booster-box": {
      "title": "MTG - Double Masters - Booster Box",
@@ -18629,7 +18629,7 @@
      "title": "Pokemon - 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 179.95,
+     "price": 189.95,
      "unavail_since": 1788207618
     },
     "mtg-modern-horizons-3-commander-deck-creative-energy": {
@@ -18711,14 +18711,14 @@
      "unavail_since": 1788627609
     },
     "pokemon-30th-celebration-tech-sticker-collection-lucariopre-order": {
-     "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario (Pre Order)",
+     "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario",
      "game": "Pokemon",
      "available": false,
      "price": 44.95,
      "unavail_since": 1788748811
     },
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor-pre-order": {
-     "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor (Pre Order)",
+     "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor",
      "game": "Pokemon",
      "available": false,
      "price": 44.95,
@@ -19074,7 +19074,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 88,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22233,7 +22233,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 449.75,
+     "price": 454.99,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800622
     },
@@ -23406,7 +23406,7 @@
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 63.99,
+     "price": 59.75,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -23571,7 +23571,7 @@
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 428.75,
+     "price": 449.99,
      "unavail_since": 1789603830
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
@@ -23938,7 +23938,7 @@
      "title": "Vendetta Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 183.25,
+     "price": 182.75,
      "last_restock_alert": 1786403130,
      "unavail_since": 1786919752
     },
@@ -24950,7 +24950,7 @@
      "title": "Unleashed Champion Deck (Vi)",
      "game": "Riftbound",
      "available": true,
-     "price": 16.49
+     "price": 16.25
     },
     "prismatic-evolutions-booster-bundle-surprise-box-bundle-sams-club": {
      "title": "Prismatic Evolutions Booster Bundle + Surprise Box Bundle (Sam's Club)",
@@ -25004,7 +25004,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26575,8 +26575,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "crocodile-duel-memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
