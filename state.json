@@ -4282,7 +4282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4538,7 +4538,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 265.0,
+     "price": 283.0,
      "last_restock_alert": 1789047767
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -4551,7 +4551,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 205.0,
+     "price": 204.0,
      "last_restock_alert": 1789047763
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -4576,9 +4576,10 @@
     "magic-the-gathering-marvel-super-heroes-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 119.0,
-     "last_restock_alert": 1789450037
+     "available": false,
+     "price": 118.0,
+     "last_restock_alert": 1789450037,
+     "unavail_since": 1789738807
     },
     "magic-the-gathering-foundations-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Foundations Play Booster Box",
@@ -4597,7 +4598,7 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 176.0,
+     "price": 168.0,
      "unavail_since": 1785267925
     },
     "magic-the-gathering-aetherdrift-play-booster-box-pre-order": {
@@ -4629,7 +4630,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 124.0,
+     "price": 122.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
@@ -5099,7 +5100,7 @@
      "title": "Magic The Gathering: The Hobbit Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 176.0,
+     "price": 178.0,
      "last_restock_alert": 1787092422
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
@@ -5180,7 +5181,7 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 131.0,
+     "price": 129.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-avatar-the-last-airbender-collector-booster-box-pre-order": {
@@ -5194,7 +5195,7 @@
      "title": "Magic The Gathering: Marvel Spider-Man Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 131.0,
+     "price": 130.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-marvel-spider-man-collector-booster-box-pre-order": {
@@ -5215,7 +5216,7 @@
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 309.0,
+     "price": 307.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -5623,7 +5624,7 @@
      "title": "One Piece Card Game: Pillars of Strength Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 513.0,
+     "price": 499.0,
      "unavail_since": 1785357604
     },
     "magic-the-gathering-murders-at-karlov-manor-play-booster-box-pre-order": {
@@ -5702,7 +5703,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 193.0,
+     "price": 192.0,
      "last_restock_alert": 1788961604,
      "unavail_since": 1789654816
     },
@@ -6343,15 +6344,15 @@
     "magic-the-gathering-marvel-super-heroes-play-booster-box": {
      "title": "Magic the Gathering Marvel Super Heroes Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 129.75,
-     "unavail_since": 1787860490
+     "last_restock_alert": 1789738798
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-box": {
      "title": "Magic The Gathering Avatar The Last Airbender Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 139.75
+     "price": 129.75
     },
     "magic-the-gathering-lorwyn-eclipsed-play-booster-6-box-case": {
      "title": "Magic The Gathering Lorwyn Eclipsed Play Booster 6-Box Case",
@@ -9201,8 +9202,9 @@
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
      "title": "The Lord of the Rings: Tales of Middle Earth Set Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 500.0
+     "available": false,
+     "price": 279.99,
+     "unavail_since": 1789738797
     },
     "wilds-of-eldraine-set-booster-box": {
      "title": "Wilds of Eldraine Set Booster Box",
@@ -9593,6 +9595,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 599.99
+    },
+    "magic-the-gathering-marvel-super-heroes-play-booster-box-mtg": {
+     "title": "Magic: The Gathering Marvel Super Heroes - Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 144.99
+    },
+    "magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-box-mtg": {
+     "title": "Magic: The Gathering Teenage Mutant Ninja Turtles Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 119.99
     }
    },
    "baselined": true,
@@ -11146,7 +11160,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 60.99,
-     "unavail_since": 1789669748
+     "unavail_since": 1789669748,
+     "delisted": true
     },
     "pokemon-tcg-mega-zygarde-ex-premium-collection-box": {
      "title": "Pokemon TCG:  Mega Zygarde ex Premium Collection Box",
@@ -12394,7 +12409,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
