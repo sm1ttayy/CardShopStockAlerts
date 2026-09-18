@@ -12795,7 +12795,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-tcg-30th-celebration-1x-pack-moonshot-rips' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -13558,7 +13558,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -14765,9 +14765,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 5,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'assassins-creed-beyond-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -19063,9 +19063,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'league-of-legends-riftbound-tcg-vendetta-vault-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -21178,7 +21178,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -21903,7 +21903,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: search 'magic bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -24981,9 +24981,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 3,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'one-piece-card-game-illustration-box-vol-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'carrying-on-his-will-booster-box-op13' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
