@@ -4296,7 +4296,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14765,9 +14765,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
-   "error_streak": 1,
-   "last_error": "Geekery Games: product 'pokemon-me05-pitch-black-build-battle-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 2,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -18229,9 +18229,10 @@
     "mtg-lord-of-the-rings-commander-deck-elvin-council-pre-order": {
      "title": "MTG - Lord Of The Rings Commander Deck - Elven Council",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 89.95,
-     "last_restock_alert": 1789761629
+     "last_restock_alert": 1789761629,
+     "unavail_since": 1789767931
     },
     "mtg-commander-masters-commander-deck-planeswalker-party-pre-order": {
      "title": "MTG - Commander Masters - Commander Deck - Planeswalker Party",
@@ -18307,9 +18308,10 @@
     "mtg-lord-of-the-rings-commander-deck-riders-of-rohan-pre-order": {
      "title": "MTG - Lord Of The Rings Commander Deck - Riders Of Rohan",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 89.99,
-     "last_restock_alert": 1789761629
+     "last_restock_alert": 1789761629,
+     "unavail_since": 1789767931
     },
     "reprint-pokemon-scarlet-and-violet-destined-rivals-elite-trainer-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Elite Trainer Box",
@@ -19071,8 +19073,9 @@
     "mtg-lord-of-the-rings-commander-deck-the-hosts-of-mordor-pre-order": {
      "title": "MTG - Lord Of The Rings Commander Deck - The Hosts Of Mordor",
      "game": "MTG",
-     "available": true,
-     "price": 149.95
+     "available": false,
+     "price": 149.95,
+     "unavail_since": 1789767931
     },
     "pokemon-tcg-scarlet-violet-stellar-crown-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Scarlet & Violet-Stellar Crown Elite Trainer Box",
@@ -19082,7 +19085,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21196,8 +21199,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -25012,7 +25015,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26190,8 +26193,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-core-2021-booster-box-36-packs' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -26583,8 +26586,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: <urlopen error [Errno 11001] getaddrinfo failed>",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
