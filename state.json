@@ -12760,7 +12760,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'pokemon-tcg-30th-celebration-1x-pack-moonshot-rips' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -13523,7 +13523,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -14731,8 +14731,8 @@
    },
    "baselined": true,
    "check_cursor": 24,
-   "error_streak": 0,
-   "last_error": "Geekery Games: product 'one-piece-the-time-of-battle-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 1,
+   "last_error": "Geekery Games: product 'one-piece-the-time-of-battle-booster-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://store.401games.ca": {
    "products": {
@@ -19021,9 +19021,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 94,
+   "check_cursor": 58,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -21123,8 +21123,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://pokerand.net": {
    "products": {
@@ -21848,8 +21848,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 0,
-   "last_error": "PokeRand: product 'pokemon-30th-celebration-m6a-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 1,
+   "last_error": "PokeRand: product 'pokemon-30th-celebration-m6a-japanese-booster-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://common-lands.com": {
    "products": {
@@ -24927,9 +24927,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 5,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'jumpstart-2022-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -26105,7 +26105,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
+   "error_streak": 1,
    "last_error": "Undiscovered Realm: product 'magic-the-gathering-foundations-bundle' failed: <urlopen error [Errno 11001] getaddrinfo failed>",
    "check_cursor": 4
   },
@@ -26500,7 +26500,7 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
+   "error_streak": 2,
    "last_error": "memories-incredible-ichibansho-anime-static-figures-seen-in-their-popular-pose-bandai-spirits-bas63612' failed: <urlopen error [Errno 11001] getaddrinfo failed>",
    "check_cursor": 0
   }
