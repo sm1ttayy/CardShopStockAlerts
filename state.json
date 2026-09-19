@@ -16948,9 +16948,10 @@
     "pokemon-mega-evolutions-ascended-heroes-booster-bundle": {
      "title": "Pokemon Mega Evolutions Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 119.95,
-     "last_restock_alert": 1787258412
+     "last_restock_alert": 1787258412,
+     "unavail_since": 1789846212
     },
     "pokemon-scarlet-violet-prismatic-evolutions-booster-bundle-pre-order": {
      "title": "Pokemon Scarlet & Violet Prismatic Evolutions Booster Bundle",
@@ -19109,7 +19110,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22000,7 +22001,7 @@
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 111.75
+     "price": 111.49
     },
     "team-up-booster-box": {
      "title": "Team Up Booster Box",
@@ -22048,7 +22049,7 @@
      "title": "Lorwyn Eclipsed Play Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 113.25,
+     "price": 112.75,
      "last_restock_alert": 1788575446
     },
     "secrets-of-strixhaven-play-booster-display": {
@@ -22187,7 +22188,7 @@
      "title": "Aetherdrift Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 105.75,
+     "price": 105.49,
      "last_restock_alert": 1786658434
     },
     "foundations-jumpstart-booster-display": {
@@ -23350,7 +23351,7 @@
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 66.99,
+     "price": 66.75,
      "last_restock_alert": 1788046527
     },
     "paldean-fates-booster-bundle": {
@@ -23545,7 +23546,7 @@
      "title": "Final Fantasy Scions & Spellcraft Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 65.99
+     "price": 64.49
     },
     "trick-or-trade-booster-bundle-40-ct": {
      "title": "Trick or Trade BOOster Bundle (40 ct)",
@@ -23581,7 +23582,7 @@
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 273.99,
+     "price": 272.99,
      "last_restock_alert": 1789084228
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
@@ -23674,7 +23675,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 49.25
+     "price": 48.99
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -23812,7 +23813,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 46.49
+     "price": 45.99
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -23858,13 +23859,13 @@
      "title": "Core Set 2020 - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 189.49
+     "price": 180.75
     },
     "stellar-crown-pokemon-center-elite-trainer-box": {
      "title": "Stellar Crown Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 169.75
+     "price": 167.99
     },
     "dominaria-united-draft-booster-box": {
      "title": "Dominaria United - Draft Booster Box",
@@ -24021,7 +24022,7 @@
      "title": "Streets of New Capenna - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 143.75
+     "price": 134.75
     },
     "mega-brave-booster-box": {
      "title": "Mega Brave Booster Box",
@@ -24052,7 +24053,7 @@
      "title": "Chaos Rising Elite Trainer Box \u2014 Pokemon Center",
      "game": "Pokemon",
      "available": true,
-     "price": 116.75
+     "price": 115.75
     },
     "twilight-masquerade-pokemon-center-elite-trainer-box": {
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
@@ -24070,7 +24071,7 @@
      "title": "Pokemon GO Pin Collection [Bulbasaur]",
      "game": "Pokemon",
      "available": true,
-     "price": 75.75
+     "price": 75.49
     },
     "pokemon-go-radiant-eevee-premium-collection": {
      "title": "Pokemon GO Radiant Eevee Premium Collection",
@@ -24649,7 +24650,7 @@
      "title": "Mega Evolution Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 63.75
+     "price": 63.49
     },
     "pokemon-celebrations-deluxe-pin-collection-zacian-lv-x": {
      "title": "Celebrations Deluxe Pin Collection [Zacian LV. X]",
@@ -24749,7 +24750,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 70.75
+     "price": 67.75
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -24951,7 +24952,7 @@
      "title": "Temporal Forces Pokemon Center Elite Trainer Box [Walking Wake]",
      "game": "Pokemon",
      "available": true,
-     "price": 205.75
+     "price": 204.99
     },
     "pokemon-s-v-temporal-forces-pokemon-center-elite-trainer-box-iron-leaves": {
      "title": "Temporal Forces Pokemon Center Elite Trainer Box [Iron Leaves]",
@@ -24999,14 +25000,14 @@
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 31.99,
+     "price": 30.75,
      "last_restock_alert": 1789598432
     },
     "30th-celebration-pack": {
      "title": "30th Celebration Pack",
      "game": "Pokemon",
      "available": true,
-     "price": 17.49
+     "price": 16.49
     },
     "shrouded-fable-mini-tin-zoroark": {
      "title": "Shrouded Fable Mini Tin [Zoroark]",
@@ -25041,7 +25042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26158,8 +26159,9 @@
     "pokemon-tcg-30th-celebration-poster-collection-pre-order": {
      "title": "Pokemon TCG 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 44.95
+     "available": false,
+     "price": 44.95,
+     "unavail_since": 1789846229
     },
     "pokemon-tcg-30th-celebration-tech-sticker-collection-set-of-2-alolan-exeggutor-lucario-pre-order": {
      "title": "Pokemon TCG 30th Celebration Tech Sticker Collection Set of 2 Alolan Exeggutor & Lucario",
