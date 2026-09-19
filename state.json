@@ -1239,9 +1239,10 @@
     "one-piece-tcg-starter-deck-purple-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck Purple - Charlotte Katakuri (ST-34)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 22.82,
-     "last_restock_alert": 1788810646
+     "last_restock_alert": 1788810646,
+     "unavail_since": 1789817822
     },
     "magic-the-gathering-amonkhet-booster-box": {
      "title": "Magic: the Gathering: Amonkhet - Booster Box",
@@ -4296,7 +4297,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5791,7 +5792,7 @@
      "title": "One Piece The Three Captains Deck",
      "game": "One Piece",
      "available": true,
-     "price": 110.0
+     "price": 106.0
     },
     "one-piece-tcg-soundloader-luffy-edition-2025": {
      "title": "One Piece TCG: Soundloader Luffy Edition 2025",
