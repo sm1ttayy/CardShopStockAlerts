@@ -14765,9 +14765,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 47,
+   "error_streak": 1,
+   "last_error": "Geekery Games: product 'teenage-mutant-ninja-turtles-bundle-preorder' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://store.401games.ca": {
    "products": {
@@ -19097,7 +19097,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21211,8 +21211,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-fusion-strike-pokemon-center-elite-trainer-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://pokerand.net": {
    "products": {
@@ -25028,7 +25028,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
