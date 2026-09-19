@@ -14747,8 +14747,9 @@
     "lord-of-the-rings-food-fellowship-commander-deck": {
      "title": "Lord of the Rings Food & Fellowship Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 104.95
+     "available": false,
+     "price": 104.95,
+     "unavail_since": 1789860916
     },
     "bloomburrow-peace-offering-commander-deck": {
      "title": "Bloomburrow Peace Offering Commander Deck",
@@ -19117,7 +19118,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25056,7 +25057,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
