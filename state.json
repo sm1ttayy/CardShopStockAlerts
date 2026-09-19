@@ -19109,7 +19109,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24822,8 +24822,9 @@
     "commander-legends-battle-for-baldurs-gate-exit-from-exile-commander-deck": {
      "title": "Commander Legends: Battle for Baldur's Gate - Exit from Exile Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 177.75
+     "available": false,
+     "price": 177.75,
+     "unavail_since": 1789851036
     },
     "pokemon-s-v-shrouded-fable-pokemon-center-elite-trainer-box": {
      "title": "Shrouded Fable Pokemon Center Elite Trainer Box",
@@ -25041,7 +25042,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
