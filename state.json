@@ -1330,7 +1330,7 @@
      "title": "Magic: The Gathering - Fallout Commander Deck - Hail, Caesar",
      "game": "MTG",
      "available": false,
-     "price": 168.31,
+     "price": 149.49,
      "unavail_since": 1786988871
     },
     "strixhaven-commander-deck-witherbloom-witchcraft": {
@@ -1509,7 +1509,7 @@
      "delisted": true
     },
     "one-piece-tcg-sd01-set-sail-deck-set": {
-     "title": "One Piece TCG: [SD01] Set Sail Deck Set (Pre-Order)",
+     "title": "One Piece TCG: [SD01] Set Sail Deck Set",
      "game": "One Piece",
      "available": false,
      "price": 36.99,
@@ -4348,7 +4348,7 @@
      "title": "One Piece TCG: The Azure Seas Seven Booster Box (OP-14)",
      "game": "One Piece",
      "available": false,
-     "price": 273.0,
+     "price": 270.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-box-pre-order": {
@@ -4553,7 +4553,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 283.0,
+     "price": 277.0,
      "last_restock_alert": 1789047767
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -4566,7 +4566,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 204.0,
+     "price": 205.0,
      "last_restock_alert": 1789047763
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -4592,7 +4592,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 118.0,
+     "price": 117.0,
      "last_restock_alert": 1789450037,
      "unavail_since": 1789738807
     },
@@ -4645,7 +4645,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 122.0,
+     "price": 121.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
@@ -5115,7 +5115,7 @@
      "title": "Magic The Gathering: The Hobbit Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 178.0,
+     "price": 176.0,
      "last_restock_alert": 1787092422
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
@@ -5196,7 +5196,7 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 129.0,
+     "price": 128.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-avatar-the-last-airbender-collector-booster-box-pre-order": {
@@ -5224,7 +5224,7 @@
      "title": "Pokemon TCG: Mega Evolution - Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 323.0,
+     "price": 322.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-booster-box-pre-order": {
@@ -5639,7 +5639,7 @@
      "title": "One Piece Card Game: Pillars of Strength Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 499.0,
+     "price": 525.0,
      "unavail_since": 1785357604
     },
     "magic-the-gathering-murders-at-karlov-manor-play-booster-box-pre-order": {
@@ -5718,7 +5718,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 192.0,
+     "price": 184.0,
      "last_restock_alert": 1788961604,
      "unavail_since": 1789654816
     },
@@ -9337,7 +9337,7 @@
      "title": "Magic: The Gathering Reality Fracture Play Booster Box (Presale)",
      "game": "MTG",
      "available": true,
-     "price": 149.99
+     "price": 174.99
     },
     "kamigawa-neon-dynasty-draft-booster-box": {
      "title": "Kamigawa: Neon Dynasty Draft Booster Box",
@@ -9622,6 +9622,12 @@
      "game": "MTG",
      "available": true,
      "price": 119.99
+    },
+    "magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-box-mtg": {
+     "title": "Magic: The Gathering Avatar The Last Airbender Jumpstart Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 119.99
     }
    },
    "baselined": true,
@@ -9826,10 +9832,9 @@
     "vendetta-booster-box-riftbound-7-31": {
      "title": "Vendetta Booster Box [Riftbound] (7/31)",
      "game": "Riftbound",
-     "available": false,
-     "price": 125.0,
-     "last_restock_alert": 1786530651,
-     "unavail_since": 1787566191
+     "available": true,
+     "price": 175.0,
+     "last_restock_alert": 1789823623
     },
     "origins-booster-box-riftbound": {
      "title": "Origins Booster Box [Riftbound]",
@@ -9842,9 +9847,9 @@
     "unleashed-booster-box-riftbound": {
      "title": "Unleashed Booster Box [Riftbound] (5/8)",
      "game": "Riftbound",
-     "available": false,
-     "price": 160.0,
-     "unavail_since": 1788793670
+     "available": true,
+     "price": 185.0,
+     "last_restock_alert": 1789823640
     },
     "spiritforge-booster-box-riftbound": {
      "title": "Spiritforged Booster Box [Riftbound]",
@@ -12430,7 +12435,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
