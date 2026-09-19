@@ -18638,9 +18638,9 @@
     "pokemon-30th-celebration-elite-trainer-box-pre-order": {
      "title": "Pokemon - 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 189.95,
-     "unavail_since": 1788207618
+     "last_restock_alert": 1789826110
     },
     "mtg-modern-horizons-3-commander-deck-creative-energy": {
      "title": "MTG - Modern Horizons 3 - Commander Deck - Creative Energy",
@@ -19100,10 +19100,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 94.99
+    },
+    "pokemon-30th-celebration-espeon-ex-umbreon-ex-premium-deck-set": {
+     "title": "Pokemon 30th Celebration Espeon ex & Umbreon ex Premium Deck Set",
+     "game": "Pokemon",
+     "available": true,
+     "price": 229.95
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21912,9 +21918,10 @@
     "pokemon-30th-celebration-m6a-japanese-booster-box": {
      "title": "[Pre Order] Pok\u00e9mon 30th Celebration M6A Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 164.99,
-     "last_restock_alert": 1789761013
+     "last_restock_alert": 1789761013,
+     "unavail_since": 1789826110
     },
     "pokemon-tcg-ex-tin-greninja-30th-celebration": {
      "title": "Pok\u00e9mon TCG: ex Tin - Greninja - 30th Celebration",
@@ -22200,7 +22207,7 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 279.99,
+     "price": 234.75,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
@@ -22556,7 +22563,7 @@
      "title": "Japanese Wild Force Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 107.75,
+     "price": 109.25,
      "unavail_since": 1786195837
     },
     "stellar-miracle-booster-box": {
@@ -23275,7 +23282,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 74.75
+     "price": 75.25
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -23601,7 +23608,7 @@
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 449.99,
+     "price": 427.75,
      "unavail_since": 1789603830
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
@@ -23647,7 +23654,7 @@
      "title": "Kaldheim - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 194.75,
+     "price": 184.49,
      "last_restock_alert": 1786657830
     },
     "unfinity-draft-booster-box": {
@@ -23765,7 +23772,7 @@
      "title": "Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 273.75,
+     "price": 272.99,
      "unavail_since": 1789598435
     },
     "lost-origin-pokemon-center-elite-trainer-box": {
@@ -23844,7 +23851,7 @@
      "title": "Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 80.75,
+     "price": 81.25,
      "unavail_since": 1785187243
     },
     "core-set-2020-booster-box": {
@@ -23989,7 +23996,7 @@
      "title": "Innistrad: Crimson Vow - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 149.99,
+     "price": 149.75,
      "unavail_since": 1786195830
     },
     "pokemon-charizard-ex-super-premium-collection": {
@@ -24196,7 +24203,7 @@
      "title": "Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": false,
-     "price": 27.25,
+     "price": 26.99,
      "unavail_since": 1786195236
     },
     "the-hobbit-play-booster-display": {
@@ -24236,7 +24243,7 @@
      "title": "Dominaria United - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 298.75,
+     "price": 299.75,
      "unavail_since": 1786195830
     },
     "strixhaven-school-of-mages-set-booster-display": {
@@ -24697,7 +24704,7 @@
      "title": "Double Pack Set Vol. 10",
      "game": "One Piece",
      "available": false,
-     "price": 39.99,
+     "price": 39.75,
      "last_restock_alert": 1788205828,
      "unavail_since": 1789417544
     },
@@ -24791,7 +24798,7 @@
      "title": "One Piece English Version 2nd Anniversary Set (Sealed Promotional Bundle)",
      "game": "One Piece",
      "available": false,
-     "price": 1675.75,
+     "price": 1646.75,
      "unavail_since": 1787788531
     },
     "scarlet-violet-pokemon-center-elite-trainer-box-koraidon": {
@@ -24834,7 +24841,7 @@
      "title": "The World's Strongest Warriors Double Pack Set Vol.12",
      "game": "One Piece",
      "available": false,
-     "price": 40.75,
+     "price": 41.49,
      "unavail_since": 1789417547
     },
     "illustration-box-vol-6": {
@@ -24866,7 +24873,7 @@
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 122.99
+     "price": 123.75
     },
     "the-hobbit-gift-bundle": {
      "title": "The Hobbit Gift Bundle",
@@ -25034,7 +25041,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26210,6 +26217,12 @@
      "game": "One Piece",
      "available": true,
      "price": 14.95
+    },
+    "light-box-damage-one-piece-hungry-big-mom-6-funko-pop-super-1268": {
+     "title": "(Light Box Damage) One Piece Hungry Big Mom 6\" Funko Pop Super #1268",
+     "game": "One Piece",
+     "available": true,
+     "price": 19.95
     }
    },
    "baselined": true,
