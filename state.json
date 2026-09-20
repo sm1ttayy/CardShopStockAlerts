@@ -18805,9 +18805,10 @@
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor-pre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 44.95,
-     "last_restock_alert": 1789769423
+     "last_restock_alert": 1789769423,
+     "unavail_since": 1789926911
     },
     "pokemon-30th-celebration-poster-collection-pre-order": {
      "title": "Pokemon 30th Celebration Poster Collection",
@@ -19184,7 +19185,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25164,7 +25165,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
