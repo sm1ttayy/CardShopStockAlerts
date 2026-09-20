@@ -16696,6 +16696,19 @@
      "available": false,
      "price": 199.95,
      "unavail_since": 1789761014
+    },
+    "mtg-edge-of-eternities-commander-deck-set-of-2": {
+     "title": "MTG - Edge of Eternities - Commander Deck - Set of 2",
+     "game": "MTG",
+     "available": true,
+     "price": 114.95
+    },
+    "mtg-aetherdrift-commander-decks-set-of-2": {
+     "title": "MTG - Aetherdrift - Commander Decks - Set of 2",
+     "game": "MTG",
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1789869314
     }
    },
    "baselined": true,
@@ -19118,7 +19131,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25078,7 +25091,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
