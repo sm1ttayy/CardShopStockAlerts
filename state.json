@@ -19185,7 +19185,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25165,10 +25165,17 @@
      "game": "MTG",
      "available": true,
      "price": 62.25
+    },
+    "30th-celebration-booster-bundle-wave-2": {
+     "title": "30th Celebration Booster Bundle - Wave 2",
+     "game": "Pokemon",
+     "available": false,
+     "price": 123.49,
+     "unavail_since": 1789939524
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
