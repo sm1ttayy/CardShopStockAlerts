@@ -19177,7 +19177,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21974,9 +21974,10 @@
     "pokemon-storm-emeralda-m6-japanese-booster-box": {
      "title": "Pok\u00e9mon Storm Emeralda M6 Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 94.99,
-     "last_restock_alert": 1789417519
+     "last_restock_alert": 1789417519,
+     "unavail_since": 1789913715
     },
     "japanese-hiroshima-special-box": {
      "title": "Pokemon Center Japanese Hiroshima Special Box",
@@ -22240,7 +22241,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 959.99,
+     "price": 982.49,
      "unavail_since": 1786800622
     },
     "destined-rivals-booster-box": {
@@ -23852,7 +23853,7 @@
      "title": "Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 272.99,
+     "price": 273.75,
      "unavail_since": 1789598435
     },
     "lost-origin-pokemon-center-elite-trainer-box": {
@@ -24542,7 +24543,7 @@
      "title": "The Azure Sea's Seven Booster Box [OP14]",
      "game": "One Piece",
      "available": false,
-     "price": 257.49,
+     "price": 259.25,
      "unavail_since": 1786800618
     },
     "amonkhet-booster-box": {
@@ -24924,7 +24925,7 @@
      "title": "The World's Strongest Warriors Double Pack Set Vol.12",
      "game": "One Piece",
      "available": false,
-     "price": 41.49,
+     "price": 39.25,
      "unavail_since": 1789417547
     },
     "illustration-box-vol-6": {
@@ -25156,7 +25157,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
