@@ -19118,7 +19118,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20438,8 +20438,9 @@
     "mtg-outlaws-of-thunder-junction-play-booster-box": {
      "title": "MTG OUTLAWS OF THUNDER JUNCTION PLAY BOOSTER BOX",
      "game": "MTG",
-     "available": true,
-     "price": 239.95
+     "available": false,
+     "price": 239.95,
+     "unavail_since": 1789866013
     },
     "mtg-marvel-super-heroes-collector-booster-box": {
      "title": "MTG MARVEL SUPER HEROES COLLECTOR BOOSTER BOX",
@@ -25077,7 +25078,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
