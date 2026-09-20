@@ -19185,7 +19185,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24750,9 +24750,9 @@
     "30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "30th Celebration Tech Sticker Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 40.75,
-     "unavail_since": 1789913159
+     "last_restock_alert": 1789929923
     },
     "30th-celebration-tech-sticker-collection-wave-2": {
      "title": "30th Celebration Tech Sticker Collection - Wave 2",
@@ -24770,7 +24770,7 @@
      "title": "30th Celebration Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 164.99
+     "price": 178.75
     },
     "30th-celebration-poster-collection-wave-2": {
      "title": "30th Celebration Poster Collection - Wave 2",
@@ -25091,7 +25091,7 @@
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 30.75,
+     "price": 33.75,
      "last_restock_alert": 1789598432
     },
     "30th-celebration-pack": {
@@ -25165,7 +25165,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
