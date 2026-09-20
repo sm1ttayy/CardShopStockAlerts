@@ -17163,9 +17163,10 @@
     "mtg-secrets-of-strixhaven-play-booster-box-pre-order": {
      "title": "MTG Secrets of Strixhaven - Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 199.95,
-     "last_restock_alert": 1788270313
+     "last_restock_alert": 1788270313,
+     "unavail_since": 1789918823
     },
     "mtg-marvel-super-heroes-play-booster-box-pre-order": {
      "title": "MTG - Marvel Super Heroes Play Booster Box",
@@ -19177,7 +19178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25157,7 +25158,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
