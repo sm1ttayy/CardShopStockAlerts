@@ -19177,7 +19177,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21993,10 +21993,9 @@
     "pokemon-30th-celebration-m6a-japanese-booster-box": {
      "title": "[Pre Order] Pok\u00e9mon 30th Celebration M6A Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 164.99,
-     "last_restock_alert": 1789761013,
-     "unavail_since": 1789826110
+     "last_restock_alert": 1789913129
     },
     "pokemon-tcg-ex-tin-greninja-30th-celebration": {
      "title": "Pok\u00e9mon TCG: ex Tin - Greninja - 30th Celebration",
@@ -22282,7 +22281,7 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 234.75,
+     "price": 291.75,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
@@ -23183,7 +23182,7 @@
      "title": "Foundations Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 183.75,
+     "price": 181.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1788033932
     },
@@ -23357,7 +23356,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 75.25
+     "price": 75.75
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -23406,7 +23405,7 @@
      "title": "Chaos Rising Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 37.99
+     "price": 39.25
     },
     "prismatic-evolutions-booster-bundle": {
      "title": "Prismatic Evolutions Booster Bundle",
@@ -23722,7 +23721,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 237.49,
+     "price": 235.49,
      "last_restock_alert": 1786657540
     },
     "kaldheim-draft-booster-box": {
@@ -23802,7 +23801,7 @@
      "title": "Perfect Order Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 39.99
+     "price": 40.99
     },
     "adventures-in-the-forgotten-realms-bundle-gift-edition": {
      "title": "Adventures in the Forgotten Realms - Bundle Gift Edition",
@@ -24058,7 +24057,7 @@
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 44.75,
+     "price": 44.99,
      "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
@@ -24310,7 +24309,7 @@
      "title": "Phyrexia: All Will Be One - Set Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 289.75,
+     "price": 292.75,
      "last_restock_alert": 1786657842,
      "unavail_since": 1787405428
     },
@@ -24418,7 +24417,7 @@
      "title": "Treasure Booster Set",
      "game": "One Piece",
      "available": false,
-     "price": 191.75,
+     "price": 189.75,
      "unavail_since": 1787788531
     },
     "first-partner-illustration-collection-series-3": {
@@ -24623,7 +24622,7 @@
      "title": "Modern Horizons 2 - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 338.99,
+     "price": 349.75,
      "unavail_since": 1787405427
     },
     "wilds-of-eldraine-draft-booster-display": {
@@ -24724,7 +24723,7 @@
      "title": "Mega Evolution Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 63.49
+     "price": 63.75
     },
     "pokemon-celebrations-deluxe-pin-collection-zacian-lv-x": {
      "title": "Celebrations Deluxe Pin Collection [Zacian LV. X]",
@@ -24736,8 +24735,9 @@
     "30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "30th Celebration Tech Sticker Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 39.99
+     "available": false,
+     "price": 40.75,
+     "unavail_since": 1789913159
     },
     "30th-celebration-tech-sticker-collection-wave-2": {
      "title": "30th Celebration Tech Sticker Collection - Wave 2",
@@ -24824,7 +24824,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 67.75
+     "price": 68.49
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -24836,7 +24836,7 @@
      "title": "30th Celebration Greninja ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 63.75
+     "price": 64.75
     },
     "30th-celebration-ditto-premium-collection": {
      "title": "30th Celebration Ditto Premium Collection",
@@ -24859,8 +24859,9 @@
     "30th-celebration-tin-greninja-ex": {
      "title": "30th Celebration Tin [Greninja ex]",
      "game": "Pokemon",
-     "available": true,
-     "price": 48.99
+     "available": false,
+     "price": 59.75,
+     "unavail_since": 1789913159
     },
     "one-piece-tin-pack-set-vol-2-monkey-d-luffy": {
      "title": "One Piece Tin Pack Set Vol. 2 -Monkey.D.Luffy-",
@@ -25113,7 +25114,7 @@
      "title": "Reality Fracture - Secret Lair Bundle",
      "game": "MTG",
      "available": true,
-     "price": 189.49
+     "price": 190.49
     },
     "celebrations-mini-tin-1x-assorted-art": {
      "title": "Celebrations Mini Tin [Unova]",
@@ -25125,7 +25126,7 @@
      "title": "30th Celebration Mini Tin [Assorted Artwork]",
      "game": "Pokemon",
      "available": false,
-     "price": 46.49,
+     "price": 45.75,
      "unavail_since": 1789861245
     },
     "30th-celebration-mini-tin-assorted-artwork-wave-2": {
@@ -25134,10 +25135,22 @@
      "available": false,
      "price": 46.49,
      "unavail_since": 1789861527
+    },
+    "galar-pal-mini-tin-grookey-wooloo": {
+     "title": "Galar Pal Mini Tin (Grookey & Wooloo)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 43.25
+    },
+    "reality-fracture-bundle": {
+     "title": "Reality Fracture - Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 62.25
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
