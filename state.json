@@ -1174,9 +1174,10 @@
     "pokemon-tcg-destined-rivals-elite-trainer-box": {
      "title": "Pokemon TCG: Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 117.65,
-     "last_restock_alert": 1787332432
+     "available": false,
+     "price": 109.99,
+     "last_restock_alert": 1787332432,
+     "unavail_since": 1789880549
     },
     "kamigawa-neon-dynasty-sealed-draft-box-pre-order": {
      "title": "Magic: the Gathering: Kamigawa Neon Dynasty - Draft Booster Box",
@@ -3867,7 +3868,7 @@
      "title": "Pokemon - Celebrations: 25th Anniversary - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 440.0,
+     "price": 370.0,
      "unavail_since": 1784083329
     },
     "sword-shield-brilliant-stars-elite-trainer-box": {
@@ -4005,7 +4006,7 @@
      "unavail_since": 1786887472
     },
     "30th-celebration-knockout-collection": {
-     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Knockout Collection",
+     "title": "Pok\u00e9mon: 30th Celebration - Knockout Collection",
      "game": "Pokemon",
      "available": true,
      "price": 27.0
@@ -4294,10 +4295,17 @@
      "available": false,
      "price": 45.0,
      "unavail_since": 1789595159
+    },
+    "celebrations-ultra-premium-collection": {
+     "title": "Celebrations - Ultra-Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 1225.0,
+     "unavail_since": 1789880550
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4405,13 +4413,13 @@
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 93.0
+     "price": 91.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 42.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -5535,9 +5543,9 @@
     "pokemon-scarlet-and-violet-white-flare-pokemon-center-elite-trainer-box": {
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 253.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 251.0,
+     "last_restock_alert": 1789880549
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
      "title": "Pokemon Scarlet and Violet: Paldean Fates Pokemon Center Elite Trainer Box",
@@ -5952,7 +5960,7 @@
      "title": "Pokemon Scarlet and Violet: Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 431.0
+     "price": 434.0
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
      "title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
@@ -5995,6 +6003,30 @@
      "game": "Pokemon",
      "available": true,
      "price": 41.0
+    },
+    "pokemon-scarlet-and-violet-black-bolt-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon Scarlet and Violet: Black Bolt Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 287.0
+    },
+    "pokemon-scarlet-amp-violet-151-bundle-box-pre-order": {
+     "title": "Pokemon TCG: Scarlet and Violet - 151 Bundle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 174.0
+    },
+    "pokemon-scarlet-and-violet-black-bolt-bundle-box-pre-order": {
+     "title": "Pokemon Scarlet and Violet: Black Bolt Bundle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 107.0
+    },
+    "pokemon-scarlet-and-violet-white-flare-bundle-box-pre-order": {
+     "title": "Pokemon Scarlet and Violet: White Flare Bundle Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.0
     }
    },
    "baselined": true,
@@ -7988,7 +8020,7 @@
      "title": "Pokemon 30th Celebration Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 179.75,
+     "price": 189.75,
      "last_restock_alert": 1789688636
     },
     "2021-pok-mon-shining-fates-pikachu-v-box": {
@@ -8109,6 +8141,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 549.75
+    },
+    "pokemon-mega-evolution-ascended-heroes-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon Mega Evolution Ascended Heroes Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 459.75
+    },
+    "pokemon-30th-celebration-tech-sticker-collection": {
+     "title": "Pokemon 30th Celebration Tech Sticker Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 44.75
     }
    },
    "baselined": true,
@@ -9602,8 +9646,9 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 169.99
+     "available": false,
+     "price": 169.99,
+     "unavail_since": 1789880549
     },
     "pokemon-30th-celebration-ultra-premium-collection": {
      "title": "Pokemon 30th Celebration - Ultra-Premium Collection (Presale)",
@@ -11784,7 +11829,7 @@
      "title": "Pok\u00e9mon TCG: Destined Rivals: Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 379.99,
+     "price": 399.99,
      "unavail_since": 1784083329
     },
     "lost-origin-booster-display": {
