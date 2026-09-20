@@ -19185,7 +19185,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24769,8 +24769,9 @@
     "30th-celebration-elite-trainer-box": {
      "title": "30th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 178.75
+     "available": false,
+     "price": 178.75,
+     "unavail_since": 1789936225
     },
     "30th-celebration-poster-collection-wave-2": {
      "title": "30th Celebration Poster Collection - Wave 2",
@@ -25165,7 +25166,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
