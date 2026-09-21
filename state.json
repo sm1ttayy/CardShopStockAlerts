@@ -12817,14 +12817,16 @@
     "pokemon-tcg-30th-celebration-10x-pack-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration 10x Pack - Moonshot Rips (OPENED LIVE ON STREAM)",
      "game": "Pokemon",
-     "available": true,
-     "price": 160.0
+     "available": false,
+     "price": 160.0,
+     "unavail_since": 1789963511
     },
     "pokemon-tcg-30th-celebration-etb-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration ETB - Moonshot Rips (OPENED LIVE ON STREAM)",
      "game": "Pokemon",
-     "available": true,
-     "price": 125.0
+     "available": false,
+     "price": 125.0,
+     "unavail_since": 1789963511
     },
     "pokemon-tcg-30th-celebration-1x-pack-moons-energy-break-1": {
      "title": "Pokemon TCG: 30th Celebration 1x Pack - Moons\u2026 Energy Break #1",
@@ -15191,7 +15193,7 @@
      "title": "MTG - Universes Beyond: Final Fantasy - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 349.95
+     "price": 399.95
     },
     "mtg-universes-beyond-marvel-super-heroes-play-booster-box": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Play Booster Box",
@@ -19185,7 +19187,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25175,7 +25177,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
