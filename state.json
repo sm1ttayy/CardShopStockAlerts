@@ -761,7 +761,7 @@
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 186.94,
+     "price": 183.3,
      "last_restock_alert": 1788361674
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
@@ -1988,10 +1988,9 @@
     "one-piece-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Carrying On His Will Booster Box [OP-13]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 475.0,
-     "last_restock_alert": 1788391878,
-     "unavail_since": 1789510147
+     "last_restock_alert": 1790040808
     },
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-play-booster-box": {
      "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Play Booster Box",
@@ -2211,9 +2210,9 @@
     "mega-evolution-phantasmal-flames-booster-box": {
      "title": "Mega Evolution: Phantasmal Flames Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 450.0,
-     "unavail_since": 1784083333
+     "available": true,
+     "price": 380.0,
+     "last_restock_alert": 1790040812
     },
     "the-best-vol-2-premium-booster-booster-box-englishprb-02": {
      "title": "The Best Vol. 2 Premium Booster - Booster Box [English][PRB-02]",
@@ -2232,9 +2231,9 @@
     "mega-evolution-booster-box-enhanced": {
      "title": "Mega Evolution Booster Box [Enhanced]",
      "game": "Pokemon",
-     "available": false,
-     "price": 320.0,
-     "unavail_since": 1784083333
+     "available": true,
+     "price": 290.0,
+     "last_restock_alert": 1790040812
     },
     "universes-beyond-assassins-creed-japanese-beyond-booster-box": {
      "title": "Universes Beyond: Assassin's Creed Japanese Beyond Booster Box [JPN]",
@@ -2363,9 +2362,9 @@
     "scarlet-violet-surging-sparks-booster-box-display": {
      "title": "Scarlet & Violet: Surging Sparks - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 300.0,
-     "unavail_since": 1784083333
+     "last_restock_alert": 1790040812
     },
     "zendikar-booster-box-display": {
      "title": "Zendikar Booster Box Display",
@@ -4305,7 +4304,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5900,7 +5899,7 @@
      "title": "Pokemon TCG: Salamence ex and Reshiram ex Premium Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 96.0
+     "price": 97.0
     },
     "pkm_xy_evo_booster": {
      "title": "Pokemon TCG: XY - Evolutions Booster Box (SALE)",
@@ -6028,6 +6027,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 99.0
+    },
+    "pokemon-tcg-scarlet-and-violet-151-blooming-waters-premium-collection-box-pre-order": {
+     "title": "Pokemon TCG: Scarlet and Violet - 151 Blooming Waters Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 362.0
+    },
+    "pokemon-tcg-crown-zenith-sea-and-sky-premium-collection-box": {
+     "title": "Pokemon TCG: Crown Zenith - Sea and Sky Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 399.0
+    },
+    "pokemon-scarlet-amp-violet-151-ultra-premium-collection-box-pre-order": {
+     "title": "Pokemon TCG: Scarlet and Violet - 151 Ultra Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 940.0
     }
    },
    "baselined": true,
@@ -6982,10 +6999,9 @@
     "pokemon-scarlet-violet-destined-rivals-booster-box": {
      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 459.75,
-     "last_restock_alert": 1787566193,
-     "unavail_since": 1787738600
+     "last_restock_alert": 1790040812
     },
     "one-piece-tcg-anime-25th-collection-extra-booster-box": {
      "title": "One Piece Extra Booster Anime 25th Collection (EB-02) Booster Box",
