@@ -1204,14 +1204,14 @@
      "title": "One Piece TCG: Starter Deck Green - Roronoa Zoro (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 31.75,
+     "price": 30.11,
      "last_restock_alert": 1788810646
     },
     "one-piece-tcg-starter-deck-red-black-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck Red/Black - Sabo (ST-35)",
      "game": "One Piece",
      "available": false,
-     "price": 14.67,
+     "price": 16.25,
      "last_restock_alert": 1788810646,
      "unavail_since": 1788909955
     },
@@ -1234,14 +1234,14 @@
      "title": "One Piece TCG: Starter Deck Yellow - Eustass Captain Kid (ST-36)",
      "game": "One Piece",
      "available": true,
-     "price": 16.4,
+     "price": 15.11,
      "last_restock_alert": 1788529031
     },
     "one-piece-tcg-starter-deck-purple-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck Purple - Charlotte Katakuri (ST-34)",
      "game": "One Piece",
      "available": false,
-     "price": 22.82,
+     "price": 22.74,
      "last_restock_alert": 1788810646,
      "unavail_since": 1789817822
     },
@@ -4371,7 +4371,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
