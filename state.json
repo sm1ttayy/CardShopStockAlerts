@@ -4053,8 +4053,9 @@
     "30th-celebration-knockout-collection": {
      "title": "Pok\u00e9mon: 30th Celebration - Knockout Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 27.0
+     "available": false,
+     "price": 35.0,
+     "unavail_since": 1790107680
     },
     "preorder-magic-the-gathering-reality-fracture-booster-box": {
      "title": "[PREORDER] Magic: The Gathering - Reality Fracture Play Booster Box",
@@ -5609,7 +5610,7 @@
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 251.0,
+     "price": 252.0,
      "last_restock_alert": 1789880549
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
@@ -6073,7 +6074,7 @@
      "title": "Pokemon Scarlet and Violet: Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 287.0
+     "price": 288.0
     },
     "pokemon-scarlet-amp-violet-151-bundle-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - 151 Bundle Box",
@@ -6158,6 +6159,12 @@
      "game": "MTG",
      "available": true,
      "price": 142.0
+    },
+    "pokemon-scarlet-and-violet-temporal-forces-elite-trainer-box-walking-wake-pre-order": {
+     "title": "Pokemon Scarlet and Violet: Temporal Forces Elite Trainer Box (Walking Wake)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 156.0
     }
    },
    "baselined": true,
@@ -9807,9 +9814,9 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 169.99,
-     "unavail_since": 1789880549
+     "last_restock_alert": 1790107679
     },
     "pokemon-30th-celebration-ultra-premium-collection": {
      "title": "Pokemon 30th Celebration - Ultra-Premium Collection (Presale)",
@@ -10670,10 +10677,9 @@
     "the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21": {
      "title": "The World's Strongest Warriors Booster Box OP-17 [One Piece] (08/21)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 325.0,
-     "last_restock_alert": 1788917262,
-     "unavail_since": 1789069718
+     "last_restock_alert": 1790107672
     },
     "starter-deck-st-34-one-piece-07-31": {
      "title": "Starter Deck ST-34 PURPLE Charlotte Katakuri [One Piece] (07/31)",
@@ -12530,7 +12536,7 @@
      "title": "Pok\u00e9mon TCG: Brilliant Stars: Elite Trainer Box Pok\u00e9mon Center",
      "game": "Pokemon",
      "available": true,
-     "price": 261.99,
+     "price": 226.99,
      "last_restock_alert": 1788612530
     },
     "pokemon-tcg-pokemon-go-pokemon-center-elite-trainer-box-plus": {
@@ -12891,6 +12897,12 @@
      "game": "MTG",
      "available": true,
      "price": 64.99
+    },
+    "pokemon-tcg-twilight-masquerade-elite-trainer-box-pokemon-center-edition": {
+     "title": "Pok\u00e9mon TCG: Twilight Masquerade: Elite Trainer Box - Pokemon Center Edition",
+     "game": "Pokemon",
+     "available": true,
+     "price": 184.99
     }
    },
    "baselined": true,
