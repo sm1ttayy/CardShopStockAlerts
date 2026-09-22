@@ -583,7 +583,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 58.99
+     "price": 49.99
     },
     "magic-the-gathering-marvel-super-heroes-collector-commander-deck": {
      "title": "Magic: The Gathering | Marvel Super Heroes - Collector Commander Deck",
@@ -634,9 +634,9 @@
     "magic-the-gathering-final-fantasy-commander-deck-revival-trance": {
      "title": "Magic the Gathering: Final Fantasy Commander Deck - Revival Trance",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 48.99,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1790096521
     },
     "magic-the-gathering-lorwyn-eclipsed-commander-deck": {
      "title": "Magic: The Gathering - Lorwyn Eclipsed Dance of the Elements Commander Deck",
@@ -774,16 +774,16 @@
     "riftbound-tcg-league-of-legends-vendetta-the-vendetta-vault": {
      "title": "Riftbound TCG: League of Legends: Vendetta: The Vendetta Vault",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 42.76,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1790096510
     },
     "riftbound-tcg-league-of-legends-vendetta-display-box": {
      "title": "Riftbound TCG: League of Legends: Vendetta - Display Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 167.06,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1790096510
     },
     "pokemon-tcg-battle-partners-booster-box-sv9-battle-partners-japanese-version": {
      "title": "Pokemon TCG: Battle Partners Booster Box - (SV9) Battle Partners [Japanese Version]",
@@ -1147,7 +1147,7 @@
      "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Display Box [English]",
      "game": "One Piece",
      "available": false,
-     "price": 317.67,
+     "price": 301.99,
      "last_restock_alert": 1786741669,
      "unavail_since": 1786764274
     },
@@ -1197,7 +1197,7 @@
      "title": "Riftbound TCG: League of Legends: Vendetta - Showdown Decks: Zed Versus Shen",
      "game": "Riftbound",
      "available": true,
-     "price": 16.99,
+     "price": 18.02,
      "last_restock_alert": 1786016226
     },
     "one-piece-tcg-starter-deck-green-roronoa-zoro-st-32": {
@@ -1270,7 +1270,7 @@
      "title": "Magic: The Gathering | Secrets of Strixhaven - Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 40.89
+     "price": 39.99
     },
     "magic-the-gathering-starter-commander-deck-draconic-destruction": {
      "title": "Magic: the Gathering: Starter Commander - Draconic Destruction Commander Deck",
@@ -1529,6 +1529,48 @@
      "available": false,
      "price": 95.88,
      "unavail_since": 1790085899
+    },
+    "riftbound-league-of-legends-tcg-origins-booster-display": {
+     "title": "Riftbound: League of Legends TCG: Origins Booster Display",
+     "game": "Riftbound",
+     "available": false,
+     "price": 232.8,
+     "unavail_since": 1790096510
+    },
+    "dominaria-remastered-draft-booster-box-pre-order": {
+     "title": "Magic: the Gathering: Dominaria Remastered - Draft Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 309.0,
+     "unavail_since": 1790096518
+    },
+    "modern-horizons-2-sealed-draft-booster-display-1-box-1": {
+     "title": "Magic: the Gathering: Modern Horizons 2 - Draft Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 449.68,
+     "unavail_since": 1790096518
+    },
+    "mtg-modern-horizons-booster-box-mtg-sealed": {
+     "title": "Magic: the Gathering: Modern Horizons - Draft Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 359.15,
+     "unavail_since": 1790096518
+    },
+    "magic-the-gathering-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
+     "title": "Magic: the Gathering: Lord of the Rings Tales of Middle Earth - Set Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 389.99,
+     "unavail_since": 1790096518
+    },
+    "magic-the-gathering-universes-beyond-warhammer-40-000-forces-of-the-imperium-commander-deck": {
+     "title": "Magic: the Gathering: Universes Beyond Warhammer 40,000 - Forces of the Imperium Commander Deck",
+     "game": "MTG",
+     "available": false,
+     "price": 348.66,
+     "unavail_since": 1790096521
     }
    },
    "baselined": true,
@@ -1597,9 +1639,9 @@
     "mega-evolution-phantasmal-flames-booster-bundle": {
      "title": "Mega Evolution: Phantasmal Flames Booster Bundle - Pokemon",
      "game": "Pokemon",
-     "available": false,
-     "price": 75.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 89.0,
+     "last_restock_alert": 1790096498
     },
     "riftbound-league-of-legends-tcg-spiritforged-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Spiritforged Booster Box Display",
@@ -1879,7 +1921,7 @@
      "title": "Magic: The Gathering Final Fantasy Commander Deck Bundle [Set of 4]",
      "game": "MTG",
      "available": true,
-     "price": 178.0
+     "price": 190.0
     },
     "magic-the-gathering-marvel-super-heroes-collectors-edition-commander-decks-set-of-4": {
      "title": "Magic: The Gathering - Marvel Super Heroes Collector's Edition Commander Decks [Set of 4]",
@@ -1891,7 +1933,7 @@
      "title": "Magic: The Gathering - The Hobbit Bundle",
      "game": "MTG",
      "available": true,
-     "price": 72.0
+     "price": 60.0
     },
     "magic-the-gathering-marvel-super-heroes-gift-bundle": {
      "title": "Magic: The Gathering - Marvel Super Heroes Gift Bundle",
@@ -3736,9 +3778,9 @@
     "scarlet-violet-surging-sparks-elite-trainer-box": {
      "title": "Scarlet & Violet: Surging Sparks - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 135.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 125.0,
+     "last_restock_alert": 1790096497
     },
     "mega-evolution-chaos-rising-elite-trainer-box": {
      "title": "Mega Evolution: Chaos Rising - Elite Trainer Box",
@@ -3788,9 +3830,9 @@
     "white-flare-booster-bundle": {
      "title": "White Flare Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 90.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1790096498
     },
     "scarlet-and-violet-151-booster-bundle": {
      "title": "Scarlet and Violet 151 - Booster Bundle",
@@ -4037,8 +4079,9 @@
     "30th-celebration-ex-box-set-of-2": {
      "title": "Pok\u00e9mon: 30th Celebration - Greninja & Sylveon ex Box [Set of 2]",
      "game": "Pokemon",
-     "available": true,
-     "price": 120.0
+     "available": false,
+     "price": 120.0,
+     "unavail_since": 1790096497
     },
     "30th-celebration-alolan-exeggutor-and-lucario-tech-sticker-collection-set-of-2": {
      "title": "Pok\u00e9mon: 30th Celebration - Alolan Exeggutor & Lucario Tech Sticker Collection [Set of 2]",
@@ -4082,10 +4125,10 @@
      "unavail_since": 1787332432
     },
     "magic-the-gathering-the-hobbit-gift-bundle": {
-     "title": "[PREORDER] Magic: The Gathering - The Hobbit Gift Bundle",
+     "title": "Magic: The Gathering - The Hobbit Gift Bundle",
      "game": "MTG",
      "available": true,
-     "price": 189.0
+     "price": 115.0
     },
     "pre-order-commander-masters-commander-deck-display-set-of-4": {
      "title": "Commander Masters Commander Deck Display (Set of 4)",
@@ -4256,7 +4299,7 @@
      "title": "Riftbound: League of Legends TCG - Unleashed Champion Deck [Vi]",
      "game": "Riftbound",
      "available": true,
-     "price": 15.0
+     "price": 17.0
     },
     "scarlet-violet-shrouded-fable-booster-bundle": {
      "title": "Scarlet & Violet: Shrouded Fable - Booster Bundle",
@@ -4305,6 +4348,25 @@
      "available": false,
      "price": 1225.0,
      "unavail_since": 1789880550
+    },
+    "riftbound-league-of-legends-tcg-spiritforged-champion-deck-fiora": {
+     "title": "Riftbound: League of Legends TCG - Spiritforged Champion Deck [Fiora]",
+     "game": "Riftbound",
+     "available": false,
+     "price": 35.0,
+     "unavail_since": 1790096508
+    },
+    "magic-the-gathering-lorwyn-eclipsed-bundle": {
+     "title": "Magic: The Gathering - Lorwyn Eclipsed Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 60.0
+    },
+    "magic-the-gathering-teenage-mutant-ninja-turtles-bundle": {
+     "title": "Magic: The Gathering - Teenage Mutant Ninja Turtles Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 52.0
     }
    },
    "baselined": true,
@@ -4417,13 +4479,13 @@
      "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 91.0
+     "price": 89.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 44.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -4565,7 +4627,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 262.0,
+     "price": 257.0,
      "last_restock_alert": 1789047767
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -4578,7 +4640,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 204.0,
+     "price": 215.0,
      "last_restock_alert": 1789047763
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -4592,7 +4654,7 @@
      "title": "Riftbound TCG: League of Legends Proving Grounds Box Set",
      "game": "Riftbound",
      "available": true,
-     "price": 72.0
+     "price": 62.0
     },
     "riftbound-tcg-league-of-legends-spiritforged-championship-deck-fiora": {
      "title": "Riftbound TCG: League of Legends Spiritforged Championship Deck (Fiora)",
@@ -4603,10 +4665,9 @@
     "magic-the-gathering-marvel-super-heroes-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 116.0,
-     "last_restock_alert": 1789450037,
-     "unavail_since": 1789738807
+     "last_restock_alert": 1790096527
     },
     "magic-the-gathering-foundations-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Foundations Play Booster Box",
@@ -5175,7 +5236,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 184.0
+     "price": 189.0
     },
     "magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-box": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Jumpstart Booster Box",
@@ -5627,7 +5688,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Championship Deck (Rumble)",
      "game": "Riftbound",
      "available": true,
-     "price": 29.0
+     "price": 26.0
     },
     "magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-jumpstart-volume-2-booster-box-pre-order": {
      "title": "Magic the Gathering The Lord of the Rings: Tales of Middle-earth Jumpstart Volume 2 Booster Box",
@@ -5645,7 +5706,7 @@
      "title": "Magic the Gathering: Draconic Destruction Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 49.0
+     "price": 51.0
     },
     "one-piece-trading-card-game-pillars-of-strength-booster-box-op-03-pre-order": {
      "title": "One Piece Card Game: Pillars of Strength Booster Box",
@@ -5676,7 +5737,7 @@
      "title": "Magic the Gathering: Chaos Incarnate Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 37.0
+     "price": 42.0
     },
     "one-piece-tcg-blue-kuzan-starter-deck-ex-st-33": {
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
@@ -5774,7 +5835,7 @@
      "title": "Riftbound TCG: League of Legends Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": true,
-     "price": 31.0
+     "price": 28.0
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-deck-prismari-artistry-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Prismari Artistry) (SALE)",
@@ -5927,7 +5988,7 @@
      "title": "Riftbound TCG: League of Legends Unleashed Champion Deck (Vi)",
      "game": "Riftbound",
      "available": true,
-     "price": 20.0
+     "price": 17.0
     },
     "magic-the-gathering-secrets-of-strixhaven-draft-night": {
      "title": "Magic The Gathering: Secrets of Strixhaven Draft Night",
@@ -5982,13 +6043,13 @@
      "title": "Pokemon TCG: 30th Celebration Poster Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 46.0
+     "price": 47.0
     },
     "pokemon-tcg-30th-celebration-sylveon-ex-box": {
      "title": "Pokemon TCG: 30th Celebration Sylveon EX Box",
      "game": "Pokemon",
      "available": true,
-     "price": 70.0
+     "price": 79.0
     },
     "pokemon-tcg-30th-celebration-knock-out-collection-box": {
      "title": "Pokemon TCG: 30th Celebration Knock Out Collection Box",
@@ -6000,13 +6061,13 @@
      "title": "Pokemon TCG: 30th Celebration Tech Sticker Collection Blister (Alolan Exeggutor)",
      "game": "Pokemon",
      "available": true,
-     "price": 41.0
+     "price": 46.0
     },
     "pokemon-tcg-30th-celebration-tech-sticker-collection-blister-lucario": {
      "title": "Pokemon TCG: 30th Celebration Tech Sticker Collection Blister (Lucario)",
      "game": "Pokemon",
      "available": true,
-     "price": 41.0
+     "price": 47.0
     },
     "pokemon-scarlet-and-violet-black-bolt-pokemon-center-elite-trainer-box": {
      "title": "Pokemon Scarlet and Violet: Black Bolt Pokemon Center Elite Trainer Box",
@@ -6024,13 +6085,13 @@
      "title": "Pokemon Scarlet and Violet: Black Bolt Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 107.0
+     "price": 106.0
     },
     "pokemon-scarlet-and-violet-white-flare-bundle-box-pre-order": {
      "title": "Pokemon Scarlet and Violet: White Flare Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 99.0
+     "price": 97.0
     },
     "pokemon-tcg-scarlet-and-violet-151-blooming-waters-premium-collection-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - 151 Blooming Waters Premium Collection Box",
@@ -6049,6 +6110,54 @@
      "game": "Pokemon",
      "available": true,
      "price": 940.0
+    },
+    "mtg_2017_cmndr_dracdom": {
+     "title": "Magic the Gathering: 2017 Commander Deck - Draconic Domination",
+     "game": "MTG",
+     "available": true,
+     "price": 546.0
+    },
+    "mtg_2017_cmndr_vamplust": {
+     "title": "Magic the Gathering: 2017 Commander Deck - Vampiric Bloodlust",
+     "game": "MTG",
+     "available": true,
+     "price": 451.0
+    },
+    "mtg_dominariautd_cmndr_llegacy": {
+     "title": "Magic the Gathering: Legends&#x27; Legacy Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 193.0
+    },
+    "mtg_st_capenna_cmdnr_maestros": {
+     "title": "Magic the Gathering: Streets of New Capenna Maestros Massacre Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 90.0
+    },
+    "mtg_frgtnrlms_cmndr_planarport": {
+     "title": "Magic the Gathering: Adventures in the Forgotten Realms Planar Portal Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 175.0
+    },
+    "mtg_2022_strtr_cmndr_tt": {
+     "title": "Magic the Gathering: Token Triumph Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 36.0
+    },
+    "magic-the-gathering-tarkir-dragonstorm-commander-deck-abzan-pre-order": {
+     "title": "Magic The Gathering: Tarkir Dragonstorm Commander Deck (Abzan)",
+     "game": "MTG",
+     "available": true,
+     "price": 68.0
+    },
+    "mtg_2017_cmndr_arcane": {
+     "title": "Magic the Gathering: 2017 Commander Deck - Arcane Wizardry",
+     "game": "MTG",
+     "available": true,
+     "price": 142.0
     }
    },
    "baselined": true,
@@ -8041,9 +8150,10 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 189.75,
-     "last_restock_alert": 1789688636
+     "last_restock_alert": 1789688636,
+     "unavail_since": 1790096503
     },
     "2021-pok-mon-shining-fates-pikachu-v-box": {
      "title": "2021 Pok\u00e9mon Shining Fates Pikachu V Box",
@@ -8131,8 +8241,9 @@
     "pokemon-30th-celebration-knock-out-collection-24-box-case": {
      "title": "Pokemon 30th Celebration Knock Out Collection 24-Box Case",
      "game": "Pokemon",
-     "available": true,
-     "price": 834.75
+     "available": false,
+     "price": 834.75,
+     "unavail_since": 1790096503
     },
     "pokemon-30th-celebration-greninja-ex-box": {
      "title": "Pokemon 30th Celebration Sylveon Greninja ex Box",
@@ -8155,8 +8266,9 @@
     "pokemon-30th-celebration-greninja-ex-6-box-case": {
      "title": "Pokemon 30th Celebration Sylveon Greninja ex 6-Box Case",
      "game": "Pokemon",
-     "available": true,
-     "price": 649.75
+     "available": false,
+     "price": 649.75,
+     "unavail_since": 1790096503
     },
     "pokemon-30th-celebration-poster-collection-6-box-case": {
      "title": "Pokemon 30th Celebration Poster Collection 6-Box Case",
@@ -8175,6 +8287,31 @@
      "game": "Pokemon",
      "available": true,
      "price": 44.75
+    },
+    "2021-pok-mon-evolving-skies-etb-box": {
+     "title": "Pokemon Sword & Shield Evolving Skies Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 599.75
+    },
+    "pok-mon-scarlet-and-violet-obsidian-flames-elite-trainer-box": {
+     "title": "Pok\u00e9mon Scarlet and Violet Obsidian Flames Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 319.75
+    },
+    "mtg-secret-lair-drop-li-l-est-warriors-rainbow-foil-edition": {
+     "title": "MTG Secret Lair Drop Li\u2019l\u2019est Warriors Rainbow Foil Edition",
+     "game": "MTG",
+     "available": true,
+     "price": 75.0
+    },
+    "magic-the-gathering-bloomburrow-play-booster-6-box-case": {
+     "title": "Magic MtG Bloomburrow Play Booster 6-Box Case",
+     "game": "MTG",
+     "available": false,
+     "price": 825.0,
+     "unavail_since": 1790096509
     }
    },
    "baselined": true,
@@ -9656,8 +9793,9 @@
     "pokemon-30th-celebration-tech-sticker-collection": {
      "title": "Pokemon 30th Celebration - Tech Sticker Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 39.99
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1790096502
     },
     "pokemon-30th-celebration-ex-box": {
      "title": "Pokemon 30th Celebration - EX Box",
@@ -9708,6 +9846,20 @@
      "game": "MTG",
      "available": true,
      "price": 189.99
+    },
+    "pokemon-30th-celebration-knock-out-collection": {
+     "title": "Pokemon 30th Celebration - Knock Out Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 31.99,
+     "unavail_since": 1790096501
+    },
+    "pokemon-30th-celebration-poster-collection": {
+     "title": "Pokemon 30th Celebration - Poster Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 43.99,
+     "unavail_since": 1790096502
     }
    },
    "baselined": true,
@@ -9934,9 +10086,9 @@
     "spiritforge-booster-box-riftbound": {
      "title": "Spiritforged Booster Box [Riftbound]",
      "game": "Riftbound",
-     "available": false,
-     "price": 185.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 200.0,
+     "last_restock_alert": 1790096509
     },
     "unleashed-champion-decks-riftbound": {
      "title": "Unleashed Champion Decks [Riftbound] (5/8)",
@@ -9954,7 +10106,7 @@
      "title": "Tarkir: Dragonstorm Play Booster Box [MTG]",
      "game": "MTG",
      "available": true,
-     "price": 150.0
+     "price": 165.0
     },
     "modern-horizons-3-play-booster-box-mtg": {
      "title": "Modern Horizons 3 Play Booster Box [MTG]",
@@ -10200,7 +10352,7 @@
      "title": "Vendetta Vault [Riftbound] (7/31)",
      "game": "Riftbound",
      "available": true,
-     "price": 35.0
+     "price": 40.0
     },
     "vendetta-showdown-deck-zed-vs-shen-riftbound-7-31": {
      "title": "Vendetta Showdown Deck - Zed vs. Shen [Riftbound] (7/31)",
@@ -10666,13 +10818,13 @@
      "title": "Modern Horizons 3 Commander Deck [MTG]",
      "game": "MTG",
      "available": true,
-     "price": 55.0
+     "price": 60.0
     },
     "commander-2021-deck": {
      "title": "Commander 2021 Deck",
      "game": "MTG",
      "available": true,
-     "price": 50.0
+     "price": 65.0
     },
     "reality-fracture-play-booster-box-mtg-09-25": {
      "title": "Reality Fracture Play Booster Box [MTG] (09/25)",
@@ -10727,6 +10879,90 @@
      "game": "One Piece",
      "available": true,
      "price": 35.0
+    },
+    "jumpstart-booster-box": {
+     "title": "Jumpstart Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 140.0
+    },
+    "jumpstart-2022-booster-box": {
+     "title": "Jumpstart 2022 Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 225.0
+    },
+    "foundations-jumpstart-booster-box-mtg": {
+     "title": "Foundations Jumpstart Booster Box [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 120.0
+    },
+    "innistrad-midnight-hunt-draft-booster-box": {
+     "title": "Innistrad: Midnight Hunt Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 155.0
+    },
+    "reality-fracture-commander-deck-multiverse-reforged-mtg-09-25": {
+     "title": "Reality Fracture Commander Deck - Multiverse Reforged [MTG] (09/25)",
+     "game": "MTG",
+     "available": true,
+     "price": 50.0
+    },
+    "power-hungry-commander-deck-mtg": {
+     "title": "Power Hungry Commander Deck [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 100.0
+    },
+    "eternal-bargain-commander-deck": {
+     "title": "Eternal Bargain Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 200.0
+    },
+    "the-hobbit-gift-bundle-universes-beyond-mtg-09-04": {
+     "title": "The Hobbit Gift Bundle (Universes Beyond) [MTG] (09/04)",
+     "game": "MTG",
+     "available": true,
+     "price": 150.0
+    },
+    "reality-fracture-bundle-mtg-09-25": {
+     "title": "Reality Fracture Bundle [MTG] (09/25)",
+     "game": "MTG",
+     "available": true,
+     "price": 65.0
+    },
+    "secrets-of-strixhaven-bundle-mtg": {
+     "title": "Secrets of Strixhaven Bundle [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 60.0
+    },
+    "spider-man-bundle-universes-beyond-mtg": {
+     "title": "Spider-Man Bundle (Universes Beyond) [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 65.0
+    },
+    "aetherdrift-bundle-mtg": {
+     "title": "Aetherdrift Bundle [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 50.0
+    },
+    "marvel-super-heroes-bundle-universes-beyond-mtg": {
+     "title": "Marvel Super Heroes Bundle (Universes Beyond) [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 75.0
+    },
+    "teenage-mutant-ninja-turtles-pizza-bundle-mtg": {
+     "title": "Teenage Mutant Ninja Turtles Pizza Bundle [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 135.0
     }
    },
    "baselined": true,
@@ -11751,8 +11987,9 @@
     "magic-the-gathering-edge-of-eternities-commander-decks": {
      "title": "Magic the Gathering: Edge of Eternities: Commander Decks",
      "game": "MTG",
-     "available": true,
-     "price": 79.99
+     "available": false,
+     "price": 79.99,
+     "unavail_since": 1790096518
     },
     "magic-the-gathering-dominaria-united-commander-decks": {
      "title": "Magic the Gathering: Dominaria United: Commander Decks",
@@ -12132,7 +12369,7 @@
      "title": "Magic The Gathering: Universes Beyond: Marvel's Spider-Man: Bundle",
      "game": "MTG",
      "available": true,
-     "price": 44.99
+     "price": 54.99
     },
     "magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-bundle-gift-edition": {
      "title": "Magic The Gathering: The Lord of the Rings: Tales of Middle-earth: Bundle Gift Edition",
@@ -12518,6 +12755,142 @@
      "game": "Pokemon",
      "available": true,
      "price": 219.99
+    },
+    "pokemon-tcg-first-partner-illustration-collection-series-3": {
+     "title": "Pok\u00e9mon TCG: First Partner Illustration Collection (Series 3)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 24.99
+    },
+    "riftbound-tcg-secret-garden-box": {
+     "title": "Riftbound TCG: Secret Garden Box",
+     "game": "Riftbound",
+     "available": true,
+     "price": 304.99
+    },
+    "riftbound-tcg-spiritforged-champion-deck-rumble": {
+     "title": "Riftbound TCG: Spiritforged: Champion Deck: Rumble",
+     "game": "Riftbound",
+     "available": true,
+     "price": 24.99
+    },
+    "riftbound-league-of-legends-tcg-origins-champion-deck-jinx": {
+     "title": "Riftbound TCG: Origins: Champion Deck: Jinx",
+     "game": "Riftbound",
+     "available": false,
+     "price": 24.99,
+     "unavail_since": 1790096512
+    },
+    "magic-the-gathering-bloomburrow-play-booster": {
+     "title": "Magic The Gathering: Bloomburrow: Play Booster Display",
+     "game": "MTG",
+     "available": false,
+     "price": 159.99,
+     "unavail_since": 1790096512
+    },
+    "magic-the-gathering-the-hobbit-play-booster-display-1": {
+     "title": "Magic the Gathering: The Hobbit: Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 209.7
+    },
+    "magic-the-gathering-foundations-play-booster-display": {
+     "title": "Magic The Gathering: Foundations: Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 149.99
+    },
+    "magic-the-gathering-tarkir-dragonstorm-play-booster-display": {
+     "title": "Magic The Gathering: Tarkir Dragonstorm: Play Booster Display",
+     "game": "MTG",
+     "available": false,
+     "price": 139.99,
+     "unavail_since": 1790096512
+    },
+    "magic-the-gathering-universes-beyond-marvels-spider-man-play-booster-display": {
+     "title": "Magic The Gathering: Universes Beyond: Marvel's Spider-Man: Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 119.99
+    },
+    "magic-the-gathering-marvel-super-heroes-play-booster-display": {
+     "title": "Magic the Gathering: Marvel Super Heroes: Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 104.99
+    },
+    "magic-the-gathering-edge-of-eternities-play-booster-display": {
+     "title": "Magic the Gathering: Edge of Eternities: Play Booster Display",
+     "game": "MTG",
+     "available": false,
+     "price": 149.99,
+     "unavail_since": 1790096512
+    },
+    "magic-the-gathering-murders-at-karlov-manor-play-booster-display": {
+     "title": "Magic The Gathering: Murders at Karlov Manor: Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 129.99
+    },
+    "magic-the-gathering-lorwyn-eclipse-play-booster-display": {
+     "title": "Magic the Gathering: Lorwyn Eclipsed: Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 114.99
+    },
+    "magic-the-gathering-commander-deck-vampiric-bloodlust": {
+     "title": "Magic the Gathering: Commander Deck: Vampiric Bloodlust",
+     "game": "MTG",
+     "available": true,
+     "price": 379.99
+    },
+    "magic-the-gathering-fallout-commander-decks": {
+     "title": "Magic The Gathering: Fallout: Commander Decks",
+     "game": "MTG",
+     "available": true,
+     "price": 44.99
+    },
+    "magic-the-gathering-commander-2016-deck-invent-superiority": {
+     "title": "Magic the Gathering: Commander 2016 Deck: Invent Superiority",
+     "game": "MTG",
+     "available": true,
+     "price": 264.99
+    },
+    "magic-the-gathering-commander-2014-deck-peer-through-time": {
+     "title": "Magic the Gathering: Commander 2014 Deck: Peer Through Time",
+     "game": "MTG",
+     "available": true,
+     "price": 129.99
+    },
+    "magic-the-gathering-commander-2015-deck-plunder-the-graves": {
+     "title": "Magic the Gathering: Commander 2015 Deck: Plunder the Graves",
+     "game": "MTG",
+     "available": true,
+     "price": 154.99
+    },
+    "magic-the-gathering-reality-fracture-bundle": {
+     "title": "Magic the Gathering: Reality Fracture: Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 57.99
+    },
+    "magic-the-gathering-core-set-2013-bundle": {
+     "title": "Magic the Gathering: Core Set 2013: Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 114.99
+    },
+    "mtg-amonkhet-bundle": {
+     "title": "Magic the Gathering: Amonkhet: Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 134.99
+    },
+    "magic-the-gathering-ravnica-allegiance-bundle": {
+     "title": "Magic the Gathering: Ravnica Allegiance Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 64.99
     }
    },
    "baselined": true,
