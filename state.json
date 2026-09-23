@@ -1146,10 +1146,9 @@
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-display-box-english": {
      "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Display Box [English]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 301.99,
-     "last_restock_alert": 1786741669,
-     "unavail_since": 1786764274
+     "last_restock_alert": 1790183644
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-elite-trainer-box-copy": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Pokemon Center Elite Trainer Box",
@@ -8336,6 +8335,12 @@
      "available": false,
      "price": 105.0,
      "unavail_since": 1790145303
+    },
+    "pokemon-scarlet-violet-black-bolt-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon Scarlet & Violet: Black Bolt Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 299.75
     }
    },
    "baselined": true,
@@ -12955,7 +12960,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
