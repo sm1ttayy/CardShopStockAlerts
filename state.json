@@ -4629,7 +4629,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 257.0,
+     "price": 262.0,
      "last_restock_alert": 1789047767
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
@@ -4642,7 +4642,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 215.0,
+     "price": 211.0,
      "last_restock_alert": 1789047763
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -4827,7 +4827,7 @@
      "title": "One Piece TCG: Starter Deck (ST-23)",
      "game": "One Piece",
      "available": true,
-     "price": 58.0
+     "price": 52.0
     },
     "one-piece-tcg-blue-donquixote-doflamingo-starter-deck-st-17": {
      "title": "One Piece TCG: BLUE Donquixote Doflamingo Starter Deck (ST-17)",
@@ -4904,7 +4904,7 @@
      "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 56.0
+     "price": 52.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-2-box": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box (SALE)",
@@ -5238,7 +5238,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 189.0
+     "price": 188.0
     },
     "magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-box": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Jumpstart Booster Box",
@@ -5751,19 +5751,19 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 33.0
+     "price": 30.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 36.0
+     "price": 32.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 25.0
+     "price": 24.0
     },
     "one-piece-tcg-illustration-box-volume-8": {
      "title": "One Piece TCG: Illustration Box Volume 8",
@@ -5861,7 +5861,7 @@
      "title": "One Piece Card Game: Zoro and Sanji Starter Deck",
      "game": "One Piece",
      "available": true,
-     "price": 48.0
+     "price": 45.0
     },
     "one-piece-the-three-captains-deck-pre-order": {
      "title": "One Piece The Three Captains Deck",
@@ -6039,19 +6039,19 @@
      "title": "Pokemon TCG: 30th Celebration Greninja EX Box",
      "game": "Pokemon",
      "available": true,
-     "price": 67.0
+     "price": 73.0
     },
     "pokemon-tcg-30th-celebration-poster-collection-box": {
      "title": "Pokemon TCG: 30th Celebration Poster Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 47.0
+     "price": 42.0
     },
     "pokemon-tcg-30th-celebration-sylveon-ex-box": {
      "title": "Pokemon TCG: 30th Celebration Sylveon EX Box",
      "game": "Pokemon",
      "available": true,
-     "price": 79.0
+     "price": 78.0
     },
     "pokemon-tcg-30th-celebration-knock-out-collection-box": {
      "title": "Pokemon TCG: 30th Celebration Knock Out Collection Box",
@@ -6063,13 +6063,13 @@
      "title": "Pokemon TCG: 30th Celebration Tech Sticker Collection Blister (Alolan Exeggutor)",
      "game": "Pokemon",
      "available": true,
-     "price": 46.0
+     "price": 42.0
     },
     "pokemon-tcg-30th-celebration-tech-sticker-collection-blister-lucario": {
      "title": "Pokemon TCG: 30th Celebration Tech Sticker Collection Blister (Lucario)",
      "game": "Pokemon",
      "available": true,
-     "price": 47.0
+     "price": 42.0
     },
     "pokemon-scarlet-and-violet-black-bolt-pokemon-center-elite-trainer-box": {
      "title": "Pokemon Scarlet and Violet: Black Bolt Pokemon Center Elite Trainer Box",
@@ -6081,19 +6081,19 @@
      "title": "Pokemon TCG: Scarlet and Violet - 151 Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 173.0
+     "price": 168.0
     },
     "pokemon-scarlet-and-violet-black-bolt-bundle-box-pre-order": {
      "title": "Pokemon Scarlet and Violet: Black Bolt Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 105.0
+     "price": 106.0
     },
     "pokemon-scarlet-and-violet-white-flare-bundle-box-pre-order": {
      "title": "Pokemon Scarlet and Violet: White Flare Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 97.0
+     "price": 95.0
     },
     "pokemon-tcg-scarlet-and-violet-151-blooming-waters-premium-collection-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - 151 Blooming Waters Premium Collection Box",
@@ -6166,6 +6166,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 156.0
+    },
+    "pokemon-tcg-pokemon-day-2026-collection-box-pre-order": {
+     "title": "Pokemon TCG: Pokemon Day 2026 Collection Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 41.0,
+     "unavail_since": 1790165833
     }
    },
    "baselined": true,
@@ -9876,6 +9883,12 @@
      "available": true,
      "price": 43.99,
      "last_restock_alert": 1790145304
+    },
+    "paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-sv-paldean-fates-paf": {
+     "title": "Paldean Fates Great Tusk ex & Iron Treads ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 250.0
     }
    },
    "baselined": true,
@@ -12932,6 +12945,12 @@
      "available": false,
      "price": 49.99,
      "unavail_since": 1790145303
+    },
+    "pokemon-tcg-team-rockets-mewtwo-ex-league-battle-deck": {
+     "title": "Pok\u00e9mon TCG: Team Rocket's Mewtwo ex League Battle Deck",
+     "game": "Pokemon",
+     "available": true,
+     "price": 19.99
     }
    },
    "baselined": true,
