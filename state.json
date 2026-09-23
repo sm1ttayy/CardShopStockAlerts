@@ -1084,7 +1084,7 @@
      "title": "One Piece TCG: [IB-08] Illustration Box Vol. 8 [English]",
      "game": "One Piece",
      "available": false,
-     "price": 36.37,
+     "price": 35.41,
      "unavail_since": 1784083333,
      "note": "Illustration Box Vol. 8 @ $22.99 (releases 7/31)"
     },
@@ -3751,9 +3751,10 @@
     "mega-evolution-elite-trainer-box-lucario": {
      "title": "Mega Evolution Elite Trainer Box [Lucario]",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 115.0,
-     "last_restock_alert": 1786155319
+     "last_restock_alert": 1786155319,
+     "unavail_since": 1790145302
     },
     "mega-evolution-perfect-order-elite-trainer-box": {
      "title": "Mega Evolution: Perfect Order - Elite Trainer Box",
@@ -4333,7 +4334,7 @@
      "title": "Pok\u00e9mon: 30th Celebration Poster Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 40.0,
+     "price": 45.0,
      "last_restock_alert": 1789688637
     },
     "one-piece-tcg-illustration-box-vol-7-ib-07": {
@@ -6038,7 +6039,7 @@
      "title": "Pokemon TCG: 30th Celebration Greninja EX Box",
      "game": "Pokemon",
      "available": true,
-     "price": 70.0
+     "price": 67.0
     },
     "pokemon-tcg-30th-celebration-poster-collection-box": {
      "title": "Pokemon TCG: 30th Celebration Poster Collection Box",
@@ -6080,13 +6081,13 @@
      "title": "Pokemon TCG: Scarlet and Violet - 151 Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 174.0
+     "price": 173.0
     },
     "pokemon-scarlet-and-violet-black-bolt-bundle-box-pre-order": {
      "title": "Pokemon Scarlet and Violet: Black Bolt Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 106.0
+     "price": 105.0
     },
     "pokemon-scarlet-and-violet-white-flare-bundle-box-pre-order": {
      "title": "Pokemon Scarlet and Violet: White Flare Bundle Box",
@@ -6721,8 +6722,9 @@
     "pokemon-tera-brawlers-collection-box": {
      "title": "Pokemon Tera Brawlers Collection Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 124.75
+     "available": false,
+     "price": 124.75,
+     "unavail_since": 1790145303
     },
     "pokemon-eevee-evolution-premium-collection-box": {
      "title": "Pokemon Eevee Evolution Premium Collection Box",
@@ -8319,6 +8321,13 @@
      "available": false,
      "price": 825.0,
      "unavail_since": 1790096509
+    },
+    "pokemon-grand-adventure-collection-6-box-case": {
+     "title": "Pokemon Grand Adventure Collection 6-Box Case",
+     "game": "Pokemon",
+     "available": false,
+     "price": 105.0,
+     "unavail_since": 1790145303
     }
    },
    "baselined": true,
@@ -9857,16 +9866,16 @@
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon 30th Celebration - Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 31.99,
-     "unavail_since": 1790096501
+     "last_restock_alert": 1790145304
     },
     "pokemon-30th-celebration-poster-collection": {
      "title": "Pokemon 30th Celebration - Poster Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 43.99,
-     "unavail_since": 1790096502
+     "last_restock_alert": 1790145304
     }
    },
    "baselined": true,
@@ -10969,6 +10978,12 @@
      "game": "MTG",
      "available": true,
      "price": 135.0
+    },
+    "celebrations-elite-trainer-box": {
+     "title": "Celebrations Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 400.0
     }
    },
    "baselined": true,
@@ -12760,7 +12775,7 @@
      "title": "Pok\u00e9mon TCG: Journey Together: Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 219.99
+     "price": 209.99
     },
     "pokemon-tcg-first-partner-illustration-collection-series-3": {
      "title": "Pok\u00e9mon TCG: First Partner Illustration Collection (Series 3)",
@@ -12903,6 +12918,20 @@
      "game": "Pokemon",
      "available": true,
      "price": 184.99
+    },
+    "one-piece-tcg-set-sail-deck": {
+     "title": "One Piece TCG: Set Sail Deck Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.99,
+     "unavail_since": 1790145301
+    },
+    "pokemon-tcg-30th-celebration-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: 30th Celebration: Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 49.99,
+     "unavail_since": 1790145303
     }
    },
    "baselined": true,
