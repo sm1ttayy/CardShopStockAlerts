@@ -1595,7 +1595,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1604,10 +1604,9 @@
     "one-piece-adventure-on-kamis-island-booster-box-op-15": {
      "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
      "game": "One Piece",
-     "available": false,
-     "price": 240.0,
-     "last_restock_alert": 1788374753,
-     "unavail_since": 1788640040
+     "available": true,
+     "price": 255.0,
+     "last_restock_alert": 1790232015
     },
     "one-piece-the-time-of-battle-booster-box-op-16": {
      "title": "One Piece The Time of Battle Booster Box [OP-16]",
@@ -4394,7 +4393,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -13027,7 +13026,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
