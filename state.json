@@ -1595,7 +1595,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6203,6 +6203,12 @@
      "game": "MTG",
      "available": true,
      "price": 250.0
+    },
+    "trading-card-game-pokemon-card-151-japanese-booster-box-pre-order": {
+     "title": "Pokemon TCG: Scarlet and Violet - 151 Booster Box (Japanese)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 300.0
     }
    },
    "baselined": true,
