@@ -15431,7 +15431,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19885,7 +19885,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22075,6 +22075,12 @@
     },
     "riftbound-showdown-deck-evelynn-vs-seraphine": {
      "title": "RIFTBOUND SHOWDOWN DECK - EVELYNN VS SERAPHINE PRE ORDER ^ OCT 23/26",
+     "game": "Riftbound",
+     "available": true,
+     "price": 37.95
+    },
+    "riftbound-zed-vs-shen-showdown-deck": {
+     "title": "RIFTBOUND ZED VS SHEN SHOWDOWN DECK",
      "game": "Riftbound",
      "available": true,
      "price": 37.95
@@ -25984,7 +25990,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
