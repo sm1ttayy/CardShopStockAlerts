@@ -15418,7 +15418,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -16475,10 +16475,10 @@
      "unavail_since": 1784158594
     },
     "mtg-reality-fracture-play-booster-box": {
-     "title": "MTG - Reality Fracture - Play Booster Box (Pre-Order)",
+     "title": "MTG - Reality Fracture - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 189.95
+     "price": 199.95
     },
     "mtg-commander-legends-draft-booster-box": {
      "title": "MTG - Commander Legends - Draft Booster Box",
@@ -18864,10 +18864,9 @@
     "mtg-universes-beyond-the-hobbit-bundle-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit - Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1787873449,
-     "unavail_since": 1790306124
+     "last_restock_alert": 1790352316
     },
     "mtg-star-trek-bundle-pre-order": {
      "title": "MTG Star Trek Bundle (Pre Order)",
@@ -19867,7 +19866,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24386,7 +24385,7 @@
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 271.99,
+     "price": 272.99,
      "last_restock_alert": 1789084228
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
@@ -25927,7 +25926,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
