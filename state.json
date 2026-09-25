@@ -15532,7 +15532,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19986,7 +19986,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22159,8 +22159,9 @@
     "pokemon-30th-celebration-poster-collection": {
      "title": "POKEMON 30TH CELEBRATION POSTER COLLECTION (LIMIT 1)",
      "game": "Pokemon",
-     "available": true,
-     "price": 54.95
+     "available": false,
+     "price": 54.95,
+     "unavail_since": 1790375107
     },
     "pokemon-30th-celebration-tech-sticker-collection": {
      "title": "POKEMON 30TH CELEBRATION TECH STICKER COLLECTION (LIMIT 1)",
@@ -26098,7 +26099,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
