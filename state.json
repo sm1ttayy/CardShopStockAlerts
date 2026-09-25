@@ -15431,7 +15431,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19885,7 +19885,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21874,8 +21874,9 @@
     "riftbound-vendetta-booster-box": {
      "title": "RIFTBOUND VENDETTA BOOSTER BOX (LIMIT 3)",
      "game": "Riftbound",
-     "available": true,
-     "price": 219.95
+     "available": false,
+     "price": 219.95,
+     "unavail_since": 1790367911
     },
     "riftbound-unleashed-booster-box": {
      "title": "RIFTBOUND UNLEASHED BOOSTER BOX (LIMIT 2)",
@@ -25983,7 +25984,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
