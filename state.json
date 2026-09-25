@@ -14428,9 +14428,10 @@
     "reality-fracture-play-booster-box-preorder": {
      "title": "Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 149.95,
-     "last_restock_alert": 1789761629
+     "last_restock_alert": 1789761629,
+     "unavail_since": 1790355615
     },
     "marvel-super-heroes-jumpstart-booster-box-preorder": {
      "title": "Marvel Super Heroes Jumpstart Booster Box",
@@ -15418,7 +15419,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19865,7 +19866,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20781,10 +20782,10 @@
      "price": 189.99
     },
     "reality-fracture-play-booster-display": {
-     "title": "Reality Fracture - Play Booster Display [DELAYED]",
+     "title": "Reality Fracture - Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 189.99,
+     "price": 199.99,
      "last_restock_alert": 1788993019
     },
     "reality-fracture-bundle": {
@@ -25925,7 +25926,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
