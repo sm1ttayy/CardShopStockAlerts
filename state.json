@@ -13856,8 +13856,9 @@
     "pokemon-trading-card-game-first-partner-illustration-collection-series-3": {
      "title": "Pokemon Trading Card Game: First Partner Illustration Collection (Series 3)",
      "game": "Pokemon",
-     "available": true,
-     "price": 34.99
+     "available": false,
+     "price": 29.99,
+     "unavail_since": 1790306711
     },
     "pokemon-tcg-celebrations-deluxe-pin-collection": {
      "title": "Pok\u00e9mon TCG: Celebrations Deluxe Pin Collection",
@@ -14174,6 +14175,12 @@
      "game": "MTG",
      "available": true,
      "price": 69.99
+    },
+    "pokemon-paradigm-trigger-s12-booster-box-sword-shield-series-japanese": {
+     "title": "Pokemon Paradigm Trigger S12 Booster Box - Sword & Shield Series - Japanese",
+     "game": "Pokemon",
+     "available": true,
+     "price": 310.0
     }
    },
    "baselined": true,
@@ -16539,7 +16546,7 @@
      "title": "MTG - Kaldheim - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 229.95
+     "price": 259.95
     },
     "mtg-unfinity-english-draft-booster-box": {
      "title": "MTG - Unfinity - English Draft Booster Box",
@@ -17364,6 +17371,24 @@
      "available": false,
      "price": 89.95,
      "unavail_since": 1790306413
+    },
+    "mtg-strixhaven-set-booster-box": {
+     "title": "MTG - Strixhaven - Set Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 269.95
+    },
+    "mtg-phyrexia-all-will-be-one-english-set-booster-box": {
+     "title": "MTG - Phyrexia: All Will Be One - English Set Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 369.95
+    },
+    "mtg-strixhaven-draft-booster-box": {
+     "title": "MTG - Strixhaven - Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 299.95
     }
    },
    "baselined": true,
@@ -17482,16 +17507,18 @@
     "pokemon-temporal-forces-booster-box-pre-order": {
      "title": "Pokemon Temporal Forces Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 429.95,
-     "last_restock_alert": 1786665331
+     "last_restock_alert": 1786665331,
+     "unavail_since": 1790306710
     },
     "pokemon-scarlet-violet-surging-sparks-booster-box-pre-order": {
      "title": "Pokemon Scarlet & Violet Surging Sparks Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 449.95,
-     "last_restock_alert": 1786110043
+     "last_restock_alert": 1786110043,
+     "unavail_since": 1790306710
     },
     "pokemon-collect-151-gathering-jumbo-booster-box-pre-order": {
      "title": "Pokemon \"Collect 151: Gathering\" Jumbo Booster Box",
@@ -17753,8 +17780,9 @@
     "mtg-innistrad-remastered-play-booster-box-pre-order": {
      "title": "MTG - Innistrad Remastered - Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 329.95
+     "available": false,
+     "price": 329.95,
+     "unavail_since": 1790306715
     },
     "mtg-tarkir-dragonstorm-play-booster-box-pre-order": {
      "title": "MTG - Tarkir Dragonstorm - Play Booster Box",
@@ -19817,10 +19845,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 359.95
+    },
+    "pokemon-tcg-scarlet-and-violet-raging-rift-pre-order": {
+     "title": "Pokemon TCG Scarlet And Violet Paradox Rift Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 409.95
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25874,7 +25908,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
