@@ -17351,6 +17351,19 @@
      "game": "Riftbound",
      "available": true,
      "price": 47.95
+    },
+    "pokemon-magearna-mythical-pokemon-collections-box": {
+     "title": "Pokemon - Mythical Collection - Magearna",
+     "game": "Pokemon",
+     "available": true,
+     "price": 899.95
+    },
+    "pokemon-paldea-collection-fuecoco": {
+     "title": "Pokemon - Paldea Collection - Fuecoco",
+     "game": "Pokemon",
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1790306413
     }
    },
    "baselined": true,
@@ -19195,7 +19208,7 @@
      "title": "Pokemon Charizard ex Super-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 179.95,
+     "price": 189.99,
      "last_restock_alert": 1788269429,
      "unavail_since": 1789587613
     },
@@ -19234,7 +19247,7 @@
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 29.95,
+     "price": 39.95,
      "last_restock_alert": 1789849811,
      "unavail_since": 1789857614
     },
@@ -19395,7 +19408,7 @@
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor",
      "game": "Pokemon",
      "available": false,
-     "price": 44.95,
+     "price": 49.95,
      "last_restock_alert": 1789769423,
      "unavail_since": 1789926911
     },
@@ -19807,7 +19820,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22796,7 +22809,7 @@
      "title": "Lorwyn Eclipsed Play Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 114.99,
+     "price": 114.75,
      "last_restock_alert": 1788575446
     },
     "secrets-of-strixhaven-play-booster-display": {
@@ -23018,7 +23031,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 456.75,
+     "price": 449.75,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800622
     },
@@ -23047,7 +23060,7 @@
      "title": "VMAX Climax Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 223.75,
+     "price": 223.25,
      "unavail_since": 1786195833
     },
     "pillars-of-strength-booster-box-op03": {
@@ -23123,7 +23136,7 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 259.99,
+     "price": 298.99,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
@@ -23532,7 +23545,7 @@
      "title": "Darkness Ablaze Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 365.99,
+     "price": 349.99,
      "unavail_since": 1786195840
     },
     "japanese-paradise-dragona-booster-box": {
@@ -24243,7 +24256,7 @@
      "title": "Universes Beyond: The Lord of the Rings: Tales of Middle-earth - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 408.99,
+     "price": 416.99,
      "unavail_since": 1785187243
     },
     "secrets-of-strixhaven-codex-bundle": {
@@ -24326,7 +24339,7 @@
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 272.99,
+     "price": 271.99,
      "last_restock_alert": 1789084228
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
@@ -24353,7 +24366,7 @@
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 427.75,
+     "price": 403.75,
      "unavail_since": 1789603830
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
@@ -24815,7 +24828,7 @@
      "title": "Pokemon GO Pin Collection [Bulbasaur]",
      "game": "Pokemon",
      "available": true,
-     "price": 75.49
+     "price": 74.99
     },
     "pokemon-go-radiant-eevee-premium-collection": {
      "title": "Pokemon GO Radiant Eevee Premium Collection",
@@ -24833,7 +24846,7 @@
      "title": "Pokemon GO Mini Tin Display [Sealed]",
      "game": "Pokemon",
      "available": true,
-     "price": 348.99
+     "price": 314.99
     },
     "tapu-lele-pin-collection": {
      "title": "Tapu Lele Pin Collection",
@@ -24948,7 +24961,7 @@
      "title": "Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": false,
-     "price": 26.99,
+     "price": 26.75,
      "unavail_since": 1786195236
     },
     "the-hobbit-play-booster-display": {
@@ -25037,7 +25050,7 @@
      "title": "Zendikar Rising - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 174.75,
+     "price": 166.75,
      "unavail_since": 1786195830
     },
     "commander-legends-draft-booster-box": {
@@ -25070,7 +25083,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 66.99
+     "price": 68.75
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -25407,7 +25420,7 @@
      "title": "30th Celebration Tech Sticker Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 40.75,
+     "price": 43.99,
      "last_restock_alert": 1789929923,
      "unavail_since": 1789937130
     },
@@ -25415,7 +25428,7 @@
      "title": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
      "game": "Pokemon",
      "available": false,
-     "price": 40.75,
+     "price": 43.99,
      "unavail_since": 1789937130
     },
     "30th-celebration-poster-collection": {
@@ -25428,7 +25441,7 @@
      "title": "30th Celebration Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 178.75,
+     "price": 169.75,
      "unavail_since": 1789936225
     },
     "30th-celebration-poster-collection-wave-2": {
@@ -25534,7 +25547,7 @@
      "title": "30th Celebration Tin [Greninja ex]",
      "game": "Pokemon",
      "available": false,
-     "price": 59.75,
+     "price": 62.75,
      "unavail_since": 1789913159
     },
     "one-piece-tin-pack-set-vol-2-monkey-d-luffy": {
@@ -25561,7 +25574,7 @@
      "title": "Astral Radiance Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 202.99
+     "price": 192.99
     },
     "one-piece-heroines-edition-booster-box": {
      "title": "One Piece Heroines Edition Booster Box",
@@ -25720,7 +25733,7 @@
      "title": "Paradox Rift Pokemon Center Elite Trainer Box [Roaring Moon]",
      "game": "Pokemon",
      "available": true,
-     "price": 208.99
+     "price": 208.49
     },
     "magic-the-gathering-hail-cesar-commander-deck": {
      "title": "Hail, Caesar Commander Deck",
@@ -25800,14 +25813,14 @@
      "title": "30th Celebration Mini Tin [Assorted Artwork]",
      "game": "Pokemon",
      "available": false,
-     "price": 45.75,
+     "price": 45.99,
      "unavail_since": 1789861245
     },
     "30th-celebration-mini-tin-assorted-artwork-wave-2": {
      "title": "30th Celebration Mini Tin [Assorted Artwork] - Wave 2",
      "game": "Pokemon",
      "available": false,
-     "price": 45.75,
+     "price": 45.99,
      "unavail_since": 1789861527
     },
     "galar-pal-mini-tin-grookey-wooloo": {
@@ -25826,7 +25839,7 @@
      "title": "30th Celebration Booster Bundle - Wave 2",
      "game": "Pokemon",
      "available": false,
-     "price": 123.49,
+     "price": 122.99,
      "unavail_since": 1789939524
     },
     "scarlet-violet-pokemon-center-elite-trainer-box-miraidon": {
@@ -25861,7 +25874,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
