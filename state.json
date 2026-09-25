@@ -15431,7 +15431,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19879,7 +19879,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20797,9 +20797,10 @@
     "reality-fracture-play-booster-display": {
      "title": "Reality Fracture - Play Booster Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 199.99,
-     "last_restock_alert": 1788993019
+     "last_restock_alert": 1788993019,
+     "unavail_since": 1790361313
     },
     "reality-fracture-bundle": {
      "title": "Reality Fracture - Bundle",
@@ -22042,8 +22043,9 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "POKEMON 30TH CELEBRATION ELITE TRAINER BOX (LIMIT 1)",
      "game": "Pokemon",
-     "available": true,
-     "price": 219.95
+     "available": false,
+     "price": 219.95,
+     "unavail_since": 1790361307
     },
     "pokemon-30th-celebration-poster-collection": {
      "title": "POKEMON 30TH CELEBRATION POSTER COLLECTION (LIMIT 1)",
@@ -25969,7 +25971,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
