@@ -19854,7 +19854,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25905,10 +25905,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 144.75
+    },
+    "pokemon-crown-zenith-pokemon-center-elite-trainer-box-plus": {
+     "title": "Crown Zenith Pokemon Center Elite Trainer Box Plus",
+     "game": "Pokemon",
+     "available": true,
+     "price": 532.75
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
