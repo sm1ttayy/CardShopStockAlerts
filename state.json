@@ -15419,7 +15419,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19285,9 +19285,10 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 39.95,
-     "last_restock_alert": 1790351730
+     "last_restock_alert": 1790351730,
+     "unavail_since": 1790357110
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -19866,7 +19867,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20851,6 +20852,30 @@
     },
     "foundations-commander-deck-keen-engineering": {
      "title": "Foundations Commander Deck - Keen Engineering",
+     "game": "MTG",
+     "available": true,
+     "price": 49.99
+    },
+    "foundations-commander-deck-tramplesaurus-rex": {
+     "title": "Foundations Commander Deck - Tramplesaurus Rex",
+     "game": "MTG",
+     "available": true,
+     "price": 49.99
+    },
+    "foundations-commander-deck-reign-of-dragons": {
+     "title": "Foundations Commander Deck - Reign of Dragons",
+     "game": "MTG",
+     "available": true,
+     "price": 49.99
+    },
+    "foundations-commander-deck-calling-all-angels": {
+     "title": "Foundations Commander Deck - Calling All Angels",
+     "game": "MTG",
+     "available": true,
+     "price": 49.99
+    },
+    "foundations-commander-deck-wretched-ranks": {
+     "title": "Foundations Commander Deck - Wretched Ranks",
      "game": "MTG",
      "available": true,
      "price": 49.99
@@ -25932,7 +25957,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
