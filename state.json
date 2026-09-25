@@ -2108,9 +2108,10 @@
     "magic-the-gathering-tarkir-dragonstorm-play-booster-box": {
      "title": "Magic: The Gathering - Tarkir: Dragonstorm Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 165.0,
-     "last_restock_alert": 1790085903
+     "last_restock_alert": 1790085903,
+     "unavail_since": 1790347145
     },
     "one-piece-booster-box-op10-royal-blood": {
      "title": "One Piece Royal Blood Booster Box [OP10]",
@@ -4072,17 +4073,16 @@
     "30th-celebration-knockout-collection": {
      "title": "Pok\u00e9mon: 30th Celebration - Knockout Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 35.0,
-     "unavail_since": 1790107680
+     "available": true,
+     "price": 32.0,
+     "last_restock_alert": 1790347158
     },
     "preorder-magic-the-gathering-reality-fracture-booster-box": {
      "title": "[PREORDER] Magic: The Gathering - Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 119.0,
-     "last_restock_alert": 1787392126,
-     "unavail_since": 1787738594
+     "available": true,
+     "price": 165.0,
+     "last_restock_alert": 1790347143
     },
     "tin-pack-set-vol-1-gol-d-roger-ts01": {
      "title": "One Piece - Tin Pack Vol. 1 -Gol.D.Roger- [TS01]",
@@ -4099,9 +4099,9 @@
     "30th-celebration-ex-box-set-of-2": {
      "title": "Pok\u00e9mon: 30th Celebration - Greninja & Sylveon ex Box [Set of 2]",
      "game": "Pokemon",
-     "available": false,
-     "price": 120.0,
-     "unavail_since": 1790096497
+     "available": true,
+     "price": 130.0,
+     "last_restock_alert": 1790347158
     },
     "30th-celebration-alolan-exeggutor-and-lucario-tech-sticker-collection-set-of-2": {
      "title": "Pok\u00e9mon: 30th Celebration - Alolan Exeggutor & Lucario Tech Sticker Collection [Set of 2]",
@@ -4400,7 +4400,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 472.0,
+     "price": 452.0,
      "last_restock_alert": 1789681209,
      "unavail_since": 1790006220
     },
@@ -4660,7 +4660,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 216.0,
+     "price": 215.0,
      "last_restock_alert": 1789047763
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
@@ -5236,7 +5236,7 @@
      "title": "One Piece TCG: Adventure on Kamis Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 268.0,
+     "price": 262.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-gem-volume-4-booster-box-chinese": {
@@ -5262,7 +5262,7 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Jumpstart Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 98.0
+     "price": 94.0
     },
     "pokemon-tcg-mega-evolution-phantasmal-flames-booster-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
@@ -5324,7 +5324,7 @@
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 299.0,
+     "price": 304.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -5732,7 +5732,7 @@
      "title": "One Piece Card Game: Pillars of Strength Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 525.0,
+     "price": 553.0,
      "unavail_since": 1785357604
     },
     "magic-the-gathering-murders-at-karlov-manor-play-booster-box-pre-order": {
@@ -5811,7 +5811,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 173.0,
+     "price": 171.0,
      "last_restock_alert": 1788961604,
      "unavail_since": 1789654816
     },
@@ -6376,8 +6376,9 @@
     "pokemon-scarlet-violet-stellar-crown-booster-box": {
      "title": "Pokemon Scarlet & Violet: Stellar Crown Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 329.75
+     "available": false,
+     "price": 329.75,
+     "unavail_since": 1790347169
     },
     "pokemon-scarlet-violet-temporal-forces-booster-box": {
      "title": "Pokemon Scarlet and Violet Temporal Forces Booster Box",
@@ -9063,10 +9064,9 @@
     "magic-the-gathering-foundations-play-booster-box": {
      "title": "Magic: The Gathering - Foundations - Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 174.99,
-     "last_restock_alert": 1788612507,
-     "unavail_since": 1789307436
+     "last_restock_alert": 1790347153
     },
     "scarlet-violet-terastal-fest-ex-booster-box-japanese": {
      "title": "Pokemon Terastal Festival ex Booster Box (Japanese)",
@@ -9943,9 +9943,9 @@
     "magic-the-gathering-reality-fracture-play-booster-box": {
      "title": "Magic: The Gathering Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 174.99,
-     "unavail_since": 1790259334
+     "last_restock_alert": 1790347143
     },
     "magic-the-gathering-lorwyn-eclipsed-bundle": {
      "title": "Magic: The Gathering Lorwyn Eclipsed Bundle",
@@ -9970,6 +9970,12 @@
      "game": "MTG",
      "available": true,
      "price": 59.99
+    },
+    "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box-mtg": {
+     "title": "Magic: The Gathering Marvel Super Heroes - Jumpstart Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 124.99
     }
    },
    "baselined": true,
@@ -10939,7 +10945,7 @@
      "title": "Reality Fracture Play Booster Box [MTG] (09/25)",
      "game": "MTG",
      "available": true,
-     "price": 145.0
+     "price": 165.0
     },
     "journey-together-booster-display-pokemon": {
      "title": "Journey Together Booster Display [Pok\u00e9mon]",
@@ -13035,7 +13041,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
