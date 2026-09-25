@@ -15431,7 +15431,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17676,9 +17676,10 @@
     "pokemon-mega-evolutions-ascended-heroes-booster-bundle": {
      "title": "Pokemon Mega Evolutions Ascended Heroes Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1790364309
+     "last_restock_alert": 1790364309,
+     "unavail_since": 1790364609
     },
     "pokemon-scarlet-violet-prismatic-evolutions-booster-bundle-pre-order": {
      "title": "Pokemon Scarlet & Violet Prismatic Evolutions Booster Bundle",
@@ -19878,7 +19879,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25976,7 +25977,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
