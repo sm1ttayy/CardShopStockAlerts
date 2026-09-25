@@ -15419,7 +15419,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19866,7 +19866,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20848,6 +20848,12 @@
      "game": "MTG",
      "available": true,
      "price": 129.99
+    },
+    "foundations-commander-deck-keen-engineering": {
+     "title": "Foundations Commander Deck - Keen Engineering",
+     "game": "MTG",
+     "available": true,
+     "price": 49.99
     }
    },
    "baselined": true,
@@ -25926,7 +25932,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
