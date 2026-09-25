@@ -15359,8 +15359,9 @@
     "the-hobbit-gift-bundle-preorder": {
      "title": "The Hobbit Gift Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 114.95
+     "available": false,
+     "price": 114.95,
+     "unavail_since": 1790371515
     },
     "modern-horizons-3-graveyard-overdrive-commander-deck": {
      "title": "Modern Horizons 3 Graveyard Overdrive Commander Deck",
@@ -15436,7 +15437,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19890,7 +19891,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25996,7 +25997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
