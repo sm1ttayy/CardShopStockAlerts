@@ -344,7 +344,7 @@
      "last_restock_alert": 1788356674
     },
     "magic-the-gathering-reality-fracture-play-booster-display-box": {
-     "title": "Magic: The Gathering | Reality Fracture - Play Booster Display Box (Pre-Order)",
+     "title": "Magic: The Gathering | Reality Fracture - Play Booster Display Box",
      "game": "MTG",
      "available": false,
      "price": 164.7,
@@ -1197,7 +1197,7 @@
      "title": "Riftbound TCG: League of Legends: Vendetta - Showdown Decks: Zed Versus Shen",
      "game": "Riftbound",
      "available": true,
-     "price": 18.02,
+     "price": 16.34,
      "last_restock_alert": 1786016226
     },
     "one-piece-tcg-starter-deck-green-roronoa-zoro-st-32": {
@@ -1592,6 +1592,27 @@
      "available": false,
      "price": 554.0,
      "unavail_since": 1790204729
+    },
+    "magic-the-gathering-reality-fracture-draft-night": {
+     "title": "Magic: The Gathering | Reality Fracture - Draft Night",
+     "game": "MTG",
+     "available": false,
+     "price": 99.99,
+     "unavail_since": 1790371659
+    },
+    "kamigawa-neon-dynasty-commander-deck-buckle-up": {
+     "title": "Magic: the Gathering: Kamigawa Neon Dynasty - Buckle Up Commander Deck",
+     "game": "MTG",
+     "available": false,
+     "price": 128.23,
+     "unavail_since": 1790371664
+    },
+    "magic-the-gathering-reality-fracture-multiverse-reforged-commander-deck": {
+     "title": "Magic: The Gathering | Reality Fracture - Multiverse Reforged Commander Deck",
+     "game": "MTG",
+     "available": false,
+     "price": 49.99,
+     "unavail_since": 1790371664
     }
    },
    "baselined": true,
@@ -4388,6 +4409,24 @@
      "game": "MTG",
      "available": true,
      "price": 52.0
+    },
+    "magic-the-gathering-foundations-commander-decks-set-of-5": {
+     "title": "[PREORDER] Magic: The Gathering Foundations Commander Decks [Set of 5]",
+     "game": "MTG",
+     "available": true,
+     "price": 180.0
+    },
+    "magic-the-gathering-reality-fracture-secret-lair-bundle": {
+     "title": "[PREORDER] Magic: The Gathering - Reality Fracture Secret Lair Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 175.0
+    },
+    "magic-the-gathering-reality-fracture-bundle": {
+     "title": "[PREORDER] Magic: The Gathering - Reality Fracture Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 59.0
     }
    },
    "baselined": true,
@@ -4714,7 +4753,7 @@
      "title": "Magic the Gathering: Aetherdrift Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 115.0
+     "price": 111.0
     },
     "magic-the-gathering-reality-fracture-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Reality Fracture Play Booster Box (PRE-ORDER)",
@@ -4733,7 +4772,7 @@
      "title": "Magic the Gathering: Bloomburrow Play Booster",
      "game": "MTG",
      "available": true,
-     "price": 218.0
+     "price": 219.0
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
@@ -4983,7 +5022,7 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Lorehold Spirit)",
      "game": "MTG",
      "available": true,
-     "price": 37.0
+     "price": 47.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-avengers-assemble-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Avengers Assemble (SALE)",
@@ -5007,7 +5046,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - The Fantastic Four",
      "game": "MTG",
      "available": true,
-     "price": 42.0
+     "price": 40.0
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-deck-quandrix-unlimited-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Quandrix Unlimited)",
@@ -5025,13 +5064,13 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 42.0
+     "price": 54.0
     },
     "magic-the-gathering-marvel-super-heroes-bundle-box-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 50.0
+     "price": 42.0
     },
     "magic-the-gathering-aetherdrift-finish-line-bundle-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Finish Line Bundle",
@@ -5043,7 +5082,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 51.0
+     "price": 50.0
     },
     "magic-the-gathering-aetherdrift-bundle-pre-order": {
      "title": "Magic the Gathering: Aetherdrift Bundle",
@@ -5052,16 +5091,16 @@
      "price": 42.0
     },
     "magic-the-gathering-tarkir-dragonstorm-bundle-box-pre-order": {
-     "title": "Magic The Gathering: Tarkir Dragonstorm Bundle Box (SALE)",
+     "title": "Magic The Gathering: Tarkir Dragonstorm Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 85.0
+     "price": 104.0
     },
     "mtg_crimvow_giftbundle": {
      "title": "Magic the Gathering: Innistrad: Crimson Vow - Gift Bundle",
      "game": "MTG",
      "available": true,
-     "price": 136.0
+     "price": 150.0
     },
     "magic-the-gathering-marvel-spider-man-bundle-box-pre-order": {
      "title": "Magic The Gathering: Marvel Spider-Man Bundle Box",
@@ -5079,7 +5118,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Pizza Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 92.0
+     "price": 100.0
     },
     "one-piece-tcg-double-pack-volume-9-set": {
      "title": "One Piece TCG: Double Pack Volume 9 Set",
@@ -5758,7 +5797,7 @@
      "title": "Magic the Gathering: Chaos Incarnate Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 42.0
+     "price": 41.0
     },
     "one-piece-tcg-blue-kuzan-starter-deck-ex-st-33": {
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
@@ -5826,7 +5865,7 @@
      "title": "Magic the Gathering Phyrexia: All Will Be One Compleat Edition Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 473.0
+     "price": 421.0
     },
     "pokemon-tcg-scarlet-and-violet-destined-rivals-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box (SALE)",
@@ -6142,7 +6181,7 @@
      "title": "Magic the Gathering: 2017 Commander Deck - Vampiric Bloodlust",
      "game": "MTG",
      "available": true,
-     "price": 436.0
+     "price": 451.0
     },
     "mtg_dominariautd_cmndr_llegacy": {
      "title": "Magic the Gathering: Legends&#x27; Legacy Commander Deck",
@@ -6166,7 +6205,7 @@
      "title": "Magic the Gathering: Token Triumph Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 36.0
+     "price": 35.0
     },
     "magic-the-gathering-tarkir-dragonstorm-commander-deck-abzan-pre-order": {
      "title": "Magic The Gathering: Tarkir Dragonstorm Commander Deck (Abzan)",
@@ -6216,6 +6255,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 262.0
+    },
+    "magic-the-gathering-the-hobbit-gift-bundle-box-pre-order": {
+     "title": "Magic The Gathering: The Hobbit Gift Bundle Box",
+     "game": "MTG",
+     "available": true,
+     "price": 121.0
+    },
+    "magic-the-gathering-the-hobbit-bundle-box-pre-order": {
+     "title": "Magic The Gathering: The Hobbit Bundle Box",
+     "game": "MTG",
+     "available": true,
+     "price": 72.0
     }
    },
    "baselined": true,
@@ -9949,9 +10000,10 @@
     "magic-the-gathering-reality-fracture-play-booster-box": {
      "title": "Magic: The Gathering Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 174.99,
-     "last_restock_alert": 1790347143
+     "last_restock_alert": 1790347143,
+     "unavail_since": 1790371656
     },
     "magic-the-gathering-lorwyn-eclipsed-bundle": {
      "title": "Magic: The Gathering Lorwyn Eclipsed Bundle",
@@ -11090,6 +11142,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 400.0
+    },
+    "avatar-the-last-airbender-jumpstart-booster-box-universes-beyond-mtg": {
+     "title": "Avatar: The Last Airbender Jumpstart Booster Box (Universes Beyond) [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 120.0
+    },
+    "teenage-mutant-ninja-turtles-play-booster-box-universes-beyond-mtg": {
+     "title": "Teenage Mutant Ninja Turtles Play Booster Box (Universes Beyond) [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 145.0
+    },
+    "foundations-commander-decks-mtg-10-02": {
+     "title": "Foundations Commander Decks [MTG] (10/02)",
+     "game": "MTG",
+     "available": true,
+     "price": 40.0
     }
    },
    "baselined": true,
@@ -11913,9 +11983,9 @@
     "riftbound-league-of-legends-tcg-origins-proving-grounds": {
      "title": "Riftbound TCG: Origins: Proving Grounds",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 54.99,
-     "unavail_since": 1784417511
+     "last_restock_alert": 1790371651
     },
     "riftbound-tcg-spiritforged-booster-display": {
      "title": "Riftbound TCG: Spiritforged: Booster Display",
@@ -12261,9 +12331,9 @@
     "pokemon-tcg-chaos-rising-booster-display": {
      "title": "Pok\u00e9mon TCG: Chaos Rising: Booster Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 184.99,
-     "unavail_since": 1788188462
+     "last_restock_alert": 1790371676
     },
     "cgc-9-volibear300-298-origins-6157704002": {
      "title": "CGC 9 Volibear(300*/298) [Origins] - 6157704002",
@@ -12565,9 +12635,9 @@
     "riftbound-tcg-vendetta-showdown-decks-zed-versus-shen": {
      "title": "Riftbound TCG: Vendetta: Showdown Decks: Zed Versus Shen",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 34.99,
-     "unavail_since": 1786090761
+     "last_restock_alert": 1790371651
     },
     "magic-the-gathering-marvel-super-heroes-commander-decks-case-of-four": {
      "title": "Magic the Gathering: Marvel Super Heroes: Commander Decks (Case of Four)",
@@ -12704,9 +12774,9 @@
     "pokemon-tcg-terastal-fest-ex-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Terastal Fest ex Booster Display (Japanese)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 159.99,
-     "unavail_since": 1789584539
+     "last_restock_alert": 1790371689
     },
     "pokemon-tcg-nihil-zero-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Nihil Zero: Booster Display (Japanese)",
@@ -12729,16 +12799,16 @@
     "one-piece-tcg-starter-deck-monkey-d-luffy-st-31": {
      "title": "One Piece TCG: Starter Deck: Monkey.D.Luffy (ST-31)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 19.99,
-     "unavail_since": 1788909955
+     "last_restock_alert": 1790371638
     },
     "one-piece-tcg-starter-deck-sabo-st-35": {
      "title": "One Piece TCG: Starter Deck: Sabo (ST-35)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 14.99,
-     "unavail_since": 1788909955
+     "last_restock_alert": 1790371638
     },
     "one-piece-tcg-starter-deck-roronoa-zoro-st-32": {
      "title": "One Piece TCG: Starter Deck: Roronoa Zoro (ST-32)",
@@ -12750,16 +12820,16 @@
     "one-piece-tcg-starter-deck-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck: Charlotte Katakuri (ST-34)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 19.99,
-     "unavail_since": 1788909955
+     "last_restock_alert": 1790371638
     },
     "one-piece-tcg-starter-deck-eustass-captain-kid-st-36": {
      "title": "One Piece TCG: Starter Deck: Eustass \"Captain\" Kid (ST-36)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 14.99,
-     "unavail_since": 1788909955
+     "last_restock_alert": 1790371638
     },
     "one-piece-tcg-starter-deck-kuzani-st-33": {
      "title": "One Piece TCG: Starter Deck: Kuzani (ST-33)",
@@ -12838,23 +12908,23 @@
     "riftbound-league-of-legends-tcg-origins-champion-deck-viktor": {
      "title": "Riftbound TCG: Origins: Champion Deck: Viktor",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 54.99,
-     "unavail_since": 1789299579
+     "last_restock_alert": 1790371651
     },
     "riftbound-league-of-legends-tcg-origins-champion-deck-lee-sin": {
      "title": "Riftbound TCG: Origins: Champion Deck: Lee Sin",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 39.99,
-     "unavail_since": 1789299579
+     "last_restock_alert": 1790371651
     },
     "pokemon-tcg-journey-together-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: Mega Evolution: Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 109.99,
-     "unavail_since": 1789450033
+     "last_restock_alert": 1790371682
     },
     "pokemon-tcg-pokemon-day-2026-collection": {
      "title": "Pok\u00e9mon TCG: Pokemon Day 2026 Collection",
@@ -12904,9 +12974,9 @@
     "riftbound-league-of-legends-tcg-origins-champion-deck-jinx": {
      "title": "Riftbound TCG: Origins: Champion Deck: Jinx",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 24.99,
-     "unavail_since": 1790096512
+     "last_restock_alert": 1790371689
     },
     "magic-the-gathering-bloomburrow-play-booster": {
      "title": "Magic The Gathering: Bloomburrow: Play Booster Display",
@@ -12944,7 +13014,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes: Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 104.99
+     "price": 99.99
     },
     "magic-the-gathering-edge-of-eternities-play-booster-display": {
      "title": "Magic the Gathering: Edge of Eternities: Play Booster Display",
@@ -13050,6 +13120,31 @@
      "game": "Pokemon",
      "available": true,
      "price": 26.94
+    },
+    "magic-the-gathering-the-hobbit-play-booster-display": {
+     "title": "Magic the Gathering: Reality Fracture: Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 164.7
+    },
+    "magic-the-gathering-reality-fracture-draft-night": {
+     "title": "Magic the Gathering: Reality Fracture: Draft Night",
+     "game": "MTG",
+     "available": true,
+     "price": 89.99
+    },
+    "magic-the-gathering-outlaws-of-thunder-junction-play-booster-display": {
+     "title": "Magic The Gathering: Outlaws of Thunder Junction: Play Booster",
+     "game": "MTG",
+     "available": false,
+     "price": 134.99,
+     "unavail_since": 1790371657
+    },
+    "magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-sealed-case-of-6": {
+     "title": "Magic the Gathering: Teenage Mutant Ninja Turtles: Play Booster (Sealed Case of 6)",
+     "game": "MTG",
+     "available": true,
+     "price": 689.99
     }
    },
    "baselined": true,
