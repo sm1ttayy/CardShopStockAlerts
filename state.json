@@ -17557,6 +17557,12 @@
      "available": false,
      "price": 199.95,
      "unavail_since": 1790432111
+    },
+    "mtg-universes-beyond-teenage-mutant-ninja-turtles-play-booster-box": {
+     "title": "MTG - Universes Beyond: Teenage Mutant Ninja Turtles - Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 229.95
     }
    },
    "baselined": true,
@@ -20024,7 +20030,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 90,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26144,7 +26150,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
