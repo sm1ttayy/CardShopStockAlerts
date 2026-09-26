@@ -1616,7 +1616,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4430,7 +4430,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5981,7 +5981,7 @@
      "title": "One Piece TCG: The Worlds Strongest Warriors Japanese Booster Box (OP-17)",
      "game": "One Piece",
      "available": true,
-     "price": 200.0,
+     "price": 150.0,
      "last_restock_alert": 1788909954
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box": {
@@ -12815,9 +12815,10 @@
     "one-piece-tcg-starter-deck-roronoa-zoro-st-32": {
      "title": "One Piece TCG: Starter Deck: Roronoa Zoro (ST-32)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 24.99,
-     "last_restock_alert": 1790358870
+     "last_restock_alert": 1790358870,
+     "unavail_since": 1790416553
     },
     "one-piece-tcg-starter-deck-charlotte-katakuri-st-34": {
      "title": "One Piece TCG: Starter Deck: Charlotte Katakuri (ST-34)",
