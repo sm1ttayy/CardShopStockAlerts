@@ -14211,7 +14211,7 @@
      "title": "New Nintendo 3DS Pokemon 20th Anniversary Edition - Nintendo 3DS",
      "game": "Pokemon",
      "available": false,
-     "price": 1142.0,
+     "price": 1128.0,
      "unavail_since": 1788917410
     },
     "tamashii-nations-one-piece-s-h-figuarts-monkey-d-luffy-summit-war-of-marineford-action-figure": {
@@ -17540,6 +17540,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 299.95
+    },
+    "one-piece-card-game-starter-deck-st18-monkey-d-luffy": {
+     "title": "One Piece Card Game - Starter Deck - ST18 - Monkey D. Luffy",
+     "game": "One Piece",
+     "available": false,
+     "price": 199.95,
+     "unavail_since": 1790432111
     }
    },
    "baselined": true,
@@ -20006,7 +20013,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22186,8 +22193,9 @@
     "pokemon-30th-celebration-tech-sticker-collection": {
      "title": "POKEMON 30TH CELEBRATION TECH STICKER COLLECTION (LIMIT 1)",
      "game": "Pokemon",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1790432116
     },
     "pokemon-30th-celebration-sylveon-ex-greninja-ex-box": {
      "title": "POKEMON 30TH CELEBRATION SYLVEON EX/GRENINJA EX BOX (LIMIT 1)",
@@ -22988,7 +22996,7 @@
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 108.99
+     "price": 111.25
     },
     "team-up-booster-box": {
      "title": "Team Up Booster Box",
@@ -23148,7 +23156,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 981.75,
+     "price": 980.49,
      "unavail_since": 1786800622
     },
     "destined-rivals-booster-box": {
@@ -23195,7 +23203,7 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 304.99,
+     "price": 308.75,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
@@ -23405,7 +23413,7 @@
      "title": "Premium Booster Booster Box [PRB01]",
      "game": "One Piece",
      "available": false,
-     "price": 889.99,
+     "price": 909.75,
      "unavail_since": 1787011823
     },
     "emperors-in-the-new-world-booster-box-op09": {
@@ -24579,7 +24587,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 279.99,
+     "price": 278.75,
      "last_restock_alert": 1786479935,
      "unavail_since": 1789599038
     },
@@ -24659,7 +24667,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 50.75
+     "price": 51.75
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -24968,7 +24976,7 @@
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 43.25,
+     "price": 48.25,
      "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
@@ -25133,7 +25141,7 @@
      "title": "Brilliant Stars Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 238.25,
+     "price": 249.99,
      "last_restock_alert": 1786566936
     },
     "pokemon-celebrations-booster-pack-1x-random-art": {
@@ -25152,7 +25160,7 @@
      "title": "Adventures in the Forgotten Realms - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 254.75
+     "price": 263.75
     },
     "pokemon-celebrations-elite-trainer-box": {
      "title": "Celebrations Elite Trainer Box",
@@ -25310,7 +25318,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 68.75
+     "price": 69.75
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -25533,7 +25541,7 @@
      "title": "Modern Horizons 2 - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 356.75,
+     "price": 349.99,
      "unavail_since": 1787405427
     },
     "wilds-of-eldraine-draft-booster-display": {
@@ -25627,7 +25635,7 @@
      "title": "White Flare Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 89.25,
+     "price": 89.49,
      "last_restock_alert": 1789592443
     },
     "mega-evolution-booster-bundle": {
@@ -25762,7 +25770,7 @@
      "title": "30th Celebration Ultra-Premium Collection [Day]",
      "game": "Pokemon",
      "available": true,
-     "price": 565.75
+     "price": 565.99
     },
     "the-hobbit-draft-night": {
      "title": "The Hobbit Draft Night",
@@ -25788,7 +25796,7 @@
      "title": "One Piece English Version 2nd Anniversary Set (Sealed Promotional Bundle)",
      "game": "One Piece",
      "available": false,
-     "price": 1613.49,
+     "price": 1612.49,
      "unavail_since": 1787788531
     },
     "scarlet-violet-pokemon-center-elite-trainer-box-koraidon": {
@@ -25832,7 +25840,7 @@
      "title": "The World's Strongest Warriors Double Pack Set Vol.12",
      "game": "One Piece",
      "available": false,
-     "price": 40.75,
+     "price": 41.49,
      "unavail_since": 1789417547
     },
     "illustration-box-vol-6": {
@@ -26119,7 +26127,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27251,8 +27259,9 @@
     "pokemon-tcg-30th-celebration-knockout-collection-2-booster-packs-pre-order": {
      "title": "Pokemon TCG 30th Celebration Knockout Collection (2 Booster Packs)",
      "game": "Pokemon",
-     "available": true,
-     "price": 29.95
+     "available": false,
+     "price": 29.95,
+     "unavail_since": 1790432142
     },
     "magic-the-gathering-reality-fracture-play-booster-box-30-booster-packs-pre-order": {
      "title": "Magic: The Gathering Reality Fracture Play Booster Box (30 Booster Packs) (Pre Order)",
