@@ -1596,9 +1596,9 @@
     "magic-the-gathering-reality-fracture-draft-night": {
      "title": "Magic: The Gathering | Reality Fracture - Draft Night",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 99.99,
-     "unavail_since": 1790371659
+     "last_restock_alert": 1790430465
     },
     "kamigawa-neon-dynasty-commander-deck-buckle-up": {
      "title": "Magic: the Gathering: Kamigawa Neon Dynasty - Buckle Up Commander Deck",
@@ -1616,7 +1616,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3045,9 +3045,10 @@
     "dominaria-remastered-draft-booster-box-display": {
      "title": "Dominaria Remastered Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 275.0,
-     "last_restock_alert": 1790085905
+     "last_restock_alert": 1790085905,
+     "unavail_since": 1790430442
     },
     "commander-legends-baldurs-gate-set-booster-box-display": {
      "title": "Commander Legends: Battle for Baldur's Gate Set Booster Box Display",
@@ -4440,7 +4441,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 452.0,
+     "price": 431.0,
      "last_restock_alert": 1789681209,
      "unavail_since": 1790006220
     },
@@ -4778,7 +4779,7 @@
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 114.0,
+     "price": 113.0,
      "unavail_since": 1784083329
     },
     "magic-the-gathering-edge-of-eternities-play-booster-box-pre-order": {
@@ -5199,7 +5200,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 194.0,
+     "price": 199.0,
      "last_restock_alert": 1784243702,
      "unavail_since": 1788793658
     },
@@ -5238,17 +5239,17 @@
      "price": 42.0
     },
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box-pre-order": {
-     "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box",
+     "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 115.0,
+     "price": 110.0,
      "last_restock_alert": 1785843580
     },
     "magic-the-gathering-the-hobbit-play-booster-box-pre-order": {
      "title": "Magic The Gathering: The Hobbit Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 168.0,
+     "price": 163.0,
      "last_restock_alert": 1787092422
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
@@ -5276,7 +5277,7 @@
      "title": "One Piece TCG: Adventure on Kamis Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 262.0,
+     "price": 268.0,
      "unavail_since": 1784083329
     },
     "pokemon-tcg-gem-volume-4-booster-box-chinese": {
@@ -5296,7 +5297,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 189.0
+     "price": 187.0
     },
     "magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-box": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Jumpstart Booster Box",
@@ -5308,7 +5309,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 414.0,
+     "price": 413.0,
      "last_restock_alert": 1790259354
     },
     "pokemon-tcg-mega-evolution-mega-brave-japanese-booster-box": {
@@ -5364,7 +5365,7 @@
      "title": "Pokemon TCG: Mega Evolution - Enhanced Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 304.0,
+     "price": 303.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-volume-2-booster-box-pre-order": {
@@ -5851,7 +5852,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 171.0,
+     "price": 169.0,
      "last_restock_alert": 1788961604,
      "unavail_since": 1789654816
     },
@@ -5978,7 +5979,7 @@
      "price": 78.0
     },
     "one-piece-tcg-the-worlds-strongest-warriors-japanese-booster-box-op-17": {
-     "title": "One Piece TCG: The Worlds Strongest Warriors Japanese Booster Box (OP-17)",
+     "title": "One Piece TCG: The Worlds Strongest Warriors Japanese Booster Box (OP-17) (SALE)",
      "game": "One Piece",
      "available": true,
      "price": 150.0,
@@ -5988,7 +5989,7 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 275.0
+     "price": 200.0
     },
     "pkm_incandarcana_jpn_booster": {
      "title": "Pokemon TCG: Sword and Shield - Incandescent Arcana Booster Box (Japanese)",
@@ -6229,7 +6230,7 @@
      "title": "Pokemon TCG: Pokemon Day 2026 Collection Box",
      "game": "Pokemon",
      "available": false,
-     "price": 42.0,
+     "price": 41.0,
      "unavail_since": 1790165833
     },
     "mtg_broswar_jumpstart": {
@@ -7951,10 +7952,9 @@
     "pokemon-mega-evolution-pitch-black-booster-box": {
      "title": "Pokemon Mega Evolution Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 199.75,
-     "last_restock_alert": 1784286069,
-     "unavail_since": 1789911429
+     "available": true,
+     "price": 184.75,
+     "last_restock_alert": 1790430437
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
      "title": "Pokemon Mega Evolution Pitch Black Elite Trainer Box",
@@ -8438,6 +8438,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 299.75
+    },
+    "magic-the-gathering-reality-fracture-play-booster-box": {
+     "title": "Magic the Gathering Reality Fracture Play Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 169.75,
+     "unavail_since": 1790430436
     }
    },
    "baselined": true,
@@ -11002,8 +11009,9 @@
     "reality-fracture-play-booster-box-mtg-09-25": {
      "title": "Reality Fracture Play Booster Box [MTG] (09/25)",
      "game": "MTG",
-     "available": true,
-     "price": 165.0
+     "available": false,
+     "price": 165.0,
+     "unavail_since": 1790430442
     },
     "journey-together-booster-display-pokemon": {
      "title": "Journey Together Booster Display [Pok\u00e9mon]",
@@ -12622,7 +12630,7 @@
      "title": "One Piece TCG: The World's Strongest Warriors: Booster Display",
      "game": "One Piece",
      "available": false,
-     "price": 229.99,
+     "price": 249.99,
      "unavail_since": 1785843601
     },
     "magic-the-gathering-star-trek-play-booster-display": {
@@ -12684,8 +12692,9 @@
     "magic-the-gathering-marvel-super-heroes-play-booster-display-case-of-6": {
      "title": "Magic the Gathering: Marvel Super Heroes: Play Booster Display (Case of 6)",
      "game": "MTG",
-     "available": true,
-     "price": 619.99
+     "available": false,
+     "price": 579.99,
+     "unavail_since": 1790430466
     },
     "pokemon-tcg-perfect-order-booster-display-case-of-6": {
      "title": "Pok\u00e9mon TCG: Perfect Order: Booster Display (Case of 6)",
