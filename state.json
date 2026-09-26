@@ -13546,7 +13546,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'prismatic-evolutions-bundle-moonshot-rips' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -14328,7 +14328,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -15549,9 +15549,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 19,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'one-piece-learn-together-deck-set-lt-01' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -16155,7 +16155,7 @@
      "title": "MTG - Duskmourn: House of Horror - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 259.95
+     "price": 269.95
     },
     "mtg-starter-commander-deck-set-of-5-decks": {
      "title": "MTG - Starter Commander Deck - Set of 5 Decks",
@@ -20017,9 +20017,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-tcg-mega-evolution-set-5-pitch-black-elite-trainer-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -22951,7 +22951,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'pokemon-storm-emeralda-m6-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -26131,9 +26131,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'carrying-on-his-will-booster-box-op13' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'stellar-crown-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
