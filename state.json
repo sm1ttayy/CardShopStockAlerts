@@ -13546,7 +13546,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'prismatic-evolutions-bundle-moonshot-rips' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -14328,7 +14328,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -15549,9 +15549,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 16,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'modern-horizons-3-eldrazi-incursion-commander-deck' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -20017,9 +20017,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 24,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-iono-s-bellibolt-ex-premium-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -22951,7 +22951,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'pokemon-storm-emeralda-m6-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -24612,7 +24612,7 @@
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
      "game": "MTG",
      "available": true,
-     "price": 42.75
+     "price": 37.99
     },
     "journey-together-pokemon-center-elite-trainer-box": {
      "title": "Journey Together Pokemon Center Elite Trainer Box",
@@ -26131,9 +26131,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 45,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'vmax-climax-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -27332,7 +27332,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "ed Realm: product 'magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-the-hosts-of-mordor-commander-deck' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -27739,8 +27739,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Saga Concepts: product 'pokemon-tcg-mega-evolution-chaos-rising-me04-booster-bundle-pkm-me04-bb' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
