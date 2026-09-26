@@ -20017,7 +20017,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25674,14 +25674,14 @@
      "title": "30th Celebration Poster Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 44.49
+     "price": 45.75
     },
     "30th-celebration-elite-trainer-box": {
      "title": "30th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 170.75,
-     "unavail_since": 1789936225
+     "last_restock_alert": 1790438436
     },
     "30th-celebration-poster-collection-wave-2": {
      "title": "30th Celebration Poster Collection - Wave 2",
@@ -25750,7 +25750,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 68.49
+     "price": 69.75
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -25762,7 +25762,7 @@
      "title": "30th Celebration Greninja ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 64.75
+     "price": 66.49
     },
     "30th-celebration-ditto-premium-collection": {
      "title": "30th Celebration Ditto Premium Collection",
@@ -26131,7 +26131,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
