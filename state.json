@@ -15511,9 +15511,9 @@
     "lord-of-the-rings-food-fellowship-commander-deck": {
      "title": "Lord of the Rings Food & Fellowship Commander Deck",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 104.95,
-     "unavail_since": 1789860916
+     "last_restock_alert": 1790464873
     },
     "bloomburrow-peace-offering-commander-deck": {
      "title": "Bloomburrow Peace Offering Commander Deck",
@@ -20017,7 +20017,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23048,7 +23048,7 @@
      "title": "Lorwyn Eclipsed Play Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 114.75,
+     "price": 113.99,
      "last_restock_alert": 1788575446
     },
     "secrets-of-strixhaven-play-booster-display": {
@@ -26009,7 +26009,7 @@
      "title": "30th Celebration Pack",
      "game": "Pokemon",
      "available": true,
-     "price": 16.49
+     "price": 16.75
     },
     "shrouded-fable-mini-tin-zoroark": {
      "title": "Shrouded Fable Mini Tin [Zoroark]",
@@ -26131,7 +26131,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
