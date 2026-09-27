@@ -2105,8 +2105,9 @@
     "magic-the-gathering-universes-beyond-spider-man-play-booster-box": {
      "title": "Magic: The Gathering Universes Beyond: Spider-Man Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 125.0
+     "available": false,
+     "price": 125.0,
+     "unavail_since": 1790520292
     },
     "magic-the-gathering-edge-of-eternities-collector-booster-box": {
      "title": "Magic: The Gathering Edge of Eternities Collector Booster Box",
@@ -4457,7 +4458,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 431.0,
+     "price": 472.0,
      "last_restock_alert": 1789681209,
      "unavail_since": 1790006220
     },
@@ -4499,7 +4500,7 @@
      "title": "One Piece TCG: The Azure Seas Seven Booster Box (OP-14)",
      "game": "One Piece",
      "available": false,
-     "price": 287.0,
+     "price": 286.0,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-premium-booster-box-pre-order": {
@@ -5325,7 +5326,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 413.0,
+     "price": 410.0,
      "last_restock_alert": 1790259354
     },
     "pokemon-tcg-mega-evolution-mega-brave-japanese-booster-box": {
@@ -13231,7 +13232,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
