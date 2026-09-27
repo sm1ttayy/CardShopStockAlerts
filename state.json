@@ -19404,9 +19404,10 @@
     "pokemon-ascended-rivals-first-partners-deluxe-pin-collection": {
      "title": "Pokemon Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1789419060
+     "last_restock_alert": 1789419060,
+     "unavail_since": 1790552124
     },
     "mtg-universes-beyond-final-fantasy-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: Final Fantasy - Play Booster Box",
@@ -20104,7 +20105,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23135,7 +23136,7 @@
      "title": "Lorwyn Eclipsed Play Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 113.99,
+     "price": 113.75,
      "last_restock_alert": 1788575446
     },
     "secrets-of-strixhaven-play-booster-display": {
@@ -23927,7 +23928,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 409.75,
+     "price": 409.49,
      "last_restock_alert": 1790306129
     },
     "pokemon-sword-shield-vivid-voltage-booster-box": {
@@ -24192,7 +24193,7 @@
      "title": "Foundations Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 180.99,
+     "price": 183.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1788033932
     },
@@ -24520,14 +24521,14 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 1171.75,
+     "price": 1049.99,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 57.75,
+     "price": 53.99,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -24948,7 +24949,7 @@
      "title": "Stellar Crown Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 165.99
+     "price": 169.49
     },
     "dominaria-united-draft-booster-box": {
      "title": "Dominaria United - Draft Booster Box",
@@ -24985,7 +24986,7 @@
      "title": "Paldean Fates Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 553.75
+     "price": 563.75
     },
     "origins-champion-deck-jinx": {
      "title": "Origins - Champion Deck (Jinx)",
@@ -25409,7 +25410,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 69.75
+     "price": 69.49
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -26035,7 +26036,7 @@
      "title": "Paradox Rift Pokemon Center Elite Trainer Box [Iron Valiant]",
      "game": "Pokemon",
      "available": true,
-     "price": 194.75
+     "price": 194.99
     },
     "pokemon-scarlet-violet-temporal-forces-pokemon-center-elite-trainer-box-walking-wake": {
      "title": "Temporal Forces Pokemon Center Elite Trainer Box [Walking Wake]",
@@ -26214,7 +26215,7 @@
      "title": "Reality Fracture - Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 166.49
+     "price": 166.25
     },
     "30th-celebration-elite-trainer-box-pokemon-center": {
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
@@ -26224,7 +26225,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
