@@ -1512,9 +1512,9 @@
     "one-piece-tcg-sd01-set-sail-deck-set": {
      "title": "One Piece TCG: [SD01] Set Sail Deck Set",
      "game": "One Piece",
-     "available": false,
-     "price": 36.99,
-     "unavail_since": 1789748286
+     "available": true,
+     "price": 24.99,
+     "last_restock_alert": 1790634610
     },
     "figure-one-piece-battle-record-collection-extra-charlotte-linlin": {
      "title": "One Piece: Charlotte Linlin - Battle Record Collection Extra Figure",
@@ -1623,7 +1623,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4255,7 +4255,7 @@
      "title": "One Piece: Illustration Box Vol.8 [IB-08]",
      "game": "One Piece",
      "available": false,
-     "price": 40.0,
+     "price": 45.0,
      "unavail_since": 1789133888
     },
     "one-piece-tcg-illustration-box-vol-6": {
@@ -4448,7 +4448,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11757,7 +11757,7 @@
      "title": "Pokemon TCG:  ME05 Pitch Black Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 174.99,
+     "price": 149.99,
      "unavail_since": 1789217820,
      "delisted": true
     },
