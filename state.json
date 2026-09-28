@@ -17670,6 +17670,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 279.95
+    },
+    "mtg-innistrad-midnight-hunt-english-set-booster-box": {
+     "title": "MTG - Innistrad: Midnight Hunt - English Set Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 249.95
     }
    },
    "baselined": true,
@@ -20133,7 +20139,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25410,7 +25416,7 @@
      "title": "Zendikar Rising - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 183.75,
+     "price": 183.99,
      "unavail_since": 1786195830
     },
     "commander-legends-draft-booster-box": {
@@ -25580,7 +25586,7 @@
      "title": "The Azure Sea's Seven Booster Box [OP14]",
      "game": "One Piece",
      "available": false,
-     "price": 272.25,
+     "price": 266.99,
      "unavail_since": 1786800618
     },
     "amonkhet-booster-box": {
@@ -26258,7 +26264,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
