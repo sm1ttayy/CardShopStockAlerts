@@ -15644,6 +15644,12 @@
      "game": "One Piece",
      "available": true,
      "price": 22.95
+    },
+    "foundations-commander-deck-set-of-5-preorder": {
+     "title": "Foundations Commander Deck Set of 5",
+     "game": "MTG",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -20151,7 +20157,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26276,7 +26282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
