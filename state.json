@@ -13603,7 +13603,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 75.0,
-     "unavail_since": 1790557521
+     "unavail_since": 1790557521,
+     "delisted": true
     },
     "perfect-order-bundle-moonshot-rips": {
      "title": "Perfect Order Bundle - Moonshot Rips",
@@ -20107,7 +20108,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26227,7 +26228,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
