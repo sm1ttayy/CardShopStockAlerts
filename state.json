@@ -14914,9 +14914,9 @@
     "buy-mtg-foundations-play-booster-display": {
      "title": "Foundations Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 174.95,
-     "unavail_since": 1785187224
+     "last_restock_alert": 1790628642
     },
     "modern-horizons-3-play-booster-display": {
      "title": "Modern Horizons 3 Play Booster Box",
@@ -20133,7 +20133,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23122,7 +23122,7 @@
      "title": "Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 111.25
+     "price": 109.99
     },
     "team-up-booster-box": {
      "title": "Team Up Booster Box",
@@ -23148,10 +23148,9 @@
     "tmnt-play-booster-box": {
      "title": "TMNT Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 108.75,
-     "last_restock_alert": 1786657830,
-     "unavail_since": 1786822829
+     "available": true,
+     "price": 106.75,
+     "last_restock_alert": 1790628656
     },
     "spiderman-play-booster-box": {
      "title": "Spiderman Play Booster Box",
@@ -24713,7 +24712,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 278.75,
+     "price": 281.75,
      "last_restock_alert": 1786479935,
      "unavail_since": 1789599038
     },
@@ -25286,7 +25285,7 @@
      "title": "Adventures in the Forgotten Realms - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 263.75
+     "price": 259.75
     },
     "pokemon-celebrations-elite-trainer-box": {
      "title": "Celebrations Elite Trainer Box",
@@ -25322,7 +25321,7 @@
      "title": "Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": false,
-     "price": 26.75,
+     "price": 26.49,
      "unavail_since": 1786195236
     },
     "the-hobbit-play-booster-display": {
@@ -25872,7 +25871,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 69.99
+     "price": 65.99
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -26124,14 +26123,14 @@
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 33.75,
+     "price": 35.75,
      "last_restock_alert": 1789598432
     },
     "30th-celebration-pack": {
      "title": "30th Celebration Pack",
      "game": "Pokemon",
      "available": true,
-     "price": 16.75
+     "price": 16.49
     },
     "shrouded-fable-mini-tin-zoroark": {
      "title": "Shrouded Fable Mini Tin [Zoroark]",
@@ -26249,17 +26248,17 @@
      "title": "Reality Fracture - Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 166.25
+     "price": 167.99
     },
     "30th-celebration-elite-trainer-box-pokemon-center": {
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 327.49
+     "price": 314.75
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27465,8 +27464,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'one-piece-tcg-eb-03-2026-heroines-editionextra-booster-box-24-packs-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -27643,7 +27642,7 @@
      "title": "Magic the Gathering CCG Reality Fracture Play Booster Display (30)",
      "game": "MTG",
      "available": true,
-     "price": 129.99
+     "price": 159.99
     },
     "magic-the-gathering-ccg-edge-of-eternities-play-booster-display-30": {
      "title": "Magic the Gathering CCG Edge of Eternities Play Booster Display (30)",
@@ -27873,8 +27872,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'pokemon-tcg-mega-evolution-chaos-rising-me04-booster-bundle-pkm-me04-bb' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
