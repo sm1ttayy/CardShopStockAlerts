@@ -20158,7 +20158,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26283,7 +26283,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27489,8 +27489,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'one-piece-tcg-eb-03-2026-heroines-editionextra-booster-box-24-packs-pre-order' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -27897,8 +27897,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'pokemon-tcg-mega-evolution-chaos-rising-me04-booster-bundle-pkm-me04-bb' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
