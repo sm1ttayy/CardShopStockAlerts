@@ -20158,7 +20158,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22370,8 +22370,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-30th-celebration-sylveon-ex-greninja-ex-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -26283,7 +26283,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
