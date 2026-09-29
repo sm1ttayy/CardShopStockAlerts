@@ -20158,7 +20158,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22370,8 +22370,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-30th-celebration-sylveon-ex-greninja-ex-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -23305,9 +23305,8 @@
     "pokemon-s-s-fusion-strike-booster-box": {
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 977.99,
-     "unavail_since": 1786800622
+     "available": true,
+     "price": 977.99
     },
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
@@ -26283,7 +26282,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
