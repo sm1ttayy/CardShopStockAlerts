@@ -1625,7 +1625,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9726,8 +9726,9 @@
     "modern-horizons-2-draft-booster-box": {
      "title": "Modern Horizons 2 Draft Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 329.99
+     "available": false,
+     "price": 329.99,
+     "unavail_since": 1790697533
     },
     "modern-horizons-2-set-booster-box": {
      "title": "Modern Horizons 2 - Set Booster Box",
@@ -11410,7 +11411,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 220.0,
-     "unavail_since": 1789217820
+     "unavail_since": 1789217820,
+     "delisted": true
     },
     "pokemon-sv09-journey-together-booster-box-enhanced-1": {
      "title": "Pokemon: SV09 Journey Together Booster Box - Enhanced",
@@ -13247,10 +13249,24 @@
      "game": "MTG",
      "available": true,
      "price": 84.99
+    },
+    "one-piece-tcg-heroines-edition-vol-2-extra-booster-display": {
+     "title": "One Piece TCG: Heroines Edition Vol. 2: Extra Booster Display",
+     "game": "One Piece",
+     "available": false,
+     "price": 119.76,
+     "unavail_since": 1790697530
+    },
+    "riftbound-tcg-radiance-booster-display": {
+     "title": "Riftbound TCG: Radiance: Booster Display",
+     "game": "Riftbound",
+     "available": false,
+     "price": 119.99,
+     "unavail_since": 1790697530
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
