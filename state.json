@@ -14645,10 +14645,9 @@
     "the-hobbit-play-booster-box-preorder": {
      "title": "The Hobbit Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 164.95,
-     "last_restock_alert": 1788208220,
-     "unavail_since": 1788268219
+     "available": true,
+     "price": 154.95,
+     "last_restock_alert": 1790718041
     },
     "the-hobbit-collector-booster-box-preorder": {
      "title": "The Hobbit Collector Booster Box - Preorder",
@@ -20194,7 +20193,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23562,7 +23561,7 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 298.99,
+     "price": 299.75,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
@@ -25078,7 +25077,7 @@
      "title": "Obsidian Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 653.75,
+     "price": 629.99,
      "unavail_since": 1788715251
     },
     "pokemon-s-v-paldean-fates-pokemon-center-elite-trainer-box": {
@@ -26330,7 +26329,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
