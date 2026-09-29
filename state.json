@@ -20193,7 +20193,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23214,9 +23214,10 @@
     "tmnt-play-booster-box": {
      "title": "TMNT Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 106.99,
-     "last_restock_alert": 1790628656
+     "last_restock_alert": 1790628656,
+     "unavail_since": 1790718649
     },
     "spiderman-play-booster-box": {
      "title": "Spiderman Play Booster Box",
@@ -23380,7 +23381,7 @@
      "title": "Foundations Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 109.75,
+     "price": 109.49,
      "unavail_since": 1786800622
     },
     "avatar-the-last-airbender-play-booster": {
@@ -26329,7 +26330,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
