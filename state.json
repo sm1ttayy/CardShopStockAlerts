@@ -20193,7 +20193,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26330,7 +26330,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26612,9 +26612,9 @@
     "riftbound-tcg-spiritforged-league-of-legends-booster-box-24-packs": {
      "title": "Riftbound TCG Spiritforged League of Legends Booster Box (24 Packs)",
      "game": "Riftbound",
-     "available": false,
-     "price": 149.95,
-     "unavail_since": 1784158635
+     "available": true,
+     "price": 199.95,
+     "last_restock_alert": 1790724964
     },
     "riftbound-unleashed-booster-box": {
      "title": "Riftbound Unleashed - Booster Box",
@@ -26626,9 +26626,9 @@
     "riftbound-origins-booster-box": {
      "title": "Riftbound TCG Origins League of Legends Booster Box (24 Packs)",
      "game": "Riftbound",
-     "available": false,
-     "price": 199.95,
-     "unavail_since": 1784158635
+     "available": true,
+     "price": 249.95,
+     "last_restock_alert": 1790724964
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-box-12-boosters": {
      "title": "Magic the Gathering Avatar The Last Airbender Play Booster Box (30 Boosters)",
@@ -27005,10 +27005,9 @@
     "riftbound-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 129.95,
-     "last_restock_alert": 1786021533,
-     "unavail_since": 1786106446
+     "available": true,
+     "price": 159.95,
+     "last_restock_alert": 1790724964
     },
     "riftbound-league-of-legends-tcg-vendetta-vault": {
      "title": "Riftbound: League of Legends TCG Vendetta Vault",
