@@ -19149,9 +19149,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1790306117
+     "last_restock_alert": 1790306117,
+     "unavail_since": 1790715616
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -20193,7 +20194,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22411,8 +22412,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-30th-celebration-sylveon-ex-greninja-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -26329,7 +26330,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
