@@ -1625,7 +1625,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4450,7 +4450,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11775,8 +11775,9 @@
     "pokemon-tcg-mega-zygarde-ex-premium-collection-box": {
      "title": "Pokemon TCG:  Mega Zygarde ex Premium Collection Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 39.99
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1790671180
     },
     "pokemon-tcg-me04-chaos-rising-booster-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
