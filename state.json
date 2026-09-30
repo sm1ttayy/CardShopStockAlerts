@@ -1235,7 +1235,7 @@
      "title": "One Piece TCG: Starter Deck Yellow - Eustass Captain Kid (ST-36)",
      "game": "One Piece",
      "available": false,
-     "price": 15.11,
+     "price": 13.96,
      "last_restock_alert": 1788529031,
      "unavail_since": 1790648086
     },
@@ -1515,7 +1515,7 @@
      "title": "One Piece TCG: [SD01] Set Sail Deck Set",
      "game": "One Piece",
      "available": false,
-     "price": 24.99,
+     "price": 21.79,
      "last_restock_alert": 1790634610,
      "unavail_since": 1790758603
     },
@@ -1626,9 +1626,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 27,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-peb01-premium-extra-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4451,9 +4451,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 36,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'starter-deck-24-green-jewelry-bonney' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -8492,7 +8492,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10097,7 +10097,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11237,7 +11237,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -11878,7 +11878,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-mega-zygarde-ex-premium-collection-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -13275,9 +13275,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 19,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'one-piece-tcg-starter-deck-roronoa-zoro-st-32' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
