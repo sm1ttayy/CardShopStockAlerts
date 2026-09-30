@@ -17721,6 +17721,13 @@
      "game": "MTG",
      "available": true,
      "price": 129.95
+    },
+    "mtg-reality-fracture-bundle": {
+     "title": "MTG - Reality Fracture - Bundle (Pre-Order)",
+     "game": "MTG",
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1790728219
     }
    },
    "baselined": true,
@@ -20193,7 +20200,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26330,7 +26337,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
