@@ -20300,10 +20300,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 59.95
+    },
+    "pokemon-tcg-mega-set-7-booster-bundle-pre-order-copy": {
+     "title": "Pokemon TCG Mega Set 7 Booster Bundle (Pre Order)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 44.95
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26476,7 +26482,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
