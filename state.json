@@ -20296,7 +20296,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22540,6 +22540,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 54.95
+    },
+    "mtg-aetherdrift-commander-eternal-might": {
+     "title": "MTG AETHERDRIFT COMMANDER ETERNAL MIGHT",
+     "game": "MTG",
+     "available": true,
+     "price": 74.95
     }
    },
    "baselined": true,
@@ -25978,10 +25984,9 @@
     "30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "30th Celebration Tech Sticker Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 43.75,
-     "last_restock_alert": 1789929923,
-     "unavail_since": 1789937130
+     "available": true,
+     "price": 44.54,
+     "last_restock_alert": 1790888441
     },
     "30th-celebration-tech-sticker-collection-wave-2": {
      "title": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
@@ -26463,7 +26468,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
