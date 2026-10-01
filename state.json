@@ -1632,9 +1632,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-marvel-super-heroes-gift-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4464,9 +4464,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 26,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'scarlet-and-violet-151-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -5851,7 +5851,7 @@
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 34.0
+     "price": 33.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
@@ -6323,12 +6323,18 @@
      "game": "MTG",
      "available": true,
      "price": 136.0
+    },
+    "75644-lego-one-piece-battle-at-drum-castle": {
+     "title": "75645 LEGO One Piece: Battle at Drum Castle",
+     "game": "One Piece",
+     "available": true,
+     "price": 110.0
     }
    },
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8509,7 +8515,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10113,7 +10119,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11253,7 +11259,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -11894,7 +11900,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-mega-zygarde-ex-premium-collection-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -13292,9 +13298,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'magic-the-gathering-marvel-super-heroes-play-booster-display-case-of-6' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
