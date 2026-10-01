@@ -1632,9 +1632,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 11,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-marvel-super-heroes-gift-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4464,9 +4464,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 31,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'scarlet-and-violet-151-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6134,7 +6134,7 @@
      "title": "Pokemon TCG: 30th Celebration Greninja EX Box",
      "game": "Pokemon",
      "available": false,
-     "price": 68.0,
+     "price": 67.0,
      "unavail_since": 1790813505
     },
     "pokemon-tcg-30th-celebration-poster-collection-box": {
@@ -6328,7 +6328,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8509,7 +8509,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -9575,7 +9575,8 @@
      "game": "One Piece",
      "available": false,
      "price": 34.99,
-     "unavail_since": 1786996988
+     "unavail_since": 1786996988,
+     "delisted": true
     },
     "pokemon-sun-moon-crimson-invasion-booster-box": {
      "title": "Pokemon Sun & Moon - Crimson Invasion Booster Box",
@@ -10112,7 +10113,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11252,7 +11253,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -11893,7 +11894,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-mega-zygarde-ex-premium-collection-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -13291,9 +13292,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 5,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'magic-the-gathering-marvel-super-heroes-play-booster-display-case-of-6' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
