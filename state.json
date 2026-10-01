@@ -20266,7 +20266,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26411,7 +26411,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26693,9 +26693,10 @@
     "riftbound-tcg-spiritforged-league-of-legends-booster-box-24-packs": {
      "title": "Riftbound TCG Spiritforged League of Legends Booster Box (24 Packs)",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 199.95,
-     "last_restock_alert": 1790724964
+     "last_restock_alert": 1790724964,
+     "unavail_since": 1790817628
     },
     "riftbound-unleashed-booster-box": {
      "title": "Riftbound Unleashed - Booster Box",
