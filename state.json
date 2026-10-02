@@ -18602,9 +18602,10 @@
     "mtg-magic-the-gathering-foundations-commander-deck-bundle-pre-order": {
      "title": "MTG Magic: The Gathering Foundations Commander Deck Bundle",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 209.95,
-     "last_restock_alert": 1790973633
+     "last_restock_alert": 1790973633,
+     "unavail_since": 1790976914
     },
     "magic-the-gathering-lorwyn-eclipsed-commander-deck-bundle-set-of-2-pre-order": {
      "title": "Magic The Gathering - Lorwyn Eclipsed - Commander Deck Bundle Set Of 2",
@@ -20354,7 +20355,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24977,7 +24978,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 293.75,
+     "price": 291.75,
      "last_restock_alert": 1786479935,
      "unavail_since": 1789599038
     },
@@ -26346,7 +26347,7 @@
      "title": "Temporal Forces Pokemon Center Elite Trainer Box [Iron Leaves]",
      "game": "Pokemon",
      "available": true,
-     "price": 204.75
+     "price": 199.99
     },
     "pokemon-go-pin-collection-squirtle": {
      "title": "Pokemon GO Pin Collection [Squirtle]",
@@ -26529,7 +26530,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
