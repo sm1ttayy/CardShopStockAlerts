@@ -18602,10 +18602,9 @@
     "mtg-magic-the-gathering-foundations-commander-deck-bundle-pre-order": {
      "title": "MTG Magic: The Gathering Foundations Commander Deck Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 209.95,
-     "last_restock_alert": 1790628026,
-     "unavail_since": 1790634341
+     "last_restock_alert": 1790973633
     },
     "magic-the-gathering-lorwyn-eclipsed-commander-deck-bundle-set-of-2-pre-order": {
      "title": "Magic The Gathering - Lorwyn Eclipsed - Commander Deck Bundle Set Of 2",
@@ -20355,7 +20354,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26529,7 +26528,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
