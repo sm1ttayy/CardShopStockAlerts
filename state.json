@@ -1632,7 +1632,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4464,7 +4464,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -11902,6 +11902,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 385.0
+    },
+    "pokemon-tcg-30th-celebration-booster-bundle": {
+     "title": "Pokemon TCG:  30th Celebration Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 47.99,
+     "unavail_since": 1790907512
     }
    },
    "baselined": true,
@@ -13227,7 +13234,7 @@
      "title": "Pok\u00e9mon TCG: 30th Celebration: Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 49.99,
+     "price": 99.99,
      "last_restock_alert": 1790358871,
      "unavail_since": 1790432428
     },
