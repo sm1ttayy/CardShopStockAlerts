@@ -20354,7 +20354,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21280,9 +21280,10 @@
     "reality-fracture-bundle": {
      "title": "Reality Fracture - Bundle [LIMIT 1 PER ORDER]",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 79.99,
-     "last_restock_alert": 1788993021
+     "last_restock_alert": 1788993021,
+     "unavail_since": 1790976014
     },
     "reality-fracture-commander-deck-multiverse-reforged": {
      "title": "Reality Fracture Commander Deck - Multiverse Reforged",
@@ -26528,7 +26529,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
