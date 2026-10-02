@@ -13566,8 +13566,9 @@
     "hob-play-booster-box-moonshot-rips": {
      "title": "HOB: Play Booster Box - Moonshot Rips",
      "game": "MTG",
-     "available": true,
-     "price": 189.99
+     "available": false,
+     "price": 189.99,
+     "unavail_since": 1790983513
     },
     "chaos-rising-box-moonshot-rips-copy": {
      "title": "Chaos Rising Box - Moonshot Rips",
@@ -20357,7 +20358,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26532,7 +26533,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
