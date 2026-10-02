@@ -14799,9 +14799,9 @@
     "teenage-mutant-ninja-turtles-play-booster-display-preorder": {
      "title": "Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 124.95,
-     "unavail_since": 1784083347
+     "last_restock_alert": 1790982312
     },
     "avatar-the-last-airbender-play-booster-box": {
      "title": "Avatar The Last Airbender Play Booster Box",
@@ -20357,7 +20357,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26532,7 +26532,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
