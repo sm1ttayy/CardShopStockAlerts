@@ -15125,9 +15125,9 @@
     "mega-greninja-ex-premium-collection": {
      "title": "Mega Greninja ex Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 44.95,
-     "unavail_since": 1786999214
+     "available": true,
+     "price": 47.95,
+     "last_restock_alert": 1790980208
     },
     "prismatic-evolutions-poster-collection-1": {
      "title": "Prismatic Evolutions Poster Collection",
@@ -15358,9 +15358,9 @@
     "mega-venusaur-ex-premium-collection": {
      "title": "Mega Venusaur ex Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 69.95,
-     "unavail_since": 1786593308
+     "last_restock_alert": 1790980208
     },
     "ascended-heroes-first-partners-deluxe-pin-collection": {
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
@@ -20356,7 +20356,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26531,7 +26531,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
