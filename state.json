@@ -17876,9 +17876,10 @@
     "one-piece-cg-eb-03-extra-booster-box-pre-order": {
      "title": "One Piece CG EB-03 Extra Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 499.95,
-     "last_restock_alert": 1789079105
+     "last_restock_alert": 1789079105,
+     "unavail_since": 1790981103
     },
     "one-piece-op-10-booster-box-pre-order": {
      "title": "One Piece OP-10 Royal Blood Booster Box",
@@ -20356,7 +20357,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26531,7 +26532,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
