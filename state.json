@@ -15630,9 +15630,9 @@
     "one-piece-op13-carrying-on-his-will-booster-box": {
      "title": "One Piece Carrying On His Will Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 479.95,
-     "unavail_since": 1788917406
+     "available": true,
+     "price": 434.95,
+     "last_restock_alert": 1790971209
     },
     "first-partner-illustration-collection-series-1": {
      "title": "First Partner Illustration Collection (Series 1)",
@@ -20355,7 +20355,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26077,8 +26077,9 @@
     "the-brothers-war-commander-deck-mishras-burnished-banner": {
      "title": "The Brothers' War Commander Deck - Mishra's Burnished Banner",
      "game": "MTG",
-     "available": true,
-     "price": 104.75
+     "available": false,
+     "price": 104.75,
+     "unavail_since": 1790971231
     },
     "commander-2020-deck-enhanced-evolution": {
      "title": "Commander 2020 Deck - Enhanced Evolution",
@@ -26528,7 +26529,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
