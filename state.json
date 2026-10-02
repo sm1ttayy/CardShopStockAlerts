@@ -15760,9 +15760,10 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 149.95,
-     "last_restock_alert": 1790970913
+     "last_restock_alert": 1790970913,
+     "unavail_since": 1790978707
     }
    },
    "baselined": true,
@@ -20355,7 +20356,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26530,7 +26531,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
