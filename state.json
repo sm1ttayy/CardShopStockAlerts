@@ -1147,9 +1147,10 @@
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-display-box-english": {
      "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Display Box [English]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 284.99,
-     "last_restock_alert": 1790183644
+     "last_restock_alert": 1790183644,
+     "unavail_since": 1790930407
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-elite-trainer-box-copy": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Pokemon Center Elite Trainer Box",
@@ -1632,7 +1633,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4464,7 +4465,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5956,7 +5957,7 @@
      "title": "One Piece Card Game: Zoro and Sanji Starter Deck",
      "game": "One Piece",
      "available": true,
-     "price": 48.0
+     "price": 54.0
     },
     "one-piece-the-three-captains-deck-pre-order": {
      "title": "One Piece The Three Captains Deck",
@@ -13312,7 +13313,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
