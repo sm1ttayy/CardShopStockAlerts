@@ -17927,8 +17927,9 @@
     "pokemon-30th-celebration-elite-trainer-box-pokemon-centre-exclusive": {
      "title": "Pokemon - 30th Celebration - Elite Trainer Box (Pokemon Centre Exclusive)",
      "game": "Pokemon",
-     "available": true,
-     "price": 449.95
+     "available": false,
+     "price": 449.95,
+     "unavail_since": 1791068714
     },
     "mtg-foundations-commander-deck-calling-all-angels": {
      "title": "MTG - Foundations Commander Deck - Calling All Angels",
@@ -20472,7 +20473,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26670,7 +26671,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
