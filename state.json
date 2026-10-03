@@ -14524,6 +14524,12 @@
      "game": "One Piece",
      "available": true,
      "price": 10.99
+    },
+    "pokemon-star-birth-s9-booster-box-sword-shield-series-japanese": {
+     "title": "Pokemon Star Birth S9 Booster Box - Sword & Shield Series - Japanese",
+     "game": "Pokemon",
+     "available": true,
+     "price": 168.0
     }
    },
    "baselined": true,
@@ -20364,7 +20370,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26539,7 +26545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
