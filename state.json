@@ -1622,7 +1622,7 @@
      "title": "Magic: The Gathering | Reality Fracture - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 57.99,
+     "price": 57.32,
      "unavail_since": 1790492950
     },
     "pokemon-tcg-journey-together-booster-display-standard": {
@@ -1633,9 +1633,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 26,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-op-17-the-worlds-strongest-warriors-display-box-english' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4465,9 +4465,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'starter-deck-9-yamato-st-09' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -5344,7 +5344,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 410.0,
+     "price": 417.0,
      "last_restock_alert": 1790259354,
      "unavail_since": 1790617400
     },
@@ -6347,7 +6347,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8532,7 +8532,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10150,7 +10150,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11290,7 +11290,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -11834,7 +11834,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 39.99,
-     "unavail_since": 1790671180
+     "unavail_since": 1790671180,
+     "delisted": true
     },
     "pokemon-tcg-me04-chaos-rising-booster-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
@@ -11938,7 +11939,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-mega-moonlit-tin-set-one-of-each' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -13364,9 +13365,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'magic-the-gathering-reality-fracture-draft-night' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
