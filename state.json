@@ -4462,10 +4462,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 335.0
+    },
+    "terapagos-ultra-premium-collection": {
+     "title": "Terapagos - Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 255.0,
+     "unavail_since": 1791058479
+    },
+    "celebrations-collection-dark-sylveon-v": {
+     "title": "Celebrations Collection (Dark Sylveon V)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 175.0,
+     "unavail_since": 1791058479
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4624,7 +4638,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 75.0,
+     "price": 78.0,
      "last_restock_alert": 1790321892
     },
     "pkm_ss_evolvskies_elite_gvse": {
@@ -4998,7 +5012,7 @@
      "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 53.0
+     "price": 52.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-2-box": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box (SALE)",
@@ -5706,7 +5720,7 @@
      "title": "Pokemon Scarlet and Violet: White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 252.0,
+     "price": 249.0,
      "last_restock_alert": 1789880549
     },
     "pokemon-scarlet-and-violet-paldean-fates-pokemon-center-elite-trainer-box": {
@@ -6007,7 +6021,7 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 46.0
+     "price": 47.0
     },
     "pokemon-tcg-scarlet-and-violet-destined-rivals-bundle-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Bundle Box (SALE)",
@@ -6172,7 +6186,7 @@
      "title": "Pokemon Scarlet and Violet: Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 285.0
+     "price": 282.0
     },
     "pokemon-scarlet-amp-violet-151-bundle-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - 151 Bundle Box",
@@ -6342,6 +6356,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 95.0
+    },
+    "pokemon-trading-card-game-pikachu-amp-zekrom-gx-premium-collection": {
+     "title": "Pokemon TCG: Pikachu and Zekrom GX Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 310.0
     }
    },
    "baselined": true,
@@ -8527,6 +8547,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 34.75
+    },
+    "pokemon-30th-celebration-mini-tin-10-tin-box": {
+     "title": "Pokemon 30th Celebration Mini Tin 10-Tin Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 349.75
     }
    },
    "baselined": true,
