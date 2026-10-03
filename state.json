@@ -19849,10 +19849,9 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 39.95,
-     "last_restock_alert": 1790351730,
-     "unavail_since": 1790357110
+     "last_restock_alert": 1791069614
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -20473,7 +20472,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26253,8 +26252,9 @@
     "30th-celebration-tin-sylveon-ex": {
      "title": "30th Celebration Tin [Sylveon ex]",
      "game": "Pokemon",
-     "available": true,
-     "price": 51.99
+     "available": false,
+     "price": 94.25,
+     "unavail_since": 1791069628
     },
     "30th-celebration-sylveon-ex-box": {
      "title": "30th Celebration Sylveon ex Box",
@@ -26671,7 +26671,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
