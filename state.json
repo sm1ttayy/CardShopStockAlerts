@@ -20463,10 +20463,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 59.95
+    },
+    "league-of-legends-riftbound-tcg-the-reckoning-booster-box-pre-order": {
+     "title": "League of Legends Riftbound TCG - The Reckoning Booster Box (Pre Order)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 169.95
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26658,7 +26664,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
