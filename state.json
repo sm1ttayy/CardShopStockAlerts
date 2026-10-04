@@ -20473,7 +20473,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21497,8 +21497,9 @@
     "final-fantasy-scene-box-the-siege-of-alexandria": {
      "title": "FINAL FANTASY - Scene Box (The Siege of Alexandria)",
      "game": "MTG",
-     "available": true,
-     "price": 184.99
+     "available": false,
+     "price": 184.99,
+     "unavail_since": 1791072916
     }
    },
    "baselined": true,
@@ -26672,7 +26673,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
