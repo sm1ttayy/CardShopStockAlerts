@@ -20493,7 +20493,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23593,7 +23593,7 @@
      "title": "Legacy of the Master Booster Box [OP12]",
      "game": "One Piece",
      "available": false,
-     "price": 289.99,
+     "price": 294.75,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800620
     },
@@ -23738,7 +23738,7 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 308.75,
+     "price": 307.99,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
@@ -25524,7 +25524,7 @@
      "title": "Innistrad: Crimson Vow - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 152.75,
+     "price": 159.75,
      "unavail_since": 1786195830
     },
     "pokemon-charizard-ex-super-premium-collection": {
@@ -25983,7 +25983,7 @@
      "title": "Ikoria: Lair of Behemoths - Bundle",
      "game": "MTG",
      "available": false,
-     "price": 119.75,
+     "price": 144.75,
      "unavail_since": 1786800344
     },
     "the-azure-seas-seven-booster-box-op14": {
@@ -26101,7 +26101,7 @@
      "title": "Eternal Masters - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 669.75,
+     "price": 663.99,
      "unavail_since": 1787405427
     },
     "innistrad-booster-box": {
@@ -26407,8 +26407,9 @@
     "30th-celebration-booster-bundle": {
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 123.75
+     "available": false,
+     "price": 97.75,
+     "unavail_since": 1791120324
     },
     "the-hobbit-gift-bundle": {
      "title": "The Hobbit Gift Bundle",
@@ -26694,7 +26695,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
