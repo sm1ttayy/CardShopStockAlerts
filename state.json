@@ -20471,10 +20471,16 @@
      "game": "Riftbound",
      "available": true,
      "price": 169.95
+    },
+    "mtg-fallout-commander-deck-science-pre-order": {
+     "title": "MTG - Fallout - Commander Deck - Science",
+     "game": "MTG",
+     "available": true,
+     "price": 69.95
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26674,7 +26680,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
