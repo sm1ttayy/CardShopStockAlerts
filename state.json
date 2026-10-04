@@ -20512,9 +20512,9 @@
     "league-of-legends-riftbound-tcg-the-reckoning-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG - The Reckoning Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 169.95,
-     "unavail_since": 1791120604
+     "last_restock_alert": 1791129911
     },
     "mtg-fallout-commander-deck-science-pre-order": {
      "title": "MTG - Fallout - Commander Deck - Science",
@@ -20544,7 +20544,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26829,7 +26829,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
