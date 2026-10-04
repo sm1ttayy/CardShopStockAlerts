@@ -20351,9 +20351,10 @@
     "mtg-reality-fracture-commander-deck-multiverse-reforged-pre-order": {
      "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 74.95,
-     "last_restock_alert": 1789677974
+     "last_restock_alert": 1789677974,
+     "unavail_since": 1791125717
     },
     "mtg-universes-beyond-marvel-super-heroes-commander-deck-fantastic-four": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Fantastic Four",
@@ -20543,7 +20544,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26809,7 +26810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
