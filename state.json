@@ -1633,9 +1633,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 8,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-fallout-commander-deck-hail-caesar' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4479,9 +4479,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 32,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'scarlet-violet-stellar-crown-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -8558,7 +8558,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-6-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10284,7 +10284,7 @@
      "title": "Prismatic Evolutions Elite Trainer Box [Pokemon]",
      "game": "Pokemon",
      "available": false,
-     "price": 160.0,
+     "price": 135.0,
      "unavail_since": 1789688635
     },
     "destined-rivals-elite-trainer-box-pokemon-1": {
@@ -11316,7 +11316,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -11893,7 +11893,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 99.99,
-     "unavail_since": 1790648089
+     "unavail_since": 1790648089,
+     "delisted": true
     },
     "one-piece-tcg-st-30-starter-deck-ex-luffy-ace": {
      "title": "One Piece TCG: ST- 30 Starter Deck EX: Luffy & Ace",
@@ -11965,7 +11966,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-mega-moonlit-tin-set-one-of-each' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -13391,9 +13392,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 26,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'pokemon-tcg-30th-celebration-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
