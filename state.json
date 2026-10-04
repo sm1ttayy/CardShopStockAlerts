@@ -20544,7 +20544,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22724,9 +22724,10 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "POKEMON 30TH CELEBRATION ELITE TRAINER BOX (LIMIT 1)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 239.95,
-     "last_restock_alert": 1790628011
+     "last_restock_alert": 1790628011,
+     "unavail_since": 1791128710
     },
     "pokemon-30th-celebration-poster-collection": {
      "title": "POKEMON 30TH CELEBRATION POSTER COLLECTION (LIMIT 1)",
@@ -26810,7 +26811,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
