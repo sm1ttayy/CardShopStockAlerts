@@ -13734,7 +13734,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 90.0,
-     "unavail_since": 1790551812
+     "unavail_since": 1790551812,
+     "delisted": true
     },
     "pokemon-tcg-30th-celebration-10x-pack-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration 10x Pack - Moonshot Rips (OPENED LIVE ON STREAM)",
@@ -20559,7 +20560,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26844,7 +26845,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
