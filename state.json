@@ -20559,7 +20559,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26844,7 +26844,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28356,8 +28356,9 @@
     "pokemon-tcg-mega-evolution-pitch-black-me05-booster-display-36ct": {
      "title": "Pokemon TCG Mega Evolution Pitch Black (ME05) Booster Display (36Ct)",
      "game": "Pokemon",
-     "available": true,
-     "price": 179.99
+     "available": false,
+     "price": 179.99,
+     "unavail_since": 1791142527
     },
     "pokemon-tcg-scarlet-violet-10-destined-rivals-elite-trainer-box": {
      "title": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Elite Trainer Box",
