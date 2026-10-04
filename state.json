@@ -14771,9 +14771,10 @@
     "riftbound-unleashed-booster-box-preorder": {
      "title": "Riftbound Unleashed Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 174.95,
-     "last_restock_alert": 1790306120
+     "last_restock_alert": 1790306120,
+     "unavail_since": 1791077713
     },
     "riftbound-spiritforged-booster-box": {
      "title": "Riftbound Spiritforged Booster Box",
@@ -20473,7 +20474,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26673,7 +26674,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
