@@ -13823,6 +13823,13 @@
      "game": "MTG",
      "available": true,
      "price": 159.99
+    },
+    "pokemon-tcg-30th-celebration-booster-bundle-moonshot-rips": {
+     "title": "Pokemon TCG: 30th Celebration Booster Bundle (6 Packs) - Moonshot Rips (OPENED LIVE ON STREAM)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 60.0,
+     "unavail_since": 1791144610
     }
    },
    "baselined": true,
@@ -20560,7 +20567,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26845,7 +26852,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
