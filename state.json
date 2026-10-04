@@ -20566,7 +20566,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26851,7 +26851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28159,9 +28159,10 @@
     "magic-the-gathering-universes-beyond-marvel-super-heroes-doom-prevails-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Doom Prevails Commander Deck",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 64.99,
-     "last_restock_alert": 1790806844
+     "last_restock_alert": 1790806844,
+     "unavail_since": 1791153934
     },
     "magic-the-gathering-universes-beyond-marvel-super-heroes-wakanda-forever-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Wakanda Forever Commander Deck",
