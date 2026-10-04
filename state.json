@@ -1633,9 +1633,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-fallout-commander-deck-hail-caesar' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4476,12 +4476,26 @@
      "available": false,
      "price": 175.0,
      "unavail_since": 1791058479
+    },
+    "starter-deck-16-purple-monkey-d-luffy-st-18": {
+     "title": "Starter Deck 18: PURPLE Monkey.D.Luffy [ST-18]",
+     "game": "One Piece",
+     "available": false,
+     "price": 160.0,
+     "unavail_since": 1791138251
+    },
+    "gift-collection-2023-op-pr": {
+     "title": "Gift Collection 2023 [OP-PR]",
+     "game": "One Piece",
+     "available": false,
+     "price": 400.0,
+     "unavail_since": 1791138251
     }
    },
    "baselined": true,
    "check_cursor": 32,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'scarlet-violet-stellar-crown-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -5860,7 +5874,7 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 29.0
+     "price": 33.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
@@ -8558,7 +8572,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-6-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11316,7 +11330,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -11966,7 +11980,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-mega-moonlit-tin-set-one-of-each' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -13392,9 +13406,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 21,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'pokemon-tcg-30th-celebration-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
