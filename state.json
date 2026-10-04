@@ -20542,7 +20542,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25392,9 +25392,10 @@
     "pokemon-surging-sparks-booster-bundle": {
      "title": "Surging Sparks Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 68.49,
-     "last_restock_alert": 1788206153
+     "last_restock_alert": 1788206153,
+     "unavail_since": 1791124826
     },
     "dungeons-of-death-commander-deck": {
      "title": "Dungeons of Death Commander Deck",
@@ -26807,7 +26808,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
