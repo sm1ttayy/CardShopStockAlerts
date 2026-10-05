@@ -4490,6 +4490,13 @@
      "available": false,
      "price": 400.0,
      "unavail_since": 1791138251
+    },
+    "bearwalker-x-pokemon-center-world-championships-2026-skateboard": {
+     "title": "Bearwalker x Pokemon Center: World Championships 2026 Skateboard",
+     "game": "Pokemon",
+     "available": false,
+     "price": 700.0,
+     "unavail_since": 1791212328
     }
    },
    "baselined": true,
@@ -4608,7 +4615,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0
+     "price": 44.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -5874,13 +5881,13 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 33.0
+     "price": 34.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 36.0
+     "price": 35.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
@@ -5949,7 +5956,7 @@
      "title": "One Piece TCG: Red/Black Sabo Starter Deck EX (ST-35)",
      "game": "One Piece",
      "available": true,
-     "price": 19.0
+     "price": 18.0
     },
     "one-piece-tcg-yellow-eustass-captain-kid-starter-deck-ex-st-36": {
      "title": "One Piece TCG: Yellow Eustass Captain Kid Starter Deck EX (ST-36)",
@@ -6003,7 +6010,7 @@
      "title": "One Piece TCG: Luffy Gear 5 Ultra Starter Deck (ST-21)",
      "game": "One Piece",
      "available": true,
-     "price": 77.0
+     "price": 76.0
     },
     "pokemon-tcg-mega-evolution-mega-venusaur-ex-premium-collection-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Mega Venusaur EX Premium Collection Box",
@@ -6035,7 +6042,7 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 47.0
+     "price": 46.0
     },
     "pokemon-tcg-scarlet-and-violet-destined-rivals-bundle-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Bundle Box (SALE)",
@@ -10103,9 +10110,10 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 169.99,
-     "last_restock_alert": 1791161076
+     "last_restock_alert": 1791161076,
+     "unavail_since": 1791212327
     },
     "pokemon-30th-celebration-ultra-premium-collection": {
      "title": "Pokemon 30th Celebration - Ultra-Premium Collection (Presale)",
