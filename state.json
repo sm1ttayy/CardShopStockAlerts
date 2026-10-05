@@ -20667,7 +20667,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23644,9 +23644,10 @@
     "pokemon-30th-celebration-m6a-japanese-booster-box": {
      "title": "Pok\u00e9mon 30th Celebration M6A Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 174.99,
-     "last_restock_alert": 1791230420
+     "last_restock_alert": 1791230420,
+     "unavail_since": 1791236417
     },
     "pokemon-tcg-ex-tin-greninja-30th-celebration": {
      "title": "Pok\u00e9mon TCG: ex Tin - Greninja - 30th Celebration",
@@ -25605,7 +25606,7 @@
      "title": "Core Set 2020 - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 186.99,
+     "price": 180.49,
      "unavail_since": 1791120625
     },
     "stellar-crown-pokemon-center-elite-trainer-box": {
@@ -26971,7 +26972,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
