@@ -1633,7 +1633,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4123,7 +4123,7 @@
      "title": "[PREORDER] Magic: The Gathering - Reality Fracture Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 165.0,
+     "price": 145.0,
      "last_restock_alert": 1790347143
     },
     "tin-pack-set-vol-1-gol-d-roger-ts01": {
@@ -6605,8 +6605,9 @@
     "pokemon-mega-evolution-perfect-order-booster-box": {
      "title": "Pokemon Mega Evolution Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 224.75
+     "available": false,
+     "price": 224.75,
+     "unavail_since": 1791225267
     },
     "pok-mon-lost-origins-booster-box": {
      "title": "Pokemon Sword & Shield Lost Origins Booster Box",
@@ -10174,10 +10175,9 @@
     "magic-the-gathering-reality-fracture-play-booster-box": {
      "title": "Magic: The Gathering Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 174.99,
-     "last_restock_alert": 1790347143,
-     "unavail_since": 1790371656
+     "last_restock_alert": 1791225266
     },
     "magic-the-gathering-lorwyn-eclipsed-bundle": {
      "title": "Magic: The Gathering Lorwyn Eclipsed Bundle",
@@ -13483,10 +13483,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 99.99
+    },
+    "one-piece-tcg-the-dominance-of-god-booster-display": {
+     "title": "One Piece TCG: The Dominance of God: Booster Display",
+     "game": "One Piece",
+     "available": false,
+     "price": 119.76,
+     "unavail_since": 1791225266
+    },
+    "pokemon-tcg-delta-reign-booster-display": {
+     "title": "Pokemon TCG: Delta Reign: Booster Display",
+     "game": "Pokemon",
+     "available": false,
+     "price": 161.64,
+     "unavail_since": 1791225266
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
