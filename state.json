@@ -18132,7 +18132,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20667,7 +20667,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22949,8 +22949,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-30th-celebration-poster-collection' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -25746,7 +25746,7 @@
      "title": "Innistrad: Crimson Vow - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 159.75,
+     "price": 152.75,
      "unavail_since": 1786195830
     },
     "pokemon-charizard-ex-super-premium-collection": {
@@ -26961,10 +26961,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 27.49
+    },
+    "30th-celebration-ex-tin-sylveon-ex-retail-version": {
+     "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 70.99
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
