@@ -20810,7 +20810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25952,8 +25952,9 @@
     "twilight-masquerade-pokemon-center-elite-trainer-box": {
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 189.75
+     "available": false,
+     "price": 189.75,
+     "unavail_since": 1791237639
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-gardevoir": {
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Gardevoir]",
@@ -27115,7 +27116,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
