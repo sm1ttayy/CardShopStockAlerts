@@ -762,7 +762,7 @@
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 178.36,
+     "price": 183.97,
      "last_restock_alert": 1788361674
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-build-battle-box": {
@@ -1633,7 +1633,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6158,7 +6158,7 @@
      "title": "Pokemon Scarlet and Violet: Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 430.0
+     "price": 427.0
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
      "title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
@@ -8753,10 +8753,9 @@
     "scarlet-violet-prismatic-evolutions-pokemon-center-elite-trainer-box": {
      "title": "2025 Pokemon Prismatic Evolutions Elite Trainer Box SV",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 154.99,
-     "last_restock_alert": 1785410680,
-     "unavail_since": 1789260594
+     "last_restock_alert": 1791237426
     },
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
      "title": "Pokemon Mega Evolution - Chaos Rising Booster Bundle",
@@ -12158,8 +12157,9 @@
     "pokemon-tcg-surging-sparks-elite-trainer-box-pokemon-center-edition": {
      "title": "Pokemon TCG: Surging Sparks: Elite Trainer Box: Pokemon Center Edition",
      "game": "Pokemon",
-     "available": true,
-     "price": 277.99
+     "available": false,
+     "price": 277.99,
+     "unavail_since": 1791237425
     },
     "pokemon-tcg-journey-together-elite-trainer-box-pokemon-center-edition": {
      "title": "Pok\u00e9mon TCG: Journey Together: Elite Trainer Box - Pokemon Center Edition",
@@ -12177,8 +12177,9 @@
     "pokemon-tcg-mega-evolution-elite-trainer-box-pokemon-center-edition": {
      "title": "Pok\u00e9mon TCG: Mega Evolution: Elite Trainer Box - Pokemon Center Edition (Lucario)",
      "game": "Pokemon",
-     "available": true,
-     "price": 299.99
+     "available": false,
+     "price": 299.99,
+     "unavail_since": 1791237425
     },
     "pokemon-tcg-chaos-rising-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Chaos Rising: Booster Bundle",
@@ -12222,9 +12223,10 @@
     "pokemon-tcg-destined-rivals-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Destined Rivals: Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 64.99,
-     "last_restock_alert": 1788271982
+     "last_restock_alert": 1788271982,
+     "unavail_since": 1791237426
     },
     "pokemon-tcg-crown-zenith-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Crown Zenith: Booster Bundle",
@@ -12781,8 +12783,9 @@
     "pokemon-tcg-obsidian-flames-pokemon-center-elite-trainer-box-1": {
      "title": "Pok\u00e9mon TCG: Obsidian Flames: Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 704.99
+     "available": false,
+     "price": 704.99,
+     "unavail_since": 1791237425
     },
     "pokemon-tcg-paldean-fates-elite-trainer-box-pokemon-center-edition": {
      "title": "Pok\u00e9mon TCG: Paldean Fates: Elite Trainer Box - Pok\u00e9mon Center Edition",
@@ -13497,10 +13500,150 @@
      "available": false,
      "price": 161.64,
      "unavail_since": 1791225266
+    },
+    "one-piece-tcg-royal-blood-booster-display-op-11": {
+     "title": "One Piece TCG: Royal Blood: Booster Display [OP-10]",
+     "game": "One Piece",
+     "available": false,
+     "price": 94.99,
+     "unavail_since": 1791237420
+    },
+    "one-piece-devil-fruit-collection-vol-1-gum-gum-fruit": {
+     "title": "One Piece Devil Fruit Collection Vol.1: Gum Gum Fruit",
+     "game": "One Piece",
+     "available": false,
+     "price": 133.99,
+     "unavail_since": 1791237420
+    },
+    "premium-card-collection-uta-copy": {
+     "title": "One Piece TCG: Premium Card Collection: Uta",
+     "game": "One Piece",
+     "available": false,
+     "price": 103.99,
+     "unavail_since": 1791237420
+    },
+    "one-piece-tcg-cardboard-gems-pirate-repack-20ct": {
+     "title": "One Piece TCG: Cardboard Gems: Pirate Repack (20ct)",
+     "game": "One Piece",
+     "available": false,
+     "price": 800.0,
+     "unavail_since": 1791237420
+    },
+    "one-piece-tcg-cardboard-gems-devil-fruit-repack-20ct": {
+     "title": "One Piece TCG: Cardboard Gems: Devil Fruit Repack (20ct)",
+     "game": "One Piece",
+     "available": false,
+     "price": 3200.0,
+     "unavail_since": 1791237420
+    },
+    "one-piece-tcg-learn-together-deck-set-lt-01": {
+     "title": "One Piece TCG: Learn Together Deck Set [LT-01]",
+     "game": "One Piece",
+     "available": false,
+     "price": 61.99,
+     "unavail_since": 1791237420
+    },
+    "one-piece-tcg-special-goods-set-former-four-emperors": {
+     "title": "One Piece TCG: Special Goods Set - Former Four Emperors",
+     "game": "One Piece",
+     "available": false,
+     "price": 64.99,
+     "unavail_since": 1791237420
+    },
+    "one-piece-tcg-ex-gear-5-starter-deck-st-21": {
+     "title": "One Piece TCG: EX Gear 5 Starter Deck (ST-21)",
+     "game": "One Piece",
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1791237422
+    },
+    "one-piece-tcg-ace-and-newgate-starter-deck": {
+     "title": "One Piece TCG: Ace and Newgate: Starter Deck",
+     "game": "One Piece",
+     "available": false,
+     "price": 16.99,
+     "unavail_since": 1791237422
+    },
+    "one-piece-tcg-starter-deck-monkey-d-luffy": {
+     "title": "One Piece TCG: Starter Deck: Monkey D Luffy",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.99,
+     "unavail_since": 1791237422
+    },
+    "one-piece-tcg-premium-card-collection-best-selection-vol-6": {
+     "title": "One Piece TCG: Premium Card Collection - Best Selection Vol. 6",
+     "game": "One Piece",
+     "available": false,
+     "price": 84.99,
+     "unavail_since": 1791237423
+    },
+    "one-piece-tcg-premium-card-collection-film-red-edition": {
+     "title": "One Piece TCG: Premium Card Collection - Film Red Edition",
+     "game": "One Piece",
+     "available": false,
+     "price": 114.99,
+     "unavail_since": 1791237423
+    },
+    "one-piece-tcg-heroines-gift-collection": {
+     "title": "One Piece TCG: Heroines Gift Collection",
+     "game": "One Piece",
+     "available": false,
+     "price": 44.99,
+     "unavail_since": 1791237423
+    },
+    "pokemon-tcg-white-flare-elite-trainer-box-pokemon-center-edition": {
+     "title": "Pok\u00e9mon TCG: White Flare: Elite Trainer Box - Pokemon Center Edition",
+     "game": "Pokemon",
+     "available": false,
+     "price": 245.99,
+     "unavail_since": 1791237425
+    },
+    "pokemon-tcg-silver-tempest-pokemon-center-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Silver Tempest Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 74.99,
+     "unavail_since": 1791237425
+    },
+    "pokemon-tcg-phantasmal-flames-elite-trainer-box-pokemon-center-edition": {
+     "title": "Pok\u00e9mon TCG: Phantasmal Flames: Elite Trainer Box: Pokemon Center Edition",
+     "game": "Pokemon",
+     "available": false,
+     "price": 346.99,
+     "unavail_since": 1791237425
+    },
+    "pokemon-tcg-lost-origin-pokemon-center-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Lost Origin Pokemon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 54.99,
+     "unavail_since": 1791237425
+    },
+    "pokemon-tcg-crown-zenith-pokemon-center-elite-trainer-box-plus": {
+     "title": "Pok\u00e9mon TCG: Crown Zenith Pokemon Center Elite Trainer Box Plus",
+     "game": "Pokemon",
+     "available": false,
+     "price": 109.99,
+     "unavail_since": 1791237425
+    },
+    "pokemon-tcg-surging-sparks-booster-bundle": {
+     "title": "Pok\u00e9mon TCG: Surging Sparks Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 39.99,
+     "unavail_since": 1791237426
+    },
+    "copy-of-pokemon-tcg-set-name-booster-bundle": {
+     "title": "Pok\u00e9mon TCG: Obsidian Flames: Booster Bundle",
+     "game": "Pokemon",
+     "available": false,
+     "price": 54.99,
+     "unavail_since": 1791237426
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
