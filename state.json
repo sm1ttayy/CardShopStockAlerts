@@ -13934,7 +13934,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -14735,7 +14735,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-deluxe-pin-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -15999,7 +15999,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'foundations-jumpstart-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -19555,9 +19555,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1790887836
+     "last_restock_alert": 1790887836,
+     "unavail_since": 1791233424
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -20667,9 +20668,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 20,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'one-piece-op-09-emperors-in-the-new-world-booster-pack' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -23683,7 +23684,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'pokemon-tcg-mega-evolution-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -25919,7 +25920,7 @@
      "title": "Adventures in the Forgotten Realms - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 262.99,
+     "price": 264.75,
      "unavail_since": 1791120628
     },
     "pokemon-celebrations-elite-trainer-box": {
@@ -26017,7 +26018,7 @@
      "title": "Innistrad: Midnight Hunt - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 169.75,
+     "price": 179.75,
      "last_restock_alert": 1786811743,
      "unavail_since": 1791120628
     },
@@ -26970,9 +26971,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 102,
-   "error_streak": 2,
-   "last_error": "Common Lands: product 'vmax-climax-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 42,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -28191,8 +28192,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-reality-fracture-play-booster-box-30-booster-packs' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -28734,8 +28735,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
