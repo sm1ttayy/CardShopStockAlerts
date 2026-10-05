@@ -20810,7 +20810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27116,7 +27116,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28880,8 +28880,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
