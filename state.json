@@ -1633,7 +1633,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4608,7 +4608,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 44.0
+     "price": 43.0
     },
     "pokemon-tcg-dark-crystal-blaze-chinese-booster-box": {
      "title": "Pokemon TCG: Dark Crystal Blaze Chinese Booster Box",
@@ -4652,7 +4652,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 78.0,
+     "price": 75.0,
      "last_restock_alert": 1790321892
     },
     "pkm_ss_evolvskies_elite_gvse": {
@@ -5937,7 +5937,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 122.0
+     "price": 125.0
     },
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound League of Legends TCG: Vendetta Showdown Decks - Zed vs Shen",
@@ -6376,6 +6376,42 @@
      "game": "Pokemon",
      "available": true,
      "price": 310.0
+    },
+    "pokemon-tcg-30th-celebration-mini-tin-lapras": {
+     "title": "Pokemon TCG: 30th Celebration Mini Tin (Lapras)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 32.0
+    },
+    "pokemon-tcg-30th-celebration-mini-tin-greninja": {
+     "title": "Pokemon TCG: 30th Celebration Mini Tin (Greninja)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 32.0
+    },
+    "pokemon-tcg-30th-celebration-mini-tin-umbreon": {
+     "title": "Pokemon TCG: 30th Celebration Mini Tin (Umbreon)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 32.0
+    },
+    "pokemon-tcg-30th-celebration-mini-tin-mew": {
+     "title": "Pokemon TCG: 30th Celebration Mini Tin (Mew)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 32.0
+    },
+    "pokemon-tcg-30th-celebration-mini-tin-mewtwo": {
+     "title": "Pokemon TCG: 30th Celebration Mini Tin (Mewtwo)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 32.0
+    },
+    "pokemon-tcg-30th-celebration-mini-tin-espeon": {
+     "title": "Pokemon TCG: 30th Celebration Mini Tin (Espeon)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 32.0
     }
    },
    "baselined": true,
@@ -9611,8 +9647,9 @@
     "first-partner-illustration-collection-series-1": {
      "title": "Pokemon TCG: First Partner Illustration Collection (Series 1)",
      "game": "Pokemon",
-     "available": true,
-     "price": 69.99
+     "available": false,
+     "price": 69.99,
+     "unavail_since": 1791161077
     },
     "pokemon-mega-evolution-pitch-black-build-battle-box": {
      "title": "Pokemon Mega Evolution - Pitch Black Build & Battle Box",
@@ -10059,18 +10096,16 @@
     "pokemon-30th-celebration-ex-box": {
      "title": "Pokemon 30th Celebration - EX Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 69.99,
-     "last_restock_alert": 1790259355,
-     "unavail_since": 1790358873
+     "last_restock_alert": 1791161078
     },
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 169.99,
-     "last_restock_alert": 1790813503,
-     "unavail_since": 1790994107
+     "last_restock_alert": 1791161076
     },
     "pokemon-30th-celebration-ultra-premium-collection": {
      "title": "Pokemon 30th Celebration - Ultra-Premium Collection (Presale)",
@@ -10183,8 +10218,21 @@
     "30th-celebration-booster-bundle-me-30th-celebration-30c": {
      "title": "Pokemon 30th Celebration - Booster Bundle",
      "game": "Pokemon",
+     "available": false,
+     "price": 74.99,
+     "unavail_since": 1791161076
+    },
+    "prismatic-evolutions-pokemon-center-elite-trainer-box-exclusive-sv-prismatic-evolutions-pre": {
+     "title": "2025 Pokemon Prismatic Evolutions \"Pokemon Center\" Elite Trainer Box (Exclusive) SV",
+     "game": "Pokemon",
      "available": true,
-     "price": 74.99
+     "price": 419.99
+    },
+    "30th-celebration-mini-tin-mew-me-30th-celebration-30c": {
+     "title": "Pokemon 30th Celebration - Mini Tin",
+     "game": "Pokemon",
+     "available": true,
+     "price": 39.99
     }
    },
    "baselined": true,
@@ -11325,6 +11373,24 @@
      "game": "MTG",
      "available": true,
      "price": 130.0
+    },
+    "radiance-booster-box-riftbound-10-23": {
+     "title": "Radiance Booster Box [Riftbound] (10/23)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 175.0
+    },
+    "radiance-vault-riftbound-10-23": {
+     "title": "Radiance Vault [Riftbound] (10/23)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 45.0
+    },
+    "radiance-showdown-deck-evelynn-vs-seraphine-riftbound-10-23": {
+     "title": "Radiance Showdown Deck: Evelynn vs. Seraphine [Riftbound] (10/23)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 45.0
     }
    },
    "baselined": true,
@@ -13403,10 +13469,16 @@
      "available": false,
      "price": 19.99,
      "unavail_since": 1790994109
+    },
+    "pokemon-tcg-ninja-spinner-booster-display-japanese": {
+     "title": "Pok\u00e9mon TCG: Ninja Spinner: Booster Display (Japanese)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.99
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
