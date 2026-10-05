@@ -20667,7 +20667,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23942,7 +23942,7 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 307.99,
+     "price": 308.75,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
@@ -24500,7 +24500,7 @@
      "title": "Japanese Heat Wave Arena Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 127.75,
+     "price": 124.75,
      "unavail_since": 1786195839
     },
     "japanese-glory-of-team-rocket-booster-box": {
@@ -26771,9 +26771,10 @@
     "30th-celebration-knock-out-collection": {
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 32.49,
-     "last_restock_alert": 1789598432
+     "last_restock_alert": 1789598432,
+     "unavail_since": 1791231352
     },
     "30th-celebration-pack": {
      "title": "30th Celebration Pack",
@@ -26963,7 +26964,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
