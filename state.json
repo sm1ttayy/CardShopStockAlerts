@@ -18132,7 +18132,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20667,7 +20667,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22949,8 +22949,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-30th-celebration-poster-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -24299,7 +24299,7 @@
      "title": "Japanese Wild Force Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 117.99,
+     "price": 109.25,
      "unavail_since": 1786195837
     },
     "stellar-miracle-booster-box": {
@@ -24578,7 +24578,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 409.75,
+     "price": 409.49,
      "last_restock_alert": 1790306129,
      "unavail_since": 1791120639
     },
@@ -26279,7 +26279,7 @@
      "title": "The Lost Caverns of Ixalan - Draft Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 264.75,
+     "price": 269.99,
      "unavail_since": 1791120626
     },
     "khans-of-tarkir-booster-box": {
@@ -26792,7 +26792,7 @@
      "title": "Team Rocket\u2019s Moltres ex Ultra-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 328.99,
+     "price": 323.99,
      "unavail_since": 1789611633
     },
     "final-fantasy-limit-break-commander-deck": {
@@ -26964,7 +26964,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 67,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
