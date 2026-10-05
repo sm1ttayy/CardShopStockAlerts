@@ -18651,10 +18651,9 @@
     "magic-the-gathering-outlaws-of-thunder-junction-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Outlaws of Thunder Junction Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 229.95,
-     "last_restock_alert": 1786664714,
-     "unavail_since": 1786737316
+     "available": true,
+     "price": 289.95,
+     "last_restock_alert": 1791234079
     },
     "magic-the-gathering-mystery-booster-convention-edition-booster-box": {
      "title": "Magic The Gathering Mystery Booster: Convention Edition - Booster Box",
@@ -20668,7 +20667,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26966,12 +26965,13 @@
     "30th-celebration-ex-tin-sylveon-ex-retail-version": {
      "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
      "game": "Pokemon",
-     "available": true,
-     "price": 70.99
+     "available": false,
+     "price": 70.99,
+     "unavail_since": 1791234049
     }
    },
    "baselined": true,
-   "check_cursor": 82,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
