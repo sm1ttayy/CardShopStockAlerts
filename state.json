@@ -13934,7 +13934,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -14735,7 +14735,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-celebrations-deluxe-pin-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -15999,7 +15999,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'foundations-jumpstart-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -20667,9 +20667,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 61,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'one-piece-op-09-emperors-in-the-new-world-booster-pack' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -23683,7 +23683,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'pokemon-tcg-mega-evolution-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -26970,9 +26970,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 102,
    "error_streak": 2,
-   "last_error": "Common Lands: product 'one-piece-tin-pack-set-vol-2-monkey-d-luffy' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'vmax-climax-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
