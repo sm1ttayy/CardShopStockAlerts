@@ -14105,7 +14105,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'mega-evolution-ascended-heroes-mega-meganium-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -14906,7 +14906,7 @@
    "baselined": true,
    "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-tcg-journey-together-booster-box-sv09-journey-together-jtg' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -16170,7 +16170,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'foundations-jumpstart-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -20839,9 +20839,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'league-of-legends-riftbound-tcg-the-reckoning-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -23856,7 +23856,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'pokemon-tcg-mega-evolution-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -27146,9 +27146,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'core-set-2020-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 60,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -28367,8 +28367,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-reality-fracture-play-booster-box-30-booster-packs' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -28910,8 +28910,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
