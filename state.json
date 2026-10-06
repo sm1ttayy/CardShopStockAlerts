@@ -20916,7 +20916,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24192,7 +24192,7 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 308.75,
+     "price": 307.99,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
@@ -27161,9 +27161,9 @@
     "30th-celebration-tech-sticker-collection-lucario": {
      "title": "30th Celebration Tech Sticker Collection [Lucario]",
      "game": "Pokemon",
-     "available": false,
-     "price": 39.49,
-     "unavail_since": 1791087323
+     "available": true,
+     "price": 40.03,
+     "last_restock_alert": 1791330349
     },
     "crown-zenith-pin-collection-cinderace": {
      "title": "Crown Zenith Pin Collection [Cinderace]",
@@ -27229,7 +27229,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
