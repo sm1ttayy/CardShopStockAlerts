@@ -1633,7 +1633,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4757,7 +4757,7 @@
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 262.0,
+     "price": 251.0,
      "last_restock_alert": 1789047767,
      "unavail_since": 1790617401
     },
@@ -4770,9 +4770,10 @@
     "riftbound-tcg-league-of-legends-spiritforged-booster-box": {
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
-     "available": true,
-     "price": 191.0,
-     "last_restock_alert": 1789047763
+     "available": false,
+     "price": 199.0,
+     "last_restock_alert": 1789047763,
+     "unavail_since": 1791277458
     },
     "riftbound-tcg-league-of-legends-origins-jumbo-booster-box-chinese": {
      "title": "Riftbound TCG: League of Legends Origins Jumbo Booster Box (Chinese)",
@@ -4797,7 +4798,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 117.0,
+     "price": 123.0,
      "last_restock_alert": 1790096527
     },
     "magic-the-gathering-foundations-play-booster-box-pre-order": {
@@ -4824,14 +4825,14 @@
      "title": "Magic the Gathering: Aetherdrift Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 124.0
+     "price": 120.0
     },
     "magic-the-gathering-reality-fracture-play-booster-box-pre-order": {
-     "title": "Magic The Gathering: Reality Fracture Play Booster Box (PRE-ORDER)",
+     "title": "Magic The Gathering: Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 150.0,
-     "unavail_since": 1788442816
+     "available": true,
+     "price": 158.0,
+     "last_restock_alert": 1791277460
     },
     "magic-the-gathering-duskmourn-house-of-horror-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Duskmourn: House of Horror Play Booster Box (SALE)",
@@ -4843,7 +4844,7 @@
      "title": "Magic the Gathering: Bloomburrow Play Booster",
      "game": "MTG",
      "available": true,
-     "price": 220.0
+     "price": 223.0
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-play-booster-box-pre-order": {
      "title": "Magic the Gathering: Teenage Mutant Ninja Turtles Play Booster Box",
@@ -5319,7 +5320,7 @@
      "title": "Magic The Gathering: The Hobbit Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 171.0,
+     "price": 164.0,
      "last_restock_alert": 1787092422
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
@@ -5373,7 +5374,7 @@
      "title": "Magic the Gathering: Avatar: The Last Airbender Jumpstart Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 94.0
+     "price": 98.0
     },
     "pokemon-tcg-mega-evolution-phantasmal-flames-booster-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
@@ -5851,7 +5852,7 @@
      "title": "Magic the Gathering: Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 145.0
+     "price": 147.0
     },
     "magic-the-gathering-modern-horizons-3-play-booster-pre-order": {
      "title": "Magic the Gathering: Modern Horizons 3 Play Booster",
@@ -5893,7 +5894,7 @@
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 27.0
+     "price": 26.0
     },
     "one-piece-tcg-illustration-box-volume-8": {
      "title": "One Piece TCG: Illustration Box Volume 8",
@@ -5950,7 +5951,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Showdown Decks - Zed vs Shen",
      "game": "Riftbound",
      "available": true,
-     "price": 19.0
+     "price": 18.0
     },
     "one-piece-tcg-red-black-sabo-starter-deck-ex-st-35": {
      "title": "One Piece TCG: Red/Black Sabo Starter Deck EX (ST-35)",
@@ -6388,37 +6389,49 @@
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Lapras)",
      "game": "Pokemon",
      "available": true,
-     "price": 32.0
+     "price": 40.0
     },
     "pokemon-tcg-30th-celebration-mini-tin-greninja": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Greninja)",
      "game": "Pokemon",
      "available": true,
-     "price": 32.0
+     "price": 40.0
     },
     "pokemon-tcg-30th-celebration-mini-tin-umbreon": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Umbreon)",
      "game": "Pokemon",
      "available": true,
-     "price": 32.0
+     "price": 40.0
     },
     "pokemon-tcg-30th-celebration-mini-tin-mew": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Mew)",
      "game": "Pokemon",
      "available": true,
-     "price": 32.0
+     "price": 40.0
     },
     "pokemon-tcg-30th-celebration-mini-tin-mewtwo": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Mewtwo)",
      "game": "Pokemon",
      "available": true,
-     "price": 32.0
+     "price": 40.0
     },
     "pokemon-tcg-30th-celebration-mini-tin-espeon": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Espeon)",
      "game": "Pokemon",
      "available": true,
      "price": 32.0
+    },
+    "pokemon-sword-amp-shield-lost-origin-pokemon-center-elite-trainer-box": {
+     "title": "Pok\u00e9mon: Sword &amp; Shield - Lost Origin Pok\u00e9mon Center Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 394.0
+    },
+    "pokemon-tcg-30th-celebration-mini-tin-night-pikachu": {
+     "title": "Pokemon TCG: 30th Celebration Mini Tin (Night Pikachu)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 40.0
     }
    },
    "baselined": true,
@@ -10225,9 +10238,9 @@
     "30th-celebration-booster-bundle-me-30th-celebration-30c": {
      "title": "Pokemon 30th Celebration - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 74.99,
-     "unavail_since": 1791161076
+     "last_restock_alert": 1791277455
     },
     "prismatic-evolutions-pokemon-center-elite-trainer-box-exclusive-sv-prismatic-evolutions-pre": {
      "title": "2025 Pokemon Prismatic Evolutions \"Pokemon Center\" Elite Trainer Box (Exclusive) SV",
@@ -10239,7 +10252,7 @@
      "title": "Pokemon 30th Celebration - Mini Tin",
      "game": "Pokemon",
      "available": true,
-     "price": 39.99
+     "price": 34.99
     }
    },
    "baselined": true,
@@ -12375,8 +12388,9 @@
     "premium-card-collection-live-action-edition-copy": {
      "title": "One Piece TCG: Premium Card Collection: Live Action Edition",
      "game": "One Piece",
-     "available": true,
-     "price": 129.99
+     "available": false,
+     "price": 129.99,
+     "unavail_since": 1791277453
     },
     "pokemon-tcg-unova-victini-illustration-collection": {
      "title": "Pok\u00e9mon TCG: Unova Victini Illustration Collection",
@@ -13668,10 +13682,73 @@
      "available": false,
      "price": 289.99,
      "unavail_since": 1791252650
+    },
+    "one-piece-tcg-japanese-1st-anniversary-set": {
+     "title": "One Piece TCG: Japanese 1st Anniversary Set",
+     "game": "One Piece",
+     "available": false,
+     "price": 183.99,
+     "unavail_since": 1791277450
+    },
+    "one-piece-tcg-blue-buggy-starter-deck-st-25": {
+     "title": "One Piece TCG: Blue Buggy Starter Deck [ST-25]",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.99,
+     "unavail_since": 1791277452
+    },
+    "one-piece-tcg-black-marshall-d-teach-starter-deck-st-27": {
+     "title": "One Piece TCG: Black Marshall D. Teach Starter Deck [ST-27]",
+     "game": "One Piece",
+     "available": false,
+     "price": 19.99,
+     "unavail_since": 1791277452
+    },
+    "one-piece-tcg-egghead-starter-deck-st-29": {
+     "title": "One Piece TCG: Egghead Starter Deck [ST-29]",
+     "game": "One Piece",
+     "available": false,
+     "price": 29.99,
+     "unavail_since": 1791277452
+    },
+    "one-piece-tcg-premium-card-collection-best-selection-vol-1": {
+     "title": "One Piece TCG: Premium Card Collection - Best Selection Vol. 1",
+     "game": "One Piece",
+     "available": false,
+     "price": 172.99,
+     "unavail_since": 1791277453
+    },
+    "one-piece-tcg-premium-card-collection-best-selection-vol-5": {
+     "title": "One Piece TCG: Premium Card Collection - Best Selection Vol. 5",
+     "game": "One Piece",
+     "available": false,
+     "price": 76.99,
+     "unavail_since": 1791277453
+    },
+    "one-piece-tcg-double-pack-set-volume-10-dp-10": {
+     "title": "One Piece TCG: Double Pack Set: Volume 10 (DP-10)",
+     "game": "One Piece",
+     "available": false,
+     "price": 24.99,
+     "unavail_since": 1791277455
+    },
+    "one-piece-tcg-double-pack-set-volume-13": {
+     "title": "One Piece TCG: Double Pack Set Volume 13",
+     "game": "One Piece",
+     "available": false,
+     "price": 11.99,
+     "unavail_since": 1791277455
+    },
+    "one-piece-tcg-two-legends-booster-display": {
+     "title": "One Piece TCG: Two Legends Booster Display [OP-08]",
+     "game": "One Piece",
+     "available": false,
+     "price": 89.99,
+     "unavail_since": 1791277455
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
