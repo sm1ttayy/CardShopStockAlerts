@@ -20357,9 +20357,9 @@
     "mtg-universes-beyond-the-hobbit-draft-night-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Draft Night",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "unavail_since": 1788898233
+     "last_restock_alert": 1791253028
     },
     "pokemon-paradox-rift-half-booster-box-18-packs-euro": {
      "title": "Pokemon Paradox Rift Half Booster Box (18 packs) (Euro)",
@@ -20839,7 +20839,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27146,7 +27146,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
