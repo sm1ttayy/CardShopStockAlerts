@@ -1633,9 +1633,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'streets-of-new-capenna-set-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4500,9 +4500,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 5,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'celebrations-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6437,7 +6437,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8629,7 +8629,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -8639,7 +8639,8 @@
      "available": false,
      "price": 224.99,
      "last_restock_alert": 1789084795,
-     "unavail_since": 1789482142
+     "unavail_since": 1789482142,
+     "delisted": true
     },
     "one-piece-card-game-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Card Game - Carrying On His Will Booster Box (OP-13)",
@@ -10258,7 +10259,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'sword-shielld-vivid-voltage-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11416,7 +11417,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -12080,7 +12081,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-mega-moonlit-tin-set-one-of-each' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -12971,9 +12972,8 @@
     "magic-the-gathering-marvel-super-heroes-play-booster-display-case-of-6": {
      "title": "Magic the Gathering: Marvel Super Heroes: Play Booster Display (Case of 6)",
      "game": "MTG",
-     "available": false,
-     "price": 579.99,
-     "unavail_since": 1790430466
+     "available": true,
+     "price": 579.99
     },
     "pokemon-tcg-perfect-order-booster-display-case-of-6": {
      "title": "Pok\u00e9mon TCG: Perfect Order: Booster Display (Case of 6)",
@@ -13748,9 +13748,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 5,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'magic-the-gathering-edge-of-eternities-play-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
