@@ -20810,7 +20810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26570,15 +26570,16 @@
     "30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "30th Celebration Tech Sticker Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 44.54,
-     "last_restock_alert": 1790888441
+     "last_restock_alert": 1790888441,
+     "unavail_since": 1791248166
     },
     "30th-celebration-tech-sticker-collection-wave-2": {
      "title": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
      "game": "Pokemon",
      "available": false,
-     "price": 45.75,
+     "price": 39.49,
      "unavail_since": 1789937130
     },
     "30th-celebration-poster-collection": {
@@ -27116,7 +27117,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
