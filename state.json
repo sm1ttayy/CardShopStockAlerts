@@ -18381,9 +18381,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 31,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "401 Games: product 'pokemon-battle-styles-elite-trainer-box-rapid-strike-urshifu' failed: HTTP Error 429: Too Many Requests"
   },
   "https://hobbiesville.com": {
    "products": {
@@ -20917,7 +20917,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21949,7 +21949,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Fusion Gaming Online: product 'universes-beyond-assassins-creed-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://exorgames.com": {
    "products": {
@@ -23200,7 +23200,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-30th-celebration-sylveon-ex-greninja-ex-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -27230,9 +27230,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 4,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'pokemon-japanese-shiny-treasure-ex-high-class-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product '30th-celebration-mini-tin-assorted-artwork' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
