@@ -19653,10 +19653,9 @@
     "pokemon-obsidian-flames-booster-box-pre-order": {
      "title": "Pokemon Scarlet And Violet Obsidian Flames Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 549.99,
-     "last_restock_alert": 1786664708,
-     "unavail_since": 1786670407
+     "last_restock_alert": 1791327379
     },
     "pre-order-pokemon-shining-fates-premium-collection-dragapult-v-february-2021": {
      "title": "Pokemon Shining Fates Premium Collection Dragapult V",
@@ -20917,7 +20916,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26158,7 +26157,7 @@
      "title": "Celebrations Booster Pack",
      "game": "Pokemon",
      "available": true,
-     "price": 33.75
+     "price": 33.49
     },
     "strixhaven-school-of-mages-draft-booster-box": {
      "title": "Strixhaven: School of Mages - Draft Booster Box",
@@ -26699,7 +26698,7 @@
      "title": "30th Celebration Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 149.99,
+     "price": 149.75,
      "last_restock_alert": 1790438436
     },
     "30th-celebration-poster-collection-wave-2": {
@@ -26777,7 +26776,7 @@
      "title": "30th Celebration Ultra-Premium Collection [Night]",
      "game": "Pokemon",
      "available": true,
-     "price": 719.75
+     "price": 715.75
     },
     "30th-celebration-greninja-ex-box": {
      "title": "30th Celebration Greninja ex Box",
@@ -26789,13 +26788,13 @@
      "title": "30th Celebration Ditto Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 192.75
+     "price": 192.49
     },
     "30th-celebration-ultra-premium-collection-day": {
      "title": "30th Celebration Ultra-Premium Collection [Day]",
      "game": "Pokemon",
      "available": true,
-     "price": 564.75
+     "price": 561.75
     },
     "the-hobbit-draft-night": {
      "title": "The Hobbit Draft Night",
@@ -27133,7 +27132,7 @@
      "title": "Celebrations International Tin [Lance\u2019s Charizard V]",
      "game": "Pokemon",
      "available": true,
-     "price": 141.75
+     "price": 139.75
     },
     "pokemon-crown-zenith-pokemon-center-elite-trainer-box-plus": {
      "title": "Crown Zenith Pokemon Center Elite Trainer Box Plus",
@@ -27230,9 +27229,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
-   "error_streak": 2,
-   "last_error": "Common Lands: product 'ixalan-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 84,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -28458,8 +28457,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-reality-fracture-play-booster-box-30-booster-packs' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -29002,8 +29001,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 2,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
