@@ -1633,9 +1633,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 5,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'streets-of-new-capenna-set-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4500,9 +4500,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'celebrations-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -6437,7 +6437,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8628,7 +8628,7 @@
    },
    "baselined": true,
    "check_cursor": 3,
-   "error_streak": 0,
+   "error_streak": 1,
    "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
@@ -10259,7 +10259,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'sword-shielld-vivid-voltage-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11417,7 +11417,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12081,7 +12081,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-mega-moonlit-tin-set-one-of-each' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -13748,9 +13748,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'magic-the-gathering-edge-of-eternities-play-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
