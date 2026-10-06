@@ -18381,9 +18381,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
-   "error_streak": 1,
-   "last_error": "401 Games: product 'pokemon-night-wanderer-japanese-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 38,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://hobbiesville.com": {
    "products": {
@@ -20917,7 +20917,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21948,8 +21948,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1,
-   "last_error": "Fusion Gaming Online: product 'universes-beyond-assassins-creed-bundle' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://exorgames.com": {
    "products": {
@@ -23199,8 +23199,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-30th-celebration-sylveon-ex-greninja-ex-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -27230,9 +27230,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 72,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'pokemon-japanese-shiny-treasure-ex-high-class-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -28458,8 +28458,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-reality-fracture-play-booster-box-30-booster-packs' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -29002,8 +29002,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
