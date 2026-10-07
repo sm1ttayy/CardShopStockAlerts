@@ -18782,10 +18782,9 @@
     "app-exlusive-pokemon-scarlet-and-violet-destined-rivals-booster-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 579.95,
-     "last_restock_alert": 1788716116,
-     "unavail_since": 1789607414
+     "last_restock_alert": 1791405627
     },
     "pokemon-151-surprise-pokemon-slim-pack-booster-box-simplified-chinese-pre-order": {
      "title": "Pokemon 151 Surprise - Pokemon Slim Pack Booster Box - Simplified Chinese",
@@ -18908,9 +18907,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 49.95,
-     "last_restock_alert": 1789419332
+     "last_restock_alert": 1789419332,
+     "unavail_since": 1791405611
     },
     "pokemon-tcg-crown-zenith-booster-bundle-6-packs-incoming-item": {
      "title": "Pokemon TCG: Crown Zenith Booster Bundle - 6 Packs",
@@ -21154,7 +21154,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23432,6 +23432,13 @@
      "game": "MTG",
      "available": true,
      "price": 79.95
+    },
+    "pokemon-sv10-5-white-flare-booster-bundle": {
+     "title": "POKEMON SV10.5 WHITE FLARE BOOSTER BUNDLE",
+     "game": "Pokemon",
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1791405611
     }
    },
    "baselined": true,
@@ -24387,7 +24394,7 @@
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 419.75,
+     "price": 409.99,
      "last_restock_alert": 1786664125,
      "unavail_since": 1790889624
     },
@@ -24416,7 +24423,7 @@
      "title": "Foundations Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 108.99,
+     "price": 108.75,
      "unavail_since": 1786800622
     },
     "avatar-the-last-airbender-play-booster": {
@@ -24493,7 +24500,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": false,
-     "price": 436.75,
+     "price": 449.75,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800622
     },
@@ -25792,7 +25799,7 @@
      "title": "151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 1112.75
+     "price": 1110.99
     },
     "celebrations-pokemon-center-elite-trainer-box": {
      "title": "Celebrations Pokemon Center Elite Trainer Box",
@@ -26005,7 +26012,7 @@
      "title": "Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 262.99,
+     "price": 268.75,
      "unavail_since": 1789598435
     },
     "lost-origin-pokemon-center-elite-trainer-box": {
@@ -26297,7 +26304,7 @@
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 187.49,
+     "price": 184.99,
      "unavail_since": 1791237639
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-gardevoir": {
@@ -26589,7 +26596,7 @@
      "title": "Treasure Booster Set",
      "game": "One Piece",
      "available": false,
-     "price": 186.75,
+     "price": 185.75,
      "unavail_since": 1787788531
     },
     "first-partner-illustration-collection-series-3": {
@@ -27262,7 +27269,7 @@
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 31.75,
+     "price": 29.75,
      "last_restock_alert": 1789598432,
      "unavail_since": 1791231352
     },
@@ -27482,10 +27489,16 @@
      "game": "MTG",
      "available": true,
      "price": 44.49
+    },
+    "pokemon-celebrations-collector-chest": {
+     "title": "Celebrations Collector Chest",
+     "game": "Pokemon",
+     "available": true,
+     "price": 188.75
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
