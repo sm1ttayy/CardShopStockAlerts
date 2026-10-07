@@ -15083,10 +15083,9 @@
     "pokemon-me05-pitch-black-elite-trainer-box": {
      "title": "Pokemon ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 69.95,
-     "last_restock_alert": 1788378311,
-     "unavail_since": 1789146610
+     "available": true,
+     "price": 74.95,
+     "last_restock_alert": 1791336307
     },
     "pokemon-fusion-strike-elite-trainer-box": {
      "title": "Pokemon Fusion Strike Elite Trainer Box",
@@ -20916,7 +20915,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24044,7 +24043,7 @@
      "title": "Legacy of the Master Booster Box [OP12]",
      "game": "One Piece",
      "available": false,
-     "price": 299.75,
+     "price": 299.99,
      "last_restock_alert": 1786227024,
      "unavail_since": 1786800620
     },
@@ -27229,7 +27228,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 86,
    "error_streak": 0,
    "last_error": ""
   },
