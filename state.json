@@ -20129,8 +20129,9 @@
     "pokemon-tcg-salamence-ex-reshiram-ex-premium-collection-pre-order": {
      "title": "Pokemon TCG: Salamence ex &  Reshiram ex Premium Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 129.95
+     "available": false,
+     "price": 129.95,
+     "unavail_since": 1791407712
     },
     "pokemon-first-partner-illustration-collections-series-2-pre-order": {
      "title": "Pokemon First Partner Illustration Collections - Series 2",
@@ -21159,7 +21160,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27503,7 +27504,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
