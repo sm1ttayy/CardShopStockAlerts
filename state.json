@@ -14402,8 +14402,9 @@
     "pokemon-30th-1-pack-energy-break-1": {
      "title": "Pokemon 30th: 1 pack Energy Break #1",
      "game": "Pokemon",
-     "available": true,
-     "price": 45.0
+     "available": false,
+     "price": 45.0,
+     "unavail_since": 1791410713
     }
    },
    "baselined": true,
@@ -21160,7 +21161,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27501,10 +27502,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 188.75
+    },
+    "celebrations-mini-tin-kalos": {
+     "title": "Celebrations Mini Tin [Kalos]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 76.49
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
