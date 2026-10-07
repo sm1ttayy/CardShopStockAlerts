@@ -1478,8 +1478,9 @@
     "pirates-on-vacation-one-piece-box-8-megahouse-ochatomo": {
      "title": "Pirates on Vacation, \"One Piece\" Megahouse Ochatomo",
      "game": "One Piece",
-     "available": true,
-     "price": 20.49
+     "available": false,
+     "price": 20.49,
+     "unavail_since": 1791402753
     },
     "one-piece-tcg-mini-case-set-vol-3-ts-03": {
      "title": "One Piece TCG: Mini Tin - Vol. 3 [TS-03] (Pre-Order)",
@@ -1668,9 +1669,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'strixhaven-commander-deck-lorehold-legacies' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4549,7 +4550,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6504,7 +6505,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8704,7 +8705,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11530,7 +11531,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'prismatic-evolutions-elite-trainer-box-pokemon' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12064,9 +12065,10 @@
     "pokemon-tcg-me05-pitch-black-elite-trainer-box-1": {
      "title": "Pokemon TCG: ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 55.0,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1791402753
     },
     "pokemon-tcg-mega-zygarde-ex-premium-collection-box": {
      "title": "Pokemon TCG:  Mega Zygarde ex Premium Collection Box",
@@ -12201,7 +12203,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-mega-moonlit-tin-set-one-of-each' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -13963,12 +13965,19 @@
      "available": false,
      "price": 86.99,
      "unavail_since": 1791381059
+    },
+    "one-piece-tcg-a-fist-of-divine-speed-op-11": {
+     "title": "One Piece TCG: A Fist of Divine Speed [OP-11]",
+     "game": "One Piece",
+     "available": false,
+     "price": 119.76,
+     "unavail_since": 1791402750
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'one-piece-tcg-special-goods-set-former-four-emperors' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
