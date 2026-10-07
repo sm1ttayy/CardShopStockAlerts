@@ -18350,10 +18350,9 @@
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon - 30th Celebration - Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 39.95,
-     "last_restock_alert": 1789762513,
-     "unavail_since": 1789762810
+     "last_restock_alert": 1791406211
     },
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Alolan Exeggutor",
@@ -21154,7 +21153,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27498,7 +27497,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
