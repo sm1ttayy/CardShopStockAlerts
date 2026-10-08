@@ -1683,9 +1683,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 22,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-starter-deck-blue-kuzan-st-33' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4594,9 +4594,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'core-set-2021-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -5373,7 +5373,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 79.0,
+     "price": 82.0,
      "last_restock_alert": 1784313939
     },
     "pokemon-tcg-mega-evolution-pitch-black-checklane-blister-slowpoke-pre-order": {
@@ -5462,7 +5462,7 @@
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 183.0
+     "price": 182.0
     },
     "magic-the-gathering-avatar-the-last-airbender-jumpstart-booster-box": {
      "title": "Magic the Gathering: Avatar: The Last Airbender Jumpstart Booster Box",
@@ -5982,13 +5982,13 @@
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 35.0
+     "price": 34.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 26.0
+     "price": 27.0
     },
     "one-piece-tcg-illustration-box-volume-8": {
      "title": "One Piece TCG: Illustration Box Volume 8",
@@ -6039,7 +6039,7 @@
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 125.0
+     "price": 124.0
     },
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound League of Legends TCG: Vendetta Showdown Decks - Zed vs Shen",
@@ -6087,7 +6087,7 @@
      "title": "One Piece Card Game: Zoro and Sanji Starter Deck",
      "game": "One Piece",
      "available": true,
-     "price": 54.0
+     "price": 50.0
     },
     "one-piece-the-three-captains-deck-pre-order": {
      "title": "One Piece The Three Captains Deck",
@@ -6253,7 +6253,7 @@
      "title": "Pokemon Scarlet and Violet: Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 424.0
+     "price": 430.0
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
      "title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
@@ -6302,7 +6302,7 @@
      "title": "Pokemon Scarlet and Violet: Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 282.0
+     "price": 283.0
     },
     "pokemon-scarlet-amp-violet-151-bundle-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - 151 Bundle Box",
@@ -6519,7 +6519,7 @@
      "title": "Pok\u00e9mon: Sword &amp; Shield - Lost Origin Pok\u00e9mon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 395.0
+     "price": 393.0
     },
     "pokemon-tcg-30th-celebration-mini-tin-night-pikachu": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Night Pikachu)",
@@ -6531,7 +6531,7 @@
      "title": "One Piece TCG: Illustration Box Volume 2",
      "game": "One Piece",
      "available": true,
-     "price": 137.0
+     "price": 150.0
     },
     "pokemon-tcg-30th-celebration-mini-tin-zapdos": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Zapdos)",
@@ -6555,7 +6555,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'riftbound-tcg-league-of-legends-spiritforged-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8762,7 +8762,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10424,7 +10424,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -12294,7 +12294,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-mega-moonlit-tin-set-one-of-each-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -14116,9 +14116,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 23,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'pokemon-tcg-inferno-x-booster-display-japanese' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
