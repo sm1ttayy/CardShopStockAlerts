@@ -18617,6 +18617,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 114.95
+    },
+    "mtg-universes-beyond-star-trek-bundle": {
+     "title": "MTG - Universes Beyond: Star Trek - Bundle (Pre-Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 84.95
     }
    },
    "baselined": true,
@@ -21174,7 +21180,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27530,7 +27536,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
