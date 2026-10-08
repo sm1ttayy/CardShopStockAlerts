@@ -1683,9 +1683,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 30,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-starter-deck-blue-kuzan-st-33' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4594,9 +4594,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'core-set-2021-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -5025,7 +5025,7 @@
      "title": "Magic the Gathering: Foundations Jumpstart Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 115.0,
+     "price": 114.0,
      "unavail_since": 1788356674
     },
     "mtg_strxhvn_drftbooster": {
@@ -6555,7 +6555,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'riftbound-tcg-league-of-legends-spiritforged-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8762,7 +8762,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10424,7 +10424,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -12170,7 +12170,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 39.99,
-     "unavail_since": 1790648089
+     "unavail_since": 1790648089,
+     "delisted": true
     },
     "pokemon-tcg-2022-world-championships-deck-sealed-display-of-8-decks": {
      "title": "Pokemon TCG: 2022 World Championships Deck - Sealed Display of 8 Decks",
@@ -12231,7 +12232,8 @@
      "game": "MTG",
      "available": false,
      "price": 105.0,
-     "unavail_since": 1789260599
+     "unavail_since": 1789260599,
+     "delisted": true
     },
     "pokemon-tcg-2-5-ascended-heroes-mega-ex-box-set-one-of-each": {
      "title": "Pokemon TCG: 2.5 Ascended Heroes Mega ex Box Set (one of each)",
@@ -12257,7 +12259,8 @@
      "game": "One Piece",
      "available": false,
      "price": 169.99,
-     "unavail_since": 1791252649
+     "unavail_since": 1791252649,
+     "delisted": true
     },
     "one-piece-tcg-op-17-the-worlds-strongest-warrior-booster-box": {
      "title": "One Piece TCG: OP-17 The Worlds Strongest Warrior Booster Box",
@@ -12291,7 +12294,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-mega-moonlit-tin-set-one-of-each-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -14113,9 +14116,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'pokemon-tcg-inferno-x-booster-display-japanese' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
