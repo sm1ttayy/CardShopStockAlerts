@@ -19022,10 +19022,9 @@
     "pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022": {
      "title": "Pokemon TCG - Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 184.95,
-     "last_restock_alert": 1786664708,
-     "unavail_since": 1786737310
+     "available": true,
+     "price": 239.95,
+     "last_restock_alert": 1791492920
     },
     "pokemon-paldean-fates-booster-bundle-pre-order": {
      "title": "Pokemon Paldean Fates Booster Bundle",
@@ -21333,7 +21332,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27695,7 +27694,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
    "last_error": ""
   },
