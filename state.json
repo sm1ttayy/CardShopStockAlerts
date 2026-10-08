@@ -15546,9 +15546,10 @@
     "riftbound-origins-proving-grounds-box-set": {
      "title": "Riftbound Origins Proving Grounds Box Set",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 44.95,
-     "last_restock_alert": 1790628337
+     "last_restock_alert": 1790628337,
+     "unavail_since": 1791497713
     },
     "riftbound-unleashed-vault-preorder": {
      "title": "Riftbound Unleashed Vault Bundle",
@@ -16495,8 +16496,9 @@
     "riftbound-unleashed-champion-deck-vi-preorder": {
      "title": "Riftbound Unleashed Champion Deck Vi",
      "game": "Riftbound",
-     "available": true,
-     "price": 15.95
+     "available": false,
+     "price": 15.95,
+     "unavail_since": 1791497714
     },
     "mega-lucario-ex-league-battle-deck": {
      "title": "Mega Lucario ex League Battle Deck",
@@ -21338,7 +21340,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27700,7 +27702,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
