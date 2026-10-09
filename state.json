@@ -14308,7 +14308,7 @@
      "title": "Pitch Black Booster Box - Moonshot Rips",
      "game": "Pokemon",
      "available": true,
-     "price": 200.0
+     "price": 190.0
     },
     "mega-evolution-5-pitch-black-build-battle-box": {
      "title": "Mega Evolution 5: Pitch Black - Build & Battle Box",
@@ -14340,13 +14340,13 @@
      "title": "Chaos Rising Bundle - Moonshot Rips",
      "game": "Pokemon",
      "available": true,
-     "price": 48.0
+     "price": 35.0
     },
     "prismatic-evolutions-bundle-moonshot-rips": {
      "title": "Prismatic Evolutions Bundle - Moonshot Rips",
      "game": "Pokemon",
      "available": true,
-     "price": 80.0,
+     "price": 85.0,
      "last_restock_alert": 1791149408
     },
     "destined-rivals-bundle-moonshot-rips": {
@@ -21379,7 +21379,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24534,9 +24534,10 @@
     "pitch-black-booster-box": {
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 187.75,
-     "last_restock_alert": 1785526241
+     "last_restock_alert": 1785526241,
+     "unavail_since": 1791575128
     },
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island Booster Box",
@@ -27755,7 +27756,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
