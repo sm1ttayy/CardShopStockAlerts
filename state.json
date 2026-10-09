@@ -21380,7 +21380,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27162,10 +27162,9 @@
     "30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "30th Celebration Tech Sticker Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 44.54,
-     "last_restock_alert": 1790888441,
-     "unavail_since": 1791248166
+     "last_restock_alert": 1791590123
     },
     "30th-celebration-tech-sticker-collection-wave-2": {
      "title": "30th Celebration Tech Sticker Collection [Alolan Exeggutor]",
@@ -27761,9 +27760,9 @@
     "30th-celebration-mini-tin-night-pikachu": {
      "title": "30th Celebration Mini Tin [Night Pikachu]",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 25.25,
-     "unavail_since": 1791575424
+     "last_restock_alert": 1791590123
     },
     "30th-celebration-mini-tin-greninja": {
      "title": "30th Celebration Mini Tin [Greninja]",
@@ -27773,7 +27772,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
