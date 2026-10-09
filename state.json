@@ -21379,7 +21379,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27762,10 +27762,16 @@
      "available": false,
      "price": 25.25,
      "unavail_since": 1791575424
+    },
+    "30th-celebration-mini-tin-greninja": {
+     "title": "30th Celebration Mini Tin [Greninja]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 24.75
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
