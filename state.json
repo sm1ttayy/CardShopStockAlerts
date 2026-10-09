@@ -20239,9 +20239,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1791580211
+     "last_restock_alert": 1791580211,
+     "unavail_since": 1791580511
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -21378,7 +21379,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27770,7 +27771,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 64,
    "error_streak": 0,
    "last_error": ""
   },
