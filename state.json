@@ -1683,9 +1683,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'ultimate-masters-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4593,9 +4593,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 27,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'pokemon-mega-evolution-ascended-heroes-gastly-tech-sticker-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -4864,7 +4864,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 199.0,
+     "price": 195.0,
      "last_restock_alert": 1789047763,
      "unavail_since": 1791277458
     },
@@ -5364,7 +5364,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 205.0,
+     "price": 194.0,
      "last_restock_alert": 1784243702,
      "unavail_since": 1788793658
     },
@@ -6017,7 +6017,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 152.0,
+     "price": 159.0,
      "last_restock_alert": 1788961604,
      "unavail_since": 1789654816
     },
@@ -10429,7 +10429,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11611,7 +11611,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -12257,7 +12257,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 47.99,
-     "unavail_since": 1790907512
+     "unavail_since": 1790907512,
+     "delisted": true
     },
     "one-piece-tcg-op-16-the-time-of-battle-booster-box": {
      "title": "One Piece TCG: OP-16 The Time of Battle Booster Box",
@@ -12287,7 +12288,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 39.99,
-     "unavail_since": 1791440051
+     "unavail_since": 1791440051,
+     "delisted": true
     },
     "pokemon-tcg-me05-pitch-black-build-battle-kit": {
      "title": "Pokemon TCG: ME05 Pitch Black Build & Battle Kit",
@@ -12299,7 +12301,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-me03-perfect-order-booster-box-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -14135,9 +14137,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'pokemon-tcg-mega-evolution-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
