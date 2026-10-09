@@ -20113,9 +20113,10 @@
     "pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "Pokemon 30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1791573911
+     "last_restock_alert": 1791573911,
+     "unavail_since": 1791583809
     },
     "one-piece-double-pack-vol-14-pre-order": {
      "title": "One Piece Double Pack Vol. 14 (Pre Order)",
@@ -21379,7 +21380,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27753,8 +27754,9 @@
     "magic-the-gathering-mutant-menace-commander-deck": {
      "title": "Mutant Menace Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 124.75
+     "available": false,
+     "price": 124.75,
+     "unavail_since": 1791583828
     },
     "30th-celebration-mini-tin-night-pikachu": {
      "title": "30th Celebration Mini Tin [Night Pikachu]",
@@ -27771,7 +27773,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
