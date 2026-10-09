@@ -1683,9 +1683,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'ultimate-masters-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4593,9 +4593,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 23,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'pokemon-mega-evolution-ascended-heroes-gastly-tech-sticker-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -10429,7 +10429,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11611,7 +11611,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12301,7 +12301,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-me03-perfect-order-booster-box-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -14137,9 +14137,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 29,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'pokemon-tcg-mega-evolution-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
