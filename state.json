@@ -21379,7 +21379,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27765,7 +27765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29028,10 +29028,9 @@
     "magic-the-gathering-ccg-universes-beyond-teenage-mutant-ninja-turtles-bundle": {
      "title": "Magic the Gathering CCG Universes Beyond Teenage Mutant Ninja Turtles Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 45.99,
-     "last_restock_alert": 1787258442,
-     "unavail_since": 1787877713
+     "last_restock_alert": 1791576635
     },
     "magic-the-gathering-universes-beyond-marvel-super-heroes-special-bundle": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Special Bundle",
@@ -29164,10 +29163,9 @@
     "magic-the-gathering-ccg-universes-beyond-avatar-the-last-airbender-play-booster-display-30-mtgaib-pb": {
      "title": "Magic the Gathering CCG Universes Beyond Avatar The Last Airbender Play Booster Display (30) MTGAIB-PB",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 134.99,
-     "last_restock_alert": 1790969743,
-     "unavail_since": 1791062741
+     "last_restock_alert": 1791576633
     },
     "magic-the-gathering-ccg-reality-fracture-play-booster-display-30": {
      "title": "Magic the Gathering CCG Reality Fracture Play Booster Display (30)",
@@ -29553,6 +29551,12 @@
      "available": false,
      "price": 39.99,
      "unavail_since": 1791573934
+    },
+    "magic-the-gathering-ccg-commander-starter-beginner-decks-carton-of-5": {
+     "title": "Magic the Gathering CCG. Commander Starter Beginner Decks Carton of (5)",
+     "game": "MTG",
+     "available": true,
+     "price": 139.99
     }
    },
    "baselined": true,
