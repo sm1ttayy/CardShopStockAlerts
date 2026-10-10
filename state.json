@@ -669,7 +669,7 @@
      "title": "Magic: The Gathering | Marvel Super Heroes - Gift Bundle",
      "game": "MTG",
      "available": false,
-     "price": 75.16,
+     "price": 72.41,
      "last_restock_alert": 1788014059,
      "unavail_since": 1790204729
     },
@@ -1684,9 +1684,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-marvels-spider-man-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4595,9 +4595,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'starter-deck-26-purple-black-monkey-d-luffy' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6562,7 +6562,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -10431,7 +10431,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11613,7 +11613,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -12042,7 +12042,8 @@
      "game": "One Piece",
      "available": false,
      "price": 160.0,
-     "unavail_since": 1788461001
+     "unavail_since": 1788461001,
+     "delisted": true
     },
     "pokemon-tcg-prismatic-lucario-ex-tyranitar-ex-premium-box": {
      "title": "Pokemon TCG: Prismatic Lucario ex & Tyranitar ex Premium Box",
@@ -12303,7 +12304,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-me03-perfect-order-booster-box-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -14139,9 +14140,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 12,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'magic-the-gathering-lorwyn-eclipsed-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
