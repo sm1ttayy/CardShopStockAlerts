@@ -1684,18 +1684,19 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-marvels-spider-man-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
     "one-piece-adventure-on-kamis-island-booster-box-op-15": {
      "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 255.0,
-     "last_restock_alert": 1791503644
+     "last_restock_alert": 1791503644,
+     "unavail_since": 1791659962
     },
     "one-piece-the-time-of-battle-booster-box-op-16": {
      "title": "One Piece The Time of Battle Booster Box [OP-16]",
@@ -4595,9 +4596,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'starter-deck-26-purple-black-monkey-d-luffy' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -6562,7 +6563,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -10431,7 +10432,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11613,7 +11614,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12304,7 +12305,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-me03-perfect-order-booster-box-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -14140,9 +14141,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'magic-the-gathering-lorwyn-eclipsed-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
