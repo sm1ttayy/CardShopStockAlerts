@@ -21380,7 +21380,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27760,9 +27760,10 @@
     "30th-celebration-mini-tin-night-pikachu": {
      "title": "30th Celebration Mini Tin [Night Pikachu]",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 25.25,
-     "last_restock_alert": 1791590123
+     "last_restock_alert": 1791590123,
+     "unavail_since": 1791592223
     },
     "30th-celebration-mini-tin-greninja": {
      "title": "30th Celebration Mini Tin [Greninja]",
@@ -27772,7 +27773,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
