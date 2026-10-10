@@ -1683,7 +1683,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4111,9 +4111,10 @@
     "one-piece-the-worlds-strongest-warriors-booster-box-op-17": {
      "title": "One Piece: The World's Strongest Warriors - Booster Box [OP-17]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 299.0,
-     "last_restock_alert": 1789518391
+     "last_restock_alert": 1789518391,
+     "unavail_since": 1791599007
     },
     "pokemon-mega-evolution-ascended-heroes-collection-larry": {
      "title": "Pokemon - Mega Evolution: Ascended Heroes Collection [Larry]",
@@ -4593,7 +4594,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14137,7 +14138,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
