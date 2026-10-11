@@ -21288,8 +21288,9 @@
     "mtg-reality-fracture-bundle-pre-order": {
      "title": "MTG Reality Fracture Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 64.95
+     "available": false,
+     "price": 64.95,
+     "unavail_since": 1791693317
     },
     "one-piece-card-game-japanese-1st-anniversary-set-pre-order": {
      "title": "One Piece Card Game - Japanese 1st Anniversary Set",
@@ -21388,7 +21389,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27788,7 +27789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
