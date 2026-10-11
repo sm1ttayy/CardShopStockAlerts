@@ -1691,7 +1691,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4448,7 +4448,7 @@
      "title": "Pok\u00e9mon: 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 170.0
+     "price": 129.0
     },
     "30th-celebration-poster-collection": {
      "title": "Pok\u00e9mon: 30th Celebration Poster Collection",
@@ -4603,7 +4603,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6066,7 +6066,7 @@
      "title": "One Piece TCG: Yellow Eustass Captain Kid Starter Deck EX (ST-36)",
      "game": "One Piece",
      "available": true,
-     "price": 16.0
+     "price": 17.0
     },
     "riftbound-tcg-league-of-legends-unleashed-champion-deck-vex-pre-order": {
      "title": "Riftbound TCG: League of Legends Unleashed Champion Deck (Vex)",
@@ -11955,7 +11955,7 @@
      "title": "Pokemon: SV10 Destined Rivals - Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 115.0,
+     "price": 100.69,
      "unavail_since": 1786743807,
      "delisted": true
     },
@@ -12178,8 +12178,9 @@
     "pokemon-tcg-me04-chaos-rising-booster-box-1": {
      "title": "Pokemon TCG: ME04 Chaos Rising Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 171.99
+     "available": false,
+     "price": 160.99,
+     "unavail_since": 1791759968
     },
     "pokemon-tcg-me01-mega-base-booster-box-non-enhanced": {
      "title": "Pokemon TCG: ME01 Mega Base Booster Box - Non Enhanced",
@@ -14154,7 +14155,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
