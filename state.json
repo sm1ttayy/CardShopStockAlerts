@@ -21395,9 +21395,9 @@
     "app-exclusive-wave-2-pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "(Wave 2) Pokemon 30th Celebration Booster Bundle (Pre Order)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 79.95,
-     "unavail_since": 1791414911
+     "last_restock_alert": 1791731113
     },
     "pokemon-shinning-fates-24-pack-bundle": {
      "title": "Pokemon Shining Fates 24 Pack Bundle",
@@ -21420,7 +21420,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27828,7 +27828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 81,
    "error_streak": 0,
    "last_error": ""
   },
