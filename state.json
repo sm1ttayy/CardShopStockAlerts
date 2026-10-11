@@ -21416,10 +21416,16 @@
      "available": false,
      "price": 189.95,
      "unavail_since": 1791725405
+    },
+    "pokemon-tcg-mega-set-7-booster-box-pre-order": {
+     "title": "Pokemon TCG Mega Set 7 Booster Box (Pre Order)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 289.95
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27832,7 +27838,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
