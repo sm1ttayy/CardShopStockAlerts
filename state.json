@@ -21420,7 +21420,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25362,10 +25362,9 @@
     "pokemon-swsh-astral-radiance-booster-box": {
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 409.25,
-     "last_restock_alert": 1790306129,
-     "unavail_since": 1791120639
+     "last_restock_alert": 1791743721
     },
     "pokemon-sword-shield-vivid-voltage-booster-box": {
      "title": "Vivid Voltage Booster Box",
@@ -27828,7 +27827,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
