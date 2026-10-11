@@ -14473,8 +14473,9 @@
     "one-piece-tcg-the-worlds-strongest-warriors-booster-pack": {
      "title": "One Piece TCG: The World's Strongest Warriors Booster Pack",
      "game": "One Piece",
-     "available": true,
-     "price": 14.99
+     "available": false,
+     "price": 14.99,
+     "unavail_since": 1791748807
     },
     "pokemon-tcg-30th-celebration-5x-pack-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration 5x Pack - Moonshot Rips (OPENED LIVE ON STREAM)",
@@ -21420,7 +21421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27833,7 +27834,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
