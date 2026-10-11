@@ -1681,10 +1681,17 @@
      "available": false,
      "price": 140.7,
      "unavail_since": 1791440068
+    },
+    "lego-one-piece-battle-at-drum-castle-75645": {
+     "title": "Lego: One Piece - Battle at Drum Castle (75645)",
+     "game": "One Piece",
+     "available": false,
+     "price": 93.49,
+     "unavail_since": 1791730301
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4596,7 +4603,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14147,7 +14154,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 76,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
