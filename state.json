@@ -20253,9 +20253,10 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1791682510
+     "last_restock_alert": 1791682510,
+     "unavail_since": 1791725409
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -21395,7 +21396,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25263,7 +25264,7 @@
      "title": "Japanese Glory of Team Rocket Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 168.99,
+     "price": 166.75,
      "last_restock_alert": 1788029764,
      "unavail_since": 1791120638
     },
@@ -25313,7 +25314,7 @@
      "title": "Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 226.99,
+     "price": 231.75,
      "last_restock_alert": 1787872843
     },
     "pokemon-japanese-paradigm-trigger-booster-box": {
@@ -25378,7 +25379,7 @@
      "title": "Return to Ravnica Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 194.49,
+     "price": 185.75,
      "last_restock_alert": 1786658751,
      "unavail_since": 1787405440
     },
@@ -25386,7 +25387,7 @@
      "title": "Ravnica Allegiance Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 164.49,
+     "price": 164.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1791120639
     },
@@ -25507,7 +25508,7 @@
      "title": "Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 135.49
+     "price": 139.75
     },
     "mtg-wilds-of-eldraine-set-booster-box": {
      "title": "Wilds of Eldraine Set Booster Box",
@@ -25779,7 +25780,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 78.75
+     "price": 79.49
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -26091,7 +26092,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 283.99,
+     "price": 284.99,
      "last_restock_alert": 1786479935,
      "unavail_since": 1789599038
     },
@@ -26208,7 +26209,7 @@
      "title": "One Piece: Illustration Box Vol. 2",
      "game": "One Piece",
      "available": false,
-     "price": 129.99,
+     "price": 129.75,
      "unavail_since": 1784158890
     },
     "pokemon-sword-shield-ultra-premium-collection-charizard": {
@@ -26260,7 +26261,7 @@
      "title": "Double Masters - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 1004.99,
+     "price": 1069.75,
      "unavail_since": 1786800619
     },
     "commander-legends-arm-for-battle-commander-deck": {
@@ -26306,7 +26307,7 @@
      "title": "Freedom Ascension Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 204.75,
+     "price": 205.99,
      "last_restock_alert": 1786395038,
      "unavail_since": 1786800618
     },
@@ -26314,7 +26315,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 41.99
+     "price": 44.49
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -26332,7 +26333,7 @@
      "title": "Guilds of Ravnica - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 173.75,
+     "price": 174.75,
      "last_restock_alert": 1786658452,
      "unavail_since": 1791120628
     },
@@ -26840,7 +26841,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 66.99
+     "price": 67.75
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -27101,7 +27102,7 @@
      "title": "Innistrad - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 619.99,
+     "price": 641.49,
      "unavail_since": 1791120627
     },
     "saviors-of-kamigawa-booster-box": {
@@ -27300,7 +27301,7 @@
      "title": "30th Celebration Ultra-Premium Collection [Day]",
      "game": "Pokemon",
      "available": true,
-     "price": 559.75
+     "price": 563.49
     },
     "the-hobbit-draft-night": {
      "title": "The Hobbit Draft Night",
@@ -27345,7 +27346,7 @@
      "title": "One Piece Heroines Edition Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 319.75,
+     "price": 317.75,
      "unavail_since": 1791120625
     },
     "commander-legends-battle-for-baldurs-gate-exit-from-exile-commander-deck": {
@@ -27410,7 +27411,7 @@
      "title": "The Hobbit Gift Bundle",
      "game": "MTG",
      "available": true,
-     "price": 99.75
+     "price": 100.75
     },
     "the-brothers-war-commander-deck-urzas-iron-alliance": {
      "title": "The Brothers' War Commander Deck - Urza's Iron Alliance",
@@ -27482,7 +27483,7 @@
      "title": "Temporal Forces Pokemon Center Elite Trainer Box [Walking Wake]",
      "game": "Pokemon",
      "available": true,
-     "price": 219.99
+     "price": 224.99
     },
     "pokemon-s-v-temporal-forces-pokemon-center-elite-trainer-box-iron-leaves": {
      "title": "Temporal Forces Pokemon Center Elite Trainer Box [Iron Leaves]",
@@ -27566,7 +27567,7 @@
      "price": 134.99
     },
     "reality-fracture-secret-lair-bundle": {
-     "title": "Reality Fracture - Secret Lair Bundle",
+     "title": "Reality Fracture Secret Lair Bundle",
      "game": "MTG",
      "available": true,
      "price": 173.75
@@ -27598,7 +27599,7 @@
      "price": 43.25
     },
     "reality-fracture-bundle": {
-     "title": "Reality Fracture - Bundle",
+     "title": "Reality Fracture Bundle",
      "game": "MTG",
      "available": true,
      "price": 60.75
@@ -27654,7 +27655,7 @@
      "price": 42.75
     },
     "reality-fracture-play-booster-display": {
-     "title": "Reality Fracture - Play Booster Display",
+     "title": "Reality Fracture Play Booster Display",
      "game": "MTG",
      "available": true,
      "price": 139.75
@@ -27682,7 +27683,7 @@
      "title": "Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
      "available": true,
-     "price": 52.75
+     "price": 54.49
     },
     "crown-zenith-pin-collection-rillaboom": {
      "title": "Crown Zenith Pin Collection [Rillaboom]",
@@ -27752,7 +27753,7 @@
      "title": "Foundations Commander Deck - Reign of Dragons",
      "game": "MTG",
      "available": true,
-     "price": 49.25
+     "price": 49.99
     },
     "pokemon-celebrations-collector-chest": {
      "title": "Celebrations Collector Chest",
@@ -27776,7 +27777,7 @@
      "title": "Mutant Menace Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 124.75,
+     "price": 123.75,
      "unavail_since": 1791583828
     },
     "30th-celebration-mini-tin-night-pikachu": {
@@ -27795,7 +27796,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
