@@ -21241,8 +21241,9 @@
     "pokemon-30th-celebration-espeon-ex-umbreon-ex-premium-deck-set": {
      "title": "Pokemon 30th Celebration Espeon ex & Umbreon ex Premium Deck Set",
      "game": "Pokemon",
-     "available": true,
-     "price": 209.95
+     "available": false,
+     "price": 209.95,
+     "unavail_since": 1791684013
     },
     "one-piece-prb-02-premium-booster-pack-english": {
      "title": "One Piece PRB-02 Premium Booster Pack - English",
@@ -21387,7 +21388,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27787,7 +27788,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
