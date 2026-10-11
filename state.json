@@ -20554,10 +20554,9 @@
     "riftbound-league-of-legends-legacy-booster-box-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": false,
-     "price": 189.95,
-     "last_restock_alert": 1789597526,
-     "unavail_since": 1789597820
+     "available": true,
+     "price": 199.95,
+     "last_restock_alert": 1791756911
     },
     "one-piece-tcg-op07-booster-box-pre-order": {
      "title": "One Piece TCG OP07 500 Years In The Future Booster Box",
@@ -21350,10 +21349,9 @@
     "league-of-legends-riftbound-tcg-the-reckoning-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG - The Reckoning Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1791129911,
-     "unavail_since": 1791130811
+     "last_restock_alert": 1791756911
     },
     "mtg-fallout-commander-deck-science-pre-order": {
      "title": "MTG - Fallout - Commander Deck - Science",
@@ -21421,7 +21419,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27834,7 +27832,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
