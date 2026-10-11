@@ -15633,9 +15633,10 @@
     "reality-fracture-play-booster-box-preorder": {
      "title": "Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 139.95,
-     "last_restock_alert": 1791324646
+     "last_restock_alert": 1791324646,
+     "unavail_since": 1791725404
     },
     "marvel-super-heroes-jumpstart-booster-box-preorder": {
      "title": "Marvel Super Heroes Jumpstart Booster Box",
@@ -15682,9 +15683,10 @@
     "teenage-mutant-ninja-turtles-play-booster-display-preorder": {
      "title": "Teenage Mutant Ninja Turtles Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 124.95,
-     "last_restock_alert": 1790982312
+     "last_restock_alert": 1790982312,
+     "unavail_since": 1791725409
     },
     "avatar-the-last-airbender-play-booster-box": {
      "title": "Avatar The Last Airbender Play Booster Box",
@@ -15913,8 +15915,9 @@
     "modern-horizons-3-play-booster-display": {
      "title": "Modern Horizons 3 Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 299.95
+     "available": false,
+     "price": 299.95,
+     "unavail_since": 1791725404
     },
     "buy-mtg-lord-of-the-rings-set-booster-display": {
      "title": "Lord of the Rings Set Booster Box",
@@ -16669,6 +16672,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 149.95
+    },
+    "marvel-darkhold-destiny-booster-box": {
+     "title": "Marvel Darkhold Destiny Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 149.95,
+     "unavail_since": 1791725404
     }
    },
    "baselined": true,
@@ -18834,7 +18844,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20253,10 +20263,9 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1791682510,
-     "unavail_since": 1791725409
+     "last_restock_alert": 1791682510
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -21393,10 +21402,17 @@
      "game": "MTG",
      "available": true,
      "price": 409.95
+    },
+    "league-of-legends-riftbound-tcg-radiance-booster-box-pre-order": {
+     "title": "League of Legends Riftbound TCG: Radiance Booster Box (Pre Order)",
+     "game": "Riftbound",
+     "available": false,
+     "price": 189.95,
+     "unavail_since": 1791725405
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24373,9 +24389,10 @@
     "pokemon-storm-emeralda-m6-japanese-booster-box": {
      "title": "Pok\u00e9mon Storm Emeralda M6 Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 89.99,
-     "last_restock_alert": 1790887812
+     "last_restock_alert": 1790887812,
+     "unavail_since": 1791725407
     },
     "japanese-hiroshima-special-box": {
      "title": "Pokemon Center Japanese Hiroshima Special Box",
@@ -24501,14 +24518,14 @@
      "title": "Premium Booster Vol. 2 - Booster Box (PRB02)",
      "game": "One Piece",
      "available": false,
-     "price": 378.75,
+     "price": 375.75,
      "unavail_since": 1784083350
     },
     "unleashed-booster-display": {
      "title": "Unleashed Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 174.75,
+     "price": 179.75,
      "unavail_since": 1784083350
     },
     "tmnt-play-booster-box": {
@@ -24529,7 +24546,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 226.75,
+     "price": 208.75,
      "unavail_since": 1784083350
     },
     "lorwyn-eclipsed-play-booster-display": {
@@ -24543,7 +24560,7 @@
      "title": "Secrets of Strixhaven Play Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 144.75,
+     "price": 141.25,
      "unavail_since": 1784083350
     },
     "legacy-of-the-master-booster-box-op12": {
@@ -24566,7 +24583,7 @@
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 257.99,
+     "price": 256.75,
      "unavail_since": 1784083350
     },
     "secrets-of-strixhaven-collector-booster-display": {
@@ -24586,7 +24603,7 @@
      "title": "Twilight Masqueade Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 208.49,
+     "price": 209.49,
      "unavail_since": 1784083350
     },
     "collect-151-surprise-slim-booster-box-cn": {
@@ -24629,7 +24646,7 @@
      "title": "Ninja Spinner Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 75.99,
+     "price": 75.75,
      "unavail_since": 1784083350
     },
     "chaos-rising-booster-box": {
@@ -24643,14 +24660,15 @@
      "title": "Inferno X Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 93.99,
+     "price": 107.25,
      "unavail_since": 1784083350
     },
     "pokemon-s-s-fusion-strike-booster-box": {
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 977.99
+     "available": false,
+     "price": 981.75,
+     "unavail_since": 1791725430
     },
     "destined-rivals-booster-box": {
      "title": "Destined Rivals Booster Box",
@@ -24664,7 +24682,7 @@
      "title": "Brilliant Stars Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 551.99,
+     "price": 566.99,
      "unavail_since": 1784083350
     },
     "pokemon-evolving-skies-booster-box": {
@@ -24699,21 +24717,21 @@
      "title": "Modern Horizons 3 Play Booster",
      "game": "MTG",
      "available": false,
-     "price": 307.99,
+     "price": 319.75,
      "unavail_since": 1786195833
     },
     "darkness-ablaze-booster-box-case": {
      "title": "Darkness Ablaze Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2224.75,
+     "price": 2199.99,
      "unavail_since": 1784083350
     },
     "destined-rivals-booster-box-case": {
      "title": "Destined Rivals Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2495.75,
+     "price": 2430.75,
      "unavail_since": 1784083350
     },
     "legendary-heartbeat-booster-box-jp": {
@@ -24727,21 +24745,21 @@
      "title": "Triple Beat Booster Box (JP)",
      "game": "Pokemon",
      "available": false,
-     "price": 153.25,
+     "price": 149.99,
      "unavail_since": 1784083350
     },
     "scarlet-ex-booster-box-jp": {
      "title": "Scarlet ex Booster Box (JP)",
      "game": "Pokemon",
      "available": false,
-     "price": 134.99,
+     "price": 142.99,
      "unavail_since": 1784083350
     },
     "raging-surf-booster-box-jp": {
      "title": "Raging Surf Booster Box (JP)",
      "game": "Pokemon",
      "available": true,
-     "price": 106.75,
+     "price": 103.99,
      "last_restock_alert": 1786228848
     },
     "gg-end-booster-box-jp": {
@@ -24777,35 +24795,35 @@
      "title": "White Flare Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 122.25,
+     "price": 121.99,
      "unavail_since": 1784083350
     },
     "fusion-arts-booster-box": {
      "title": "Fusion Arts Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 397.75,
+     "price": 348.75,
      "unavail_since": 1784083350
     },
     "vmax-climax-booster-box": {
      "title": "VMAX Climax Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 219.75,
+     "price": 219.49,
      "unavail_since": 1786195833
     },
     "pillars-of-strength-booster-box-op03": {
      "title": "Pillars of Strength Booster Box [OP03]",
      "game": "One Piece",
      "available": false,
-     "price": 509.75,
+     "price": 499.99,
      "unavail_since": 1784083350
     },
     "perfect-order-booster-box": {
      "title": "Perfect Order Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 173.99,
+     "price": 174.25,
      "last_restock_alert": 1784328042
     },
     "innistrad-remastered-collector-booster-box": {
@@ -24832,7 +24850,7 @@
      "title": "Assassin's Creed Beyond Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 156.75,
+     "price": 154.99,
      "unavail_since": 1784083350
     },
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
@@ -24846,7 +24864,7 @@
      "title": "Wings of the Captain Booster Box [OP06]",
      "game": "One Piece",
      "available": false,
-     "price": 424.75,
+     "price": 420.75,
      "unavail_since": 1784083350
     },
     "chilling-reign-booster-box-case": {
@@ -24867,21 +24885,21 @@
      "title": "Crimson Vow Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 349.75,
+     "price": 399.25,
      "unavail_since": 1786195834
     },
     "march-of-the-machine-set-booster-box": {
      "title": "March of the Machine Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 296.75,
+     "price": 292.25,
      "unavail_since": 1784083350
     },
     "the-brothers-war-set-booster-box": {
      "title": "The Brothers' War Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 386.99,
+     "price": 388.75,
      "unavail_since": 1784083350
     },
     "500-years-in-the-future-booster-box-op07": {
@@ -24895,7 +24913,7 @@
      "title": "Memorial Collection Booster Box [EB01]",
      "game": "One Piece",
      "available": false,
-     "price": 868.99,
+     "price": 868.49,
      "unavail_since": 1784083350
     },
     "paramount-war-booster-box-op02": {
@@ -24916,7 +24934,7 @@
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
      "available": false,
-     "price": 647.75,
+     "price": 645.75,
      "unavail_since": 1784083350
     },
     "journey-together-non-enhanced-booster-box": {
@@ -24929,7 +24947,7 @@
      "title": "Forbidden Light Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1749.99,
+     "price": 1714.49,
      "unavail_since": 1784083350
     },
     "mega-dream-ex-booster-box": {
@@ -24943,7 +24961,7 @@
      "title": "Avatar: The Last Airbender - Jumpstart Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 89.99,
+     "price": 94.49,
      "unavail_since": 1784083350
     },
     "japanese-forbidden-light-booster-box-sm6": {
@@ -24964,14 +24982,14 @@
      "title": "XY Evolutions Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2879.75,
+     "price": 2774.75,
      "unavail_since": 1784083350
     },
     "25th-anniversary-collection-booster-box": {
      "title": "25th Anniversary Collection Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 364.75,
+     "price": 349.75,
      "unavail_since": 1784083350
     },
     "japanese-crimson-haze-booster-box": {
@@ -24986,7 +25004,7 @@
      "title": "Surging Sparks Booster Box Case [Sealed]",
      "game": "Pokemon",
      "available": false,
-     "price": 1849.99,
+     "price": 1899.99,
      "unavail_since": 1786195837
     },
     "mega-evolution-booster-box-non-enhanced": {
@@ -25014,7 +25032,7 @@
      "title": "Two Legends Booster Box [OP08]",
      "game": "One Piece",
      "available": false,
-     "price": 248.75,
+     "price": 245.75,
      "unavail_since": 1784083350
     },
     "spanish-hgss-half-booster-box": {
@@ -25063,28 +25081,29 @@
      "title": "Japanese Stellar Miracle Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 91.75,
+     "price": 96.99,
      "unavail_since": 1784083350
     },
     "ruler-of-the-black-flame-booster-box": {
      "title": "Japanese Ruler of the Black Flame Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 144.75,
-     "last_restock_alert": 1786227636
+     "available": false,
+     "price": 137.49,
+     "last_restock_alert": 1786227636,
+     "unavail_since": 1791725434
     },
     "lost-abyss-booster-box": {
      "title": "Japanese Lost Abyss Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 304.75,
+     "price": 299.99,
      "unavail_since": 1784083350
     },
     "incandescent-arcana-booster-box": {
      "title": "Incandescent Arcana Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 111.75,
+     "price": 109.99,
      "unavail_since": 1784083350
     },
     "ancient-roar-booster-box": {
@@ -25098,7 +25117,7 @@
      "title": "Surging Sparks Half Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 193.99,
+     "price": 188.75,
      "unavail_since": 1784083350
     },
     "fates-collide-booster-box": {
@@ -25119,14 +25138,14 @@
      "title": "Primal Clash Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 3714.75,
+     "price": 4034.75,
      "unavail_since": 1784083350
     },
     "roaring-skies-booster-box": {
      "title": "Roaring Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 4651.25,
+     "price": 4735.75,
      "unavail_since": 1784083350
     },
     "destined-rivals-european-half-booster-box": {
@@ -25147,7 +25166,7 @@
      "title": "Japanese Violet ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 89.75,
+     "price": 86.25,
      "unavail_since": 1784083350
     },
     "japanese-future-flash-booster-box": {
@@ -25168,7 +25187,7 @@
      "title": "Japanese Cyber Judge Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 85.75,
+     "price": 90.75,
      "unavail_since": 1784083350
     },
     "japanese-snow-hazard-booster-box": {
@@ -25208,14 +25227,14 @@
      "title": "Unbroken Bonds Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2801.75,
+     "price": 2814.75,
      "unavail_since": 1784083350
     },
     "japanese-shiny-star-v-booster-box": {
      "title": "Japanese Shiny Star V Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 169.49,
+     "price": 161.75,
      "last_restock_alert": 1789085155
     },
     "japanese-remix-bout-booster-box": {
@@ -25229,7 +25248,7 @@
      "title": "Japanese Eevee Heroes Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 774.75,
+     "price": 749.75,
      "unavail_since": 1784083350
     },
     "steam-siege-booster-box": {
@@ -25257,7 +25276,7 @@
      "title": "Japanese Heat Wave Arena Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 124.75,
+     "price": 121.75,
      "unavail_since": 1786195839
     },
     "japanese-glory-of-team-rocket-booster-box": {
@@ -25293,7 +25312,7 @@
      "title": "Ultra Prism Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1599.99,
+     "price": 1609.75,
      "unavail_since": 1784083350
     },
     "rebel-clash-booster-box": {
@@ -25321,15 +25340,16 @@
      "title": "Japanese Paradigm Trigger Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 179.99,
+     "price": 178.49,
      "unavail_since": 1784083350
     },
     "pokemon-chilling-reign-booster-box": {
      "title": "Chilling Reign Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 495.0,
-     "last_restock_alert": 1787961949
+     "available": false,
+     "price": 461.75,
+     "last_restock_alert": 1787961949,
+     "unavail_since": 1791725437
     },
     "pokemon-swsh-astral-radiance-booster-box": {
      "title": "Astral Radiance Booster Box",
@@ -25356,9 +25376,10 @@
     "pokemon-s-v-obsidian-flames-booster-box": {
      "title": "Obsidian Flames Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 359.75,
-     "last_restock_alert": 1790306151
+     "available": false,
+     "price": 381.75,
+     "last_restock_alert": 1790306151,
+     "unavail_since": 1791725437
     },
     "final-fantasy-play-booster-box": {
      "title": "Final Fantasy Play Booster Box",
@@ -25402,7 +25423,7 @@
      "title": "Kamigawa: Neon Dynasty Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 397.75,
+     "price": 397.99,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-remastered-draft-booster-box": {
@@ -25451,21 +25472,21 @@
      "title": "Cosmic Eclipse Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 4999.75,
+     "price": 4014.75,
      "unavail_since": 1784083350
     },
     "prismatic-evolutions-super-premium-collection": {
      "title": "Prismatic Evolutions Super-Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 264.75,
+     "price": 262.75,
      "last_restock_alert": 1788207114
     },
     "crimson-invasion-booster-box": {
      "title": "Crimson Invasion Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 673.99,
+     "price": 672.75,
      "unavail_since": 1784083350
     },
     "lost-thunder-booster-box": {
@@ -25514,14 +25535,14 @@
      "title": "Wilds of Eldraine Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 358.99,
+     "price": 355.99,
      "unavail_since": 1784083350
     },
     "mtg-universes-beyond-assassins-creed-booster-box": {
      "title": "Universes Beyond Assassin's Creed Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 156.75,
+     "price": 154.99,
      "unavail_since": 1784083350
     },
     "mtg-dominaria-united-collector-booster-box": {
@@ -25541,7 +25562,7 @@
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 739.99,
+     "price": 738.75,
      "unavail_since": 1784083350
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
@@ -25562,14 +25583,14 @@
      "title": "Japanese Super Electric Breaker Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 148.49,
+     "price": 146.75,
      "unavail_since": 1784083350
     },
     "pokemon-terastal-festival-ex-booster-box-sv8a": {
      "title": "Japanese Terastal Festival ex Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 108.75,
+     "price": 117.49,
      "unavail_since": 1784083350
     },
     "pokemon-japanese-shiny-treasure-ex-high-class-booster-box": {
@@ -25583,9 +25604,10 @@
     "pokemon-s-v-temporal-forces-booster-box": {
      "title": "Temporal Forces Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 302.99,
-     "last_restock_alert": 1789592146
+     "available": false,
+     "price": 319.75,
+     "last_restock_alert": 1789592146,
+     "unavail_since": 1791725439
     },
     "pokemon-japanese-clay-burst-booster-box": {
      "title": "Japanese Clay Burst Booster Box",
@@ -25614,7 +25636,7 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 211.99,
+     "price": 211.25,
      "last_restock_alert": 1791062732
     },
     "pokemon-japanese-151-booster-box": {
@@ -25780,7 +25802,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 79.49
+     "price": 78.75
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -26209,7 +26231,7 @@
      "title": "One Piece: Illustration Box Vol. 2",
      "game": "One Piece",
      "available": false,
-     "price": 129.75,
+     "price": 129.99,
      "unavail_since": 1784158890
     },
     "pokemon-sword-shield-ultra-premium-collection-charizard": {
@@ -26222,7 +26244,7 @@
      "title": "Twilight Masquerade Booster Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 2099.75,
+     "price": 2084.75,
      "unavail_since": 1786195830
     },
     "perfect-order-booster-bundle": {
@@ -26287,7 +26309,7 @@
      "title": "Surging Sparks Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 67.75,
+     "price": 68.49,
      "last_restock_alert": 1788206153,
      "unavail_since": 1791124826
     },
@@ -26315,7 +26337,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 44.49
+     "price": 41.99
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -26341,7 +26363,7 @@
      "title": "Throne of Eldraine - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 208.49,
+     "price": 203.75,
      "last_restock_alert": 1786658142
     },
     "final-fantasy-commander-deck-revival-trance": {
@@ -26530,7 +26552,7 @@
      "title": "Streets of New Capenna - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 152.99
+     "price": 149.49
     },
     "mega-brave-booster-box": {
      "title": "Mega Brave Booster Box",
@@ -26567,7 +26589,7 @@
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 184.99,
+     "price": 189.75,
      "unavail_since": 1791237639
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-gardevoir": {
@@ -26728,13 +26750,13 @@
      "title": "Mega Symphonia Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 84.99
+     "price": 83.75
     },
     "march-of-the-machine-the-aftermath-epilogue-booster-display": {
      "title": "March of the Machine: The Aftermath - Epilogue Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 106.75
+     "price": 103.75
     },
     "jumpstart-2022-booster-display": {
      "title": "Jumpstart 2022 Booster Display",
@@ -26755,7 +26777,7 @@
      "title": "Dominaria United - Set Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 294.75,
+     "price": 284.75,
      "unavail_since": 1786195830
     },
     "strixhaven-school-of-mages-set-booster-display": {
@@ -26807,7 +26829,7 @@
      "title": "Zendikar Rising - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 184.99,
+     "price": 194.75,
      "unavail_since": 1786195830
     },
     "commander-legends-draft-booster-box": {
@@ -26841,7 +26863,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 67.75
+     "price": 66.99
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -27038,7 +27060,7 @@
      "title": "The Lost Caverns of Ixalan - Draft Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 269.99,
+     "price": 270.49,
      "unavail_since": 1791120626
     },
     "khans-of-tarkir-booster-box": {
@@ -27077,13 +27099,13 @@
      "title": "Wilds of Eldraine - Draft Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 329.99
+     "price": 328.75
     },
     "modern-masters-2017-booster-box": {
      "title": "Modern Masters 2017 - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 401.25
+     "price": 399.75
     },
     "modern-masters-booster-box": {
      "title": "Modern Masters - Booster Box",
@@ -27109,13 +27131,13 @@
      "title": "Saviors of Kamigawa - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 650.75
+     "price": 650.99
     },
     "apocalypse-booster-box": {
      "title": "Apocalypse - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 1480.25
+     "price": 1465.25
     },
     "visions-booster-box": {
      "title": "Visions - Booster Box",
@@ -27133,7 +27155,7 @@
      "title": "Born of the Gods - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 259.99
+     "price": 284.75
     },
     "iconic-masters-booster-box": {
      "title": "Iconic Masters - Booster Box",
@@ -27146,13 +27168,13 @@
      "title": "Aether Revolt - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 224.75
+     "price": 229.75
     },
     "journey-into-nyx-booster-box": {
      "title": "Journey Into Nyx - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 295.99
+     "price": 294.99
     },
     "uta-collection": {
      "title": "Uta Collection",
@@ -27301,7 +27323,7 @@
      "title": "30th Celebration Ultra-Premium Collection [Day]",
      "game": "Pokemon",
      "available": true,
-     "price": 563.49
+     "price": 559.75
     },
     "the-hobbit-draft-night": {
      "title": "The Hobbit Draft Night",
@@ -27411,7 +27433,7 @@
      "title": "The Hobbit Gift Bundle",
      "game": "MTG",
      "available": true,
-     "price": 100.75
+     "price": 99.75
     },
     "the-brothers-war-commander-deck-urzas-iron-alliance": {
      "title": "The Brothers' War Commander Deck - Urza's Iron Alliance",
@@ -27483,7 +27505,7 @@
      "title": "Temporal Forces Pokemon Center Elite Trainer Box [Walking Wake]",
      "game": "Pokemon",
      "available": true,
-     "price": 224.99
+     "price": 219.99
     },
     "pokemon-s-v-temporal-forces-pokemon-center-elite-trainer-box-iron-leaves": {
      "title": "Temporal Forces Pokemon Center Elite Trainer Box [Iron Leaves]",
@@ -27531,7 +27553,7 @@
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 28.25,
+     "price": 28.99,
      "last_restock_alert": 1789598432,
      "unavail_since": 1791231352
     },
@@ -27567,7 +27589,7 @@
      "price": 134.99
     },
     "reality-fracture-secret-lair-bundle": {
-     "title": "Reality Fracture Secret Lair Bundle",
+     "title": "Reality Fracture - Secret Lair Bundle",
      "game": "MTG",
      "available": true,
      "price": 173.75
@@ -27599,7 +27621,7 @@
      "price": 43.25
     },
     "reality-fracture-bundle": {
-     "title": "Reality Fracture Bundle",
+     "title": "Reality Fracture - Bundle",
      "game": "MTG",
      "available": true,
      "price": 60.75
@@ -27610,7 +27632,8 @@
      "available": false,
      "price": 110.75,
      "last_restock_alert": 1791573926,
-     "unavail_since": 1791682527
+     "unavail_since": 1791682527,
+     "delisted": true
     },
     "scarlet-violet-pokemon-center-elite-trainer-box-miraidon": {
      "title": "Scarlet & Violet Pokemon Center Elite Trainer Box [Miraidon]",
@@ -27683,7 +27706,7 @@
      "title": "Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
      "available": true,
-     "price": 54.49
+     "price": 52.75
     },
     "crown-zenith-pin-collection-rillaboom": {
      "title": "Crown Zenith Pin Collection [Rillaboom]",
@@ -27694,8 +27717,9 @@
     "jet-black-spirit-booster-box": {
      "title": "Jet-Black Spirit Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 109.75
+     "available": false,
+     "price": 109.75,
+     "unavail_since": 1791725423
     },
     "peerless-fighters-booster-box": {
      "title": "Peerless Fighters Booster Box",
@@ -27708,7 +27732,7 @@
      "title": "30th Celebration Mini Tin [Umbreon]",
      "game": "Pokemon",
      "available": false,
-     "price": 28.99,
+     "price": 30.75,
      "unavail_since": 1791575424
     },
     "30th-celebration-mini-tin-lapras": {
@@ -27721,7 +27745,7 @@
      "title": "30th Celebration Mini Tin [Mewtwo]",
      "game": "Pokemon",
      "available": false,
-     "price": 26.99,
+     "price": 27.49,
      "unavail_since": 1791575424
     },
     "30th-celebration-ex-tin-sylveon-ex-retail-version": {
@@ -27753,7 +27777,7 @@
      "title": "Foundations Commander Deck - Reign of Dragons",
      "game": "MTG",
      "available": true,
-     "price": 49.99
+     "price": 49.25
     },
     "pokemon-celebrations-collector-chest": {
      "title": "Celebrations Collector Chest",
@@ -27784,7 +27808,7 @@
      "title": "30th Celebration Mini Tin [Night Pikachu]",
      "game": "Pokemon",
      "available": false,
-     "price": 25.99,
+     "price": 26.75,
      "last_restock_alert": 1791590123,
      "unavail_since": 1791592223
     },
@@ -27796,7 +27820,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28487,9 +28511,10 @@
     "magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs": {
      "title": "Magic: The Gathering The Hobbit Play Booster Box (30 Booster Packs)",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 159.95,
-     "last_restock_alert": 1788909969
+     "last_restock_alert": 1788909969,
+     "unavail_since": 1791725426
     },
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-english-booster-box-24-packs": {
      "title": "One Piece TCG OP-17  The World's Strongest Warriors English Booster Box (24 Packs)",
