@@ -20572,11 +20572,10 @@
      "price": 3499.95
     },
     "one-piece-cg-op-22-booster-box-pre-order": {
-     "title": "One Piece CG OP-22 Booster Box (Pre Order)",
+     "title": "One Piece CG OP-22 Booster Box (Pre order)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 279.95,
-     "unavail_since": 1787405404,
      "delisted": true
     },
     "pokemon-scarlet-violet-151-ultra-premium-collection-pre-order": {
@@ -21425,7 +21424,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27838,7 +27837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
