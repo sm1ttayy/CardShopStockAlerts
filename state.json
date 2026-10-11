@@ -16741,8 +16741,9 @@
     "pokemon-abyss-eve-japanese-booster-box": {
      "title": "Pokemon - Abyss Eye - Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 109.95
+     "available": false,
+     "price": 109.95,
+     "unavail_since": 1791683707
     },
     "pokemon-gem-pack-vol-5-chinese-booster-box": {
      "title": "Pokemon - Gem Pack Vol. 5 - Chinese Booster Box",
@@ -21386,7 +21387,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27786,7 +27787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
