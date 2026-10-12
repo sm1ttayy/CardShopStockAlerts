@@ -15590,10 +15590,9 @@
     "riftbound-vendetta-booster-box": {
      "title": "Riftbound Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 144.95,
-     "last_restock_alert": 1790306120,
-     "unavail_since": 1791123613
+     "available": true,
+     "price": 139.95,
+     "last_restock_alert": 1791835513
     },
     "riftbound-origins-proving-grounds-box-set": {
      "title": "Riftbound Origins Proving Grounds Box Set",
@@ -16256,9 +16255,9 @@
     "riftbound-vendetta-pre-rift-kit": {
      "title": "Riftbound Vendetta Pre Rift Kit",
      "game": "Riftbound",
-     "available": false,
-     "price": 29.95,
-     "unavail_since": 1785276011
+     "available": true,
+     "price": 27.95,
+     "last_restock_alert": 1791835514
     },
     "mega-venusaur-ex-premium-collection": {
      "title": "Mega Venusaur ex Premium Collection",
@@ -21434,7 +21433,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27848,7 +27847,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
