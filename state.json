@@ -1400,7 +1400,7 @@
      "title": "Lego: One Piece - Showdown with Captain Smoker (75642)",
      "game": "One Piece",
      "available": false,
-     "price": 69.99,
+     "price": 59.49,
      "unavail_since": 1787180601
     },
     "one-piece-adventure-island": {
@@ -1691,9 +1691,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 28,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'one-piece-tcg-op-19-title-tba-display-case-english' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4558,10 +4558,10 @@
      "unavail_since": 1791212328
     },
     "magic-the-gathering-reality-fracture-commander-decks": {
-     "title": "[PREORDER] Magic: The Gathering - Reality Fracture Commander Deck Multiverse Reforged",
+     "title": "Magic: The Gathering - Reality Fracture Commander Deck Multiverse Reforged",
      "game": "MTG",
      "available": false,
-     "price": 70.0,
+     "price": 56.0,
      "unavail_since": 1791381062
     },
     "magic-the-gathering-secrets-of-strixhaven-codex-bundle": {
@@ -4603,9 +4603,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 26,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'one-piece-the-worlds-strongest-warriors-booster-box-op-17' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6576,7 +6576,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8783,7 +8783,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-6-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10445,7 +10445,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11627,7 +11627,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -14155,9 +14155,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'one-piece-tcg-starter-deck-roronoa-zoro-st-32' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
