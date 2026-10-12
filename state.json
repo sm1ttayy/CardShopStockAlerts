@@ -16307,10 +16307,9 @@
     "first-partner-illustration-collection-series-3": {
      "title": "First Partner Illustration Collection (Series 3)",
      "game": "Pokemon",
-     "available": false,
-     "price": 22.95,
-     "last_restock_alert": 1791228614,
-     "unavail_since": 1791324036
+     "available": true,
+     "price": 21.95,
+     "last_restock_alert": 1791837014
     },
     "ascended-heroes-premium-poster-collection-mega-lucario": {
      "title": "Ascended Heroes Premium Poster Collection - Mega Lucario",
@@ -21432,7 +21431,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27846,7 +27845,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
