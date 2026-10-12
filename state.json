@@ -18864,7 +18864,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19183,10 +19183,9 @@
     "league-of-legends-riftbound-tcg-unleashed-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Unleashed Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 254.95,
-     "last_restock_alert": 1788571511,
-     "unavail_since": 1789012223
+     "last_restock_alert": 1791845414
     },
     "league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Origins Booster Box",
@@ -21437,7 +21436,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27851,7 +27850,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
