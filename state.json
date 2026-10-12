@@ -14599,6 +14599,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 54.99
+    },
+    "pokemon-30th-1-pack-energy-break-2": {
+     "title": "Pokemon 30th: 1 pack Energy Break #2",
+     "game": "Pokemon",
+     "available": true,
+     "price": 45.0
     }
    },
    "baselined": true,
@@ -21426,7 +21432,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27839,7 +27845,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 74,
    "error_streak": 0,
    "last_error": ""
   },
