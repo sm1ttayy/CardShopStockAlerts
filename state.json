@@ -16194,9 +16194,9 @@
     "prismatic-evolutions-elite-trainer-box": {
      "title": "Prismatic Evolutions Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 169.99,
-     "unavail_since": 1784083347
+     "available": true,
+     "price": 124.95,
+     "last_restock_alert": 1791847819
     },
     "avatar-the-last-airbender-bundle-case-6-boxes": {
      "title": "Avatar The Last Airbender Bundle Case (6 Boxes)",
@@ -18864,7 +18864,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21436,7 +21436,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27850,7 +27850,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
