@@ -15647,10 +15647,9 @@
     "reality-fracture-play-booster-box-preorder": {
      "title": "Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 139.95,
-     "last_restock_alert": 1791324646,
-     "unavail_since": 1791725404
+     "last_restock_alert": 1791844831
     },
     "marvel-super-heroes-jumpstart-booster-box-preorder": {
      "title": "Marvel Super Heroes Jumpstart Booster Box",
@@ -16692,6 +16691,12 @@
      "available": false,
      "price": 149.95,
      "unavail_since": 1791725404
+    },
+    "pokemon-30th-celebration-mini-tin-display": {
+     "title": "Pokemon 30th Celebration Mini Tin Display",
+     "game": "Pokemon",
+     "available": true,
+     "price": 199.95
     }
    },
    "baselined": true,
@@ -21432,7 +21437,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27846,7 +27851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
