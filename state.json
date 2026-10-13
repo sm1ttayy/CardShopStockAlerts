@@ -347,7 +347,7 @@
      "title": "Magic: The Gathering | Reality Fracture - Play Booster Display Box",
      "game": "MTG",
      "available": true,
-     "price": 142.28,
+     "price": 137.48,
      "last_restock_alert": 1791440068
     },
     "magic-the-gathering-lord-of-the-rings-tales-of-middle-earth-special-edition-collector-booster-box": {
@@ -762,7 +762,7 @@
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 183.97,
+     "price": 175.82,
      "last_restock_alert": 1788361674,
      "unavail_since": 1791645205
     },
@@ -1603,7 +1603,7 @@
      "title": "Magic: The Gathering | Reality Fracture - Draft Night",
      "game": "MTG",
      "available": false,
-     "price": 102.97,
+     "price": 88.09,
      "last_restock_alert": 1790430465,
      "unavail_since": 1791381056
     },
@@ -1625,7 +1625,7 @@
      "title": "Magic: The Gathering | Reality Fracture - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 57.32,
+     "price": 51.66,
      "last_restock_alert": 1791440072
     },
     "pokemon-tcg-journey-together-booster-display-standard": {
@@ -1688,6 +1688,13 @@
      "available": false,
      "price": 93.49,
      "unavail_since": 1791730301
+    },
+    "modern-horizons-2-sealed-set-booster-display-1-box": {
+     "title": "Magic: the Gathering: Modern Horizons 2 - Set Booster Box",
+     "game": "MTG",
+     "available": false,
+     "price": 698.08,
+     "unavail_since": 1791908551
     }
    },
    "baselined": true,
@@ -4603,7 +4610,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4808,7 +4815,7 @@
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-pitch-black-booster-bundle-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box (SALE)",
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
      "price": 41.0,
@@ -6096,7 +6103,7 @@
      "title": "One Piece Card Game: Zoro and Sanji Starter Deck",
      "game": "One Piece",
      "available": true,
-     "price": 50.0
+     "price": 54.0
     },
     "one-piece-the-three-captains-deck-pre-order": {
      "title": "One Piece The Three Captains Deck",
@@ -6146,13 +6153,13 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 47.0
+     "price": 46.0
     },
     "pokemon-tcg-scarlet-and-violet-destined-rivals-bundle-box-pre-order": {
-     "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Bundle Box (SALE)",
+     "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 70.0
+     "price": 78.0
     },
     "one-piece-tcg-the-worlds-strongest-warriors-japanese-booster-box-op-17": {
      "title": "One Piece TCG: The Worlds Strongest Warriors Japanese Booster Box (OP-17)",
@@ -6162,7 +6169,7 @@
      "last_restock_alert": 1788909954
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box": {
-     "title": "Pokemon Scarlet and Violet: Journey Together Booster Box (SALE)",
+     "title": "Pokemon Scarlet and Violet: Journey Together Booster Box",
      "game": "Pokemon",
      "available": true,
      "price": 275.0
@@ -6477,10 +6484,10 @@
      "price": 1050.0
     },
     "pokemon-tcg-30th-celebration-booster-bundle-box": {
-     "title": "Pokemon TCG: 30th Celebration Booster Bundle Box",
+     "title": "Pokemon TCG: 30th Celebration Booster Bundle Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 95.0
+     "price": 75.0
     },
     "pokemon-trading-card-game-pikachu-amp-zekrom-gx-premium-collection": {
      "title": "Pokemon TCG: Pikachu and Zekrom GX Premium Collection",
@@ -6539,8 +6546,9 @@
     "one-piece-tcg-illustration-box-volume-2": {
      "title": "One Piece TCG: Illustration Box Volume 2",
      "game": "One Piece",
-     "available": true,
-     "price": 137.0
+     "available": false,
+     "price": 137.0,
+     "unavail_since": 1791908529
     },
     "pokemon-tcg-30th-celebration-mini-tin-zapdos": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Zapdos)",
@@ -10267,7 +10275,7 @@
      "title": "Pokemon 30th Celebration - Tech Sticker Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 44.99,
+     "price": 34.99,
      "last_restock_alert": 1790994108
     },
     "pokemon-30th-celebration-ex-box": {
@@ -10324,15 +10332,16 @@
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon 30th Celebration - Knock Out Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 35.0,
-     "last_restock_alert": 1790994108
+     "last_restock_alert": 1790994108,
+     "unavail_since": 1791908537
     },
     "pokemon-30th-celebration-poster-collection": {
      "title": "Pokemon 30th Celebration - Poster Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 49.99,
+     "price": 44.99,
      "last_restock_alert": 1790813504
     },
     "paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-sv-paldean-fates-paf": {
@@ -10441,6 +10450,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 150.0
+    },
+    "pokemon-mega-evolution-pitch-black-elite-trainer-box-tear-in-plastic": {
+     "title": "Pokemon Mega Evolution - Pitch Black Elite Trainer Box **Tear in Plastic**",
+     "game": "Pokemon",
+     "available": true,
+     "price": 74.99
     }
    },
    "baselined": true,
@@ -11623,6 +11638,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 200.0
+    },
+    "lucario-ex-tyranitar-ex-premium-collection-pokemon": {
+     "title": "Lucario ex & Tyranitar ex Premium Collection [Pok\u00e9mon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 200.0
+    },
+    "pikachu-v-union-special-collection": {
+     "title": "Pikachu V-Union Special Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 200.0
+    },
+    "team-rocket-s-moltres-ex-ultra-premium-collection-pokemon": {
+     "title": "Team Rocket\u2019s Moltres ex Ultra-Premium Collection [Pok\u00e9mon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 350.0
     }
    },
    "baselined": true,
@@ -14156,7 +14189,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
