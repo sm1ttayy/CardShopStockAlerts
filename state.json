@@ -1698,9 +1698,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'kamigawa-neon-dynasty-commander-deck-buckle-up' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4610,9 +4610,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'celebrations-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6584,7 +6584,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8758,9 +8758,10 @@
     "magic-the-gathering-reality-fracture-play-booster-box": {
      "title": "Magic the Gathering Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 169.75,
-     "last_restock_alert": 1791440055
+     "last_restock_alert": 1791440055,
+     "unavail_since": 1791910826
     },
     "pokemon-30th-celebration-mini-tin": {
      "title": "Pokemon 30th Celebration Mini Tin",
@@ -10025,7 +10026,8 @@
      "game": "MTG",
      "available": false,
      "price": 224.99,
-     "unavail_since": 1788874900
+     "unavail_since": 1788874900,
+     "delisted": true
     },
     "modern-horizons-2-draft-booster-box": {
      "title": "Modern Horizons 2 Draft Booster Box",
@@ -10461,7 +10463,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11661,7 +11663,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -12353,7 +12355,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-me04-chaos-rising-booster-box-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -14189,7 +14191,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
