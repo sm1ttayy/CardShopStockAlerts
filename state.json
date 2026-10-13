@@ -21478,7 +21478,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22513,6 +22513,13 @@
      "available": false,
      "price": 74.99,
      "unavail_since": 1791510608
+    },
+    "paramount-war-booster-pack": {
+     "title": "One Piece - Paramount War (OP-02) - Booster Pack",
+     "game": "One Piece",
+     "available": false,
+     "price": 13.99,
+     "unavail_since": 1791927009
     }
    },
    "baselined": true,
@@ -25911,7 +25918,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 172.75
+     "price": 171.99
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -27911,7 +27918,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
