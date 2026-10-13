@@ -16552,7 +16552,7 @@
      "title": "Lord of the Rings The Hosts of Mordor Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 129.95,
+     "price": 127.95,
      "unavail_since": 1791598813
     },
     "ascended-heroes-mini-tin-display-broken-seal": {
@@ -16720,8 +16720,9 @@
     "pokemon-me2-5-ascended-heroes-ex-boxes-set-of-3": {
      "title": "Pokemon ME2.5 Ascended Heroes ex Boxes Set of 3",
      "game": "Pokemon",
-     "available": true,
-     "price": 149.95
+     "available": false,
+     "price": 149.95,
+     "unavail_since": 1791923709
     },
     "marvel-darkhold-destiny-booster-box": {
      "title": "Marvel Darkhold Destiny Booster Box",
@@ -21478,7 +21479,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27899,7 +27900,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 80,
    "error_streak": 0,
    "last_error": ""
   },
