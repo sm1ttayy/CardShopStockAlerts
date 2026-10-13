@@ -21478,7 +21478,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27902,10 +27902,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 93.75
+    },
+    "foundations-commander-deck-wretched-ranks": {
+     "title": "Foundations Commander Deck - Wretched Ranks",
+     "game": "MTG",
+     "available": true,
+     "price": 40.99
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
