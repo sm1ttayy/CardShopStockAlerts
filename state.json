@@ -1698,9 +1698,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 4,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'kamigawa-neon-dynasty-commander-deck-buckle-up' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4313,8 +4313,9 @@
     "one-piece-starter-deck-31-red-monkey-d-luffy-st-31": {
      "title": "One Piece: Starter Deck 31 - RED Monkey.D.Luffy [ST-31]",
      "game": "One Piece",
-     "available": true,
-     "price": 25.0
+     "available": false,
+     "price": 25.0,
+     "unavail_since": 1791926944
     },
     "one-piece-starter-deck-32-green-roronoa-zoro-st-32": {
      "title": "One Piece: Starter Deck 32 - GREEN Roronoa Zoro [ST-32]",
@@ -4610,9 +4611,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'celebrations-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -6103,7 +6104,7 @@
      "title": "One Piece Card Game: Zoro and Sanji Starter Deck",
      "game": "One Piece",
      "available": true,
-     "price": 54.0
+     "price": 50.0
     },
     "one-piece-the-three-captains-deck-pre-order": {
      "title": "One Piece The Three Captains Deck",
@@ -6584,7 +6585,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -10146,7 +10147,7 @@
      "price": 99.99
     },
     "paldean-fates-ex-premium-collection-pokemon-tcg": {
-     "title": "Pokemon TCG: Scarlet & Violet - Paldean Fates Ex Premium Collection",
+     "title": "Scarlet & Violet - Paldean Fates Ex Premium Collection",
      "game": "Pokemon",
      "available": false,
      "price": 234.99,
@@ -10463,7 +10464,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11663,7 +11664,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12355,7 +12356,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-me04-chaos-rising-booster-box-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -14191,7 +14192,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 78,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
