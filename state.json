@@ -15967,9 +15967,9 @@
     "modern-horizons-3-play-booster-display": {
      "title": "Modern Horizons 3 Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 299.95,
-     "unavail_since": 1791725404
+     "last_restock_alert": 1791929715
     },
     "buy-mtg-lord-of-the-rings-set-booster-display": {
      "title": "Lord of the Rings Set Booster Box",
@@ -21479,7 +21479,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27919,7 +27919,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
