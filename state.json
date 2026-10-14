@@ -16396,9 +16396,9 @@
     "mega-moonlit-tins-set-of-2": {
      "title": "Mega Moonlit Tins (Set of 2)",
      "game": "Pokemon",
-     "available": false,
-     "price": 54.95,
-     "unavail_since": 1789589421
+     "available": true,
+     "price": 59.95,
+     "last_restock_alert": 1792019107
     },
     "marvel-super-heroes-draft-night-box-preorder": {
      "title": "Marvel Super Heroes Draft Night Box",
@@ -21528,7 +21528,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27985,7 +27985,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
