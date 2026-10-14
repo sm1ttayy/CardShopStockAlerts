@@ -21478,9 +21478,10 @@
     "one-piece-trading-cards-peb-01-premium-extra-booster-pre-order": {
      "title": "One Piece Trading Cards PEB-01 Premium Extra Booster (Pre Order)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 249.95,
-     "last_restock_alert": 1791837310
+     "last_restock_alert": 1791837310,
+     "unavail_since": 1792020905
     },
     "mtg-zendikar-rising-draft-booster-box-pre-order": {
      "title": "Mtg - Zendikar Rising - Draft Booster Box",
@@ -21531,10 +21532,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 359.95
+    },
+    "pokemon-scarlet-and-violet-base-set-build-and-battle-kit-pre-order": {
+     "title": "Pokemon - Scarlet and Violet - Base Set - Build and Battle Kit",
+     "game": "Pokemon",
+     "available": true,
+     "price": 59.99
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27991,7 +27998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
