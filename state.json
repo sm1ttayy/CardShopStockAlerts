@@ -21251,16 +21251,15 @@
     "30th-celebration-pokemon-ex-box-sylveon-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Sylveon ex",
      "game": "Pokemon",
-     "available": false,
-     "price": 69.95,
-     "last_restock_alert": 1789675814,
-     "unavail_since": 1789676726
+     "available": true,
+     "price": 94.95,
+     "last_restock_alert": 1792009544
     },
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Greninja Ex",
      "game": "Pokemon",
      "available": true,
-     "price": 69.95,
+     "price": 94.95,
      "last_restock_alert": 1789675814
     },
     "mtg-reality-fracture-commander-deck-multiverse-reforged-pre-order": {
@@ -21510,7 +21509,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24797,7 +24796,7 @@
      "title": "Destined Rivals Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 404.75,
+     "price": 399.99,
      "last_restock_alert": 1786664125,
      "unavail_since": 1790889624
     },
@@ -27967,7 +27966,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
