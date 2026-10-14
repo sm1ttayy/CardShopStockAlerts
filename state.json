@@ -1698,7 +1698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4617,9 +4617,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 15,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'magic-the-gathering-foundations-commander-decks-set-of-5' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -6591,7 +6591,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8800,7 +8800,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11670,7 +11670,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12362,7 +12362,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-me04-chaos-rising-booster-box-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -14198,9 +14198,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 86,
+   "check_cursor": 19,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'pokemon-tcg-mega-evolution-elite-trainer-box-pokemon-center-edition' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
