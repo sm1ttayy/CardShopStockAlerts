@@ -21300,9 +21300,10 @@
     "30th-celebration-pokemon-ex-box-sylveon-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Sylveon ex",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 94.95,
-     "last_restock_alert": 1792009544
+     "last_restock_alert": 1792009544,
+     "unavail_since": 1792092314
     },
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Greninja Ex",
@@ -21566,7 +21567,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28049,7 +28050,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
