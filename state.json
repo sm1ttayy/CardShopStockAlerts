@@ -21568,7 +21568,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24884,10 +24884,9 @@
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
      "game": "MTG",
-     "available": false,
-     "price": 117.75,
-     "last_restock_alert": 1786658434,
-     "unavail_since": 1791120631
+     "available": true,
+     "price": 164.7,
+     "last_restock_alert": 1792106126
     },
     "foundations-jumpstart-booster-display": {
      "title": "Foundations Jumpstart Booster Display",
@@ -28053,7 +28052,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
