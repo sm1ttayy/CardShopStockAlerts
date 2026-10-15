@@ -1698,7 +1698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2480,9 +2480,10 @@
     "kingdoms-of-intrigue-booster-box-op04": {
      "title": "Kingdoms of Intrigue Booster Box [OP04]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 485.0,
-     "last_restock_alert": 1788442812
+     "last_restock_alert": 1788442812,
+     "unavail_since": 1792025831
     },
     "rise-of-eldrazi-french-booster-box-display": {
      "title": "Rise of the Eldrazi Booster Box Display [FRA]",
@@ -4613,11 +4614,11 @@
      "title": "[PREORDER] One Piece: Extra Booster - Heroines Edition vol.2 Booster Box - [EB-05]",
      "game": "One Piece",
      "available": true,
-     "price": 299.0
+     "price": 319.0
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6553,9 +6554,9 @@
     "one-piece-tcg-illustration-box-volume-2": {
      "title": "One Piece TCG: Illustration Box Volume 2",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 137.0,
-     "unavail_since": 1791908529
+     "last_restock_alert": 1792025832
     },
     "pokemon-tcg-30th-celebration-mini-tin-zapdos": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Zapdos)",
@@ -6586,6 +6587,12 @@
      "game": "One Piece",
      "available": true,
      "price": 63.0
+    },
+    "one-piece-tcg-illustration-box-volume-1": {
+     "title": "One Piece TCG: Illustration Box Volume 1",
+     "game": "One Piece",
+     "available": true,
+     "price": 227.0
     }
    },
    "baselined": true,
@@ -13207,7 +13214,7 @@
      "title": "One Piece TCG: The World's Strongest Warriors: Booster Display",
      "game": "One Piece",
      "available": false,
-     "price": 264.99,
+     "price": 279.99,
      "unavail_since": 1785843601
     },
     "magic-the-gathering-star-trek-play-booster-display": {
@@ -14217,7 +14224,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
