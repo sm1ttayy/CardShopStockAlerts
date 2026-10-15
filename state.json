@@ -21568,7 +21568,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24898,9 +24898,9 @@
     "avatar-the-last-airbender-play-booster": {
      "title": "Avatar The Last Airbender Play Booster",
      "game": "MTG",
-     "available": false,
-     "price": 138.75,
-     "unavail_since": 1791120631
+     "available": true,
+     "price": 149.7,
+     "last_restock_alert": 1792107344
     },
     "modern-horizons-3-play-booster": {
      "title": "Modern Horizons 3 Play Booster",
@@ -28052,7 +28052,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
