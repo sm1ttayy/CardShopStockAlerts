@@ -20927,10 +20927,9 @@
     "pokemon-30th-celebration-elite-trainer-box-pre-order": {
      "title": "Pokemon - 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 169.95,
-     "last_restock_alert": 1791323431,
-     "unavail_since": 1791682510
+     "available": true,
+     "price": 189.95,
+     "last_restock_alert": 1792103408
     },
     "mtg-modern-horizons-3-commander-deck-creative-energy": {
      "title": "MTG - Modern Horizons 3 - Commander Deck - Creative Energy",
@@ -21569,7 +21568,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28054,7 +28053,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 67,
    "error_streak": 0,
    "last_error": ""
   },
