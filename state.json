@@ -21541,7 +21541,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22595,6 +22595,13 @@
      "game": "MTG",
      "available": true,
      "price": 199.99
+    },
+    "premium-card-collection-live-action-edition": {
+     "title": "Premium Card Collection - Live Action Edition",
+     "game": "One Piece",
+     "available": false,
+     "price": 79.99,
+     "unavail_since": 1792023605
     }
    },
    "baselined": true,
@@ -27998,7 +28005,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
