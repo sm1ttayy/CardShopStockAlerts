@@ -1695,6 +1695,12 @@
      "available": false,
      "price": 698.08,
      "unavail_since": 1791908551
+    },
+    "pokemon-tcg-scarlet-and-violet-prismatic-evolutions-elite-trainer-box": {
+     "title": "Pokemon TCG: Scarlet and Violet - Prismatic Evolutions Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 127.99
     }
    },
    "baselined": true,
@@ -4618,7 +4624,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5994,19 +6000,19 @@
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
      "game": "One Piece",
      "available": true,
-     "price": 19.0
+     "price": 22.0
     },
     "one-piece-tcg-red-monkey-d-luffy-starter-deck-ex-st-31": {
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 33.0
+     "price": 34.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 34.0
+     "price": 36.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
@@ -6075,7 +6081,7 @@
      "title": "One Piece TCG: Red/Black Sabo Starter Deck EX (ST-35)",
      "game": "One Piece",
      "available": true,
-     "price": 17.0
+     "price": 18.0
     },
     "one-piece-tcg-yellow-eustass-captain-kid-starter-deck-ex-st-36": {
      "title": "One Piece TCG: Yellow Eustass Captain Kid Starter Deck EX (ST-36)",
@@ -14229,7 +14235,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
