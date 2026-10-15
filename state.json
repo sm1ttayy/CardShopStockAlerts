@@ -18374,9 +18374,10 @@
     "pokemon-mega-evolution-delta-reign-booster-box": {
      "title": "Pokemon - Mega Evolution - Delta Reign - Booster Box (Pre-Order)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 299.95,
-     "last_restock_alert": 1792089937
+     "last_restock_alert": 1792089937,
+     "unavail_since": 1792101307
     },
     "mtg-ikoria-lair-of-behemoths-english-booster-box": {
      "title": "MTG - Ikoria Lair of Behemoths - English Booster Box",
@@ -21568,7 +21569,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28053,7 +28054,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 72,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
