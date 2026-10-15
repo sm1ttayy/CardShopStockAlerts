@@ -1342,7 +1342,7 @@
      "title": "Magic: the Gathering: Strixhaven - Witherbloom Witchcraft Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 105.37,
+     "price": 102.79,
      "unavail_since": 1786988871
     },
     "magic-the-gathering-mystery-booster-2-booster-display": {
@@ -1698,9 +1698,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'kamigawa-neon-dynasty-commander-deck-buckle-up' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4618,9 +4618,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'scarlet-violet-temporal-forces-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -5498,7 +5498,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 418.0,
+     "price": 417.0,
      "last_restock_alert": 1790259354,
      "unavail_since": 1790617400
     },
@@ -6289,7 +6289,7 @@
      "title": "Pokemon TCG: 30th Celebration Greninja EX Box",
      "game": "Pokemon",
      "available": false,
-     "price": 61.0,
+     "price": 64.0,
      "unavail_since": 1790813505
     },
     "pokemon-tcg-30th-celebration-poster-collection-box": {
@@ -6598,7 +6598,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8819,7 +8819,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10316,10 +10316,9 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 169.99,
-     "last_restock_alert": 1791161076,
-     "unavail_since": 1791212327
+     "available": true,
+     "price": 149.99,
+     "last_restock_alert": 1792073641
     },
     "pokemon-30th-celebration-ultra-premium-collection": {
      "title": "Pokemon 30th Celebration - Ultra-Premium Collection (Presale)",
@@ -10495,7 +10494,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -12387,7 +12386,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-me04-chaos-rising-booster-box-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -14230,9 +14229,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 75,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'pokemon-tcg-30th-celebration-poster-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
