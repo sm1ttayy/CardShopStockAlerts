@@ -15932,9 +15932,10 @@
     "pokemon-destined-rivals-booster-box": {
      "title": "Pokemon SV10 Destined Rivals Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 399.95,
-     "last_restock_alert": 1791228614
+     "last_restock_alert": 1791228614,
+     "unavail_since": 1792027807
     },
     "edge-of-eternities-collector-booster-preorder": {
      "title": "EoE Collector Booster Display",
@@ -21548,7 +21549,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28030,7 +28031,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
