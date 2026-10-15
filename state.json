@@ -21567,7 +21567,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22224,9 +22224,10 @@
     "starter-commander-deck-first-flight": {
      "title": "Starter Commander Deck (First Flight)",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 39.99,
-     "last_restock_alert": 1791062724
+     "last_restock_alert": 1791062724,
+     "unavail_since": 1792096218
     },
     "starter-commander-deck-draconic-destruction": {
      "title": "Starter Commander Deck (Draconic Destruction)",
@@ -28051,7 +28052,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
