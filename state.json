@@ -21541,7 +21541,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28002,10 +28002,22 @@
      "game": "MTG",
      "available": true,
      "price": 40.99
+    },
+    "mega-evolutions-pokemon-center-elite-trainer-box-lucario": {
+     "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Lucario]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 202.49
+    },
+    "pokemon-go-special-collection-team-instinct": {
+     "title": "Pokemon GO Special Collection [Team Instinct]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 111.99
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
