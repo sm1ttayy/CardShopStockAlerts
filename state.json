@@ -21567,7 +21567,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25651,9 +25651,10 @@
     "pokemon-scarlet-violet-booster-box": {
      "title": "Scarlet & Violet Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 296.75,
-     "last_restock_alert": 1790306129
+     "last_restock_alert": 1790306129,
+     "unavail_since": 1792092624
     },
     "cosmic-eclipse-booster-box": {
      "title": "Cosmic Eclipse Booster Box",
@@ -28050,7 +28051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
