@@ -1698,7 +1698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4618,7 +4618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10484,6 +10484,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 74.99
+    },
+    "magic-the-gathering-marvels-spider-man-gift-bundle-mtg": {
+     "title": "Magic: The Gathering Marvel's Spider-Man Gift Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 89.99
     }
    },
    "baselined": true,
@@ -14224,7 +14230,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 92,
    "error_streak": 0,
    "last_error": ""
   },
