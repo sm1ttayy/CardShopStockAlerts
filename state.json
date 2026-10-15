@@ -21567,7 +21567,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28051,7 +28051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29261,9 +29261,9 @@
     "magic-the-gathering-reality-fracture-play-booster-box-30-booster-packs": {
      "title": "Magic The Gathering Reality Fracture Play Booster Box (30 Booster Packs)",
      "game": "MTG",
-     "available": false,
-     "price": 148.95,
-     "unavail_since": 1791120627
+     "available": true,
+     "price": 134.95,
+     "last_restock_alert": 1792095041
     },
     "funko-pop-one-piece-soba-mask-exclusive-1277": {
      "title": "Funko Pop! One Piece Soba Mask Exclusive #1277",
