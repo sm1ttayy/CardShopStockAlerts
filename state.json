@@ -15697,9 +15697,10 @@
     "riftbound-vendetta-vault-bundle": {
      "title": "Riftbound Vendetta Vault Bundle",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 37.95,
-     "last_restock_alert": 1790628060
+     "last_restock_alert": 1790628060,
+     "unavail_since": 1792029311
     },
     "riftbound-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound Vendetta Showdown Decks: Zed vs Shen",
@@ -16339,9 +16340,10 @@
     "riftbound-vendetta-pre-rift-kit": {
      "title": "Riftbound Vendetta Pre Rift Kit",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 27.95,
-     "last_restock_alert": 1791835514
+     "last_restock_alert": 1791835514,
+     "unavail_since": 1792029312
     },
     "mega-venusaur-ex-premium-collection": {
      "title": "Mega Venusaur ex Premium Collection",
@@ -21551,7 +21553,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28033,7 +28035,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
