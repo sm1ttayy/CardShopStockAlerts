@@ -21734,7 +21734,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28247,10 +28247,16 @@
      "available": false,
      "price": 249.49,
      "unavail_since": 1792157437
+    },
+    "streets-of-new-capenna-commander-deck-maestros-massacre": {
+     "title": "Streets of New Capenna Commander Deck - Maestros Massacre",
+     "game": "MTG",
+     "available": true,
+     "price": 91.75
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
