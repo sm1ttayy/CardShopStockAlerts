@@ -1704,7 +1704,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4643,7 +4643,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6622,8 +6622,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 1,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -10524,8 +10524,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 1,
-   "last_error": "Cash Cards Unlimited: product 'pokemon-tcg-sword-shield-charizard-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -14260,9 +14260,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
-   "error_streak": 1,
-   "last_error": "Zulu's Games: product 'one-piece-tcg-starter-deck-charlotte-katakuri-st-34' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 96,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
