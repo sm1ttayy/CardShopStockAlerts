@@ -21734,7 +21734,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28132,8 +28132,9 @@
     "foundations-commander-deck-tramplesaurus-rex": {
      "title": "Foundations Commander Deck - Tramplesaurus Rex",
      "game": "MTG",
-     "available": true,
-     "price": 62.75
+     "available": false,
+     "price": 62.75,
+     "unavail_since": 1792192829
     },
     "pokemon-celebrations-prime-collection": {
      "title": "Celebrations Prime Collection",
@@ -28249,7 +28250,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
