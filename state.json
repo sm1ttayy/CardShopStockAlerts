@@ -15650,9 +15650,10 @@
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon ME03 Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 169.95,
-     "last_restock_alert": 1791229221
+     "last_restock_alert": 1791229221,
+     "unavail_since": 1792180810
     },
     "pokemon-rebel-clash-booster-box": {
      "title": "Pokemon Rebel Clash Booster Box",
@@ -16898,8 +16899,9 @@
     "pokemon-30th-celebration-booster-bundle": {
      "title": "Pokemon 30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": true,
-     "price": 72.95
+     "available": false,
+     "price": 72.95,
+     "unavail_since": 1792180810
     },
     "foundations-wretched-ranks-commander-deck-preorder": {
      "title": "Foundations Wretched Ranks Commander Deck",
@@ -21704,7 +21706,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27306,7 +27308,7 @@
      "title": "Kaladesh - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 233.75
+     "price": 219.75
     },
     "strixhaven-school-of-mages-bundle": {
      "title": "Strixhaven: School of Mages - Bundle",
@@ -27967,7 +27969,7 @@
      "title": "Reality Fracture Bundle",
      "game": "MTG",
      "available": true,
-     "price": 53.49
+     "price": 49.75
     },
     "30th-celebration-booster-bundle-wave-2": {
      "title": "30th Celebration Booster Bundle - Wave 2",
@@ -28165,7 +28167,7 @@
      "title": "Foundations Commander Deck - Calling All Angels",
      "game": "MTG",
      "available": true,
-     "price": 54.75
+     "price": 51.99
     },
     "magic-the-gathering-scrappy-survivors-commander-deck": {
      "title": "Scrappy Survivors Commander Deck",
@@ -28218,7 +28220,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
