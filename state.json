@@ -1704,7 +1704,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2119,7 +2119,7 @@
      "title": "Magic: The Gathering - The Hobbit Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 155.0,
+     "price": 149.0,
      "last_restock_alert": 1786873759
     },
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
@@ -4193,10 +4193,10 @@
      "unavail_since": 1791381046
     },
     "preorder-magic-the-gathering-reality-fracture-booster-box": {
-     "title": "[PREORDER] Magic: The Gathering - Reality Fracture Play Booster Box",
+     "title": "Magic: The Gathering - Reality Fracture Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 145.0,
+     "price": 135.0,
      "last_restock_alert": 1790347143
     },
     "tin-pack-set-vol-1-gol-d-roger-ts01": {
@@ -4628,10 +4628,22 @@
      "available": false,
      "price": 75.0,
      "unavail_since": 1792127277
+    },
+    "mega-evolution-delta-reign-booster-box": {
+     "title": "[PREORDER] Mega Evolution: Delta Reign - Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 219.0
+    },
+    "magic-the-gathering-star-trek-play-booster-box": {
+     "title": "[PREORDER] Magic: The Gathering - Star Trek Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 139.0
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6610,8 +6622,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -10075,7 +10087,7 @@
      "delisted": true
     },
     "modern-horizons-2-draft-booster-box": {
-     "title": "Modern Horizons 2 Draft Booster Box",
+     "title": "Magic: The Gathering Modern Horizons 2 Draft Booster Box",
      "game": "MTG",
      "available": false,
      "price": 329.99,
@@ -10512,8 +10524,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Cash Cards Unlimited: product 'pokemon-tcg-sword-shield-charizard-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -14248,9 +14260,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 56,
+   "error_streak": 1,
+   "last_error": "Zulu's Games: product 'one-piece-tcg-starter-deck-charlotte-katakuri-st-34' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
