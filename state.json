@@ -21088,9 +21088,10 @@
     "mtg-secrets-of-strixhaven-commander-deck-prismari-artistry": {
      "title": "MTG - Secrets of Strixhaven - Commander Deck - Prismari Artistry",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 59.99,
-     "last_restock_alert": 1788811819
+     "last_restock_alert": 1788811819,
+     "unavail_since": 1792186815
     },
     "mtg-star-trek-commander-deck-pre-order": {
      "title": "MTG Star Trek Commander Deck (Pre Order)",
@@ -21718,7 +21719,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28233,7 +28234,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
