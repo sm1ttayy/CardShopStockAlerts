@@ -20518,18 +20518,16 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1791682510,
-     "unavail_since": 1791725710
+     "last_restock_alert": 1792159512
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1787869810,
-     "unavail_since": 1792154714
+     "last_restock_alert": 1792159512
     },
     "pokemon-scarlet-violet-surging-sparks-bundle-pre-order": {
      "title": "Pokemon Scarlet & Violet Surging Sparks Bundle",
@@ -21693,7 +21691,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28207,7 +28205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
