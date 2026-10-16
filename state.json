@@ -18846,9 +18846,9 @@
     "mtg-aetherdrift-commander-decks-set-of-2": {
      "title": "MTG - Aetherdrift - Commander Decks - Set of 2",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "unavail_since": 1789869314
+     "last_restock_alert": 1792189216
     },
     "pokemon-vivid-voltage-booster-box": {
      "title": "Pokemon - Vivid Voltage - Booster Box",
@@ -21726,7 +21726,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28241,7 +28241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
