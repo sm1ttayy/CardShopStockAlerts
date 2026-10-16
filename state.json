@@ -21724,10 +21724,17 @@
      "available": false,
      "price": 64.95,
      "unavail_since": 1792187707
+    },
+    "pokemon-tcg-scarlet-and-violet-raging-rift-elite-trainer-box-pre-order": {
+     "title": "Pokemon TCG Scarlet And Violet Paradox Rift Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 189.99,
+     "unavail_since": 1792191609
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28242,7 +28249,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
