@@ -20978,9 +20978,10 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 29.95,
-     "last_restock_alert": 1792165211
+     "last_restock_alert": 1792165211,
+     "unavail_since": 1792182911
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -21704,7 +21705,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23987,8 +23988,9 @@
     "pokemon-me03-perfect-order-elite-trainer": {
      "title": "POKEMON ME03 PERFECT ORDER ELITE TRAINER",
      "game": "Pokemon",
-     "available": true,
-     "price": 99.95
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1792182908
     },
     "pokemon-first-partner-illustration-collection-series-2": {
      "title": "POKEMON FIRST PARTNER ILLUSTRATION COLLECTION SERIES 2 (LIMIT 2)",
@@ -25978,7 +25980,7 @@
      "title": "Japanese VSTAR Universe Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 211.25,
+     "price": 209.99,
      "last_restock_alert": 1791062732
     },
     "pokemon-japanese-151-booster-box": {
@@ -28218,7 +28220,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 65,
    "error_streak": 0,
    "last_error": ""
   },
