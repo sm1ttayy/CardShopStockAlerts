@@ -19094,8 +19094,9 @@
     "mtg-foundations-commander-deck-set-of-5-decks": {
      "title": "MTG - Foundations Commander Deck - Set of 5 Decks",
      "game": "MTG",
-     "available": true,
-     "price": 219.95
+     "available": false,
+     "price": 219.95,
+     "unavail_since": 1792160718
     }
    },
    "baselined": true,
@@ -21691,7 +21692,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26539,7 +26540,7 @@
      "title": "One Piece Card Game Illustration Box Vol. 1",
      "game": "One Piece",
      "available": false,
-     "price": 213.75,
+     "price": 212.99,
      "unavail_since": 1785187236
     },
     "one-piece-illustration-box-vol-3": {
@@ -28205,7 +28206,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
