@@ -19095,6 +19095,12 @@
      "available": false,
      "price": 219.95,
      "unavail_since": 1792160718
+    },
+    "mtg-foundations-commander-deck-reign-of-dragons": {
+     "title": "MTG - Foundations Commander Deck - Reign of Dragons",
+     "game": "MTG",
+     "available": true,
+     "price": 47.95
     }
    },
    "baselined": true,
@@ -21641,9 +21647,10 @@
     "app-exclusive-wave-2-pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "(Wave 2) Pokemon 30th Celebration Booster Bundle (Pre Order)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 79.95,
-     "last_restock_alert": 1791731113
+     "last_restock_alert": 1791731113,
+     "unavail_since": 1792179909
     },
     "pokemon-shinning-fates-24-pack-bundle": {
      "title": "Pokemon Shining Fates 24 Pack Bundle",
@@ -21697,7 +21704,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28211,7 +28218,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
