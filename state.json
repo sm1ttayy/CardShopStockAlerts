@@ -21716,10 +21716,17 @@
      "game": "MTG",
      "available": true,
      "price": 99.95
+    },
+    "one-piece-ichibansho-masterlise-expiece-monkey-d-luffy-gear-5-road-to-king-of-the-pirates-figure": {
+     "title": "One Piece Ichibansho Masterlise Expiece Monkey D. Luffy (Gear 5) (Road to King of the Pirates) Figure",
+     "game": "One Piece",
+     "available": false,
+     "price": 64.95,
+     "unavail_since": 1792187707
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28234,7 +28241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
