@@ -21500,8 +21500,9 @@
     "pokemon-tcg-scarlet-violet-stellar-crown-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Scarlet & Violet-Stellar Crown Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 219.99
+     "available": false,
+     "price": 219.99,
+     "unavail_since": 1792191309
     },
     "mtg-lord-of-the-rings-commander-deck-food-and-fellowship-pre-order": {
      "title": "MTG - Lord Of The Rings Commander Deck - Food And Fellowship",
@@ -21726,7 +21727,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28241,7 +28242,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
