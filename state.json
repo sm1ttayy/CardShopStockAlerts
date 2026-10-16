@@ -14720,6 +14720,12 @@
      "available": false,
      "price": 44.99,
      "unavail_since": 1792154710
+    },
+    "pockethazes-whale-of-a-rip-moonshot-rips": {
+     "title": "PocketHaze's Whale of a Rip - Pokemon Bundle - Moonshot Rips (OPENED LIVE ON STREAM)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 45.0
     }
    },
    "baselined": true,
@@ -15577,6 +15583,13 @@
      "game": "MTG",
      "available": true,
      "price": 49.99
+    },
+    "pokemon-mega-dream-ex-m2a-booster-box-mega-series-japanese": {
+     "title": "Pokemon Mega Dream EX M2A Booster Box - Mega Series - Japanese",
+     "game": "Pokemon",
+     "available": false,
+     "price": 160.0,
+     "unavail_since": 1792155312
     }
    },
    "baselined": true,
@@ -21666,7 +21679,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28170,7 +28183,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29335,10 +29348,11 @@
      "unavail_since": 1791230450
     },
     "magic-the-gathering-reality-fracture-draft-night-pre-order": {
-     "title": "Magic: The Gathering Reality Fracture Draft Night (Pre Order)",
+     "title": "Magic: The Gathering Reality Fracture Draft Night",
      "game": "MTG",
-     "available": true,
-     "price": 99.95
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1792155335
     },
     "pokemon-tcg-sword-shield-astral-radiance-elite-trainer-box-etb": {
      "title": "Pokemon TCG: Sword & Shield\u2014 Astral Radiance Elite Trainer Box (ETB)",
