@@ -1704,7 +1704,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4631,7 +4631,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6025,7 +6025,7 @@
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 28.0
+     "price": 27.0
     },
     "one-piece-tcg-illustration-box-volume-8": {
      "title": "One Piece TCG: Illustration Box Volume 8",
@@ -6130,7 +6130,7 @@
      "title": "One Piece The Three Captains Deck",
      "game": "One Piece",
      "available": true,
-     "price": 102.0
+     "price": 100.0
     },
     "one-piece-tcg-soundloader-luffy-edition-2025": {
      "title": "One Piece TCG: Soundloader Luffy Edition 2025",
@@ -8827,6 +8827,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 599.75
+    },
+    "pop-mart-labubu-the-monsters-x-one-piece-series-box": {
+     "title": "Pop Mart Labubu The Monsters x One Piece Series Box",
+     "game": "One Piece",
+     "available": true,
+     "price": 30.0
     }
    },
    "baselined": true,
@@ -14242,7 +14248,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
