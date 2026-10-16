@@ -16864,10 +16864,9 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 124.95,
-     "last_restock_alert": 1790970913,
-     "unavail_since": 1790978707
+     "available": true,
+     "price": 119.95,
+     "last_restock_alert": 1792175708
     },
     "riftbound-radiance-booster-box": {
      "title": "Riftbound Radiance Booster Box",
@@ -21699,7 +21698,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28213,7 +28212,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
