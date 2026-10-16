@@ -15735,10 +15735,9 @@
     "pokemon-me05-pitch-black-booster-bundle": {
      "title": "Pokemon ME05 Pitch Black Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 39.95,
-     "last_restock_alert": 1789512917,
-     "unavail_since": 1790887815
+     "available": true,
+     "price": 37.95,
+     "last_restock_alert": 1792176309
     },
     "pokemon-black-bolt-booster-bundle": {
      "title": "Pokemon Black Bolt Booster Bundle",
@@ -21698,7 +21697,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28212,7 +28211,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
