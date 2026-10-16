@@ -21702,10 +21702,22 @@
      "game": "Pokemon",
      "available": true,
      "price": 799.95
+    },
+    "pokemon-tcg-scarlet-violet-twilight-masquerade-booster-display-box-36-packs-pre-order": {
+     "title": "Pokemon TCG: Scarlet & Violet - Twilight Masquerade Booster Display Box (36 Packs)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 529.99
+    },
+    "mtg-fallout-commander-deck-hail-caesar-pre-order": {
+     "title": "MTG - Fallout - Commander Deck - Hail Caesar!",
+     "game": "MTG",
+     "available": true,
+     "price": 99.95
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28220,7 +28232,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
