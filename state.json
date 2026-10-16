@@ -20392,10 +20392,9 @@
     "pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "Pokemon 30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1792163411,
-     "unavail_since": 1792163710
+     "last_restock_alert": 1792163411
     },
     "one-piece-double-pack-vol-14-pre-order": {
      "title": "One Piece Double Pack Vol. 14 (Pre Order)",
@@ -21692,7 +21691,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28206,7 +28205,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
