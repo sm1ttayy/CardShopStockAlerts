@@ -20392,9 +20392,10 @@
     "pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "Pokemon 30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1792163411
+     "last_restock_alert": 1792163411,
+     "unavail_since": 1792171213
     },
     "one-piece-double-pack-vol-14-pre-order": {
      "title": "One Piece Double Pack Vol. 14 (Pre Order)",
@@ -21689,10 +21690,16 @@
      "available": false,
      "price": 179.95,
      "unavail_since": 1792155011
+    },
+    "paldean-fates-24-pack-bundle": {
+     "title": "Paldean Fates 24 Pack Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 799.95
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28206,7 +28213,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
