@@ -1704,7 +1704,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4621,10 +4621,17 @@
      "game": "One Piece",
      "available": true,
      "price": 319.0
+    },
+    "starter-deck-21-gear5-st-21": {
+     "title": "Starter Deck EX 21: Gear5 [ST-21]",
+     "game": "One Piece",
+     "available": false,
+     "price": 75.0,
+     "unavail_since": 1792127277
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14235,7 +14242,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 71,
    "error_streak": 0,
    "last_error": ""
   },
