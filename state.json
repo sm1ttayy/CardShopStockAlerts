@@ -15607,6 +15607,13 @@
      "available": false,
      "price": 160.0,
      "unavail_since": 1792155312
+    },
+    "pokemon-tcg-scarlet-violet-151-ultra-premium-collection": {
+     "title": "Pok\u00e9mon TCG: Scarlet & Violet-151 Ultra-Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 119.95,
+     "unavail_since": 1792261808
     }
    },
    "baselined": true,
@@ -21777,7 +21784,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28300,7 +28307,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
