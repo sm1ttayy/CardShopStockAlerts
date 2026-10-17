@@ -19040,8 +19040,9 @@
     "pokemon-30th-celebration-japanese-booster-pack": {
      "title": "Pokemon - 30th Celebration - Japanese Booster Pack",
      "game": "Pokemon",
-     "available": true,
-     "price": 16.95
+     "available": false,
+     "price": 16.95,
+     "unavail_since": 1792259710
     },
     "one-piece-card-game-heroines-special-set": {
      "title": "One Piece Card Game - Heroines Special Set",
@@ -21775,7 +21776,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28298,7 +28299,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
