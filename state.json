@@ -19085,8 +19085,9 @@
     "pokemon-30th-celebration-japanese-espeon-umbreon-premium-deck-set": {
      "title": "Pokemon - 30th Celebration - Japanese Espeon Umbreon Premium Deck Set",
      "game": "Pokemon",
-     "available": true,
-     "price": 239.95
+     "available": false,
+     "price": 239.95,
+     "unavail_since": 1792261210
     },
     "mtg-reality-fracture-secret-lair-bundle": {
      "title": "MTG - Reality Fracture - Secret Lair Bundle (Pre-Order)",
@@ -21776,7 +21777,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28299,7 +28300,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 78,
    "error_streak": 0,
    "last_error": ""
   },
