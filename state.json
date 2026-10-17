@@ -17262,7 +17262,7 @@
      "title": "MTG - Edge of Eternities - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 199.95
+     "price": 219.95
     },
     "mtg-bloomburrow-play-booster-box": {
      "title": "MTG - Bloomburrow - English Play Booster Box",
@@ -21790,7 +21790,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22523,9 +22523,10 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Booster Box [LIMIT 1 PER ORDER]",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 239.99,
-     "last_restock_alert": 1787168443
+     "last_restock_alert": 1787168443,
+     "unavail_since": 1792276212
     },
     "riftbound-league-of-legends-tcg-vendetta-vendetta-vault": {
      "title": "Riftbound: League of Legends TCG: Vendetta - Vendetta Vault",
@@ -28321,7 +28322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
