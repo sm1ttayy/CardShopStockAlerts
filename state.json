@@ -21766,10 +21766,16 @@
      "available": false,
      "price": 99.95,
      "unavail_since": 1792251610
+    },
+    "mtg-commander-masters-english-set-booster-box-pre-order-1": {
+     "title": "MTG - Commander Masters - English Set Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 959.95
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28291,7 +28297,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
