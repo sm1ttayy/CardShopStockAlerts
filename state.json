@@ -21775,7 +21775,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22440,9 +22440,10 @@
     "starter-commander-deck-draconic-destruction": {
      "title": "Starter Commander Deck (Draconic Destruction)",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 59.99,
-     "last_restock_alert": 1791062724
+     "last_restock_alert": 1791062724,
+     "unavail_since": 1792259415
     },
     "starter-commander-deck-grave-danger": {
      "title": "Starter Commander Deck (Grave Danger)",
@@ -28297,7 +28298,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
