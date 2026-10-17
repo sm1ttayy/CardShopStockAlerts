@@ -19123,9 +19123,9 @@
     "mtg-foundations-commander-deck-set-of-5-decks": {
      "title": "MTG - Foundations Commander Deck - Set of 5 Decks",
      "game": "MTG",
-     "available": false,
-     "price": 219.95,
-     "unavail_since": 1792160718
+     "available": true,
+     "price": 229.95,
+     "last_restock_alert": 1792276814
     },
     "mtg-foundations-commander-deck-reign-of-dragons": {
      "title": "MTG - Foundations Commander Deck - Reign of Dragons",
@@ -21790,7 +21790,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28322,7 +28322,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
