@@ -16914,6 +16914,13 @@
      "game": "MTG",
      "available": true,
      "price": 39.95
+    },
+    "riftbound-radiance-showdown-decks-evelynn-vs-seraphine": {
+     "title": "Riftbound Radiance Showdown Decks: Evelynn vs Seraphine",
+     "game": "Riftbound",
+     "available": false,
+     "price": 21.95,
+     "unavail_since": 1792246218
     }
    },
    "baselined": true,
@@ -21741,7 +21748,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28263,7 +28270,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
