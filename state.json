@@ -21734,7 +21734,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28256,7 +28256,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29875,9 +29875,10 @@
     "magic-the-gathering-ccg-aetherdrift-play-booster-display-30-mtg-deathrace-pb": {
      "title": "Magic the Gathering CCG Aetherdrift Play Booster Display (30) MTG-DeathRace-PB",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 109.99,
-     "last_restock_alert": 1791492032
+     "last_restock_alert": 1791492032,
+     "unavail_since": 1792198830
     },
     "pokemon-tcg-mega-evolution-perfect-order-me03-booster-display-36ct-pkm-me03-bd": {
      "title": "Pokemon TCG: Mega Evolution Perfect Order ME03 Booster Display 36Ct PKM-ME03-BD",
