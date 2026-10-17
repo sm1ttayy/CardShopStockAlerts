@@ -1703,7 +1703,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4642,7 +4642,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12922,7 +12922,7 @@
      "title": "Pok\u00e9mon TCG: Destined Rivals: Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 399.99,
+     "price": 379.99,
      "unavail_since": 1784083329
     },
     "lost-origin-booster-display": {
@@ -13394,11 +13394,11 @@
      "unavail_since": 1789084799
     },
     "pokemon-tcg-mega-evolution-booster-display": {
-     "title": "Pok\u00e9mon TCG: Mega Evolution: Booster Display",
+     "title": "Pok\u00e9mon TCG: Mega Evolution: Enhanced Booster Display",
      "game": "Pokemon",
-     "available": false,
-     "price": 219.99,
-     "unavail_since": 1788188462
+     "available": true,
+     "price": 289.99,
+     "last_restock_alert": 1792210221
     },
     "pokemon-tcg-terastal-fest-ex-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Terastal Fest ex Booster Display (Japanese)",
@@ -14256,10 +14256,17 @@
      "available": false,
      "price": 24.99,
      "unavail_since": 1792017662
+    },
+    "pokemon-tcg-phantasmal-flames-booster-display": {
+     "title": "Pok\u00e9mon TCG: Phantasmal Flames: Booster Display",
+     "game": "Pokemon",
+     "available": false,
+     "price": 249.99,
+     "unavail_since": 1792210221
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
