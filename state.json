@@ -16148,9 +16148,10 @@
     "modern-horizons-3-play-booster-display": {
      "title": "Modern Horizons 3 Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 299.95,
-     "last_restock_alert": 1791929715
+     "last_restock_alert": 1791929715,
+     "unavail_since": 1792362313
     },
     "buy-mtg-lord-of-the-rings-set-booster-display": {
      "title": "Lord of the Rings Set Booster Box",
@@ -16949,6 +16950,12 @@
      "game": "MTG",
      "available": true,
      "price": 84.95
+    },
+    "the-hobbit-draft-night-box-preorder": {
+     "title": "The Hobbit Draft Night Box",
+     "game": "MTG",
+     "available": true,
+     "price": 119.95
     }
    },
    "baselined": true,
@@ -21819,7 +21826,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28369,7 +28376,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
