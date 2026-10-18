@@ -18828,9 +18828,10 @@
     "pokemon-30th-celebration-tech-sticker-collection-lucario": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Lucario",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 64.95,
-     "last_restock_alert": 1791922522
+     "last_restock_alert": 1791922522,
+     "unavail_since": 1792347614
     },
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon - 30th Celebration - Knock Out Collection",
@@ -21811,7 +21812,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28344,7 +28345,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
