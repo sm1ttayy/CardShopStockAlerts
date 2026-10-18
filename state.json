@@ -1465,7 +1465,7 @@
      "title": "Magic: the Gathering: Strixhaven - Lorehold Legacies Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 105.37,
+     "price": 102.79,
      "unavail_since": 1788209211
     },
     "pokemon-tcg-destined-rivals-booster-display": {
@@ -1703,9 +1703,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 2,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'dominaria-remastered-draft-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4642,9 +4642,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'devil-fruits-collection-vol-2-df-02' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6622,7 +6622,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'riftbound-tcg-league-of-legends-spiritforged-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8849,7 +8849,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-6-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10323,7 +10323,7 @@
      "price": 39.99
     },
     "dominaria-united-jumpstart-booster-box": {
-     "title": "Dominaria United Jumpstart Booster Box - Magic The Gathering",
+     "title": "Magic: The Gathering Dominaria United Jumpstart Booster Box",
      "game": "MTG",
      "available": false,
      "price": 84.99,
@@ -10524,7 +10524,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11730,7 +11730,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -14279,9 +14279,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 64,
+   "check_cursor": 104,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'pokemon-tcg-surging-sparks-elite-trainer-box-pokemon-center-edition' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
