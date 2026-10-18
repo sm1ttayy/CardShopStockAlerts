@@ -21813,7 +21813,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22900,6 +22900,12 @@
      "available": false,
      "price": 209.99,
      "unavail_since": 1792269008
+    },
+    "star-trek-play-booster-display": {
+     "title": "Star Trek - Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 229.99
     }
    },
    "baselined": true,
@@ -28346,7 +28352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
