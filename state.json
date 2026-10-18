@@ -18844,9 +18844,10 @@
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Alolan Exeggutor",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 64.95,
-     "last_restock_alert": 1791922523
+     "last_restock_alert": 1791922523,
+     "unavail_since": 1792349114
     },
     "mtg-double-masters-booster-box": {
      "title": "MTG - Double Masters - Booster Box",
@@ -20450,10 +20451,9 @@
     "pokemon-30th-celebration-booster-bundle-pre-order": {
      "title": "Pokemon 30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "last_restock_alert": 1792163411,
-     "unavail_since": 1792171213
+     "last_restock_alert": 1792349138
     },
     "one-piece-double-pack-vol-14-pre-order": {
      "title": "One Piece Double Pack Vol. 14 (Pre Order)",
@@ -21813,7 +21813,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28346,7 +28346,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
