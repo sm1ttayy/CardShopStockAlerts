@@ -21790,7 +21790,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26520,8 +26520,9 @@
     "151-elite-trainer-box": {
      "title": "151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 1113.75
+     "available": false,
+     "price": 1113.75,
+     "unavail_since": 1792298722
     },
     "celebrations-pokemon-center-elite-trainer-box": {
      "title": "Celebrations Pokemon Center Elite Trainer Box",
@@ -28322,7 +28323,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
