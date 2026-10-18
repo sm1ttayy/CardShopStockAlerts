@@ -21813,7 +21813,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22906,6 +22906,18 @@
      "game": "MTG",
      "available": true,
      "price": 229.99
+    },
+    "star-trek-commander-deck-case": {
+     "title": "Star Trek Commander Deck Set of 4 [DELAYED]",
+     "game": "MTG",
+     "available": true,
+     "price": 349.99
+    },
+    "star-trek-bundle": {
+     "title": "Star Trek - Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 89.99
     }
    },
    "baselined": true,
@@ -25812,10 +25824,9 @@
     "pokemon-chilling-reign-booster-box": {
      "title": "Chilling Reign Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 466.75,
-     "last_restock_alert": 1787961949,
-     "unavail_since": 1791725437
+     "last_restock_alert": 1792350034
     },
     "pokemon-swsh-astral-radiance-booster-box": {
      "title": "Astral Radiance Booster Box",
@@ -28352,7 +28363,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
