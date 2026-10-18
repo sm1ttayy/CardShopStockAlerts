@@ -20202,9 +20202,10 @@
     "mtg-reality-fracture-play-booster-box-pre-order": {
      "title": "MTG Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 194.95,
-     "last_restock_alert": 1792344917
+     "last_restock_alert": 1792344917,
+     "unavail_since": 1792348518
     },
     "pokemon-mega-symphonia-japanese-booster-box-pre-order-copy": {
      "title": "Pokemon Mega Symphonia Japanese Booster Box",
@@ -21812,7 +21813,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28345,7 +28346,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
