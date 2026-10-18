@@ -1705,7 +1705,7 @@
    "baselined": true,
    "check_cursor": 2,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'dominaria-remastered-draft-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -2998,7 +2998,7 @@
      "title": "Scarlet and Violet: Obsidian Flames - Booster Box Display",
      "game": "Pokemon",
      "available": false,
-     "price": 365.0,
+     "price": 380.0,
      "unavail_since": 1784083329
     },
     "innistrad-booster-box-display": {
@@ -4642,9 +4642,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 11,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'devil-fruits-collection-vol-2-df-02' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -6622,7 +6622,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'riftbound-tcg-league-of-legends-spiritforged-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8849,7 +8849,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-6-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10524,7 +10524,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11428,8 +11428,9 @@
     "double-pack-set-12-the-worlds-strongest-warriors-op-17-one-piece-08-28-26": {
      "title": "Double Pack Set 12 - The World's Strongest Warriors OP-17 [One Piece] (08/28)",
      "game": "One Piece",
-     "available": true,
-     "price": 30.0
+     "available": false,
+     "price": 30.0,
+     "unavail_since": 1792331695
     },
     "one-piece-model-kit-red-force": {
      "title": "One Piece Model Kit: Red Force",
@@ -11730,7 +11731,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -14279,9 +14280,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 104,
+   "check_cursor": 52,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'pokemon-tcg-surging-sparks-elite-trainer-box-pokemon-center-edition' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
