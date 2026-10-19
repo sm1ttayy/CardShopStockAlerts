@@ -762,7 +762,7 @@
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 175.82,
+     "price": 172.7,
      "last_restock_alert": 1788361674,
      "unavail_since": 1791645205
     },
@@ -1705,7 +1705,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'ultimate-masters-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4642,9 +4642,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'duskmourn-house-of-horror-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -5242,7 +5242,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 52.0
+     "price": 54.0
     },
     "magic-the-gathering-marvel-super-heroes-commander-deck-doom-prevails-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - Doom Prevails (SALE)",
@@ -5260,7 +5260,7 @@
      "title": "Magic the Gathering: Marvel Super Heroes Commander Deck - The Fantastic Four",
      "game": "MTG",
      "available": true,
-     "price": 40.0
+     "price": 42.0
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-deck-quandrix-unlimited-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Quandrix Unlimited)",
@@ -6012,7 +6012,7 @@
      "title": "Magic the Gathering: Chaos Incarnate Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 42.0
+     "price": 41.0
     },
     "one-piece-tcg-blue-kuzan-starter-deck-ex-st-33": {
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
@@ -6312,7 +6312,7 @@
      "title": "Pokemon TCG: 30th Celebration Greninja EX Box",
      "game": "Pokemon",
      "available": false,
-     "price": 64.0,
+     "price": 65.0,
      "unavail_since": 1790813505
     },
     "pokemon-tcg-30th-celebration-poster-collection-box": {
@@ -6391,7 +6391,7 @@
      "title": "Magic the Gathering: 2017 Commander Deck - Draconic Domination",
      "game": "MTG",
      "available": true,
-     "price": 524.0
+     "price": 546.0
     },
     "mtg_2017_cmndr_vamplust": {
      "title": "Magic the Gathering: 2017 Commander Deck - Vampiric Bloodlust",
@@ -6403,7 +6403,7 @@
      "title": "Magic the Gathering: Legends&#x27; Legacy Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 189.0
+     "price": 184.0
     },
     "mtg_st_capenna_cmdnr_maestros": {
      "title": "Magic the Gathering: Streets of New Capenna Maestros Massacre Commander Deck",
@@ -6427,7 +6427,7 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Commander Deck (Abzan)",
      "game": "MTG",
      "available": true,
-     "price": 69.0
+     "price": 73.0
     },
     "mtg_2017_cmndr_arcane": {
      "title": "Magic the Gathering: 2017 Commander Deck - Arcane Wizardry",
@@ -6494,7 +6494,7 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Witherbloom Pestilence)",
      "game": "MTG",
      "available": true,
-     "price": 68.0
+     "price": 67.0
     },
     "magic-the-gathering-the-hobbit-gift-draft-night-box-pre-order": {
      "title": "Magic The Gathering: The Hobbit Gift Draft Night Box",
@@ -6616,12 +6616,18 @@
      "game": "One Piece",
      "available": true,
      "price": 227.0
+    },
+    "magic-the-gathering-foundations-commander-deck-tramplesaurus-rex-pre-order": {
+     "title": "Magic The Gathering: Foundations Commander Deck (Tramplesaurus Rex)",
+     "game": "MTG",
+     "available": true,
+     "price": 64.0
     }
    },
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -6904,7 +6910,7 @@
      "title": "Pokemon Scarlet & Violet Surging Sparks Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 72.75
+     "price": 79.75
     },
     "pokemon-scarlet-violet-obsidian-flames-booster-bundle": {
      "title": "Pokemon Scarlet & Violet Obsidian Flames Booster Bundle",
@@ -8848,7 +8854,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -9472,10 +9478,9 @@
     "pokemon-mega-evolution-phantasmal-flames-booster-box": {
      "title": "Pokemon Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 429.99,
-     "delisted": true,
-     "unavail_since": 1789401351
+     "available": true,
+     "price": 399.99,
+     "delisted": true
     },
     "pokemon-journey-together-booster-box": {
      "title": "2025 Pokemon SV - Journey Together Booster Box",
@@ -9971,10 +9976,10 @@
      "price": 189.99
     },
     "scarlet-violet-paldean-fates-elite-trainer-box-pokemon-tcg-copy": {
-     "title": "Paldean Fates Pokemon Center Elite Trainer Box (Exclusive) - SV: Paldean Fates (PAF)",
+     "title": "Pokemon Scarlet & Violet - Paldean Fates Pokemon Center Elite Trainer Box (Exclusive)",
      "game": "Pokemon",
      "available": true,
-     "price": 599.99
+     "price": 559.99
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle": {
      "title": "Magic: The Gathering Teenage Mutant Ninja Turtles - Pizza Bundle",
@@ -9998,7 +10003,7 @@
      "title": "Pokemon Mega Evolution - Ascended Heroes Pokemon Center Elite Trainer Box (Exclusive)",
      "game": "Pokemon",
      "available": true,
-     "price": 435.0
+     "price": 349.99
     },
     "pokemon-tcg-first-partner-illustration-collection-series-3": {
      "title": "Pokemon TCG: First Partner Illustration Collection (Series 3)",
@@ -10019,10 +10024,10 @@
      "price": 119.99
     },
     "brilliant-stars-pokemon-center-elite-trainer-box-exclusive-swsh09-brilliant-stars-swsh09": {
-     "title": "Sword & Shield - Brilliant Stars Pokemon Center Elite Trainer Box (Exclusive) - SWSH09 (Tear in plastic)",
+     "title": "Sword & Shield - Brilliant Stars Pokemon Center Elite Trainer Box (Exclusive)",
      "game": "Pokemon",
      "available": true,
-     "price": 244.99
+     "price": 249.99
     },
     "mystery-booster-2-booster-box": {
      "title": "Mystery Booster 2 Booster Box",
@@ -10346,7 +10351,7 @@
      "title": "Pokemon 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 149.99,
+     "price": 139.99,
      "last_restock_alert": 1792073641
     },
     "pokemon-30th-celebration-ultra-premium-collection": {
@@ -10460,13 +10465,12 @@
     "30th-celebration-booster-bundle-me-30th-celebration-30c": {
      "title": "Pokemon 30th Celebration - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 74.99,
-     "last_restock_alert": 1791277455,
-     "unavail_since": 1791381042
+     "last_restock_alert": 1792440880
     },
     "prismatic-evolutions-pokemon-center-elite-trainer-box-exclusive-sv-prismatic-evolutions-pre": {
-     "title": "2025 Pokemon Prismatic Evolutions \"Pokemon Center\" Elite Trainer Box (Exclusive) SV",
+     "title": "2025 Pokemon Prismatic Evolutions Pokemon Center Elite Trainer Box (Exclusive) SV",
      "game": "Pokemon",
      "available": true,
      "price": 419.99
@@ -10475,7 +10479,7 @@
      "title": "Pokemon 30th Celebration - Mini Tin",
      "game": "Pokemon",
      "available": true,
-     "price": 29.99
+     "price": 27.99
     },
     "journey-together-elite-trainer-box-sv-journey-together": {
      "title": "2025 Pokemon SV - Journey Together Elite Trainer Box",
@@ -10487,7 +10491,7 @@
      "title": "Pokemon Mega Evolution - Pitch Black Pokemon Center Elite Trainer Box (Exclusive)",
      "game": "Pokemon",
      "available": true,
-     "price": 113.99
+     "price": 124.99
     },
     "magic-the-gathering-marvels-spider-man-bundle": {
      "title": "Magic: The Gathering Marvel's Spider-Man Bundle",
@@ -10518,12 +10522,37 @@
      "game": "MTG",
      "available": true,
      "price": 89.99
+    },
+    "pokemon-mega-evolution-delta-reign-booster-box-dlr-presale": {
+     "title": "Pokemon Mega Evolution - Delta Reign Booster Box (DLR) (Presale)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 244.99
+    },
+    "scarlet-violet-twilight-masquerade-pokemon-center-elite-trainer-box-exclusive-damaged-plastic-wrapping-copy": {
+     "title": "Scarlet & Violet - Twilight Masquerade Pokemon Center Elite Trainer Box (Exclusive)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 185.99
+    },
+    "celebrations-elite-trainer-box-pokemon-tcg-copy": {
+     "title": "Pokemon Celebrations 25 -  Pokemon Center Elite Trainer Box (Exclusive)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 489.99
+    },
+    "destined-rivals-pokemon-center-elite-trainer-box-exclusive-sv10-destined-rivals-dri": {
+     "title": "Pokemon Scarlet & Violet - Destined Rivals Pokemon Center Elite Trainer Box (Exclusive)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 430.0,
+     "unavail_since": 1792440873
     }
    },
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'sword-shielld-vivid-voltage-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -10669,7 +10698,7 @@
      "title": "Pok\u00e9mon 151 Pok\u00e9mon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 1500.0
+     "price": 1150.0
     },
     "chaos-rising-booster-bundle-pokemon": {
      "title": "Chaos Rising Booster Bundle [Pokemon] (5/18)",
@@ -11730,7 +11759,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12422,7 +12451,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-me04-chaos-rising-booster-box-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -14279,9 +14308,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 6,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'one-piece-tcg-the-dominance-of-god-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
