@@ -21720,10 +21720,9 @@
     "one-piece-trading-cards-peb-01-premium-extra-booster-pre-order": {
      "title": "One Piece Trading Cards PEB-01 Premium Extra Booster (Pre Order)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 249.95,
-     "last_restock_alert": 1791837310,
-     "unavail_since": 1792020905
+     "last_restock_alert": 1792450833
     },
     "mtg-zendikar-rising-draft-booster-box-pre-order": {
      "title": "Mtg - Zendikar Rising - Draft Booster Box",
@@ -21861,7 +21860,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28421,7 +28420,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
