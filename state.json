@@ -16304,11 +16304,11 @@
      "last_restock_alert": 1792446629
     },
     "unova-poster-collection-sv-black-bolt": {
-     "title": "Unova Poster Collection - SV: Black Bolt",
+     "title": "Pokemon SV: Black Bolt Unova Poster Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 29.99,
-     "unavail_since": 1784083347
+     "available": true,
+     "price": 42.95,
+     "last_restock_alert": 1792448710
     },
     "ascended-heroes-tech-sticker-collection-gastly": {
      "title": "Ascended Heroes Tech Sticker Collection - Gastly",
@@ -21861,7 +21861,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28421,7 +28421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
