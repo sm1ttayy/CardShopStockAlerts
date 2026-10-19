@@ -16299,10 +16299,9 @@
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 24.95,
-     "last_restock_alert": 1789079111,
-     "unavail_since": 1792154716
+     "last_restock_alert": 1792446629
     },
     "unova-poster-collection-sv-black-bolt": {
      "title": "Unova Poster Collection - SV: Black Bolt",
@@ -21863,7 +21862,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28423,7 +28422,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
