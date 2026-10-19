@@ -21189,9 +21189,9 @@
     "pokemon-30th-celebration-ultra-premium-collection-night-pre-order": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Night (Pre Order)",
      "game": "Pokemon",
-     "available": false,
-     "price": 479.95,
-     "unavail_since": 1788627609
+     "available": true,
+     "price": 549.95,
+     "last_restock_alert": 1792371326
     },
     "pokemon-30th-celebration-tech-sticker-collection-lucariopre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario",
@@ -21824,10 +21824,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 89.99
+    },
+    "pokemon-30th-celebration-ultra-premium-collection-day-pre-order": {
+     "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day (Pre Order)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 549.95
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28377,7 +28383,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
