@@ -1705,7 +1705,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'ultimate-masters-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4642,9 +4642,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'duskmourn-house-of-horror-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6065,16 +6065,15 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 159.0,
-     "last_restock_alert": 1788961604,
-     "unavail_since": 1789654816
+     "available": true,
+     "price": 145.0,
+     "last_restock_alert": 1792427534
     },
     "riftbound-league-of-legends-tcg-vendetta-vault-bundle": {
      "title": "Riftbound League of Legends TCG: Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 51.0,
+     "price": 50.0,
      "unavail_since": 1790813511
     },
     "mtg_phyrexiaone_cbundle": {
@@ -6622,7 +6621,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8849,7 +8848,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10524,7 +10523,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'sword-shielld-vivid-voltage-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11731,7 +11730,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -12423,7 +12422,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'pokemon-tcg-me04-chaos-rising-booster-box-1' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -14280,9 +14279,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'one-piece-tcg-the-dominance-of-god-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
