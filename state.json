@@ -325,9 +325,9 @@
     "magic-the-gathering-lorwyn-eclipsed-booster-display-box": {
      "title": "Magic: The Gathering - Lorwyn Eclipsed  Play Booster Display Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 124.99,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1792531883
     },
     "magic-the-gathering-outlaws-of-thunder-junction-play-booster-box": {
      "title": "Magic: The Gathering - Outlaws of Thunder Junction Play Booster Box",
@@ -347,7 +347,7 @@
      "title": "Magic: The Gathering | Reality Fracture - Play Booster Display Box",
      "game": "MTG",
      "available": true,
-     "price": 137.48,
+     "price": 130.18,
      "last_restock_alert": 1791440068
     },
     "magic-the-gathering-lord-of-the-rings-tales-of-middle-earth-special-edition-collector-booster-box": {
@@ -1190,9 +1190,9 @@
     "magic-the-gathering-the-hobbit-bundle": {
      "title": "Magic: The Gathering | The Hobbit - Bundle",
      "game": "MTG",
-     "available": false,
-     "price": 86.99,
-     "unavail_since": 1785267939
+     "available": true,
+     "price": 49.99,
+     "last_restock_alert": 1792531891
     },
     "riftbound-tcg-league-of-legends-vendetta-showdown-decks-zed-versus-shen": {
      "title": "Riftbound TCG: League of Legends: Vendetta - Showdown Decks: Zed Versus Shen",
@@ -1624,7 +1624,7 @@
      "title": "Magic: The Gathering | Reality Fracture - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 51.66,
+     "price": 46.08,
      "last_restock_alert": 1791440072
     },
     "pokemon-tcg-journey-together-booster-display-standard": {
@@ -1700,6 +1700,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 127.99
+    },
+    "magic-the-gathering-secret-lair-drop-imiri-sakabashira-foil": {
+     "title": "Magic the Gathering | Secret Lair Drop: Artist Series: Imiri Sakabashira (Foil)",
+     "game": "MTG",
+     "available": false,
+     "price": 67.13,
+     "unavail_since": 1792531891
     }
    },
    "baselined": true,
@@ -1840,9 +1847,10 @@
     "riftbound-league-of-legends-tcg-spiritforged-champion-deck-rumble": {
      "title": "Riftbound: League of Legends TCG - Spiritforged Champion Deck [Rumble]",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 23.0,
-     "last_restock_alert": 1786155397
+     "last_restock_alert": 1786155397,
+     "unavail_since": 1792531878
     },
     "riftbound-vendetta-pre-rift-event-friday-copy": {
      "title": "Riftbound: Vendetta - Pre-Rift Event [Friday]",
@@ -1935,8 +1943,9 @@
     "magic-the-gathering-secrets-of-strixhaven-play-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 140.0
+     "available": false,
+     "price": 140.0,
+     "unavail_since": 1792531880
     },
     "starter-deck-28-green-yellow-yamato": {
      "title": "One Piece - Starter Deck 28: GREEN/YELLOW Yamato [ST-28]",
@@ -2029,7 +2038,7 @@
      "title": "Magic: The Gathering Aetherdrift Commander Deck Bundle [Set of 2]",
      "game": "MTG",
      "available": true,
-     "price": 67.0,
+     "price": 65.0,
      "last_restock_alert": 1790259345
     },
     "magic-the-gathering-final-fantasy-collector-commander-deck-bundle-set-of-4": {
@@ -2049,7 +2058,7 @@
      "title": "Magic: The Gathering Final Fantasy Commander Deck Bundle [Set of 4]",
      "game": "MTG",
      "available": true,
-     "price": 190.0
+     "price": 179.0
     },
     "magic-the-gathering-marvel-super-heroes-collectors-edition-commander-decks-set-of-4": {
      "title": "Magic: The Gathering - Marvel Super Heroes Collector's Edition Commander Decks [Set of 4]",
@@ -2794,9 +2803,10 @@
     "modern-horizons-3-play-booster-box": {
      "title": "Modern Horizons 3 Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 295.0,
-     "last_restock_alert": 1787950646
+     "available": false,
+     "price": 320.0,
+     "last_restock_alert": 1787950646,
+     "unavail_since": 1792531880
     },
     "modern-horizons-3-collector-booster-box": {
      "title": "Modern Horizons 3 Collector Booster Box",
@@ -4639,6 +4649,12 @@
      "game": "MTG",
      "available": true,
      "price": 139.0
+    },
+    "magic-the-gathering-star-trek-commander-decks-set-of-4": {
+     "title": "[PREORDER] Magic: The Gathering - Star Trek Commander Decks [Set of 4]",
+     "game": "MTG",
+     "available": true,
+     "price": 219.0
     }
    },
    "baselined": true,
@@ -4850,7 +4866,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 41.0,
+     "price": 44.0,
      "last_restock_alert": 1784313937
     },
     "pokemon-scarlet-and-violet-shrouded-fable-booster-bundle-pre-order": {
@@ -4898,10 +4914,9 @@
     "riftbound-tcg-league-of-legends-booster-box-pre-order": {
      "title": "Riftbound TCG: League of Legends Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 246.0,
-     "last_restock_alert": 1789047767,
-     "unavail_since": 1790617401
+     "available": true,
+     "price": 241.0,
+     "last_restock_alert": 1792531876
     },
     "riftbound-tcg-league-of-legends-spiritforged-booster-box-chinese": {
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box (Chinese)",
@@ -5963,7 +5978,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Championship Deck (Rumble)",
      "game": "Riftbound",
      "available": true,
-     "price": 31.0
+     "price": 30.0
     },
     "magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-jumpstart-volume-2-booster-box-pre-order": {
      "title": "Magic the Gathering The Lord of the Rings: Tales of Middle-earth Jumpstart Volume 2 Booster Box",
@@ -6066,7 +6081,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 145.0,
+     "price": 144.0,
      "last_restock_alert": 1792427534
     },
     "riftbound-league-of-legends-tcg-vendetta-vault-bundle": {
@@ -6092,7 +6107,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Showdown Decks - Zed vs Shen",
      "game": "Riftbound",
      "available": true,
-     "price": 18.0
+     "price": 16.0
     },
     "one-piece-tcg-red-black-sabo-starter-deck-ex-st-35": {
      "title": "One Piece TCG: Red/Black Sabo Starter Deck EX (ST-35)",
@@ -6110,7 +6125,7 @@
      "title": "Riftbound TCG: League of Legends Unleashed Champion Deck (Vex)",
      "game": "Riftbound",
      "available": true,
-     "price": 24.0
+     "price": 23.0
     },
     "magic-the-gathering-secrets-of-strixhaven-commander-deck-prismari-artistry-pre-order": {
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Prismari Artistry) (SALE)",
@@ -6184,7 +6199,7 @@
      "title": "Pokemon Scarlet and Violet: Journey Together Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 46.0
+     "price": 47.0
     },
     "pokemon-tcg-scarlet-and-violet-destined-rivals-bundle-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Bundle Box",
@@ -6427,7 +6442,7 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Commander Deck (Abzan)",
      "game": "MTG",
      "available": true,
-     "price": 73.0
+     "price": 70.0
     },
     "mtg_2017_cmndr_arcane": {
      "title": "Magic the Gathering: 2017 Commander Deck - Arcane Wizardry",
@@ -6494,7 +6509,7 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Commander Deck (Witherbloom Pestilence)",
      "game": "MTG",
      "available": true,
-     "price": 67.0
+     "price": 68.0
     },
     "magic-the-gathering-the-hobbit-gift-draft-night-box-pre-order": {
      "title": "Magic The Gathering: The Hobbit Gift Draft Night Box",
@@ -6621,7 +6636,20 @@
      "title": "Magic The Gathering: Foundations Commander Deck (Tramplesaurus Rex)",
      "game": "MTG",
      "available": true,
-     "price": 64.0
+     "price": 63.0
+    },
+    "riftbound-league-of-legends-tcg-radiance-vault-bundle-pre-order": {
+     "title": "Riftbound League of Legends TCG: Radiance Vault Bundle (PRE-ORDER)",
+     "game": "Riftbound",
+     "available": false,
+     "price": 63.0,
+     "unavail_since": 1792531876
+    },
+    "mtg_st_capenna_cmdnr_cabaretti": {
+     "title": "Magic the Gathering: Streets of New Capenna Cabaretti Cacophony Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 117.0
     }
    },
    "baselined": true,
@@ -11754,6 +11782,12 @@
      "game": "MTG",
      "available": true,
      "price": 70.0
+    },
+    "heroines-edition-vol-2-booster-box-eb-05-one-piece-10-30": {
+     "title": "Heroines Edition Vol.2 Booster Box EB-05 [One Piece] (10/30)",
+     "game": "One Piece",
+     "available": true,
+     "price": 300.0
     }
    },
    "baselined": true,
@@ -14307,7 +14341,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
