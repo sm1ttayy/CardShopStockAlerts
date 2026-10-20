@@ -21912,7 +21912,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26215,7 +26215,7 @@
      "title": "Foundations Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 173.25,
+     "price": 174.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1788033932
     },
@@ -26524,7 +26524,7 @@
      "title": "151 Ultra Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 884.75
+     "price": 824.99
     },
     "pitch-black-3-pack-blister-binacle": {
      "title": "Pitch Black 3 Pack Blister [Binacle]",
@@ -26640,7 +26640,7 @@
      "title": "151 Alakazam ex Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 121.25
+     "price": 115.99
     },
     "edge-of-eternities-commander-deck-world-shaper": {
      "title": "Edge of Eternities World Shaper Commander Deck",
@@ -26826,7 +26826,7 @@
      "title": "Sword & Shield Ultra-Premium Collection [Charizard]",
      "game": "Pokemon",
      "available": true,
-     "price": 574.99
+     "price": 549.75
     },
     "twilight-masquerade-booster-box-case": {
      "title": "Twilight Masquerade Booster Box Case",
@@ -27127,7 +27127,7 @@
      "title": "Storm Emeralda Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 93.49,
+     "price": 93.25,
      "unavail_since": 1791120627
     },
     "pitch-black-build-battle-box": {
@@ -27950,7 +27950,7 @@
      "title": "Astral Radiance Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 184.75,
+     "price": 183.99,
      "unavail_since": 1791922846
     },
     "one-piece-heroines-edition-booster-box": {
@@ -28053,7 +28053,7 @@
      "title": "Phantasmal Flames Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 154.75
+     "price": 149.99
     },
     "pokemon-go-tin-snorlax": {
      "title": "Pokemon GO Tin [Snorlax]",
@@ -28392,7 +28392,7 @@
      "title": "Mutant Menace Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 120.49,
+     "price": 122.75,
      "unavail_since": 1791583828
     },
     "30th-celebration-mini-tin-night-pikachu": {
@@ -28481,10 +28481,28 @@
      "game": "Pokemon",
      "available": true,
      "price": 507.75
+    },
+    "mythical-pokemon-collection-box-darkrai": {
+     "title": "Mythical Pokemon Collection Box - Darkrai",
+     "game": "Pokemon",
+     "available": true,
+     "price": 899.99
+    },
+    "mewtwo-v-union-special-collection": {
+     "title": "Mewtwo V-UNION Special Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 164.75
+    },
+    "pokemon-sword-shield-jirachi-v-box": {
+     "title": "Jirachi V Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 177.49
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
