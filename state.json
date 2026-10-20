@@ -15763,9 +15763,10 @@
     "pokemon-me05-pitch-black-elite-trainer-box": {
      "title": "Pokemon ME05 Pitch Black Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 74.95,
-     "last_restock_alert": 1791336307
+     "last_restock_alert": 1791336307,
+     "unavail_since": 1792455608
     },
     "pokemon-fusion-strike-elite-trainer-box": {
      "title": "Pokemon Fusion Strike Elite Trainer Box",
@@ -21860,7 +21861,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28420,7 +28421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
