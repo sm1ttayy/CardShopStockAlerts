@@ -14466,7 +14466,7 @@
      "title": "Mega Greninja ex Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 70.0
+     "price": 50.0
     },
     "teenage-mutant-ninja-turtles-collector-booster-box": {
      "title": "Teenage Mutant Ninja Turtles - Collector Booster Box",
@@ -14785,6 +14785,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 45.0
+    },
+    "pokemon-tcg-mega-zygarde-ex-premium-collection": {
+     "title": "Pokemon TCG: Mega Zygarde Ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 50.0
     }
    },
    "baselined": true,
@@ -21909,10 +21915,17 @@
      "game": "MTG",
      "available": true,
      "price": 299.95
+    },
+    "one-piece-card-game-legacy-of-the-master-booster-pack": {
+     "title": "One Piece Card Game - Legacy of the Master Booster Pack",
+     "game": "One Piece",
+     "available": false,
+     "price": 15.99,
+     "unavail_since": 1792528507
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28502,7 +28515,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30367,6 +30380,12 @@
     },
     "magic-the-gathering-marvel-darkhold-destiny-gods-of-asgard-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Darkhold Destiny Gods of Asgard Commander Deck MTG-MDD-CD-GOA",
+     "game": "MTG",
+     "available": true,
+     "price": 74.99
+    },
+    "magic-the-gathering-marvel-darkhold-destiny-lords-of-hel-commander-deck": {
+     "title": "Magic The Gathering Universes Beyond Marvel Darkhold Destiny Lords of Hel Commander Deck MTG-MDD-CD-LOH",
      "game": "MTG",
      "available": true,
      "price": 74.99
