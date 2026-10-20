@@ -1705,7 +1705,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'ultimate-masters-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4642,9 +4642,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 23,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'one-piece-starter-deck-31-red-monkey-d-luffy-st-31' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -5111,7 +5111,7 @@
      "title": "One Piece TCG: Monkey D Luffy Starter Deck (ST-18)",
      "game": "One Piece",
      "available": true,
-     "price": 158.0
+     "price": 157.0
     },
     "2023-one-piece-starter-deck-st05-one-piece-film-edition-shanks-psa-10": {
      "title": "2023 One Piece Starter Deck St05-One Piece Film Edition Shanks PSA 10",
@@ -6018,7 +6018,7 @@
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
      "game": "One Piece",
      "available": true,
-     "price": 24.0
+     "price": 26.0
     },
     "one-piece-tcg-red-monkey-d-luffy-starter-deck-ex-st-31": {
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
@@ -6030,7 +6030,7 @@
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
      "game": "One Piece",
      "available": true,
-     "price": 36.0
+     "price": 35.0
     },
     "one-piece-tcg-purple-charlotte-katakuri-starter-deck-ex-st-34": {
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
@@ -6627,7 +6627,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'riftbound-tcg-league-of-legends-spiritforged-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8854,7 +8854,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-6-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10552,7 +10552,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'universes-beyond-assassins-creed-beyond-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11759,7 +11759,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12451,7 +12451,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-me04-chaos-rising-booster-box-1' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -14307,9 +14307,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'pokemon-tcg-surging-sparks-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
