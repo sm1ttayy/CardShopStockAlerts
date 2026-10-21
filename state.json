@@ -19252,6 +19252,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 54.95
+    },
+    "mtg-ravnica-allegiance-english-booster-box": {
+     "title": "MTG - Ravnica Allegiance - English Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 229.95
     }
    },
    "baselined": true,
@@ -21960,7 +21966,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28550,7 +28556,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
