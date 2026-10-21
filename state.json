@@ -16644,8 +16644,9 @@
     "riftbound-vendetta-showdown-decks-zed-vs-shen-display": {
      "title": "Riftbound Vendetta Showdown Decks: Zed vs Shen Display",
      "game": "Riftbound",
-     "available": true,
-     "price": 64.95
+     "available": false,
+     "price": 64.95,
+     "unavail_since": 1792625422
     },
     "the-hobbit-bundle-preorder": {
      "title": "The Hobbit Bundle",
@@ -22037,7 +22038,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28640,7 +28641,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 62,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
