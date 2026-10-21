@@ -1148,9 +1148,10 @@
     "one-piece-tcg-op-17-the-worlds-strongest-warriors-display-box-english": {
      "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Display Box [English]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 287.95,
-     "last_restock_alert": 1792194977
+     "last_restock_alert": 1792194977,
+     "unavail_since": 1792610415
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-elite-trainer-box-copy": {
      "title": "Pok\u00e9mon TCG: Mega Evolution 5: Pitch Black - Pokemon Center Elite Trainer Box",
@@ -4000,9 +4001,9 @@
     "mega-charizard-x-ex-ultra-premium-collection": {
      "title": "Mega Charizard X ex Ultra Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 240.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 229.0,
+     "last_restock_alert": 1792610425
     },
     "mega-evolution-pitch-black-3-pack-blister": {
      "title": "Mega Evolution: Pitch Black - 3-Pack Blister [Binacle]",
@@ -6039,7 +6040,7 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 34.0
+     "price": 33.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
@@ -6051,7 +6052,7 @@
      "title": "One Piece TCG: Purple Charlotte Katakuri Starter Deck EX (ST-34)",
      "game": "One Piece",
      "available": true,
-     "price": 25.0
+     "price": 28.0
     },
     "one-piece-tcg-illustration-box-volume-8": {
      "title": "One Piece TCG: Illustration Box Volume 8",
@@ -11787,6 +11788,30 @@
      "game": "One Piece",
      "available": true,
      "price": 300.0
+    },
+    "black-bolt-and-white-flare-unova-poster-collection-pokemon": {
+     "title": "Black Bolt and White Flare Unova Poster Collection [Pokemon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 50.0
+    },
+    "ascended-heroes-premium-poster-collection-pokemon": {
+     "title": "Ascended Heroes Premium Poster Collection [Pokemon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 150.0
+    },
+    "edge-of-eternities-commander-deck-mtg": {
+     "title": "Edge of Eternities Commander Deck [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 45.0
+    },
+    "commander-masters-commander-deck": {
+     "title": "Commander Masters Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 150.0
     }
    },
    "baselined": true,
@@ -12479,6 +12504,20 @@
      "game": "Pokemon",
      "available": true,
      "price": 30.0
+    },
+    "riftbound-tcg-radiance-booster-box-preorder": {
+     "title": "Riftbound TCG: Radiance - Booster Box - Preorder",
+     "game": "Riftbound",
+     "available": false,
+     "price": 120.0,
+     "unavail_since": 1792610433
+    },
+    "riftbound-tcg-radiance-booster-box-showdown-deck-bundle": {
+     "title": "Riftbound TCG: Radiance Booster Box & Showdown Deck Bundle",
+     "game": "Riftbound",
+     "available": false,
+     "price": 150.0,
+     "unavail_since": 1792610433
     }
    },
    "baselined": true,
@@ -12860,8 +12899,9 @@
     "magic-the-gathering-aetherdrift-commander-decks": {
      "title": "Magic The Gathering: Aetherdrift: Commander Decks",
      "game": "MTG",
-     "available": true,
-     "price": 59.99
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1792610444
     },
     "magic-the-gathering-commander-legends-battle-for-baldurs-gate-commander-decks": {
      "title": "Magic the Gathering: Commander Legends: Battle for Baldur's Gate Commander Decks",
@@ -12872,9 +12912,9 @@
     "magic-the-gathering-edge-of-eternities-commander-decks": {
      "title": "Magic the Gathering: Edge of Eternities: Commander Decks",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 79.99,
-     "unavail_since": 1790096518
+     "last_restock_alert": 1792610444
     },
     "magic-the-gathering-dominaria-united-commander-decks": {
      "title": "Magic the Gathering: Dominaria United: Commander Decks",
@@ -13239,8 +13279,9 @@
     "magic-the-gathering-lorwyn-eclipsed-commander-decks": {
      "title": "Magic the Gathering: Lorwyn Eclipsed: Commander Decks (Set of Two)",
      "game": "MTG",
-     "available": true,
-     "price": 59.99
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1792610444
     },
     "magic-the-gathering-the-hobbit-bundle": {
      "title": "Magic the Gathering: The Hobbit: Bundle",
@@ -13258,9 +13299,9 @@
     "magic-the-gathering-universes-beyond-marvels-spider-man-bundle": {
      "title": "Magic The Gathering: Universes Beyond: Marvel's Spider-Man: Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 54.99,
-     "unavail_since": 1791381059
+     "last_restock_alert": 1792610484
     },
     "magic-the-gathering-the-lord-of-the-rings-tales-of-middle-earth-bundle-gift-edition": {
      "title": "Magic The Gathering: The Lord of the Rings: Tales of Middle-earth: Bundle Gift Edition",
@@ -14337,10 +14378,31 @@
      "available": false,
      "price": 34.99,
      "unavail_since": 1792302186
+    },
+    "magic-the-gathering-commander-masters-commander-decks": {
+     "title": "Magic The Gathering: Commander Masters: Commander Decks",
+     "game": "MTG",
+     "available": false,
+     "price": 84.99,
+     "unavail_since": 1792610444
+    },
+    "magic-the-gathering-commander-2014-deck-guided-by-nature": {
+     "title": "Magic the Gathering: Commander 2014 Deck: Guided by Nature",
+     "game": "MTG",
+     "available": false,
+     "price": 154.99,
+     "unavail_since": 1792610444
+    },
+    "magic-the-gathering-commander-deck-2013-evasive-maneuvers": {
+     "title": "Magic the Gathering: Commander Deck 2013: Evasive Maneuvers",
+     "game": "MTG",
+     "available": false,
+     "price": 69.99,
+     "unavail_since": 1792610444
     }
    },
    "baselined": true,
-   "check_cursor": 89,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
