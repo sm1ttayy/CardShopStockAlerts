@@ -15939,10 +15939,9 @@
     "reality-fracture-play-booster-box-preorder": {
      "title": "Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 139.95,
-     "last_restock_alert": 1791844831,
-     "unavail_since": 1792157405
+     "available": true,
+     "price": 124.95,
+     "last_restock_alert": 1792543519
     },
     "marvel-super-heroes-jumpstart-booster-box-preorder": {
      "title": "Marvel Super Heroes Jumpstart Booster Box",
@@ -16973,9 +16972,9 @@
     "riftbound-radiance-booster-box": {
      "title": "Riftbound Radiance Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 124.95,
-     "unavail_since": 1791120604
+     "last_restock_alert": 1792543517
     },
     "pokemon-me2-5-ascended-heroes-ex-boxes-set-of-3": {
      "title": "Pokemon ME2.5 Ascended Heroes ex Boxes Set of 3",
@@ -17014,9 +17013,9 @@
     "riftbound-radiance-showdown-decks-evelynn-vs-seraphine": {
      "title": "Riftbound Radiance Showdown Decks: Evelynn vs Seraphine",
      "game": "Riftbound",
-     "available": false,
-     "price": 22.95,
-     "unavail_since": 1792246218
+     "available": true,
+     "price": 24.95,
+     "last_restock_alert": 1792543518
     },
     "teenage-mutant-ninja-turtles-draft-night-box-preorder": {
      "title": "Teenage Mutant Ninja Turtles Draft Night Box",
@@ -19970,9 +19969,10 @@
     "pokemon-blooming-waters-premium-collection-pre-order": {
      "title": "Pokemon Blooming Waters Premium Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 499.95,
-     "last_restock_alert": 1790628068
+     "last_restock_alert": 1790628068,
+     "unavail_since": 1792543515
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection-pre-order": {
      "title": "Pokemon TCG - Mega Greninja ex Premium Collection",
@@ -21129,9 +21129,10 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 27.95,
-     "last_restock_alert": 1792527343
+     "last_restock_alert": 1792527343,
+     "unavail_since": 1792543516
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -21959,7 +21960,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27714,7 +27715,7 @@
      "title": "Hour of Devastation - Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 308.75
+     "price": 304.75
     },
     "masters-25-booster-box": {
      "title": "Masters 25 - Booster Box",
@@ -28549,7 +28550,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
