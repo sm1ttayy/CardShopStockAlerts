@@ -14886,6 +14886,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 50.0
+    },
+    "teenage-mutant-ninja-turtles-commander-deck-turtle-power": {
+     "title": "Teenage Mutant Ninja Turtles - Commander Deck, Turtle Power",
+     "game": "MTG",
+     "available": true,
+     "price": 69.99
     }
    },
    "baselined": true,
@@ -22027,7 +22033,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24388,7 +24394,8 @@
      "game": "Riftbound",
      "available": false,
      "price": 179.95,
-     "unavail_since": 1791120627
+     "unavail_since": 1791120627,
+     "delisted": true
     },
     "pokemon-first-partner-illustration-collection-series-1": {
      "title": "POKEMON FIRST PARTNER ILLUSTRATION COLLECTION SERIES 1 (LIMIT 2)",
@@ -28629,7 +28636,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
