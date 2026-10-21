@@ -14840,9 +14840,9 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box-preorder": {
      "title": "Riftbound: League of Legends TCG: Radiance - Booster Box (Preorder)",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 129.99,
-     "unavail_since": 1791922524
+     "last_restock_alert": 1792610729
     },
     "riftbound-league-of-legends-tcg-radiance-vault-preorder": {
      "title": "Riftbound: League of Legends TCG: Radiance - Vault (Preorder)",
@@ -21084,9 +21084,9 @@
     "mtg-universes-beyond-final-fantasy-play-booster-box-pre-order": {
      "title": "MTG - Universes Beyond: Final Fantasy - Play Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 349.95,
-     "unavail_since": 1792185014
+     "available": true,
+     "price": 399.95,
+     "last_restock_alert": 1792610767
     },
     "mtg-tarkir-dragonstorm-commander-decks-temur-roar": {
      "title": "MTG - Tarkir: Dragonstorm - Commander Decks - Temur Roar",
@@ -22027,7 +22027,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25340,7 +25340,7 @@
      "title": "Nihil Zero Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 74.75,
+     "price": 72.99,
      "last_restock_alert": 1785969625,
      "unavail_since": 1791120631
     },
@@ -25369,7 +25369,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 983.75,
+     "price": 979.99,
      "unavail_since": 1791725430
     },
     "destined-rivals-booster-box": {
@@ -25861,7 +25861,7 @@
      "title": "Mega Evolution Enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 289.75,
+     "price": 297.99,
      "last_restock_alert": 1787168758
     },
     "japanese-violet-ex-booster-box": {
@@ -25964,7 +25964,7 @@
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 293.25,
+     "price": 293.49,
      "last_restock_alert": 1787505026
     },
     "japanese-sky-legend-booster-box": {
@@ -26231,7 +26231,7 @@
      "title": "Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 139.75
+     "price": 143.75
     },
     "mtg-wilds-of-eldraine-set-booster-box": {
      "title": "Wilds of Eldraine Set Booster Box",
@@ -26322,7 +26322,7 @@
      "title": "Twilight Masquerade Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 337.75,
+     "price": 331.75,
      "last_restock_alert": 1789592146,
      "unavail_since": 1791120640
     },
@@ -26478,7 +26478,7 @@
      "title": "Double Pack Set Volume 5",
      "game": "One Piece",
      "available": false,
-     "price": 59.75,
+     "price": 58.99,
      "unavail_since": 1784083350
     },
     "double-pack-set-vol-8-display": {
@@ -26658,14 +26658,14 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 914.75,
+     "price": 901.99,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
      "title": "Origins - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": false,
-     "price": 53.25,
+     "price": 52.75,
      "unavail_since": 1784083350
     },
     "marvel-super-heroes-commander-deck-doom-prevails": {
@@ -26817,7 +26817,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 284.75,
+     "price": 283.75,
      "last_restock_alert": 1786479935,
      "unavail_since": 1789599038
     },
@@ -26913,7 +26913,7 @@
      "title": "One Piece Card Game Illustration Box Vol. 1",
      "game": "One Piece",
      "available": false,
-     "price": 201.75,
+     "price": 200.99,
      "unavail_since": 1785187236
     },
     "one-piece-illustration-box-vol-3": {
@@ -26934,7 +26934,7 @@
      "title": "One Piece: Illustration Box Vol. 2",
      "game": "One Piece",
      "available": false,
-     "price": 126.75,
+     "price": 125.99,
      "unavail_since": 1784158890
     },
     "pokemon-sword-shield-ultra-premium-collection-charizard": {
@@ -27207,7 +27207,7 @@
      "title": "Vendetta Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 176.75,
+     "price": 170.49,
      "last_restock_alert": 1786403130,
      "unavail_since": 1786919752
     },
@@ -27396,7 +27396,7 @@
      "title": "Strixhaven: School of Mages - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 189.75,
+     "price": 189.49,
      "unavail_since": 1791120629
     },
     "adventures-in-the-forgotten-realms-draft-booster-box": {
@@ -27964,7 +27964,7 @@
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 74.75,
+     "price": 78.49,
      "last_restock_alert": 1789592443
     },
     "gem-mint-vol-5-booster-box": {
@@ -28002,7 +28002,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 58.99
+     "price": 59.99
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -28065,14 +28065,14 @@
      "title": "Astral Radiance Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 183.99,
+     "price": 188.75,
      "unavail_since": 1791922846
     },
     "one-piece-heroines-edition-booster-box": {
      "title": "One Piece Heroines Edition Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 310.49,
+     "price": 309.99,
      "unavail_since": 1791120625
     },
     "commander-legends-battle-for-baldurs-gate-exit-from-exile-commander-deck": {
@@ -28098,7 +28098,7 @@
      "title": "The World's Strongest Warriors Double Pack Set Vol.12",
      "game": "One Piece",
      "available": false,
-     "price": 42.75,
+     "price": 41.75,
      "unavail_since": 1789417547
     },
     "illustration-box-vol-6": {
@@ -28589,7 +28589,7 @@
      "title": "Paldean Fates Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 439.75
+     "price": 443.75
     },
     "151-elite-trainer-box-1": {
      "title": "151 Elite Trainer Box",
@@ -28617,7 +28617,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30067,7 +30067,7 @@
      "title": "Magic the Gathering CCG Reality Fracture Play Booster Display (30)",
      "game": "MTG",
      "available": true,
-     "price": 134.99
+     "price": 124.99
     },
     "magic-the-gathering-ccg-edge-of-eternities-play-booster-display-30": {
      "title": "Magic the Gathering CCG Edge of Eternities Play Booster Display (30)",
