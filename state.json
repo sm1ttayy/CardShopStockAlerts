@@ -21806,10 +21806,11 @@
      "price": 59.95
     },
     "pokemon-tcg-mega-set-7-booster-bundle-pre-order-copy": {
-     "title": "Pokemon TCG Mega Set 7 Booster Bundle (Pre Order)",
+     "title": "Pokemon TCG Mega Set 7 Flowing Fists Booster Bundle (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 44.95
+     "available": false,
+     "price": 44.95,
+     "unavail_since": 1792617018
     },
     "riftbound-league-of-legends-radiance-vault-pre-order": {
      "title": "Riftbound: League of Legends - Radiance Vault (Pre Order)",
@@ -22034,7 +22035,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28637,7 +28638,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
