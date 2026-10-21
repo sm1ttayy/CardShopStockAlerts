@@ -14897,7 +14897,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-tcg-30th-celebration-booster-bundle-moonshot-rips' failed: <urlopen error timed out>"
   },
   "https://superanimestore.com": {
    "products": {
@@ -15774,7 +15774,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-tcg-scarlet-violet-151-ultra-premium-collection' failed: <urlopen error timed out>"
   },
   "https://geekerygames.com": {
    "products": {
@@ -17106,7 +17106,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'marvel-darkhold-destiny-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -19328,9 +19328,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "401 Games: product 'union-arena-puela-magi-madoka-magica-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://hobbiesville.com": {
    "products": {
@@ -22034,9 +22034,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-30th-celebration-ultra-premium-collection-night-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -23162,7 +23162,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Fusion Gaming Online: product 'sun-moon-burning-shadows-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://exorgames.com": {
    "products": {
@@ -24445,7 +24445,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Exor Games: product 'pokemon-sv10-5-white-flare-booster-bundle' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://pokerand.net": {
    "products": {
@@ -25178,7 +25178,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'pokemon-tcg-mega-evolution-pitch-black-booster-box' failed: <urlopen error [Errno 11001] getaddrinfo failed>"
   },
   "https://common-lands.com": {
    "products": {
@@ -28637,7 +28637,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
