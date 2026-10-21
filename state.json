@@ -22027,7 +22027,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28617,7 +28617,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30314,9 +30314,10 @@
     "magic-the-gathering-ccg-universes-beyond-final-fantasy-commander-deck-scions-spellcraft-mtg-finalfantasy-cdc-b": {
      "title": "Magic: The Gathering Final Fantasy Commander Deck: Scions & Spellcraft",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 54.99,
-     "last_restock_alert": 1791922551
+     "last_restock_alert": 1791922551,
+     "unavail_since": 1792611338
     },
     "magic-the-gathering-ccg-fallout-commander-deck-carton-4-mtg-flt-dc": {
      "title": "Magic the Gathering CCG Fallout Commander Deck Carton (4) MTG-FLT-DC",
