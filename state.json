@@ -19599,9 +19599,10 @@
     "pokemon-tcg-mega-evolution-phantasmal-flames-booster-bundle-max-6-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 119.95,
-     "last_restock_alert": 1789417520
+     "last_restock_alert": 1789417520,
+     "unavail_since": 1792620618
     },
     "pokemon-scarlet-and-violet-journey-together-booster-bundle-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Journey Together Booster Bundle",
@@ -22035,7 +22036,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28638,7 +28639,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
