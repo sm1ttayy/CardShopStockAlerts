@@ -15824,10 +15824,9 @@
     "pokemon-perfect-order-booster-box": {
      "title": "Pokemon ME03 Perfect Order Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 169.95,
-     "last_restock_alert": 1791229221,
-     "unavail_since": 1792180810
+     "last_restock_alert": 1792708826
     },
     "pokemon-rebel-clash-booster-box": {
      "title": "Pokemon Rebel Clash Booster Box",
@@ -22092,7 +22091,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23357,8 +23356,9 @@
     "pokemon-celebrations-elite-trainer-box": {
      "title": "POKEMON CELEBRATIONS ELITE TRAINER BOX",
      "game": "Pokemon",
-     "available": true,
-     "price": 519.95
+     "available": false,
+     "price": 519.95,
+     "unavail_since": 1792708817
     },
     "pokemon-celebrations-pokemon-center-elite-trainer-box": {
      "title": "POKEMON CELEBRATIONS POKEMON CENTER ELITE TRAINER BOX",
@@ -28701,7 +28701,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
