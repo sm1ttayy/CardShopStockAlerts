@@ -19342,9 +19342,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 40,
+   "error_streak": 1,
+   "last_error": "401 Games: product 'pokemon-vivid-voltage-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://hobbiesville.com": {
    "products": {
@@ -22063,7 +22063,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23196,8 +23196,8 @@
    },
    "baselined": true,
    "check_cursor": 0,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Fusion Gaming Online: product 'the-hobbit-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://exorgames.com": {
    "products": {
@@ -24479,8 +24479,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv3-5-151-booster-bundle-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -26159,7 +26159,7 @@
      "title": "Ravnica Allegiance Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 164.75,
+     "price": 162.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1791120639
     },
@@ -27634,7 +27634,7 @@
      "title": "Treasure Booster Set",
      "game": "One Piece",
      "available": false,
-     "price": 172.75,
+     "price": 169.75,
      "unavail_since": 1787788531
     },
     "first-partner-illustration-collection-series-3": {
@@ -28556,7 +28556,7 @@
      "title": "Mutant Menace Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 122.75,
+     "price": 124.49,
      "unavail_since": 1791583828
     },
     "30th-celebration-mini-tin-night-pikachu": {
@@ -28672,7 +28672,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 72,
    "error_streak": 0,
    "last_error": ""
   },
