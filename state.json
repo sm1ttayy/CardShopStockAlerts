@@ -14897,7 +14897,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'pokemon-tcg-30th-celebration-booster-bundle-moonshot-rips' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -15774,7 +15774,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-trading-card-game-first-partner-illustration-collection-series-3' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -17107,7 +17107,7 @@
    "baselined": true,
    "check_cursor": 10,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'modern-horizons-3-graveyard-overdrive-commander-deck' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -22038,9 +22038,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'mtg-fate-reforged-english-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -25182,7 +25182,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'pokemon-tcg-mega-evolution-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -28641,9 +28641,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 71,
+   "check_cursor": 30,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'team-rocket-s-moltres-ex-ultra-premium-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'japanese-battle-partners-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
