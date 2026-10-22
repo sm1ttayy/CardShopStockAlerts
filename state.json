@@ -19326,6 +19326,12 @@
      "game": "MTG",
      "available": true,
      "price": 229.95
+    },
+    "mtg-march-of-the-machine-the-aftermath-epilogue-booster-box": {
+     "title": "MTG - March of the Machine: The Aftermath - Epilogue Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -22035,10 +22041,17 @@
      "available": false,
      "price": 15.99,
      "unavail_since": 1792528507
+    },
+    "mtg-marvels-spider-man-gift-bundle-pre-order": {
+     "title": "MTG Marvel's Spider-Man - Gift Bundle",
+     "game": "MTG",
+     "available": false,
+     "price": 129.95,
+     "unavail_since": 1792629923
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28641,7 +28654,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
