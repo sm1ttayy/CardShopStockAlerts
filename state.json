@@ -1488,7 +1488,8 @@
      "game": "One Piece",
      "available": false,
      "price": 49.99,
-     "unavail_since": 1789031278
+     "unavail_since": 1789031278,
+     "delisted": true
     },
     "one-piece-tcg-op-17-title-tba-booster-pack-english": {
      "title": "One Piece TCG: [OP-17] The World's Strongest Warriors - Booster Pack [English]",
@@ -1711,9 +1712,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'time-spiral-remastered-draft-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4659,9 +4660,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 9,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'combined-powers-premium-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6656,7 +6657,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8883,7 +8884,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-6-box-case' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -10477,7 +10478,7 @@
      "price": 124.99
     },
     "astral-radiance-pokemon-center-elite-trainer-box-exclusive-swsh10-astral-radiance-swsh10": {
-     "title": "Astral Radiance Pokemon Center Elite Trainer Box (Exclusive)",
+     "title": "Pokemon Sword & Shield - Astral Radiance Pokemon Center Elite Trainer Box (Exclusive)",
      "game": "Pokemon",
      "available": false,
      "price": 210.0,
@@ -10575,6 +10576,12 @@
      "available": false,
      "price": 430.0,
      "unavail_since": 1792440873
+    },
+    "magic-the-gathering-star-trek-play-booster-display-trk-presale": {
+     "title": "Magic: The Gathering - Star Trek Play Booster Display (TRK) (Presale)",
+     "game": "MTG",
+     "available": true,
+     "price": 144.99
     }
    },
    "baselined": true,
@@ -11817,7 +11824,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -12523,7 +12530,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: product 'riftbound-tcg-radiance-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -12932,9 +12939,9 @@
     "magic-the-gathering-lorwyn-eclipsed-bundle": {
      "title": "Magic the Gathering: Lorwyn Eclipsed: Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 54.99,
-     "unavail_since": 1791381059
+     "last_restock_alert": 1792679724
     },
     "magic-the-gathering-modern-horizons-ii-bundle": {
      "title": "Magic the Gathering: Modern Horizons II: Bundle",
@@ -13651,10 +13658,9 @@
     "riftbound-league-of-legends-tcg-origins-champion-deck-viktor": {
      "title": "Riftbound TCG: Origins: Champion Deck: Viktor",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 54.99,
-     "last_restock_alert": 1790371651,
-     "unavail_since": 1790492942
+     "last_restock_alert": 1792679677
     },
     "riftbound-league-of-legends-tcg-origins-champion-deck-lee-sin": {
      "title": "Riftbound TCG: Origins: Champion Deck: Lee Sin",
@@ -14311,7 +14317,7 @@
      "unavail_since": 1791440059
     },
     "riftbound-tcg-radiance-vault-bundle": {
-     "title": "Riftbound TCG: Radiance: Vault Bundle",
+     "title": "Riftbound TCG: Radiance: Vault",
      "game": "Riftbound",
      "available": false,
      "price": 34.99,
@@ -14402,9 +14408,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 94,
+   "check_cursor": 18,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'magic-the-gathering-outlaws-of-thunder-junction-play-booster-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
