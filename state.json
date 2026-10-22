@@ -22063,7 +22063,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23186,6 +23186,12 @@
      "game": "MTG",
      "available": true,
      "price": 79.99
+    },
+    "star-trek-draft-night": {
+     "title": "Star Trek - Draft Night",
+     "game": "MTG",
+     "available": true,
+     "price": 169.99
     }
    },
    "baselined": true,
@@ -24473,8 +24479,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv3-5-151-booster-bundle-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -26875,7 +26881,7 @@
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 384.99,
+     "price": 389.75,
      "unavail_since": 1789603830
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
@@ -26915,7 +26921,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 236.75,
+     "price": 238.75,
      "last_restock_alert": 1786657540,
      "unavail_since": 1791120628
     },
@@ -27961,7 +27967,7 @@
      "title": "30th Celebration Tech Sticker Collection [Alolan Exeggutor] Wave 2",
      "game": "Pokemon",
      "available": false,
-     "price": 35.49,
+     "price": 36.25,
      "unavail_since": 1789937130
     },
     "30th-celebration-poster-collection": {
@@ -28493,7 +28499,7 @@
      "title": "30th Celebration Mini Tin [Mewtwo]",
      "game": "Pokemon",
      "available": false,
-     "price": 29.75,
+     "price": 26.99,
      "unavail_since": 1791575424
     },
     "30th-celebration-ex-tin-sylveon-ex-retail-version": {
@@ -28557,7 +28563,7 @@
      "title": "30th Celebration Mini Tin [Night Pikachu]",
      "game": "Pokemon",
      "available": false,
-     "price": 27.99,
+     "price": 26.99,
      "last_restock_alert": 1791590123,
      "unavail_since": 1791592223
     },
@@ -28666,7 +28672,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
