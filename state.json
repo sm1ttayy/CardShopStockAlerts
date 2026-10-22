@@ -17038,10 +17038,9 @@
     "pokemon-30th-celebration-elite-trainer-box": {
      "title": "Pokemon 30th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 124.95,
-     "last_restock_alert": 1792448408,
-     "unavail_since": 1792527312
+     "last_restock_alert": 1792707017
     },
     "riftbound-radiance-booster-box": {
      "title": "Riftbound Radiance Booster Box",
@@ -21693,10 +21692,9 @@
     "mtg-reality-fracture-commander-deck-multiverse-reforged-pre-order": {
      "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 74.95,
-     "last_restock_alert": 1791855021,
-     "unavail_since": 1792623332
+     "last_restock_alert": 1792707099
     },
     "mtg-universes-beyond-marvel-super-heroes-commander-deck-fantastic-four": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Fantastic Four",
@@ -22094,7 +22092,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25454,7 +25452,7 @@
      "title": "Fusion Strike Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 979.99,
+     "price": 983.75,
      "unavail_since": 1791725430
     },
     "destined-rivals-booster-box": {
@@ -28703,7 +28701,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
