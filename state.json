@@ -1712,9 +1712,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'time-spiral-remastered-draft-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4660,9 +4660,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 8,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'combined-powers-premium-collection' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -6041,7 +6041,7 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 34.0
+     "price": 33.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
@@ -6657,7 +6657,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'magic-the-gathering-foundations-jumpstart-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -8884,7 +8884,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product '2026-pokemon-day-collection-6-box-case' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11824,7 +11824,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -12530,7 +12530,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'riftbound-tcg-radiance-booster-box-preorder' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -13848,8 +13848,9 @@
     "pokemon-tcg-twilight-masquerade-elite-trainer-box-pokemon-center-edition": {
      "title": "Pok\u00e9mon TCG: Twilight Masquerade: Elite Trainer Box - Pokemon Center Edition",
      "game": "Pokemon",
-     "available": true,
-     "price": 184.99
+     "available": false,
+     "price": 184.99,
+     "unavail_since": 1792685050
     },
     "one-piece-tcg-set-sail-deck": {
      "title": "One Piece TCG: Set Sail Deck Set",
@@ -14408,9 +14409,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'magic-the-gathering-outlaws-of-thunder-junction-play-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
