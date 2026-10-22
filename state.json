@@ -4660,7 +4660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12525,6 +12525,12 @@
      "available": false,
      "price": 150.0,
      "unavail_since": 1792610433
+    },
+    "one-piece-tcg-eb05-heroines-vol-2-booster-box-preorder": {
+     "title": "One Piece TCG: EB05 Heroines' VOL. 2 Booster Box - Preorder",
+     "game": "One Piece",
+     "available": true,
+     "price": 280.0
     }
    },
    "baselined": true,
@@ -14409,7 +14415,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
