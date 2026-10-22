@@ -21830,8 +21830,9 @@
     "riftbound-league-of-legends-radiance-vault-pre-order": {
      "title": "Riftbound: League of Legends - Radiance Vault (Pre Order)",
      "game": "Riftbound",
-     "available": true,
-     "price": 64.95
+     "available": false,
+     "price": 64.95,
+     "unavail_since": 1792699830
     },
     "pokemon-scarlet-and-violet-temporal-forces-build-and-battle-kit-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Temporal Forces - Build and Battle Kit",
@@ -22063,7 +22064,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25528,10 +25529,9 @@
     "carrying-on-his-will-booster-box-op13": {
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
-     "available": false,
-     "price": 449.75,
-     "last_restock_alert": 1786227024,
-     "unavail_since": 1786800622
+     "available": true,
+     "price": 444.75,
+     "last_restock_alert": 1792699845
     },
     "black-bolt-booster-box": {
      "title": "Black Bolt Booster Box",
@@ -25612,9 +25612,9 @@
     "wings-of-the-captain-booster-box-op06": {
      "title": "Wings of the Captain Booster Box [OP06]",
      "game": "One Piece",
-     "available": false,
-     "price": 409.99,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 409.75,
+     "last_restock_alert": 1792699845
     },
     "chilling-reign-booster-box-case": {
      "title": "Chilling Reign Booster Box Case",
@@ -26592,7 +26592,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 172.49
+     "price": 169.75
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -26604,7 +26604,7 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 86.99
+     "price": 84.25
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -26624,13 +26624,13 @@
      "title": "Paldean Fates Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 179.75
+     "price": 162.75
     },
     "paldea-evolved-booster-bundle": {
      "title": "Paldea Evolved Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 126.75
+     "price": 122.75
     },
     "scarlet-violet-booster-bundle": {
      "title": "Scarlet & Violet Booster Bundle",
@@ -26703,7 +26703,7 @@
      "title": "Riftbound Worlds Bundle 2025",
      "game": "Riftbound",
      "available": false,
-     "price": 901.99,
+     "price": 914.75,
      "unavail_since": 1784083350
     },
     "origins-proving-grounds-box-set": {
@@ -27085,7 +27085,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 44.49
+     "price": 42.75
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -27337,7 +27337,7 @@
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 181.99,
+     "price": 181.75,
      "unavail_since": 1791237639
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-gardevoir": {
@@ -27599,7 +27599,7 @@
      "title": "Black Bolt Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 96.75
+     "price": 95.75
     },
     "surging-sparks-elite-trainer-box": {
      "title": "Surging Sparks Elite Trainer Box",
@@ -27748,9 +27748,9 @@
     "the-azure-seas-seven-booster-box-op14": {
      "title": "The Azure Sea's Seven Booster Box [OP14]",
      "game": "One Piece",
-     "available": false,
-     "price": 259.49,
-     "unavail_since": 1786800618
+     "available": true,
+     "price": 257.75,
+     "last_restock_alert": 1792699845
     },
     "amonkhet-booster-box": {
      "title": "Amonkhet - Booster Box",
@@ -27942,7 +27942,7 @@
      "title": "Mega Evolution Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 68.75
+     "price": 67.75
     },
     "pokemon-celebrations-deluxe-pin-collection-zacian-lv-x": {
      "title": "Celebrations Deluxe Pin Collection [Zacian LV. X]",
@@ -28009,7 +28009,7 @@
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 78.49,
+     "price": 77.99,
      "last_restock_alert": 1789592443
     },
     "gem-mint-vol-5-booster-box": {
@@ -28143,7 +28143,7 @@
      "title": "The World's Strongest Warriors Double Pack Set Vol.12",
      "game": "One Piece",
      "available": false,
-     "price": 41.75,
+     "price": 42.75,
      "unavail_since": 1789417547
     },
     "illustration-box-vol-6": {
@@ -28174,10 +28174,9 @@
     "30th-celebration-booster-bundle": {
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 76.99,
-     "last_restock_alert": 1791137738,
-     "unavail_since": 1792272924
+     "available": true,
+     "price": 69.99,
+     "last_restock_alert": 1792699858
     },
     "the-hobbit-gift-bundle": {
      "title": "The Hobbit Gift Bundle",
@@ -28662,7 +28661,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
