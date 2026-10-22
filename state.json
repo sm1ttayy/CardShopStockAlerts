@@ -20389,10 +20389,9 @@
     "mtg-reality-fracture-play-booster-box-pre-order": {
      "title": "MTG Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 194.95,
-     "last_restock_alert": 1792344917,
-     "unavail_since": 1792348518
+     "last_restock_alert": 1792700124
     },
     "pokemon-mega-symphonia-japanese-booster-box-pre-order-copy": {
      "title": "Pokemon Mega Symphonia Japanese Booster Box",
@@ -22064,7 +22063,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27975,7 +27974,7 @@
      "title": "30th Celebration Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 130.75,
+     "price": 119.75,
      "last_restock_alert": 1790438436
     },
     "30th-celebration-poster-collection-wave-2": {
@@ -28047,7 +28046,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 59.99
+     "price": 59.49
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -28071,7 +28070,7 @@
      "title": "30th Celebration Ultra-Premium Collection [Day]",
      "game": "Pokemon",
      "available": true,
-     "price": 559.75
+     "price": 559.25
     },
     "the-hobbit-draft-night": {
      "title": "The Hobbit Draft Night",
@@ -28661,7 +28660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
