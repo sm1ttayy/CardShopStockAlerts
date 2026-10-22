@@ -22051,7 +22051,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24461,8 +24461,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv3-5-151-booster-bundle-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -28654,7 +28654,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
