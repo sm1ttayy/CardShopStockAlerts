@@ -19284,9 +19284,9 @@
     "pokemon-30th-celebration-booster-bundle": {
      "title": "Pokemon - 30th Celebration - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 109.95,
-     "unavail_since": 1791834622
+     "last_restock_alert": 1792788014
     },
     "pokemon-30th-celebration-day-and-night-mini-tin-display": {
      "title": "Pokemon - 30th Celebration - Day and Night Mini Tin Display",
@@ -21784,9 +21784,9 @@
     "mtg-tarkir-dragonstorm-commander-decks-sultai-arisen": {
      "title": "MTG - Tarkir: Dragonstorm - Commander Decks - Sultai Arisen",
      "game": "MTG",
-     "available": false,
-     "price": 89.95,
-     "unavail_since": 1789592142
+     "available": true,
+     "price": 119.95,
+     "last_restock_alert": 1792788046
     },
     "pokemon-first-partner-illustration-collections-series-3-pre-order": {
      "title": "Pokemon First Partner Illustration Collections - Series 3",
@@ -22195,7 +22195,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28823,7 +28823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
