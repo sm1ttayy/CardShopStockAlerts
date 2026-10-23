@@ -19430,6 +19430,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 64.95
+    },
+    "mtg-innistrad-double-feature-english-booster-box": {
+     "title": "MTG - Innistrad: Double Feature - English Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 389.95
     }
    },
    "baselined": true,
@@ -21376,10 +21382,9 @@
     "pokemon-30th-celebration-elite-trainer-box-pre-order": {
      "title": "Pokemon - 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 189.95,
-     "last_restock_alert": 1792440012,
-     "unavail_since": 1792527312
+     "last_restock_alert": 1792783819
     },
     "mtg-modern-horizons-3-commander-deck-creative-energy": {
      "title": "MTG - Modern Horizons 3 - Commander Deck - Creative Energy",
@@ -22179,7 +22184,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28807,7 +28812,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 66,
    "error_streak": 0,
    "last_error": ""
   },
