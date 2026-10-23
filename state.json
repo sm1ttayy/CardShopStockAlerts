@@ -1784,9 +1784,10 @@
     "riftbound-league-of-legends-tcg-spiritforged-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Spiritforged Booster Box Display",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 185.0,
-     "last_restock_alert": 1791440061
+     "last_restock_alert": 1791440061,
+     "unavail_since": 1792765080
     },
     "riftbound-league-of-legends-tcg-unleashed-booster-box-display": {
      "title": "Riftbound: League of Legends TCG - Unleashed Booster Box Display",
@@ -2135,9 +2136,10 @@
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 110.0,
-     "last_restock_alert": 1785843576
+     "last_restock_alert": 1785843576,
+     "unavail_since": 1792765080
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Collector Booster Box",
@@ -2184,7 +2186,7 @@
      "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 130.0
+     "price": 125.0
     },
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Jumpstart Booster Box",
@@ -4630,8 +4632,9 @@
     "one-piece-extra-booster-heroines-edition-vol-2-booster-box-eb-05": {
      "title": "[PREORDER] One Piece: Extra Booster - Heroines Edition vol.2 Booster Box - [EB-05]",
      "game": "One Piece",
-     "available": true,
-     "price": 319.0
+     "available": false,
+     "price": 319.0,
+     "unavail_since": 1792765079
     },
     "starter-deck-21-gear5-st-21": {
      "title": "Starter Deck EX 21: Gear5 [ST-21]",
@@ -4660,7 +4663,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6652,6 +6655,27 @@
      "game": "MTG",
      "available": true,
      "price": 117.0
+    },
+    "pokemon-tcg-mega-evolution-delta-reign-booster-box-pre-order": {
+     "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Box (PRE-ORDER)",
+     "game": "Pokemon",
+     "available": false,
+     "price": 230.0,
+     "unavail_since": 1792765080
+    },
+    "magic-the-gathering-star-trek-play-booster-box-pre-order": {
+     "title": "Magic The Gathering: Star Trek Play Booster Box (PRE-ORDER)",
+     "game": "MTG",
+     "available": false,
+     "price": 145.0,
+     "unavail_since": 1792765080
+    },
+    "riftbound-league-of-legends-tcg-radiance-booster-box-pre-order": {
+     "title": "Riftbound League of Legends TCG: Radiance Booster Box (PRE-ORDER)",
+     "game": "Riftbound",
+     "available": false,
+     "price": 210.0,
+     "unavail_since": 1792765082
     }
    },
    "baselined": true,
@@ -7020,9 +7044,10 @@
     "magic-the-gathering-marvel-super-heroes-play-booster-box": {
      "title": "Magic the Gathering Marvel Super Heroes Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 129.75,
-     "last_restock_alert": 1789738798
+     "last_restock_alert": 1789738798,
+     "unavail_since": 1792765082
     },
     "magic-the-gathering-avatar-the-last-airbender-play-booster-box": {
      "title": "Magic The Gathering Avatar The Last Airbender Play Booster Box",
@@ -8885,6 +8910,12 @@
      "game": "MTG",
      "available": true,
      "price": 99.97
+    },
+    "riftbound-league-of-legends-radiance-booster-box": {
+     "title": "Riftbound League of Legends Radiance Booster Box",
+     "game": "Riftbound",
+     "available": true,
+     "price": 179.75
     }
    },
    "baselined": true,
@@ -10562,7 +10593,7 @@
      "title": "Pokemon Mega Evolution - Delta Reign Booster Box (DLR) (Presale)",
      "game": "Pokemon",
      "available": true,
-     "price": 244.99
+     "price": 219.99
     },
     "scarlet-violet-twilight-masquerade-pokemon-center-elite-trainer-box-exclusive-damaged-plastic-wrapping-copy": {
      "title": "Scarlet & Violet - Twilight Masquerade Pokemon Center Elite Trainer Box (Exclusive)",
@@ -10588,6 +10619,12 @@
      "game": "MTG",
      "available": true,
      "price": 144.99
+    },
+    "sword-shield-brilliant-stars-booster-box": {
+     "title": "Pokemon Sword & Shield - Brilliant Stars Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 549.99
     }
    },
    "baselined": true,
@@ -12535,8 +12572,9 @@
     "one-piece-tcg-eb05-heroines-vol-2-booster-box-preorder": {
      "title": "One Piece TCG: EB05 Heroines' VOL. 2 Booster Box - Preorder",
      "game": "One Piece",
-     "available": true,
-     "price": 280.0
+     "available": false,
+     "price": 280.0,
+     "unavail_since": 1792765079
     }
    },
    "baselined": true,
@@ -14421,7 +14459,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 101,
    "error_streak": 0,
    "last_error": ""
   },
