@@ -19360,6 +19360,12 @@
      "game": "MTG",
      "available": true,
      "price": 149.95
+    },
+    "mtg-masters-25-english-booster-box": {
+     "title": "MTG - Masters 25 - English Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 429.95
     }
    },
    "baselined": true,
@@ -22097,7 +22103,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28707,7 +28713,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
