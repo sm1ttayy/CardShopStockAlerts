@@ -40,9 +40,9 @@
     "one-piece-tcg-eb-05-extra-booster-box": {
      "title": "One Piece TCG: (EB-05) Extra Booster Box (Pre-Order)",
      "game": "One Piece",
-     "available": false,
-     "price": 119.76,
-     "unavail_since": 1784083330
+     "available": true,
+     "price": 335.0,
+     "last_restock_alert": 1792737175
     },
     "one-piece-tcg-eb-04-egghead-crisis-booster-box-japanese": {
      "title": "One Piece TCG: [EB-04] Egghead Crisis - Booster Box [Japanese]",
@@ -4660,7 +4660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14421,7 +14421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 77,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
