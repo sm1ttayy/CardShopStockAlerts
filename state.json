@@ -17470,7 +17470,7 @@
      "title": "Riftbound: League of Legends - Radiance Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 199.95,
+     "price": 209.95,
      "last_restock_alert": 1792783217
     },
     "riftbound-league-of-legends-spiritforged-chinese-jumbo-booster-box": {
@@ -20973,10 +20973,9 @@
     "mtg-starter-commander-deck-draconic-destruction": {
      "title": "MTG - Starter Commander Deck - Draconic Destruction",
      "game": "MTG",
-     "available": false,
-     "price": 39.95,
-     "last_restock_alert": 1790806831,
-     "unavail_since": 1792527319
+     "available": true,
+     "price": 49.95,
+     "last_restock_alert": 1792786876
     },
     "mtg-lord-of-the-rings-commander-deck-elvin-council-pre-order": {
      "title": "MTG - Lord Of The Rings Commander Deck - Elven Council",
@@ -22196,7 +22195,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27488,7 +27487,7 @@
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 181.75,
+     "price": 179.99,
      "unavail_since": 1791237639
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-gardevoir": {
@@ -28824,7 +28823,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
