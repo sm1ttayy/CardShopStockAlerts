@@ -17101,9 +17101,10 @@
     "riftbound-radiance-booster-box": {
      "title": "Riftbound Radiance Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 124.95,
-     "last_restock_alert": 1792543517
+     "last_restock_alert": 1792543517,
+     "unavail_since": 1792786533
     },
     "pokemon-me2-5-ascended-heroes-ex-boxes-set-of-3": {
      "title": "Pokemon ME2.5 Ascended Heroes ex Boxes Set of 3",
@@ -19765,10 +19766,9 @@
     "league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Origins Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 339.95,
-     "last_restock_alert": 1786580412,
-     "unavail_since": 1786581611
+     "last_restock_alert": 1792786533
     },
     "riftbound-league-of-legends-chinese-jumbo-booster-box-pre-order": {
      "title": "Riftbound League Of Legends Chinese Jumbo Booster Box",
@@ -19794,10 +19794,9 @@
     "league-of-legends-riftbound-tcg-vendetta-vault-pre-order": {
      "title": "League of Legends Riftbound TCG: Vendetta Vault",
      "game": "Riftbound",
-     "available": false,
-     "price": 54.95,
-     "last_restock_alert": 1785633911,
-     "unavail_since": 1785938116
+     "available": true,
+     "price": 64.95,
+     "last_restock_alert": 1792786533
     },
     "league-of-legends-riftbound-tcg-proving-grounds-box-set-pre-order": {
      "title": "League of Legends Riftbound TCG: Proving Grounds Box Set",
@@ -22191,7 +22190,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28819,7 +28818,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
