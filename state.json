@@ -19108,9 +19108,9 @@
     "mtg-edge-of-eternities-commander-deck-world-shaper": {
      "title": "MTG - Edge of Eternities - Commander Deck - World Shaper",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 74.95,
-     "unavail_since": 1791062724
+     "last_restock_alert": 1792785020
     },
     "pokemon-battle-styles-elite-trainer-box-rapid-strike-urshifu": {
      "title": "Pokemon - Battle Styles - Elite Trainer Box - Rapid Strike Urshifu",
@@ -19122,9 +19122,9 @@
     "mtg-edge-of-eternities-commander-deck-set-of-2": {
      "title": "MTG - Edge of Eternities - Commander Deck - Set of 2",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 114.95,
-     "unavail_since": 1791062724
+     "last_restock_alert": 1792785020
     },
     "mtg-aetherdrift-commander-decks-set-of-2": {
      "title": "MTG - Aetherdrift - Commander Decks - Set of 2",
@@ -22194,7 +22194,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28822,7 +28822,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 73,
    "error_streak": 0,
    "last_error": ""
   },
