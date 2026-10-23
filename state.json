@@ -19448,10 +19448,9 @@
     "one-piece-cg-eb-03-extra-booster-box-pre-order": {
      "title": "One Piece CG EB-03 Extra Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 499.95,
-     "last_restock_alert": 1789079105,
-     "unavail_since": 1790981103
+     "last_restock_alert": 1792785309
     },
     "one-piece-op-10-booster-box-pre-order": {
      "title": "One Piece OP-10 Royal Blood Booster Box",
@@ -21915,9 +21914,9 @@
     "pokemon-tcg-mega-set-7-booster-bundle-pre-order-copy": {
      "title": "Pokemon TCG Mega Set 7 Flowing Fists Booster Bundle (Pre Order)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 44.95,
-     "unavail_since": 1792617018
+     "last_restock_alert": 1792785327
     },
     "riftbound-league-of-legends-radiance-vault-pre-order": {
      "title": "Riftbound: League of Legends - Radiance Vault",
@@ -22194,7 +22193,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28451,7 +28450,7 @@
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 25.99,
+     "price": 26.24,
      "last_restock_alert": 1789598432,
      "unavail_since": 1791231352
     },
@@ -28822,7 +28821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
