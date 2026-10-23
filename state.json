@@ -19555,10 +19555,9 @@
     "pokemon-temporal-forces-booster-box-pre-order": {
      "title": "Pokemon Temporal Forces Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 429.95,
-     "last_restock_alert": 1786665331,
-     "unavail_since": 1790306710
+     "available": true,
+     "price": 449.95,
+     "last_restock_alert": 1792784717
     },
     "pokemon-scarlet-violet-surging-sparks-booster-box-pre-order": {
      "title": "Pokemon Scarlet & Violet Surging Sparks Booster Box",
@@ -22180,10 +22179,22 @@
      "game": "MTG",
      "available": true,
      "price": 39.95
+    },
+    "mtg-reality-fracture-play-booster-box": {
+     "title": "MTG Reality Fracture Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 189.95
+    },
+    "mtg-reality-fracture-bundle": {
+     "title": "MTG Reality Fracture Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27684,7 +27695,7 @@
      "title": "Innistrad: Midnight Hunt - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 183.25,
+     "price": 182.75,
      "last_restock_alert": 1786811743,
      "unavail_since": 1791120628
     },
@@ -28139,7 +28150,7 @@
      "title": "Double Pack Set Vol. 10",
      "game": "One Piece",
      "available": false,
-     "price": 37.49,
+     "price": 37.25,
      "last_restock_alert": 1788205828,
      "unavail_since": 1789417544
     },
@@ -28811,7 +28822,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
