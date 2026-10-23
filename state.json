@@ -22103,7 +22103,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28713,7 +28713,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29982,6 +29982,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 138.95
+    },
+    "radiance-showdown-decks-evelynn-vs-seraphine": {
+     "title": "Radiance - Showdown Decks: Evelynn vs Seraphine",
+     "game": "Riftbound",
+     "available": true,
+     "price": 29.95
     }
    },
    "baselined": true,
