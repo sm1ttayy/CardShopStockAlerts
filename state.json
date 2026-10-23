@@ -15006,6 +15006,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 129.99
+    },
+    "riftbound-league-of-legends-tcg-radiance-vault": {
+     "title": "Riftbound: League of Legends TCG: Radiance - Vault",
+     "game": "Riftbound",
+     "available": true,
+     "price": 54.99
     }
    },
    "baselined": true,
@@ -22240,7 +22246,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28868,7 +28874,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
