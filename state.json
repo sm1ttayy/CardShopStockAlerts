@@ -20002,10 +20002,9 @@
     "one-piece-cg-st-24-starter-deck-pre-order-copy": {
      "title": "One Piece CG ST-25 Starter Deck- Buggy",
      "game": "One Piece",
-     "available": false,
-     "price": 54.95,
-     "last_restock_alert": 1786664705,
-     "unavail_since": 1787878505
+     "available": true,
+     "price": 59.95,
+     "last_restock_alert": 1792786211
     },
     "one-piece-cg-st-28-starter-deck-pre-order": {
      "title": "One Piece CG ST-28 Starter Deck - Yamato",
@@ -20025,10 +20024,9 @@
     "one-piece-cg-st-24-starter-deck-pre-order": {
      "title": "One Piece CG ST-24 Starter Deck Jewelry Bonney",
      "game": "One Piece",
-     "available": false,
-     "price": 44.95,
-     "last_restock_alert": 1786664426,
-     "unavail_since": 1786737308
+     "available": true,
+     "price": 59.95,
+     "last_restock_alert": 1792786211
     },
     "one-piece-card-game-starter-deck-display-st-30-pre-order": {
      "title": "One Piece Card Game - Starter Deck  ST-30 - Luffy And Ace",
@@ -22193,7 +22191,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28821,7 +28819,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
