@@ -777,15 +777,16 @@
      "title": "Riftbound TCG: League of Legends: Vendetta: The Vendetta Vault",
      "game": "Riftbound",
      "available": true,
-     "price": 44.6,
+     "price": 44.21,
      "last_restock_alert": 1790096510
     },
     "riftbound-tcg-league-of-legends-vendetta-display-box": {
      "title": "Riftbound TCG: League of Legends: Vendetta - Display Box",
      "game": "Riftbound",
-     "available": true,
-     "price": 138.06,
-     "last_restock_alert": 1790096510
+     "available": false,
+     "price": 129.87,
+     "last_restock_alert": 1790096510,
+     "unavail_since": 1792797245
     },
     "pokemon-tcg-battle-partners-booster-box-sv9-battle-partners-japanese-version": {
      "title": "Pokemon TCG: Battle Partners Booster Box - (SV9) Battle Partners [Japanese Version]",
@@ -928,10 +929,10 @@
      "unavail_since": 1784083329
     },
     "riftbound-tcg-league-of-legends-radiance-display-box": {
-     "title": "Riftbound TCG: League of Legends: Radiance - Display Box (Pre-Order)",
+     "title": "Riftbound TCG: League of Legends: Radiance - Display Box",
      "game": "Riftbound",
      "available": false,
-     "price": 120.0,
+     "price": 139.9,
      "unavail_since": 1784083329
     },
     "one-piece-tcg-op-18-title-tba-display-box-english": {
@@ -1709,6 +1710,13 @@
      "available": false,
      "price": 67.13,
      "unavail_since": 1792531891
+    },
+    "riftbound-tcg-league-of-legends-radiance-showdown-deck-display-evelynn-vs-seraphine": {
+     "title": "Riftbound TCG: League of Legends - Radiance: Showdown Deck - Evelynn vs Seraphine",
+     "game": "Riftbound",
+     "available": false,
+     "price": 34.99,
+     "unavail_since": 1792797245
     }
    },
    "baselined": true,
@@ -4663,7 +4671,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4745,10 +4753,10 @@
      "price": 105.0
     },
     "pokemon-tcg-mega-evolution-chaos-rising-booster-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box (SALE)",
+     "title": "Pokemon TCG: Mega Evolution - Chaos Rising Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 185.0
+     "price": 180.0
     },
     "pokemon-tcg-gem-volume-5-booster-box-chinese": {
      "title": "Pokemon TCG: Gem Volume 5 Booster Box (Chinese)",
@@ -4868,10 +4876,10 @@
      "unavail_since": 1784083329
     },
     "pokemon-tcg-mega-evolution-pitch-black-booster-bundle-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box",
+     "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 44.0,
+     "price": 40.0,
      "last_restock_alert": 1784313937
     },
     "pokemon-scarlet-and-violet-shrouded-fable-booster-bundle-pre-order": {
@@ -5196,19 +5204,19 @@
      "title": "Pokemon TCG: Mega Greninja EX Premium Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 52.0
+     "price": 50.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-2-box": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 2 Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 25.0
+     "price": 30.0
     },
     "pokemon-tcg-mega-evolution-first-partner-illustration-collection-series-3-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - First Partner Illustration Collection Series 3 Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 27.0
+     "price": 25.0
     },
     "pokemon-tcg-scarlet-and-violet-prismatic-evolutions-accessory-pouch-special-collection-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - Prismatic Evolutions Accessory Pouch Special Collection Box",
@@ -6351,7 +6359,7 @@
      "title": "Pokemon TCG: 30th Celebration Knock Out Collection Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 30.0
+     "price": 25.0
     },
     "pokemon-tcg-30th-celebration-tech-sticker-collection-blister-alolan-exeggutor": {
      "title": "Pokemon TCG: 30th Celebration Tech Sticker Collection Blister (Alolan Exeggutor)",
@@ -6644,11 +6652,11 @@
      "price": 63.0
     },
     "riftbound-league-of-legends-tcg-radiance-vault-bundle-pre-order": {
-     "title": "Riftbound League of Legends TCG: Radiance Vault Bundle (PRE-ORDER)",
+     "title": "Riftbound League of Legends TCG: Radiance Vault Bundle (SALE)",
      "game": "Riftbound",
-     "available": false,
-     "price": 63.0,
-     "unavail_since": 1792531876
+     "available": true,
+     "price": 35.0,
+     "last_restock_alert": 1792797284
     },
     "mtg_st_capenna_cmdnr_cabaretti": {
      "title": "Magic the Gathering: Streets of New Capenna Cabaretti Cacophony Commander Deck",
@@ -6682,6 +6690,12 @@
      "game": "One Piece",
      "available": true,
      "price": 25.0
+    },
+    "pokemon-tcg-tera-team-premium-collection-box": {
+     "title": "Pokemon TCG: Tera Team Premium Collection Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 125.0
     }
    },
    "baselined": true,
@@ -10055,7 +10069,7 @@
      "price": 559.99
     },
     "magic-the-gathering-teenage-mutant-ninja-turtles-pizza-bundle": {
-     "title": "Magic: The Gathering Teenage Mutant Ninja Turtles - Pizza Bundle",
+     "title": "Magic: The Gathering - Teenage Mutant Ninja Turtles Pizza Bundle",
      "game": "MTG",
      "available": true,
      "price": 99.99
@@ -10509,7 +10523,7 @@
      "price": 124.99
     },
     "magic-the-gathering-avatar-the-last-airbender-bundle-mtg": {
-     "title": "Magic: The Gathering Avatar The Last Airbender Bundle",
+     "title": "Magic: The Gathering - Avatar The Last Airbender Bundle",
      "game": "MTG",
      "available": true,
      "price": 59.99
@@ -10631,6 +10645,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 549.99
+    },
+    "one-piece-card-game-devil-fruits-collection-vol-3": {
+     "title": "One Piece Card Game - Devil Fruits Collection Vol. 3",
+     "game": "One Piece",
+     "available": true,
+     "price": 59.99
+    },
+    "one-piece-treasure-booster-set-one-piece-promotion-cards-op-pr": {
+     "title": "One Piece Card Game - Treasure Booster Set",
+     "game": "One Piece",
+     "available": true,
+     "price": 199.99
+    },
+    "reality-fracture-bundle-reality-fracture-fra": {
+     "title": "Magic: The Gathering - Reality Fracture Bundle Box",
+     "game": "MTG",
+     "available": true,
+     "price": 59.99
     }
    },
    "baselined": true,
@@ -12771,10 +12803,9 @@
     "riftbound-league-of-legends-tcg-origins-proving-grounds": {
      "title": "Riftbound TCG: Origins: Proving Grounds",
      "game": "Riftbound",
-     "available": false,
-     "price": 54.99,
-     "last_restock_alert": 1790371651,
-     "unavail_since": 1790492942
+     "available": true,
+     "price": 49.99,
+     "last_restock_alert": 1792797245
     },
     "riftbound-tcg-spiritforged-booster-display": {
      "title": "Riftbound TCG: Spiritforged: Booster Display",
@@ -13534,7 +13565,7 @@
      "title": "Pok\u00e9mon TCG: Pok\u00e9mon GO: Pokemon Center Elite Trainer Box Plus",
      "game": "Pokemon",
      "available": true,
-     "price": 235.99
+     "price": 224.99
     },
     "pokemon-tcg-paradox-rift-booster-display": {
      "title": "Pok\u00e9mon TCG: Paradox Rift: Booster Display",
@@ -14462,10 +14493,24 @@
      "available": false,
      "price": 69.99,
      "unavail_since": 1792610444
+    },
+    "pokemon-tcg-pokemon-go-premium-collection": {
+     "title": "Pok\u00e9mon TCG: Pok\u00e9mon GO Premium Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 37.99,
+     "unavail_since": 1792797233
+    },
+    "riftbound-tcg-league-of-legends-arcane-box-set": {
+     "title": "Riftbound TCG: League of Legends Arcane Box Set",
+     "game": "Riftbound",
+     "available": false,
+     "price": 189.99,
+     "unavail_since": 1792797245
     }
    },
    "baselined": true,
-   "check_cursor": 73,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
