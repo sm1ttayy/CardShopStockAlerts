@@ -4660,7 +4660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8879,6 +8879,12 @@
      "game": "One Piece",
      "available": true,
      "price": 30.0
+    },
+    "2010-topps-magic-football-blaster-box": {
+     "title": "2010 Topps Magic Football - Blaster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 99.97
     }
    },
    "baselined": true,
@@ -14415,7 +14421,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
