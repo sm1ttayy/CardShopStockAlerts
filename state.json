@@ -21601,8 +21601,9 @@
     "mtg-ikoria-lair-of-behemoths-english-booster-box": {
      "title": "MTG - Ikoria Lair of Behemoths - English Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 369.95
+     "available": false,
+     "price": 369.95,
+     "unavail_since": 1792853125
     },
     "pre-order-mtg-streets-of-new-capenna-english-bundle": {
      "title": "MTG - Streets of New Capenna - English Bundle",
@@ -22275,7 +22276,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27061,7 +27062,7 @@
      "title": "Celebrations Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 584.75
+     "price": 514.99
     },
     "ascended-heroes-pokemon-center-elite-trainer-box": {
      "title": "Ascended Heroes Pokemon Center Elite Trainer Box",
@@ -27098,9 +27099,9 @@
     "destined-rivals-pokemon-center-elite-trainer-box": {
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 389.75,
-     "unavail_since": 1789603830
+     "available": true,
+     "price": 410.99,
+     "last_restock_alert": 1792853161
     },
     "marvel-super-heroes-commander-deck-the-fantastic-four": {
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
@@ -27509,7 +27510,7 @@
      "title": "Storm Emeralda Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 98.49,
+     "price": 97.49,
      "unavail_since": 1791120627
     },
     "pitch-black-build-battle-box": {
@@ -28365,7 +28366,7 @@
      "title": "The World's Strongest Warriors Double Pack Set Vol.12",
      "game": "One Piece",
      "available": false,
-     "price": 42.75,
+     "price": 43.75,
      "unavail_since": 1789417547
     },
     "illustration-box-vol-6": {
@@ -28780,7 +28781,7 @@
      "title": "30th Celebration Mini Tin [Night Pikachu]",
      "game": "Pokemon",
      "available": false,
-     "price": 26.99,
+     "price": 26.25,
      "last_restock_alert": 1791590123,
      "unavail_since": 1791592223
     },
@@ -28892,10 +28893,16 @@
      "game": "Riftbound",
      "available": true,
      "price": 32.25
+    },
+    "pokemon-go-premier-deck-holder-collectiondragonite-vstar": {
+     "title": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 154.38
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
