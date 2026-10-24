@@ -4236,8 +4236,9 @@
     "tin-pack-set-vol-1-monkey-d-luffy-ts01": {
      "title": "One Piece - Tin Pack Vol. 1 -Monkey.D.Luffy- [TS01]",
      "game": "One Piece",
-     "available": true,
-     "price": 60.0
+     "available": false,
+     "price": 60.0,
+     "unavail_since": 1792853362
     },
     "30th-celebration-ex-box-set-of-2": {
      "title": "Pok\u00e9mon: 30th Celebration - Greninja & Sylveon ex Box [Set of 2]",
@@ -4679,7 +4680,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14532,7 +14533,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
