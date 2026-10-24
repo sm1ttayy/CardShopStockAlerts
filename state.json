@@ -22277,7 +22277,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26577,10 +26577,9 @@
     "pokemon-s-v-temporal-forces-booster-box": {
      "title": "Temporal Forces Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 322.75,
-     "last_restock_alert": 1789592146,
-     "unavail_since": 1791725439
+     "available": true,
+     "price": 395.64,
+     "last_restock_alert": 1792853514
     },
     "pokemon-japanese-clay-burst-booster-box": {
      "title": "Japanese Clay Burst Booster Box",
@@ -28546,7 +28545,7 @@
      "title": "Team Rocket\u2019s Moltres ex Ultra-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 330.75,
+     "price": 314.99,
      "unavail_since": 1789611633
     },
     "final-fantasy-limit-break-commander-deck": {
@@ -28775,7 +28774,7 @@
      "title": "Mutant Menace Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 124.25,
+     "price": 121.75,
      "unavail_since": 1791583828
     },
     "30th-celebration-mini-tin-night-pikachu": {
@@ -28903,7 +28902,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
