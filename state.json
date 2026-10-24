@@ -22277,7 +22277,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24700,8 +24700,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'pokemon-sv10-5-white-flare-booster-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -28717,7 +28717,7 @@
      "title": "30th Celebration Mini Tin [Mewtwo]",
      "game": "Pokemon",
      "available": false,
-     "price": 26.99,
+     "price": 25.99,
      "unavail_since": 1791575424
     },
     "30th-celebration-ex-tin-sylveon-ex-retail-version": {
@@ -28902,7 +28902,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
