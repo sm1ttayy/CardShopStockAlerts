@@ -4223,8 +4223,9 @@
     "tin-pack-set-vol-1-gol-d-roger-ts01": {
      "title": "One Piece - Tin Pack Vol. 1 -Gol.D.Roger- [TS01]",
      "game": "One Piece",
-     "available": true,
-     "price": 60.0
+     "available": false,
+     "price": 60.0,
+     "unavail_since": 1792841465
     },
     "tin-pack-set-vol-1-monkey-d-luffy-ts01": {
      "title": "One Piece - Tin Pack Vol. 1 -Monkey.D.Luffy- [TS01]",
@@ -4671,7 +4672,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14516,7 +14517,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
