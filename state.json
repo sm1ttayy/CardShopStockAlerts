@@ -4671,7 +4671,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6129,10 +6129,10 @@
      "price": 15.0
     },
     "one-piece-tcg-yellow-eustass-captain-kid-starter-deck-ex-st-36": {
-     "title": "One Piece TCG: Yellow Eustass Captain Kid Starter Deck EX (ST-36)",
+     "title": "One Piece TCG: Yellow Eustass Captain Kid Starter Deck EX (ST-36) (SALE)",
      "game": "One Piece",
      "available": true,
-     "price": 18.0
+     "price": 15.0
     },
     "riftbound-tcg-league-of-legends-unleashed-champion-deck-vex-pre-order": {
      "title": "Riftbound TCG: League of Legends Unleashed Champion Deck (Vex)",
@@ -10663,6 +10663,12 @@
      "game": "MTG",
      "available": true,
      "price": 59.99
+    },
+    "pos-riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
+     "title": "Riftbound: League of Legends TCG - Vendetta Showdown Decks: Zed vs Shen",
+     "game": "Riftbound",
+     "available": true,
+     "price": 24.99
     }
    },
    "baselined": true,
@@ -14510,7 +14516,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 65,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
