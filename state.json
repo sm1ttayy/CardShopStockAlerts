@@ -15034,6 +15034,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 54.99
+    },
+    "riftbound-league-of-legends-tcg-radiance-showdown-deck-evelynn-vs-seraphine": {
+     "title": "Riftbound: League of Legends TCG: Radiance - Showdown Deck: Evelynn vs Seraphine",
+     "game": "Riftbound",
+     "available": true,
+     "price": 34.99
     }
    },
    "baselined": true,
@@ -21014,8 +21020,9 @@
     "mtg-phyrexia-all-will-be-one-bundle-compleat-edition-pre-order": {
      "title": "MTG - Phyrexia: All Will Be One - Bundle - Compleat Edition",
      "game": "MTG",
-     "available": true,
-     "price": 594.95
+     "available": false,
+     "price": 594.95,
+     "unavail_since": 1792852829
     },
     "pokemon-tcg-salamence-ex-reshiram-ex-premium-collection-pre-order": {
      "title": "Pokemon TCG: Salamence ex &  Reshiram ex Premium Collection",
@@ -21455,7 +21462,7 @@
      "title": "Pokemon - 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 189.95,
+     "price": 169.95,
      "last_restock_alert": 1792783819
     },
     "mtg-modern-horizons-3-commander-deck-creative-energy": {
@@ -22268,7 +22275,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24691,8 +24698,8 @@
    },
    "baselined": true,
    "check_cursor": 10,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'pokemon-sv10-5-white-flare-booster-bundle' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -25548,10 +25555,9 @@
     "pitch-black-booster-box": {
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 187.75,
-     "last_restock_alert": 1785526241,
-     "unavail_since": 1791575128
+     "available": true,
+     "price": 207.0,
+     "last_restock_alert": 1792852845
     },
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island Booster Box",
@@ -25661,9 +25667,8 @@
     "pokemon-evolving-skies-booster-box": {
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 2058.75,
-     "unavail_since": 1792157442
+     "available": true,
+     "price": 2214.75
     },
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
@@ -26345,10 +26350,9 @@
     "pokemon-s-v-obsidian-flames-booster-box": {
      "title": "Obsidian Flames Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 385.99,
-     "last_restock_alert": 1790306151,
-     "unavail_since": 1791725437
+     "available": true,
+     "price": 431.64,
+     "last_restock_alert": 1792852845
     },
     "final-fantasy-play-booster-box": {
      "title": "Final Fantasy Play Booster Box",
@@ -26433,10 +26437,9 @@
     "pokemon-scarlet-violet-booster-box": {
      "title": "Scarlet & Violet Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 297.99,
-     "last_restock_alert": 1790306129,
-     "unavail_since": 1792092624
+     "available": true,
+     "price": 305.64,
+     "last_restock_alert": 1792852845
     },
     "cosmic-eclipse-booster-box": {
      "title": "Cosmic Eclipse Booster Box",
@@ -26469,10 +26472,9 @@
     "pokemon-s-v-paradox-rift-booster-box": {
      "title": "Paradox Rift Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 289.99,
-     "last_restock_alert": 1790306129,
-     "unavail_since": 1791120640
+     "available": true,
+     "price": 305.64,
+     "last_restock_alert": 1792852845
     },
     "mtg-ravnica-remastered-collector-booster-box": {
      "title": "Ravnica Remastered Collector Booster Box",
@@ -26531,9 +26533,8 @@
     "pokemon-s-s-lost-origin-booster-box": {
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 738.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 738.75
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
      "title": "The Lord of the Rings: Tales of Middle-earth Collector Booster Box",
@@ -26827,7 +26828,7 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 84.25
+     "price": 85.99
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -26847,13 +26848,13 @@
      "title": "Paldean Fates Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 162.75
+     "price": 174.75
     },
     "paldea-evolved-booster-bundle": {
      "title": "Paldea Evolved Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 122.75
+     "price": 126.75
     },
     "scarlet-violet-booster-bundle": {
      "title": "Scarlet & Violet Booster Bundle",
@@ -27084,10 +27085,9 @@
     "phantasmal-flames-pokemon-center-elite-trainer-box": {
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 279.75,
-     "last_restock_alert": 1786479935,
-     "unavail_since": 1789599038
+     "available": true,
+     "price": 282.75,
+     "last_restock_alert": 1792852854
     },
     "pokemon-day-2026-collection": {
      "title": "Pokemon Day 2026 Collection",
@@ -27279,10 +27279,9 @@
     "pokemon-surging-sparks-booster-bundle": {
      "title": "Surging Sparks Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 68.49,
-     "last_restock_alert": 1788206153,
-     "unavail_since": 1791124826
+     "last_restock_alert": 1792852850
     },
     "dungeons-of-death-commander-deck": {
      "title": "Dungeons of Death Commander Deck",
@@ -27559,9 +27558,9 @@
     "twilight-masquerade-pokemon-center-elite-trainer-box": {
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 179.99,
-     "unavail_since": 1791237639
+     "available": true,
+     "price": 184.75,
+     "last_restock_alert": 1792852854
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-gardevoir": {
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Gardevoir]",
@@ -27651,7 +27650,7 @@
      "title": "Brilliant Stars Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 245.75,
+     "price": 244.99,
      "last_restock_alert": 1786566936
     },
     "pokemon-celebrations-booster-pack-1x-random-art": {
@@ -27822,7 +27821,7 @@
      "title": "Black Bolt Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 95.75
+     "price": 96.75
     },
     "surging-sparks-elite-trainer-box": {
      "title": "Surging Sparks Elite Trainer Box",
@@ -28158,7 +28157,7 @@
      "title": "White Flare Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 89.75,
+     "price": 94.75,
      "last_restock_alert": 1789592443
     },
     "mega-evolution-booster-bundle": {
@@ -28690,7 +28689,7 @@
      "title": "Jet-Black Spirit Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 107.99,
+     "price": 107.75,
      "unavail_since": 1791725423
     },
     "peerless-fighters-booster-box": {
@@ -28704,7 +28703,7 @@
      "title": "30th Celebration Mini Tin [Umbreon]",
      "game": "Pokemon",
      "available": false,
-     "price": 28.75,
+     "price": 27.49,
      "unavail_since": 1791575424
     },
     "30th-celebration-mini-tin-lapras": {
@@ -28813,7 +28812,7 @@
      "title": "Foundations Commander Deck - Wretched Ranks",
      "game": "MTG",
      "available": true,
-     "price": 41.75
+     "price": 42.25
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-lucario": {
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Lucario]",
@@ -28896,7 +28895,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
