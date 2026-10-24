@@ -15796,9 +15796,10 @@
     "pokemon-30th-celebration-poster-collection-me-30th-celebration-30c": {
      "title": "Pok\u00e9mon 30th Celebration Poster Collection | ME 30C",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 34.99,
-     "last_restock_alert": 1792527314
+     "last_restock_alert": 1792527314,
+     "unavail_since": 1792861233
     },
     "megahouse-portrait-of-pirates-one-piece-sabo-fire-fist-inheritance-limited-edition-figure": {
      "title": "Megahouse: Portrait of Pirates One Piece - Sabo (Fire Fist Inheritance) Limited Edition Figure",
@@ -22277,7 +22278,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28902,7 +28903,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
