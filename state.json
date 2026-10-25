@@ -22311,7 +22311,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23231,12 +23231,11 @@
      "price": 189.99
     },
     "reality-fracture-play-booster-display": {
-     "title": "Reality Fracture - Play Booster Display",
+     "title": "Reality Fracture - Play Booster Display [LIMIT 1 PER ORDER]",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 199.99,
-     "last_restock_alert": 1788993019,
-     "unavail_since": 1790361313
+     "last_restock_alert": 1792969821
     },
     "reality-fracture-bundle": {
      "title": "Reality Fracture - Bundle [LIMIT 1 PER ORDER]",
@@ -28759,9 +28758,10 @@
     "30th-celebration-ex-tin-sylveon-ex-retail-version": {
      "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
      "game": "Pokemon",
-     "available": true,
-     "price": 66.75,
-     "last_restock_alert": 1792018223
+     "available": false,
+     "price": 62.49,
+     "last_restock_alert": 1792018223,
+     "unavail_since": 1792969826
     },
     "foundations-commander-deck-tramplesaurus-rex": {
      "title": "Foundations Commander Deck - Tramplesaurus Rex",
@@ -28962,7 +28962,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
