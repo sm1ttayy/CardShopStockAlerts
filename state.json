@@ -22282,10 +22282,16 @@
      "game": "MTG",
      "available": true,
      "price": 54.95
+    },
+    "mtg-reality-fracture-commander-deck-multiverse-reforged": {
+     "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged",
+     "game": "MTG",
+     "available": true,
+     "price": 74.95
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28928,7 +28934,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
