@@ -22291,7 +22291,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28405,8 +28405,9 @@
     "30th-celebration-battle-deck-umbreon-ex": {
      "title": "30th Celebration Battle Deck [Umbreon ex]",
      "game": "Pokemon",
-     "available": true,
-     "price": 61.25
+     "available": false,
+     "price": 57.99,
+     "unavail_since": 1792943423
     },
     "30th-celebration-booster-bundle": {
      "title": "30th Celebration Booster Bundle",
@@ -28934,7 +28935,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
