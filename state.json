@@ -4366,9 +4366,9 @@
     "one-piece-tcg-illustration-box-vol-6": {
      "title": "One Piece: Illustration Box Vol.6 [IB-06]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 100.0,
-     "unavail_since": 1789060590
+     "last_restock_alert": 1792958454
     },
     "one-piece-starter-deck-36-yellow-eustace-captain-kid-st-36": {
      "title": "One Piece: Starter Deck 36 - YELLOW Eustace \"Captain\" Kid [ST-36]",
@@ -4482,8 +4482,9 @@
     "30th-celebration-elite-trainer-box": {
      "title": "Pok\u00e9mon: 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 129.0
+     "available": false,
+     "price": 120.0,
+     "unavail_since": 1792958455
     },
     "30th-celebration-poster-collection": {
      "title": "Pok\u00e9mon: 30th Celebration Poster Collection",
@@ -4671,7 +4672,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5306,7 +5307,7 @@
      "title": "Magic The Gathering: Secrets of Strixhaven Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 57.0
+     "price": 48.0
     },
     "magic-the-gathering-marvel-super-heroes-bundle-box-pre-order": {
      "title": "Magic the Gathering: Marvel Super Heroes Bundle Box",
@@ -5336,13 +5337,13 @@
      "title": "Magic The Gathering: Tarkir Dragonstorm Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 121.0
+     "price": 113.0
     },
     "mtg_crimvow_giftbundle": {
      "title": "Magic the Gathering: Innistrad: Crimson Vow - Gift Bundle",
      "game": "MTG",
      "available": true,
-     "price": 150.0
+     "price": 156.0
     },
     "magic-the-gathering-marvel-spider-man-bundle-box-pre-order": {
      "title": "Magic The Gathering: Marvel Spider-Man Bundle Box",
@@ -5480,10 +5481,10 @@
      "price": 42.0
     },
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box-pre-order": {
-     "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box (SALE)",
+     "title": "Magic the Gathering: Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 110.0,
+     "price": 109.0,
      "last_restock_alert": 1785843580
     },
     "magic-the-gathering-the-hobbit-play-booster-box-pre-order": {
@@ -6052,7 +6053,7 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 31.0
+     "price": 34.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32) (SALE)",
@@ -6294,10 +6295,10 @@
      "price": 17.0
     },
     "magic-the-gathering-secrets-of-strixhaven-draft-night": {
-     "title": "Magic The Gathering: Secrets of Strixhaven Draft Night",
+     "title": "Magic The Gathering: Secrets of Strixhaven Draft Night (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 121.0
+     "price": 85.0
     },
     "one-piece-tcg-double-pack-volume-11-set": {
      "title": "One Piece TCG: Double Pack Volume 11 Set",
@@ -6510,7 +6511,7 @@
      "title": "Magic The Gathering: The Hobbit Bundle Box (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 60.0
+     "price": 45.0
     },
     "mtg_dominariautd_set": {
      "title": "Magic the Gathering: Dominaria United Set Booster Box",
@@ -6616,10 +6617,10 @@
      "price": 40.0
     },
     "magic-the-gathering-reality-fracture-bundle-box-pre-order": {
-     "title": "Magic The Gathering: Reality Fracture Bundle Box",
+     "title": "Magic The Gathering: Reality Fracture Bundle Box (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 70.0
+     "price": 45.0
     },
     "pokemon-tcg-30th-celebration-mini-tin-moltres": {
      "title": "Pokemon TCG: 30th Celebration Mini Tin (Moltres)",
@@ -6696,6 +6697,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 125.0
+    },
+    "mtg_21_core_bundle": {
+     "title": "Magic the Gathering: Core Set (2021) Bundle Box",
+     "game": "MTG",
+     "available": true,
+     "price": 114.0
     }
    },
    "baselined": true,
@@ -14524,7 +14531,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
