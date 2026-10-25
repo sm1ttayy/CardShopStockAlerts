@@ -22311,7 +22311,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28952,10 +28952,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 115.49
+    },
+    "romance-dawn-booster-box-wave-1-blue-bottom": {
+     "title": "Romance Dawn Booster Box (Wave 1 - Blue Bottom)",
+     "game": "One Piece",
+     "available": true,
+     "price": 4646.99
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
