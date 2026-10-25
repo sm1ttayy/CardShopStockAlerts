@@ -22310,7 +22310,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25597,9 +25597,9 @@
     "adventure-on-kamis-island-booster-box": {
      "title": "Adventure on Kami's Island Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 253.49,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 247.99,
+     "last_restock_alert": 1792966820
     },
     "secrets-of-strixhaven-collector-booster-display": {
      "title": "Secrets of Strixhaven - Collector Booster Display",
@@ -28372,9 +28372,10 @@
     "one-piece-heroines-edition-booster-box": {
      "title": "One Piece Heroines Edition Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 305.49,
-     "last_restock_alert": 1792699549
+     "last_restock_alert": 1792699549,
+     "unavail_since": 1792966821
     },
     "commander-legends-battle-for-baldurs-gate-exit-from-exile-commander-deck": {
      "title": "Commander Legends: Battle for Baldur's Gate - Exit from Exile Commander Deck",
@@ -28960,7 +28961,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
