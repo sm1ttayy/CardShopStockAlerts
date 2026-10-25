@@ -14739,10 +14739,9 @@
     "prismatic-evolutions-bundle-moonshot-rips": {
      "title": "Prismatic Evolutions Bundle - Moonshot Rips",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 85.0,
-     "last_restock_alert": 1791149408,
-     "unavail_since": 1792959913
+     "last_restock_alert": 1792962611
     },
     "destined-rivals-bundle-moonshot-rips": {
      "title": "Destined Rivals Bundle - Moonshot Rips",
@@ -22311,7 +22310,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28961,7 +28960,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
