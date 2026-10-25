@@ -22311,7 +22311,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27153,7 +27153,7 @@
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 406.75
+     "price": 392.99
     },
     "jumpstart-booster-box": {
      "title": "Jumpstart - Booster Box",
@@ -28366,9 +28366,9 @@
     "pokemon-astral-radiance-pokemon-center-elite-trainer-box": {
      "title": "Astral Radiance Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 188.75,
-     "unavail_since": 1791922846
+     "last_restock_alert": 1792961427
     },
     "one-piece-heroines-edition-booster-box": {
      "title": "One Piece Heroines Edition Booster Box",
@@ -28955,7 +28955,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
