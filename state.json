@@ -17268,6 +17268,20 @@
      "game": "Riftbound",
      "available": true,
      "price": 36.95
+    },
+    "pokemon-30th-celebration-battle-deck-espeon-ex": {
+     "title": "Pokemon 30th Celebration Battle Deck - Espeon ex",
+     "game": "Pokemon",
+     "available": false,
+     "price": 29.95,
+     "unavail_since": 1792952712
+    },
+    "pokemon-30th-celebration-battle-deck-umbreon-ex": {
+     "title": "Pokemon 30th Celebration Battle Deck - Umbreon ex",
+     "game": "Pokemon",
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1792952712
     }
    },
    "baselined": true,
@@ -22291,7 +22305,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28935,7 +28949,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
