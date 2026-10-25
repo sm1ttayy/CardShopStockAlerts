@@ -1738,7 +1738,7 @@
      "title": "One Piece The Time of Battle Booster Box [OP-16]",
      "game": "One Piece",
      "available": true,
-     "price": 210.0,
+     "price": 205.0,
      "last_restock_alert": 1787097043
     },
     "one-piece-the-azure-seas-seven-booster-box-op-14": {
@@ -1752,14 +1752,14 @@
      "title": "One Piece Extra Booster: Heroines Edition Box [EB-03]",
      "game": "One Piece",
      "available": true,
-     "price": 330.0,
+     "price": 305.0,
      "last_restock_alert": 1788391878
     },
     "one-piece-legacy-of-the-master-booster-box-op12": {
      "title": "One Piece Legacy of the Master Booster Box [OP12]",
      "game": "One Piece",
      "available": true,
-     "price": 280.0
+     "price": 290.0
     },
     "mega-evolution-ascended-heroes-elite-trainer-box": {
      "title": "Pokemon - Mega Evolution: Ascended Heroes Elite Trainer Box",
@@ -2188,7 +2188,7 @@
      "title": "One Piece Carrying On His Will Booster Box [OP-13]",
      "game": "One Piece",
      "available": true,
-     "price": 475.0,
+     "price": 435.0,
      "last_restock_alert": 1790040808
     },
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-play-booster-box": {
@@ -2228,7 +2228,7 @@
      "title": "One Piece A Fist of Divine Speed Booster Box [OP11]",
      "game": "One Piece",
      "available": true,
-     "price": 600.0
+     "price": 550.0
     },
     "magic-the-gathering-final-fantasy-collector-booster-box": {
      "title": "Magic: The Gathering Final Fantasy Collector Booster Box",
@@ -2248,9 +2248,9 @@
     "one-piece-booster-box-op10-royal-blood": {
      "title": "One Piece Royal Blood Booster Box [OP10]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 240.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1792905755
     },
     "magic-the-gathering-aetherdrift-play-booster-box": {
      "title": "Magic: The Gathering Aetherdrift Collector Booster Box",
@@ -2580,9 +2580,9 @@
     "two-legends-booster-box-op08": {
      "title": "Two Legends Booster Box [OP08]",
      "game": "One Piece",
-     "available": false,
-     "price": 230.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 234.0,
+     "last_restock_alert": 1792905758
     },
     "500-years-in-the-future-booster-box-op07": {
      "title": "One Piece: 500 Years in the Future - Booster Box [OP07]",
@@ -3814,7 +3814,7 @@
      "title": "Starter Deck 25: BLUE Buggy [ST-25]",
      "game": "One Piece",
      "available": true,
-     "price": 43.0,
+     "price": 40.0,
      "last_restock_alert": 1790252293
     },
     "starter-deck-22-blue-ace-newgate-st-22": {
@@ -4161,10 +4161,9 @@
     "one-piece-the-worlds-strongest-warriors-booster-box-op-17": {
      "title": "One Piece: The World's Strongest Warriors - Booster Box [OP-17]",
      "game": "One Piece",
-     "available": false,
-     "price": 299.0,
-     "last_restock_alert": 1789518391,
-     "unavail_since": 1791599007
+     "available": true,
+     "price": 310.0,
+     "last_restock_alert": 1792905755
     },
     "pokemon-mega-evolution-ascended-heroes-collection-larry": {
      "title": "Pokemon - Mega Evolution: Ascended Heroes Collection [Larry]",
@@ -4237,7 +4236,7 @@
      "title": "One Piece - Tin Pack Vol. 1 -Monkey.D.Luffy- [TS01]",
      "game": "One Piece",
      "available": false,
-     "price": 60.0,
+     "price": 45.0,
      "unavail_since": 1792853362
     },
     "30th-celebration-ex-box-set-of-2": {
@@ -4344,7 +4343,7 @@
      "title": "One Piece: Starter Deck 33 - BLUE Kuzan [ST-33]",
      "game": "One Piece",
      "available": true,
-     "price": 20.0
+     "price": 22.0
     },
     "one-piece-starter-deck-31-red-monkey-d-luffy-st-31": {
      "title": "One Piece: Starter Deck 31 - RED Monkey.D.Luffy [ST-31]",
@@ -4357,13 +4356,13 @@
      "title": "One Piece: Starter Deck 32 - GREEN Roronoa Zoro [ST-32]",
      "game": "One Piece",
      "available": true,
-     "price": 35.0
+     "price": 32.0
     },
     "double-pack-set-volume-7-dp07": {
      "title": "One Piece: A Fist of Divine Speed Double Pack Set Volume 7 [DP07]",
      "game": "One Piece",
      "available": true,
-     "price": 80.0
+     "price": 94.0
     },
     "one-piece-tcg-illustration-box-vol-8": {
      "title": "One Piece: Illustration Box Vol.8 [IB-08]",
@@ -4649,9 +4648,9 @@
     "one-piece-extra-booster-heroines-edition-vol-2-booster-box-eb-05": {
      "title": "[PREORDER] One Piece: Extra Booster - Heroines Edition vol.2 Booster Box - [EB-05]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 319.0,
-     "unavail_since": 1792765079
+     "last_restock_alert": 1792905755
     },
     "starter-deck-21-gear5-st-21": {
      "title": "Starter Deck EX 21: Gear5 [ST-21]",
@@ -4680,7 +4679,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14533,7 +14532,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
