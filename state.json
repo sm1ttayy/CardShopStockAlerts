@@ -14888,10 +14888,9 @@
     "pokemon-tcg-30th-celebration-1x-pack-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration 1x Pack - Moonshot Rips (OPENED LIVE ON STREAM)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 20.0,
-     "last_restock_alert": 1790306119,
-     "unavail_since": 1792008914
+     "last_restock_alert": 1792958412
     },
     "pokemon-tcg-30th-celebration-1x-pack-moons-energy-break-4": {
      "title": "Pokemon TCG: 30th Celebration 1x Pack - Moons\u2026 Energy Break #4",
@@ -14946,10 +14945,9 @@
     "pokemon-tcg-30th-celebration-booster-bundle-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration Booster Bundle (6 Packs) - Moonshot Rips (OPENED LIVE ON STREAM)",
      "game": "Pokemon",
-     "available": false,
-     "price": 60.0,
-     "last_restock_alert": 1792181709,
-     "unavail_since": 1792368610
+     "available": true,
+     "price": 70.0,
+     "last_restock_alert": 1792958411
     },
     "pokemon-30th-1-pack-energy-break-1": {
      "title": "Pokemon 30th: 1 pack Energy Break #1",
@@ -22305,7 +22303,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28949,7 +28947,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
