@@ -22071,9 +22071,10 @@
     "mtg-tarkir-dragonstorm-commander-deck-set-of-5-pre-order": {
      "title": "MTG - Tarkir Dragonstorm - Commander Deck (Set Of 5)",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 399.95,
-     "last_restock_alert": 1793045733
+     "last_restock_alert": 1793045733,
+     "unavail_since": 1793046920
     },
     "union-arena-tcg-puella-magi-madoka-magica-ue29bt-pre-order": {
      "title": "Union Arena TCG Puella Magi Madoka Magica [UE29BT] (Pre Order)",
@@ -28997,7 +28998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
