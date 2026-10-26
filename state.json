@@ -19952,8 +19952,9 @@
     "mtg-tarkir-dragonstorm-play-booster-box-pre-order": {
      "title": "MTG - Tarkir Dragonstorm - Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 189.95
+     "available": false,
+     "price": 199.95,
+     "unavail_since": 1793050218
     },
     "mtg-bloomburrow-english-play-booster-box-pre-order": {
      "title": "MTG - Bloomburrow - English Play Booster Box",
@@ -22365,10 +22366,16 @@
      "available": false,
      "price": 79.95,
      "unavail_since": 1793049615
+    },
+    "mtg-universes-beyond-avatar-the-last-airbender-play-booster-box-pre-order": {
+     "title": "MTG - Universes Beyond: Avatar The Last Airbender - Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 229.95
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29020,7 +29027,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
