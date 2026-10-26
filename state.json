@@ -17311,6 +17311,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 69.95
+    },
+    "pokemon-burning-shadows-booster-box": {
+     "title": "Pokemon Burning Shadows Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1249.95
     }
    },
    "baselined": true,
@@ -22375,7 +22381,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29037,7 +29043,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
