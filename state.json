@@ -19718,7 +19718,7 @@
      "title": "Pokemon TCG Mega Evolution Base Set Booster Box - Enhanced Booster",
      "game": "Pokemon",
      "available": true,
-     "price": 429.95,
+     "price": 449.95,
      "last_restock_alert": 1788897912
     },
     "simplified-chinese-pokemon-crystal-gathering-csv9-5c-booster-box-pre-order": {
@@ -19798,7 +19798,7 @@
      "title": "Pokemon Scarlet And Violet 8.5 Prismatic Evolution Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 189.95,
+     "price": 179.95,
      "last_restock_alert": 1790553359
     },
     "pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022": {
@@ -20083,9 +20083,10 @@
     "magic-the-gathering-mystery-booster-convention-edition-booster-box": {
      "title": "Magic The Gathering Mystery Booster: Convention Edition - Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 449.95,
-     "last_restock_alert": 1788554179
+     "last_restock_alert": 1788554179,
+     "unavail_since": 1793049315
     },
     "magic-the-gathering-modern-masters-2015-edition-booster-box": {
      "title": "Magic the Gathering Modern Masters 2015 Edition Booster Box",
@@ -22344,10 +22345,23 @@
      "game": "MTG",
      "available": true,
      "price": 139.94
+    },
+    "pokemon-trading-card-game-scarlet-violet-paldea-evolved-booster-box-pre-order-1": {
+     "title": "Pokemon Trading Card Game Scarlet & Violet Paldea Evolved Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 699.95
+    },
+    "pokemon-tcg-scarlet-violet-the-glory-of-team-rocket-sealed-box-pre-order": {
+     "title": "Pokemon TCG Scarlet Violet The Glory of Team Rocket booster box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 299.95,
+     "unavail_since": 1793049309
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28999,7 +29013,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
