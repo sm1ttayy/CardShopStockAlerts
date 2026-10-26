@@ -2755,9 +2755,10 @@
     "scarlet-violet-stellar-crown-booster-box-display": {
      "title": "Scarlet & Violet: Stellar Crown - Booster Box Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 310.0,
-     "last_restock_alert": 1792935952
+     "last_restock_alert": 1792935952,
+     "unavail_since": 1793031111
     },
     "bloomburrow-collector-booster-display": {
      "title": "Bloomburrow Collector Booster Display",
@@ -2853,9 +2854,10 @@
     "scarlet-violet-temporal-forces-booster-box-display": {
      "title": "Scarlet & Violet: Temporal Forces - Booster Box Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 325.0,
-     "last_restock_alert": 1792935952
+     "last_restock_alert": 1792935952,
+     "unavail_since": 1793031111
     },
     "outlaws-of-thunder-junction-play-booster-box": {
      "title": "Outlaws of Thunder Junction Play Booster Box",
@@ -2895,9 +2897,10 @@
     "double-masters-2022-draft-booster-box-display": {
      "title": "Double Masters 2022 Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 500.0,
-     "last_restock_alert": 1792935952
+     "last_restock_alert": 1792935952,
+     "unavail_since": 1793031111
     },
     "mystery-booster-booster-box-retail-exclusive": {
      "title": "Mystery Booster Booster Box [2019 Retail Exclusive]",
@@ -2972,9 +2975,10 @@
     "scarlet-violet-paradox-rift-booster-box-display": {
      "title": "Scarlet & Violet: Paradox Rift - Booster Box Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 290.0,
-     "last_restock_alert": 1792935952
+     "last_restock_alert": 1792935952,
+     "unavail_since": 1793031111
     },
     "zendikar-rising-collector-booster-display": {
      "title": "Zendikar Rising Collector Booster Display",
@@ -3029,7 +3033,7 @@
      "title": "Fallen Empires Draft Booster Box Display",
      "game": "MTG",
      "available": true,
-     "price": 600.0
+     "price": 575.0
     },
     "war-of-the-spark-booster-box-display": {
      "title": "War of the Spark Booster Box Display",
@@ -3041,9 +3045,9 @@
     "scarlet-and-violet-paldea-evolved-booster-box-display": {
      "title": "Scarlet and Violet: Paldea Evolved - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
-     "price": 500.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 465.0,
+     "last_restock_alert": 1793031112
     },
     "pre-order-commander-masters-collector-booster-display": {
      "title": "Commander Masters Collector Booster Display",
@@ -3054,9 +3058,8 @@
     "pre-order-commander-masters-set-booster-display": {
      "title": "Commander Masters Set Booster Display",
      "game": "MTG",
-     "available": false,
-     "price": 615.0,
-     "unavail_since": 1784083591
+     "available": true,
+     "price": 632.0
     },
     "pre-order-commander-masters-draft-booster-display": {
      "title": "Commander Masters Draft Booster Display",
@@ -3081,9 +3084,9 @@
     "pre-order-march-of-the-machine-set-booster-display": {
      "title": "March of the Machine Set Booster Display",
      "game": "MTG",
-     "available": false,
-     "price": 310.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 265.0,
+     "last_restock_alert": 1793031112
     },
     "pre-order-march-of-the-machine-draft-booster-display": {
      "title": "March of the Machine Draft Booster Box Display",
@@ -3109,9 +3112,9 @@
     "guilds-of-ravnica-booster-box-display": {
      "title": "Guilds of Ravnica Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 165.0,
-     "unavail_since": 1789047753
+     "available": true,
+     "price": 170.0,
+     "last_restock_alert": 1793031112
     },
     "phyrexia-all-will-be-one-draft-booster-box-display": {
      "title": "Phyrexia: All Will Be One Draft Booster Box Display",
@@ -3151,10 +3154,9 @@
     "dominaria-remastered-draft-booster-box-display": {
      "title": "Dominaria Remastered Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 275.0,
-     "last_restock_alert": 1790085905,
-     "unavail_since": 1790430442
+     "last_restock_alert": 1793031112
     },
     "commander-legends-baldurs-gate-set-booster-box-display": {
      "title": "Commander Legends: Battle for Baldur's Gate Set Booster Box Display",
@@ -3223,23 +3225,21 @@
     "sword-shield-lost-origin-booster-box-display": {
      "title": "Sword & Shield: Lost Origin - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
-     "price": 750.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 750.0
     },
     "jumpstart-2022-booster-box-display": {
      "title": "Jumpstart 2022 Booster Box Display",
      "game": "MTG",
      "available": true,
-     "price": 210.0
+     "price": 190.0
     },
     "unfinity-draft-booster-box-display": {
      "title": "Unfinity Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 165.0,
-     "last_restock_alert": 1790085905,
-     "unavail_since": 1792848242
+     "last_restock_alert": 1793031112
     },
     "unfinity-collector-booster-box-display": {
      "title": "Unfinity Collector Booster Box Display",
@@ -3321,9 +3321,9 @@
     "commander-legends-battle-for-baldurs-gate-draft-booster-box-display": {
      "title": "Commander Legends: Battle for Baldur's Gate Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 310.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1793031112
     },
     "kamigawa-neon-dynasty-japanese-collector-booster-box-display": {
      "title": "Kamigawa: Neon Dynasty Collector Booster Box Display [JPN]",
@@ -4394,15 +4394,15 @@
     "pre-order-march-of-the-machine-jumpstart-booster-display": {
      "title": "Magic: The Gathering March of the Machine Jumpstart Booster Box",
      "game": "MTG",
-     "available": false,
-     "price": 150.0,
-     "unavail_since": 1789047753
+     "available": true,
+     "price": 139.0,
+     "last_restock_alert": 1793031112
     },
     "dominaria-united-jumpstart-booster-box-display": {
      "title": "Dominaria United Jumpstart Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 100.0,
+     "price": 88.0,
      "unavail_since": 1789047753
     },
     "scarlet-and-violet-obsidian-flames-booster-bundle": {
@@ -4642,9 +4642,10 @@
     "one-piece-extra-booster-heroines-edition-vol-2-booster-box-eb-05": {
      "title": "[PREORDER] One Piece: Extra Booster - Heroines Edition vol.2 Booster Box - [EB-05]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 319.0,
-     "last_restock_alert": 1792905755
+     "last_restock_alert": 1792905755,
+     "unavail_since": 1793031109
     },
     "starter-deck-21-gear5-st-21": {
      "title": "Starter Deck EX 21: Gear5 [ST-21]",
@@ -9574,9 +9575,10 @@
     "pokemon-mega-evolution-phantasmal-flames-booster-box": {
      "title": "Pokemon Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 399.99,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1793031112
     },
     "pokemon-journey-together-booster-box": {
      "title": "2025 Pokemon SV - Journey Together Booster Box",
@@ -14532,7 +14534,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
