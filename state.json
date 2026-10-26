@@ -21205,8 +21205,9 @@
     "pokemon-tcg-mega-evolution-perfect-order-build-battle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution\u2014Perfect Order Build & Battle Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1792972817
     },
     "pokemon-tcg-scarlet-violet-paldea-evolved-elite-trainer-pre-order": {
      "title": "Pok\u00e9mon TCG: Scarlet & Violet-Paldea Evolved Elite Trainer Box",
@@ -22311,7 +22312,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28962,7 +28963,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
