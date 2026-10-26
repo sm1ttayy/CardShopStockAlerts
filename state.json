@@ -17282,8 +17282,9 @@
     "reality-fracture-multiverse-reforged-commander-deck-preorder": {
      "title": "Reality Fracture Multiverse Reforged Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1793046619
     },
     "riftbound-radiance-vault-bundle": {
      "title": "Riftbound Radiance Vault Bundle",
@@ -22345,7 +22346,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28996,7 +28997,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
