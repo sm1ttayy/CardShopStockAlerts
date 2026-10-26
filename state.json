@@ -17275,9 +17275,9 @@
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 22.95,
-     "unavail_since": 1792783217
+     "last_restock_alert": 1793047220
     },
     "reality-fracture-multiverse-reforged-commander-deck-preorder": {
      "title": "Reality Fracture Multiverse Reforged Commander Deck",
@@ -22347,7 +22347,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28998,7 +28998,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
