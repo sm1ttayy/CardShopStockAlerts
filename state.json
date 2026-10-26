@@ -22375,7 +22375,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26808,9 +26808,9 @@
     "one-piece-starter-deck-4-animal-kingdom-pirates": {
      "title": "One Piece Starter Deck 4: Animal Kingdom Pirates",
      "game": "One Piece",
-     "available": false,
-     "price": 28.99,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 29.75,
+     "last_restock_alert": 1793052919
     },
     "premium-card-collection-best-selection-vol-4": {
      "title": "Premium Card Collection -Best Selection Vol. 4-",
@@ -29022,10 +29022,22 @@
      "game": "One Piece",
      "available": true,
      "price": 4646.99
+    },
+    "starter-deck-32-green-roronoa-zoro": {
+     "title": "Starter Deck 32: GREEN Roronoa Zoro",
+     "game": "One Piece",
+     "available": true,
+     "price": 30.25
+    },
+    "starter-deck-34-purple-charlotte-katakuri": {
+     "title": "Starter Deck 34: PURPLE Charlotte Katakuri",
+     "game": "One Piece",
+     "available": true,
+     "price": 24.49
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
