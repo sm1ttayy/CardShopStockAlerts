@@ -22387,7 +22387,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29046,10 +29046,16 @@
      "game": "One Piece",
      "available": true,
      "price": 24.49
+    },
+    "radiance-booster-display": {
+     "title": "Radiance Booster Display",
+     "game": "Riftbound",
+     "available": true,
+     "price": 133.75
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
