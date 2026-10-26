@@ -20512,7 +20512,7 @@
      "title": "Pokemon - Armarouge ex Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 79.95
+     "price": 85.95
     },
     "one-piece-prb-02-premium-booster-box-pre-order": {
      "title": "One Piece PRB-02 Premium Booster Box - English",
@@ -20695,7 +20695,7 @@
      "title": "Pokemon Combined Powers Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 189.95
+     "price": 174.95
     },
     "pokemon-shining-fates-mad-party-pin-collection-bunnelby-pre-order": {
      "title": "Pokemon - Shining Fates - Mad Party Pin Collection - Bunnelby",
@@ -20775,7 +20775,7 @@
      "title": "Pokemon Celebrations Ultra Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 1999.99
+     "price": 1999.95
     },
     "one-piece-card-game-starter-deck-yamato-pre-order": {
      "title": "One Piece Card Game - Starter Deck - Yamato",
@@ -22358,10 +22358,17 @@
      "available": false,
      "price": 299.95,
      "unavail_since": 1793049309
+    },
+    "pokemon-ogerpon-ex-premium-collection-box-pre-order": {
+     "title": "Pokemon Ogerpon Ex Premium Collection Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 79.95,
+     "unavail_since": 1793049615
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24675,7 +24682,7 @@
      "unavail_since": 1790306119
     },
     "riftbound-showdown-deck-evelynn-vs-seraphine": {
-     "title": "RIFTBOUND SHOWDOWN DECK - EVELYNN VS SERAPHINE PRE ORDER ^ OCT 23/26",
+     "title": "RIFTBOUND SHOWDOWN DECK - EVELYNN VS SERAPHINE",
      "game": "Riftbound",
      "available": true,
      "price": 37.95
@@ -29013,7 +29020,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
