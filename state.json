@@ -17309,8 +17309,9 @@
     "pokemon-mega-battle-deck-mega-gengar-ex-mega-diancie-ex-set-of-2": {
      "title": "Pokemon Mega Battle Deck: Mega Gengar ex/Mega Diancie ex (Set of 2)",
      "game": "Pokemon",
-     "available": true,
-     "price": 69.95
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1793062811
     },
     "pokemon-burning-shadows-booster-box": {
      "title": "Pokemon Burning Shadows Booster Box",
@@ -22394,7 +22395,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29062,7 +29063,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
