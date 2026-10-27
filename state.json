@@ -1717,6 +1717,13 @@
      "available": false,
      "price": 34.99,
      "unavail_since": 1792797245
+    },
+    "one-piece-tcg-mini-tin-mini-case-set-luffy-shanks-hancock": {
+     "title": "One Piece TCG: Mini Tin - Mini Case Set - Luffy/Shanks/Hancock (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 11.99,
+     "unavail_since": 1793140375
     }
    },
    "baselined": true,
@@ -4696,7 +4703,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14576,7 +14583,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
