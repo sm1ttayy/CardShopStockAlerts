@@ -2078,25 +2078,26 @@
      "title": "Magic: The Gathering - The Hobbit Bundle",
      "game": "MTG",
      "available": true,
-     "price": 60.0
+     "price": 49.0
     },
     "magic-the-gathering-marvel-super-heroes-gift-bundle": {
      "title": "Magic: The Gathering - Marvel Super Heroes Gift Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 79.0
+     "available": false,
+     "price": 70.0,
+     "unavail_since": 1793125329
     },
     "magic-the-gathering-marvel-super-heroes-bundle": {
      "title": "Magic: The Gathering - Marvel Super Heroes Bundle",
      "game": "MTG",
      "available": true,
-     "price": 69.0
+     "price": 49.0
     },
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-bundle": {
      "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Bundle",
      "game": "MTG",
      "available": true,
-     "price": 49.0
+     "price": 64.0
     },
     "magic-the-gathering-final-fantasy-bundle": {
      "title": "Magic: The Gathering Final Fantasy Bundle",
@@ -2109,7 +2110,7 @@
      "title": "Magic: The Gathering Universes Beyond: Spider-Man Bundle",
      "game": "MTG",
      "available": true,
-     "price": 52.0
+     "price": 66.0
     },
     "magic-the-gathering-secrets-of-strixhaven-bundle": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Bundle",
@@ -4440,7 +4441,7 @@
      "title": "Scarlet and Violet 151 - Ultra Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 1050.0,
+     "price": 800.0,
      "unavail_since": 1789260594
     },
     "pokemon-first-partner-illustration-collection-series-3": {
@@ -4674,10 +4675,28 @@
      "game": "MTG",
      "available": true,
      "price": 219.0
+    },
+    "magic-the-gathering-universes-beyond-avatar-the-last-airbender-scene-box": {
+     "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Scene Box [Set of 2]",
+     "game": "MTG",
+     "available": true,
+     "price": 86.0
+    },
+    "magic-the-gathering-star-trek-bundle": {
+     "title": "[PREORDER] Magic: The Gathering - Star Trek Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 49.0
+    },
+    "magic-the-gathering-star-trek-beam-me-up-bundle": {
+     "title": "[PREORDER] Magic: The Gathering - Star Trek Beam Me Up Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 119.0
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6959,7 +6978,7 @@
      "title": "Pokemon Scarlet & Violet Temporal Forces Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 169.75
+     "price": 139.75
     },
     "pokemon-scarlet-and-violet-journey-together-elite-trainer-box": {
      "title": "Pokemon Scarlet and Violet Journey Together Elite Trainer Box",
@@ -11939,6 +11958,12 @@
      "game": "MTG",
      "available": true,
      "price": 145.0
+    },
+    "fusion-strike-booster-box": {
+     "title": "Fusion Strike Booster Display",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1000.0
     }
    },
    "baselined": true,
@@ -12747,8 +12772,9 @@
     "pokemon-tcg-prismatic-evolutions-elite-trainer-box-pokemon-center-edition": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Elite Trainer Box - Pokemon Center Edition",
      "game": "Pokemon",
-     "available": true,
-     "price": 489.99
+     "available": false,
+     "price": 489.99,
+     "unavail_since": 1793125302
     },
     "pokemon-tcg-ascended-heroes-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: Ascended Heroes: Elite Trainer Box",
@@ -14550,7 +14576,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 96,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
