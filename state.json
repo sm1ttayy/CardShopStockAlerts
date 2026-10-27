@@ -2741,9 +2741,10 @@
     "duskmourn-house-of-horror-play-booster-box": {
      "title": "Duskmourn: House of Horror Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 200.0,
-     "last_restock_alert": 1792935952
+     "last_restock_alert": 1792935952,
+     "unavail_since": 1793114742
     },
     "duskmourn-house-of-horror-collector-booster-box": {
      "title": "Duskmourn: House of Horror Collector Booster Box",
@@ -3225,8 +3226,9 @@
     "sword-shield-lost-origin-booster-box-display": {
      "title": "Sword & Shield: Lost Origin - Booster Box Display",
      "game": "Pokemon",
-     "available": true,
-     "price": 750.0
+     "available": false,
+     "price": 750.0,
+     "unavail_since": 1793114742
     },
     "jumpstart-2022-booster-box-display": {
      "title": "Jumpstart 2022 Booster Box Display",
@@ -3433,9 +3435,9 @@
     "time-spiral-remastered-draft-booster-box-display": {
      "title": "Time Spiral Remastered Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 395.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1793114743
     },
     "theros-draft-booster-box-display": {
      "title": "Theros Draft Booster Box Display",
@@ -3448,7 +3450,7 @@
      "title": "Oath of the Gatewatch Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 180.0,
+     "price": 194.0,
      "unavail_since": 1784083329
     },
     "mirrodin-besieged-draft-booster-box-display": {
@@ -3461,9 +3463,9 @@
     "zendikar-rising-booster-box-display": {
      "title": "Zendikar Rising Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 240.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 186.0,
+     "last_restock_alert": 1793114743
     },
     "fate-reforged-booster-box-display": {
      "title": "Fate Reforged Draft Booster Box Display",
@@ -3574,7 +3576,7 @@
      "title": "Streets of New Capenna Set Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 200.0,
+     "price": 185.0,
      "unavail_since": 1784083329
     },
     "streets-of-new-capenna-draft-booster-box-display": {
@@ -3608,16 +3610,16 @@
     "sword-shield-battle-styles-booster-box-display": {
      "title": "Sword & Shield: Battle Styles - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 290.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1793114743
     },
     "sword-shield-vivid-voltage-booster-box-display": {
      "title": "Sword & Shield: Vivid Voltage - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
-     "price": 345.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 335.0,
+     "last_restock_alert": 1793114743
     },
     "sword-shield-darkness-ablaze-booster-box-display": {
      "title": "Sword & Shield: Darkness Ablaze - Booster Box Display",
@@ -3658,22 +3660,22 @@
      "title": "Kamigawa: Neon Dynasty Set Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 430.0,
+     "price": 405.0,
      "unavail_since": 1784083329
     },
     "modern-horizons-2-draft-booster-box-display": {
      "title": "Modern Horizons 2 Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 370.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1793114743
     },
     "modern-horizons-2-set-booster-box-display": {
      "title": "Modern Horizons 2 Set Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 500.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 478.0,
+     "last_restock_alert": 1793114743
     },
     "jumpstart-booster-box-display": {
      "title": "Jumpstart Booster Box Display",
@@ -3685,9 +3687,9 @@
     "kaldheim-draft-booster-box-display": {
      "title": "Kaldheim Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 175.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 186.0,
+     "last_restock_alert": 1793114743
     },
     "kaldheim-set-booster-box-display": {
      "title": "Kaldheim Set Booster Box Display",
@@ -3706,9 +3708,9 @@
     "strixhaven-school-of-mages-draft-booster-box-display": {
      "title": "Strixhaven: School of Mages Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 200.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1793114743
     },
     "strixhaven-school-of-mages-collector-booster-box-display": {
      "title": "Strixhaven: School of Mages Collector Booster Box Display",
@@ -3720,9 +3722,9 @@
     "strixhaven-school-of-mages-set-booster-box-display": {
      "title": "Strixhaven: School of Mages Set Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 200.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1793114743
     },
     "adventures-in-the-forgotten-realms-collector-booster-box-display": {
      "title": "Adventures in the Forgotten Realms Collector Booster Box Display",
@@ -3734,16 +3736,17 @@
     "adventures-in-the-forgotten-realms-set-booster-box-display": {
      "title": "Adventures in the Forgotten Realms Set Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 300.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 305.0,
+     "last_restock_alert": 1793114743
     },
     "adventures-in-the-forgotten-realms-draft-booster-box-display": {
      "title": "Adventures in the Forgotten Realms Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 270.0,
-     "last_restock_alert": 1792848242
+     "last_restock_alert": 1792848242,
+     "unavail_since": 1793114743
     },
     "innistrad-midnight-hunt-collector-booster-box-display": {
      "title": "Innistrad: Midnight Hunt Collector Booster Box Display",
@@ -3755,9 +3758,9 @@
     "innistrad-midnight-hunt-set-booster-box-display": {
      "title": "Innistrad: Midnight Hunt Set Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 170.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 189.0,
+     "last_restock_alert": 1793114743
     },
     "innistrad-midnight-hunt-draft-booster-box-display": {
      "title": "Innistrad: Midnight Hunt Draft Booster Box Display",
@@ -3783,9 +3786,9 @@
     "innistrad-crimson-vow-set-booster-box": {
      "title": "Innistrad: Crimson Vow Set Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 220.0,
-     "unavail_since": 1785843581
+     "available": true,
+     "price": 370.0,
+     "last_restock_alert": 1793114743
     },
     "starter-deck-20-yellow-charlotte-katakuri-st-20": {
      "title": "Starter Deck 20: YELLOW Charlotte Katakuri [ST-20]",
@@ -4597,9 +4600,9 @@
     "magic-the-gathering-reality-fracture-commander-decks": {
      "title": "Magic: The Gathering - Reality Fracture Commander Deck Multiverse Reforged",
      "game": "MTG",
-     "available": false,
-     "price": 56.0,
-     "unavail_since": 1791381062
+     "available": true,
+     "price": 49.0,
+     "last_restock_alert": 1793114743
     },
     "magic-the-gathering-secrets-of-strixhaven-codex-bundle": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Codex Bundle",
@@ -4664,7 +4667,7 @@
      "title": "[PREORDER] Magic: The Gathering - Star Trek Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 139.0
+     "price": 119.0
     },
     "magic-the-gathering-star-trek-commander-decks-set-of-4": {
      "title": "[PREORDER] Magic: The Gathering - Star Trek Commander Decks [Set of 4]",
@@ -4684,7 +4687,7 @@
      "title": "One Piece TCG: Carrying on His Will Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 471.0,
+     "price": 447.0,
      "last_restock_alert": 1789681209,
      "unavail_since": 1790006220
     },
@@ -5553,7 +5556,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 413.0,
+     "price": 412.0,
      "last_restock_alert": 1790259354,
      "unavail_since": 1790617400
     },
@@ -6104,7 +6107,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 50.0,
+     "price": 49.0,
      "unavail_since": 1790813511
     },
     "mtg_phyrexiaone_cbundle": {
@@ -6476,7 +6479,7 @@
      "title": "Pokemon TCG: Pokemon Day 2026 Collection Box",
      "game": "Pokemon",
      "available": false,
-     "price": 40.0,
+     "price": 41.0,
      "unavail_since": 1790165833
     },
     "mtg_broswar_jumpstart": {
@@ -6670,9 +6673,9 @@
     "pokemon-tcg-mega-evolution-delta-reign-booster-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Box (PRE-ORDER)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 230.0,
-     "unavail_since": 1792765080
+     "last_restock_alert": 1793114741
     },
     "magic-the-gathering-star-trek-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Star Trek Play Booster Box (PRE-ORDER)",
@@ -14547,7 +14550,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 96,
    "error_streak": 0,
    "last_error": ""
   },
