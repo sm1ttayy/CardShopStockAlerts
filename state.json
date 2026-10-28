@@ -21596,10 +21596,9 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 24.95,
-     "last_restock_alert": 1793045729,
-     "unavail_since": 1793219122
+     "last_restock_alert": 1793231412
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -22045,14 +22044,14 @@
      "title": "30th Celebration Pokemon ex Box - Sylveon ex",
      "game": "Pokemon",
      "available": true,
-     "price": 69.95,
+     "price": 59.95,
      "last_restock_alert": 1792440013
     },
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Greninja Ex",
      "game": "Pokemon",
      "available": true,
-     "price": 69.95,
+     "price": 59.95,
      "last_restock_alert": 1792440013
     },
     "mtg-reality-fracture-commander-deck-multiverse-reforged-pre-order": {
@@ -22549,10 +22548,17 @@
      "game": "MTG",
      "available": true,
      "price": 229.95
+    },
+    "pokemon-tcg-unova-poster-collection-pre-order": {
+     "title": "Pokemon TCG: Unova Poster Collection",
+     "game": "Pokemon",
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1793231411
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29242,7 +29248,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
