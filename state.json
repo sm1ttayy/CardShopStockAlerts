@@ -16642,9 +16642,10 @@
     "unova-poster-collection-sv-black-bolt": {
      "title": "Pokemon SV: Black Bolt Unova Poster Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 40.95,
-     "last_restock_alert": 1792448710
+     "last_restock_alert": 1792448710,
+     "unavail_since": 1793219412
     },
     "ascended-heroes-tech-sticker-collection-gastly": {
      "title": "Ascended Heroes Tech Sticker Collection - Gastly",
@@ -22519,7 +22520,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27513,7 +27514,7 @@
      "title": "Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 261.75,
+     "price": 259.99,
      "unavail_since": 1789598435
     },
     "lost-origin-pokemon-center-elite-trainer-box": {
@@ -28639,7 +28640,7 @@
      "title": "30th Celebration Battle Deck [Umbreon ex]",
      "game": "Pokemon",
      "available": false,
-     "price": 54.99,
+     "price": 43.49,
      "unavail_since": 1792943423
     },
     "30th-celebration-booster-bundle": {
@@ -28971,7 +28972,7 @@
      "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
      "game": "Pokemon",
      "available": false,
-     "price": 62.49,
+     "price": 62.25,
      "last_restock_alert": 1792018223,
      "unavail_since": 1792969826
     },
@@ -29209,7 +29210,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
