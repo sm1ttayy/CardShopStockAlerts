@@ -19801,9 +19801,10 @@
     "pokemon-mega-brave-japanese-booster-box-pre-order": {
      "title": "Pokemon Mega Brave Japanese Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 184.95,
-     "last_restock_alert": 1786664432
+     "last_restock_alert": 1786664432,
+     "unavail_since": 1793151016
     },
     "pokemon-tcg-mega-evolution-base-set-booster-box-enhanced-booster-max-2-per-customer-wave-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Base Set Booster Box - Enhanced Booster",
@@ -22479,7 +22480,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29164,7 +29165,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
