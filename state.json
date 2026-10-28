@@ -2243,9 +2243,10 @@
     "magic-the-gathering-tarkir-dragonstorm-play-booster-box": {
      "title": "Magic: The Gathering - Tarkir: Dragonstorm Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 165.0,
-     "last_restock_alert": 1792935950
+     "last_restock_alert": 1792935950,
+     "unavail_since": 1793203751
     },
     "one-piece-booster-box-op10-royal-blood": {
      "title": "One Piece Royal Blood Booster Box [OP10]",
@@ -2596,10 +2597,9 @@
     "pillars-of-strength-booster-box-op03": {
      "title": "Pillars of Strength Booster Box [OP03]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 490.0,
-     "last_restock_alert": 1788442812,
-     "unavail_since": 1788699429
+     "last_restock_alert": 1793203751
     },
     "judgement-booster-box-display": {
      "title": "Judgment Booster Box Display",
@@ -3121,9 +3121,10 @@
     "guilds-of-ravnica-booster-box-display": {
      "title": "Guilds of Ravnica Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 170.0,
-     "last_restock_alert": 1793031112
+     "last_restock_alert": 1793031112,
+     "unavail_since": 1793203752
     },
     "phyrexia-all-will-be-one-draft-booster-box-display": {
      "title": "Phyrexia: All Will Be One Draft Booster Box Display",
@@ -3331,9 +3332,10 @@
     "commander-legends-battle-for-baldurs-gate-draft-booster-box-display": {
      "title": "Commander Legends: Battle for Baldur's Gate Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 310.0,
-     "last_restock_alert": 1793031112
+     "last_restock_alert": 1793031112,
+     "unavail_since": 1793203752
     },
     "kamigawa-neon-dynasty-japanese-collector-booster-box-display": {
      "title": "Kamigawa: Neon Dynasty Collector Booster Box Display [JPN]",
@@ -3443,9 +3445,10 @@
     "time-spiral-remastered-draft-booster-box-display": {
      "title": "Time Spiral Remastered Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 395.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1793203752
     },
     "theros-draft-booster-box-display": {
      "title": "Theros Draft Booster Box Display",
@@ -3695,9 +3698,10 @@
     "kaldheim-draft-booster-box-display": {
      "title": "Kaldheim Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 186.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1793203752
     },
     "kaldheim-set-booster-box-display": {
      "title": "Kaldheim Set Booster Box Display",
@@ -3716,9 +3720,10 @@
     "strixhaven-school-of-mages-draft-booster-box-display": {
      "title": "Strixhaven: School of Mages Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 200.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1793203752
     },
     "strixhaven-school-of-mages-collector-booster-box-display": {
      "title": "Strixhaven: School of Mages Collector Booster Box Display",
@@ -3730,9 +3735,10 @@
     "strixhaven-school-of-mages-set-booster-box-display": {
      "title": "Strixhaven: School of Mages Set Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 200.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1793203752
     },
     "adventures-in-the-forgotten-realms-collector-booster-box-display": {
      "title": "Adventures in the Forgotten Realms Collector Booster Box Display",
@@ -4225,7 +4231,7 @@
      "title": "Magic: The Gathering - Reality Fracture Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 125.0,
+     "price": 119.0,
      "last_restock_alert": 1790347143
     },
     "tin-pack-set-vol-1-gol-d-roger-ts01": {
@@ -4621,9 +4627,9 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box": {
      "title": "Riftbound: League of Legends TCG - Radiance Booster Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 134.0,
-     "unavail_since": 1792848239
+     "available": true,
+     "price": 119.0,
+     "last_restock_alert": 1793203750
     },
     "riftbound-league-of-legends-tcg-radiance-showdown-deck-evelynn-vs-seraphine": {
      "title": "[PREORDER] Riftbound: League of Legends TCG - Radiance Showdown Deck [Evelynn vs Seraphine]",
@@ -6706,9 +6712,9 @@
     "magic-the-gathering-star-trek-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Star Trek Play Booster Box (PRE-ORDER)",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 145.0,
-     "unavail_since": 1792765080
+     "last_restock_alert": 1793203751
     },
     "riftbound-league-of-legends-tcg-radiance-booster-box-pre-order": {
      "title": "Riftbound League of Legends TCG: Radiance Booster Box (SALE)",
@@ -8437,9 +8443,10 @@
     "pokemon-mega-evolution-pitch-black-booster-box": {
      "title": "Pokemon Mega Evolution Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 184.75,
-     "last_restock_alert": 1790430437
+     "last_restock_alert": 1790430437,
+     "unavail_since": 1793203751
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
      "title": "Pokemon Mega Evolution Pitch Black Elite Trainer Box",
@@ -9622,7 +9629,7 @@
      "unavail_since": 1793031112
     },
     "pokemon-journey-together-booster-box": {
-     "title": "2025 Pokemon SV - Journey Together Booster Box",
+     "title": "Pokemon Scarlet & Violet - Journey Together Booster Box",
      "game": "Pokemon",
      "available": true,
      "price": 239.99,
@@ -10272,7 +10279,7 @@
      "price": 329.99
     },
     "march-of-the-machine-set-booster-box": {
-     "title": "Magic: The Gathering March of the Machine Set Booster Box",
+     "title": "Magic: The Gathering - March of the Machine Set Booster Box",
      "game": "MTG",
      "available": true,
      "price": 299.99
@@ -12665,7 +12672,7 @@
      "price": 30.0
     },
     "riftbound-tcg-radiance-booster-box-preorder": {
-     "title": "Riftbound TCG: Radiance - Booster Box - Preorder",
+     "title": "Riftbound TCG: Radiance - Booster Box",
      "game": "Riftbound",
      "available": false,
      "price": 120.0,
@@ -14583,7 +14590,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 81,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
