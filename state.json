@@ -748,7 +748,7 @@
      "title": "One Piece TCG: Double Pack Set Volume 12 (DP-12)",
      "game": "One Piece",
      "available": false,
-     "price": 36.5,
+     "price": 38.12,
      "unavail_since": 1784083332
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-booster-bundle": {
@@ -1724,6 +1724,27 @@
      "available": false,
      "price": 11.99,
      "unavail_since": 1793140375
+    },
+    "lego-one-piece-battle-at-arlong-park-75638-pre-order": {
+     "title": "Lego: One Piece \u2013 Battle at Arlong Park (75638)",
+     "game": "One Piece",
+     "available": false,
+     "price": 67.99,
+     "unavail_since": 1793230741
+    },
+    "one-piece-hachinosu-2-bandai-spirits-world-collectable-figure-10-helmeppo": {
+     "title": "One Piece - Hachinosu 2 Bandai Spirits World Collectable Blind Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 13.5,
+     "unavail_since": 1793230741
+    },
+    "lego-one-piece-dorry-vs-brogy-giants-of-little-garden-75644": {
+     "title": "Lego: One Piece - Dorry vs. Brogy \u2013 Giants of Little Garden (75644)",
+     "game": "One Piece",
+     "available": false,
+     "price": 67.99,
+     "unavail_since": 1793230741
     }
    },
    "baselined": true,
@@ -4709,7 +4730,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10504,7 +10525,7 @@
      "title": "Pokemon 30th Celebration - Ultra-Premium Collection (Presale)",
      "game": "Pokemon",
      "available": true,
-     "price": 599.99
+     "price": 499.99
     },
     "magic-the-gathering-marvel-super-heroes-play-booster-box-mtg": {
      "title": "Magic: The Gathering Marvel Super Heroes - Play Booster Box",
@@ -10540,14 +10561,14 @@
      "title": "Pokemon 30th Celebration - Knock Out Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 35.0,
+     "price": 24.99,
      "last_restock_alert": 1792593169
     },
     "pokemon-30th-celebration-poster-collection": {
      "title": "Pokemon 30th Celebration - Poster Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 44.99,
+     "price": 34.99,
      "last_restock_alert": 1790813504
     },
     "paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-sv-paldean-fates-paf": {
@@ -12668,8 +12689,9 @@
     "pokemon-tcg-me05-pitch-black-build-battle-kit": {
      "title": "Pokemon TCG: ME05 Pitch Black Build & Battle Kit",
      "game": "Pokemon",
-     "available": true,
-     "price": 30.0
+     "available": false,
+     "price": 30.0,
+     "unavail_since": 1793230752
     },
     "riftbound-tcg-radiance-booster-box-preorder": {
      "title": "Riftbound TCG: Radiance - Booster Box",
@@ -12691,6 +12713,13 @@
      "available": false,
      "price": 280.0,
      "unavail_since": 1792765079
+    },
+    "riftbound-tcg-radiance-vault": {
+     "title": "Riftbound TCG: Radiance - Vault Bundle",
+     "game": "Riftbound",
+     "available": false,
+     "price": 30.0,
+     "unavail_since": 1793230759
     }
    },
    "baselined": true,
@@ -14590,7 +14619,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
