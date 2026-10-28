@@ -19845,9 +19845,10 @@
     "pokemon-tcg-mega-evolution-base-set-booster-box-enhanced-booster-max-2-per-customer-wave-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Base Set Booster Box - Enhanced Booster",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 449.95,
-     "last_restock_alert": 1788897912
+     "last_restock_alert": 1788897912,
+     "unavail_since": 1793219713
     },
     "simplified-chinese-pokemon-crystal-gathering-csv9-5c-booster-box-pre-order": {
      "title": "[Simplified Chinese] Pokemon Crystal Gathering CSV9.5C Booster Box",
@@ -19933,9 +19934,10 @@
     "pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022": {
      "title": "Pokemon TCG - Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 239.95,
-     "last_restock_alert": 1791492920
+     "last_restock_alert": 1791492920,
+     "unavail_since": 1793219714
     },
     "pokemon-paldean-fates-booster-bundle-pre-order": {
      "title": "Pokemon Paldean Fates Booster Bundle",
@@ -22520,7 +22522,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27167,7 +27169,7 @@
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 39.99,
+     "price": 41.49,
      "last_restock_alert": 1789084248
     },
     "riftbound-worlds-bundle-2025": {
@@ -27819,7 +27821,7 @@
      "title": "Pokemon GO Pin Collection [Bulbasaur]",
      "game": "Pokemon",
      "available": true,
-     "price": 75.75
+     "price": 79.75
     },
     "pokemon-go-radiant-eevee-premium-collection": {
      "title": "Pokemon GO Radiant Eevee Premium Collection",
@@ -28080,7 +28082,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 65.75
+     "price": 65.25
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -28277,7 +28279,7 @@
      "title": "The Lost Caverns of Ixalan - Draft Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 274.75,
+     "price": 272.75,
      "unavail_since": 1791120626
     },
     "khans-of-tarkir-booster-box": {
@@ -28666,7 +28668,7 @@
      "title": "Pitch Black Premium Checklane Blister [Gengar Line]",
      "game": "Pokemon",
      "available": true,
-     "price": 23.75
+     "price": 23.25
     },
     "special-box-pokemon-center-hiroshima": {
      "title": "Special BOX Pokemon Center Hiroshima",
@@ -29146,7 +29148,7 @@
      "title": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
      "game": "Pokemon",
      "available": true,
-     "price": 139.99
+     "price": 113.49
     },
     "pokemon-celebrations-special-collection-v-memories-box": {
      "title": "Celebrations Special Collection [V Memories]",
@@ -29210,7 +29212,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
