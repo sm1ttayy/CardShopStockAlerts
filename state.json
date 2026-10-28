@@ -17265,9 +17265,10 @@
     "riftbound-radiance-booster-box": {
      "title": "Riftbound Radiance Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 124.95,
-     "last_restock_alert": 1793219123
+     "last_restock_alert": 1793219123,
+     "unavail_since": 1793225137
     },
     "pokemon-me2-5-ascended-heroes-ex-boxes-set-of-3": {
      "title": "Pokemon ME2.5 Ascended Heroes ex Boxes Set of 3",
@@ -22522,7 +22523,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29212,7 +29213,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
