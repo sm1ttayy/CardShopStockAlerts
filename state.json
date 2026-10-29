@@ -22585,7 +22585,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29278,10 +29278,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 129.75
+    },
+    "radiance-vault-bundle": {
+     "title": "Radiance Vault Bundle",
+     "game": "Riftbound",
+     "available": true,
+     "price": 38.75
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
