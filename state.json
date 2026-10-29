@@ -22561,7 +22561,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26823,8 +26823,9 @@
     "pokemon-s-s-lost-origin-booster-box": {
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 738.75
+     "available": false,
+     "price": 738.75,
+     "unavail_since": 1793236522
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
      "title": "The Lord of the Rings: Tales of Middle-earth Collector Booster Box",
@@ -29251,7 +29252,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
