@@ -17048,8 +17048,9 @@
     "pokemon-me04-chaos-rising-build-and-battle-box": {
      "title": "Pokemon ME04 Chaos Rising Build and Battle Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 39.95
+     "available": false,
+     "price": 39.95,
+     "unavail_since": 1793238011
     },
     "lumiose-city-mini-tin-display-set-of-10": {
      "title": "Lumiose City Mini Tin Display",
@@ -22561,7 +22562,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27313,7 +27314,7 @@
      "title": "151 Alakazam ex Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 115.99
+     "price": 118.99
     },
     "edge-of-eternities-commander-deck-world-shaper": {
      "title": "Edge of Eternities World Shaper Commander Deck",
@@ -29249,10 +29250,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 23.99
+    },
+    "mimikyu-ex-box": {
+     "title": "Mimikyu ex Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 129.75
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
