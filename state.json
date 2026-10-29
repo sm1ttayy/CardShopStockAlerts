@@ -21598,9 +21598,10 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 24.95,
-     "last_restock_alert": 1793231412
+     "last_restock_alert": 1793231412,
+     "unavail_since": 1793241011
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -22562,7 +22563,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29259,7 +29260,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
