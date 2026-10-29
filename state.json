@@ -1745,6 +1745,20 @@
      "available": false,
      "price": 67.99,
      "unavail_since": 1793230741
+    },
+    "one-piece-tcg-op-20-title-tba-display-case-english": {
+     "title": "One Piece TCG: [OP-20] TITLE TBA - Display Case [English] (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 1437.12,
+     "unavail_since": 1793290498
+    },
+    "one-piece-tcg-op-20-title-tba-display-box-english": {
+     "title": "One Piece TCG: [OP-20] TITLE TBA - Display Box [English] (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 119.76,
+     "unavail_since": 1793290498
     }
    },
    "baselined": true,
@@ -3075,9 +3089,10 @@
     "scarlet-and-violet-paldea-evolved-booster-box-display": {
      "title": "Scarlet and Violet: Paldea Evolved - Booster Box Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 465.0,
-     "last_restock_alert": 1793031112
+     "last_restock_alert": 1793031112,
+     "unavail_since": 1793290502
     },
     "pre-order-commander-masters-collector-booster-display": {
      "title": "Commander Masters Collector Booster Display",
@@ -4730,7 +4745,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -8465,7 +8480,7 @@
      "title": "Pokemon Mega Evolution Pitch Black Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 184.75,
+     "price": 174.75,
      "last_restock_alert": 1790430437,
      "unavail_since": 1793203751
     },
@@ -10197,7 +10212,7 @@
      "price": 249.99
     },
     "mystery-booster-2-booster-box": {
-     "title": "Mystery Booster 2 Booster Box",
+     "title": "Magic: The Gathering - Mystery Booster 2 Booster Box",
      "game": "MTG",
      "available": false,
      "price": 309.99,
@@ -14619,7 +14634,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 96,
    "error_streak": 0,
    "last_error": ""
   },
