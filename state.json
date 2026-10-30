@@ -14888,7 +14888,8 @@
      "game": "MTG",
      "available": false,
      "price": 189.99,
-     "unavail_since": 1790983513
+     "unavail_since": 1790983513,
+     "delisted": true
     },
     "chaos-rising-box-moonshot-rips-copy": {
      "title": "Chaos Rising Box - Moonshot Rips",
@@ -22586,7 +22587,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29288,7 +29289,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
