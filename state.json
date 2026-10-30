@@ -22675,7 +22675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26467,10 +26467,9 @@
     "ruler-of-the-black-flame-booster-box": {
      "title": "Japanese Ruler of the Black Flame Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 140.75,
-     "last_restock_alert": 1786227636,
-     "unavail_since": 1791725434
+     "available": true,
+     "price": 149.99,
+     "last_restock_alert": 1793397630
     },
     "lost-abyss-booster-box": {
      "title": "Japanese Lost Abyss Booster Box",
@@ -29410,7 +29409,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
