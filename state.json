@@ -19793,6 +19793,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 499.95
+    },
+    "mtg-universes-beyond-marvel-super-heroes-commander-deck-avengers-assemble": {
+     "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Avengers Assemble",
+     "game": "MTG",
+     "available": true,
+     "price": 79.95
     }
    },
    "baselined": true,
@@ -22669,7 +22675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28660,7 +28666,7 @@
      "title": "30th Celebration Tin [Sylveon ex]",
      "game": "Pokemon",
      "available": false,
-     "price": 79.75,
+     "price": 94.25,
      "unavail_since": 1791069628
     },
     "30th-celebration-sylveon-ex-box": {
@@ -28790,7 +28796,7 @@
      "title": "30th Celebration Battle Deck [Umbreon ex]",
      "game": "Pokemon",
      "available": false,
-     "price": 42.49,
+     "price": 41.25,
      "unavail_since": 1792943423
     },
     "30th-celebration-booster-bundle": {
@@ -29402,7 +29408,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
