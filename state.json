@@ -21680,10 +21680,9 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 24.95,
-     "last_restock_alert": 1793231412,
-     "unavail_since": 1793241011
+     "available": true,
+     "price": 27.95,
+     "last_restock_alert": 1793399712
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -22675,7 +22674,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29063,7 +29062,7 @@
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 294.75
+     "price": 282.25
     },
     "30th-celebration-tech-sticker-collection-lucario": {
      "title": "30th Celebration Tech Sticker Collection [Lucario]",
@@ -29409,7 +29408,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
