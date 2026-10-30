@@ -22675,7 +22675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24124,8 +24124,9 @@
     "mtg-foundations-play-booster-box": {
      "title": "MTG FOUNDATIONS PLAY BOOSTER BOX",
      "game": "MTG",
-     "available": true,
-     "price": 219.95
+     "available": false,
+     "price": 219.95,
+     "unavail_since": 1793393715
     },
     "mtg-duskmourn-play-booster-box-pre-order": {
      "title": "MTG DUSKMOURN PLAY BOOSTER BOX",
@@ -29409,7 +29410,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
