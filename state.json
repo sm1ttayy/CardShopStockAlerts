@@ -1762,7 +1762,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1850,9 +1850,10 @@
     "riftbound-league-of-legends-tcg-vendetta-booster-box": {
      "title": "Riftbound: League of Legends TCG - Vendetta Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 128.0,
-     "last_restock_alert": 1791440061
+     "last_restock_alert": 1791440061,
+     "unavail_since": 1793376024
     },
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
@@ -4663,9 +4664,10 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box": {
      "title": "Riftbound: League of Legends TCG - Radiance Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 119.0,
-     "last_restock_alert": 1793203750
+     "last_restock_alert": 1793203750,
+     "unavail_since": 1793376023
     },
     "riftbound-league-of-legends-tcg-radiance-showdown-deck-evelynn-vs-seraphine": {
      "title": "[PREORDER] Riftbound: League of Legends TCG - Radiance Showdown Deck [Evelynn vs Seraphine]",
@@ -4751,7 +4753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6824,6 +6826,12 @@
      "game": "One Piece",
      "available": true,
      "price": 58.0
+    },
+    "one-piece-tcg-heroines-edition-vol-2-extra-booster-box-eb-05": {
+     "title": "One Piece TCG: Heroines Edition Vol.2 Extra Booster Box (EB-05)",
+     "game": "One Piece",
+     "available": true,
+     "price": 315.0
     }
    },
    "baselined": true,
@@ -14670,7 +14678,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 91,
    "error_streak": 0,
    "last_error": ""
   },
