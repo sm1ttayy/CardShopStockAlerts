@@ -1762,7 +1762,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4751,7 +4751,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6794,6 +6794,36 @@
      "game": "Riftbound",
      "available": true,
      "price": 25.0
+    },
+    "one-piece-tcg-mini-case-volume-3-shanks-lime": {
+     "title": "One Piece TCG: Mini Case Volume 3 (Shanks) (Lime)",
+     "game": "One Piece",
+     "available": true,
+     "price": 58.0
+    },
+    "one-piece-tcg-mini-case-volume-3-hancock-pink": {
+     "title": "One Piece TCG: Mini Case Volume 3 (Hancock) (Pink)",
+     "game": "One Piece",
+     "available": true,
+     "price": 58.0
+    },
+    "one-piece-tcg-mini-case-volume-3-monkey-d-luffy-red": {
+     "title": "One Piece TCG: Mini Case Volume 3 (Monkey.D.Luffy) (Red)",
+     "game": "One Piece",
+     "available": true,
+     "price": 58.0
+    },
+    "one-piece-tcg-mini-case-volume-3-hancock-purple": {
+     "title": "One Piece TCG: Mini Case Volume 3 (Hancock) (Purple)",
+     "game": "One Piece",
+     "available": true,
+     "price": 58.0
+    },
+    "one-piece-tcg-mini-case-volume-3-monkey-d-luffy-yellow": {
+     "title": "One Piece TCG: Mini Case Volume 3 (Monkey.D.Luffy) (Yellow)",
+     "game": "One Piece",
+     "available": true,
+     "price": 58.0
     }
    },
    "baselined": true,
@@ -14640,7 +14670,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
