@@ -40,9 +40,10 @@
     "one-piece-tcg-eb-05-extra-booster-box": {
      "title": "One Piece TCG: (EB-05) Heroines Edition vol.2 - Extra Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 274.99,
-     "last_restock_alert": 1792737175
+     "last_restock_alert": 1792737175,
+     "unavail_since": 1793389052
     },
     "one-piece-tcg-eb-04-egghead-crisis-booster-box-japanese": {
      "title": "One Piece TCG: [EB-04] Egghead Crisis - Booster Box [Japanese]",
@@ -4695,7 +4696,7 @@
      "unavail_since": 1791440070
     },
     "one-piece-extra-booster-heroines-edition-vol-2-booster-box-eb-05": {
-     "title": "[PREORDER] One Piece: Extra Booster - Heroines Edition vol.2 Booster Box - [EB-05]",
+     "title": "One Piece: Extra Booster - Heroines Edition vol.2 Booster Box - [EB-05]",
      "game": "One Piece",
      "available": false,
      "price": 319.0,
@@ -4753,7 +4754,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6801,7 +6802,7 @@
      "title": "One Piece TCG: Mini Case Volume 3 (Shanks) (Lime)",
      "game": "One Piece",
      "available": true,
-     "price": 58.0
+     "price": 42.0
     },
     "one-piece-tcg-mini-case-volume-3-hancock-pink": {
      "title": "One Piece TCG: Mini Case Volume 3 (Hancock) (Pink)",
@@ -6813,25 +6814,31 @@
      "title": "One Piece TCG: Mini Case Volume 3 (Monkey.D.Luffy) (Red)",
      "game": "One Piece",
      "available": true,
-     "price": 58.0
+     "price": 41.0
     },
     "one-piece-tcg-mini-case-volume-3-hancock-purple": {
      "title": "One Piece TCG: Mini Case Volume 3 (Hancock) (Purple)",
      "game": "One Piece",
      "available": true,
-     "price": 58.0
+     "price": 42.0
     },
     "one-piece-tcg-mini-case-volume-3-monkey-d-luffy-yellow": {
      "title": "One Piece TCG: Mini Case Volume 3 (Monkey.D.Luffy) (Yellow)",
      "game": "One Piece",
      "available": true,
-     "price": 58.0
+     "price": 40.0
     },
     "one-piece-tcg-heroines-edition-vol-2-extra-booster-box-eb-05": {
      "title": "One Piece TCG: Heroines Edition Vol.2 Extra Booster Box (EB-05)",
      "game": "One Piece",
      "available": true,
      "price": 315.0
+    },
+    "one-piece-tcg-mini-case-volume-3-shanks-dark-green": {
+     "title": "One Piece TCG: Mini Case Volume 3 (Shanks) (Dark Green)",
+     "game": "One Piece",
+     "available": true,
+     "price": 42.0
     }
    },
    "baselined": true,
@@ -10809,6 +10816,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 24.99
+    },
+    "one-piece-card-game-one-piece-heroines-edition-vol-2-booster-box-extra-booster-eb05-copy": {
+     "title": "One Piece Card Game - One Piece Heroines Edition Vol.2 - Booster Box - Extra Booster (EB05)",
+     "game": "One Piece",
+     "available": true,
+     "price": 249.99
     }
    },
    "baselined": true,
@@ -14678,7 +14691,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 91,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
