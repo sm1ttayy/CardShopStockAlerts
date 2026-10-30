@@ -22675,7 +22675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27670,9 +27670,9 @@
     "black-bolt-pokemon-center-elite-trainer-box": {
      "title": "Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 256.99,
-     "unavail_since": 1789598435
+     "available": true,
+     "price": 262.99,
+     "last_restock_alert": 1793397332
     },
     "lost-origin-pokemon-center-elite-trainer-box": {
      "title": "Lost Origin Pokemon Center Elite Trainer Box",
@@ -28573,9 +28573,9 @@
     "pokemon-celebrations-deluxe-pin-collection-zacian-lv-x": {
      "title": "Celebrations Deluxe Pin Collection [Zacian LV. X]",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 139.75,
-     "unavail_since": 1788552550
+     "last_restock_alert": 1793397346
     },
     "30th-celebration-tech-sticker-collection-alolan-exeggutor": {
      "title": "30th Celebration Tech Sticker Collection",
@@ -29410,7 +29410,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
