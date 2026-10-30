@@ -22674,7 +22674,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25932,9 +25932,10 @@
     "the-time-of-battle-booster-box": {
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 199.75,
-     "last_restock_alert": 1792699549
+     "last_restock_alert": 1792699549,
+     "unavail_since": 1793400018
     },
     "lorwyn-eclipsed-play-booster-display": {
      "title": "Lorwyn Eclipsed Play Booster Display",
@@ -26072,7 +26073,7 @@
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 2214.75
+     "price": 2199.99
     },
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
@@ -27968,7 +27969,7 @@
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Gardevoir]",
      "game": "Pokemon",
      "available": true,
-     "price": 190.25
+     "price": 191.49
     },
     "pokemon-go-pin-collection-bulbasaur": {
      "title": "Pokemon GO Pin Collection [Bulbasaur]",
@@ -29405,10 +29406,16 @@
      "game": "One Piece",
      "available": true,
      "price": 18.75
+    },
+    "shining-legends-pin-collection-pikachu": {
+     "title": "Shining Legends Pin Collection [Pikachu]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 439.75
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
