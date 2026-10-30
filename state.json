@@ -22587,7 +22587,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29039,9 +29039,10 @@
     "30th-celebration-ex-tin-sylveon-ex-retail-version": {
      "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 62.25,
-     "last_restock_alert": 1793310626
+     "last_restock_alert": 1793310626,
+     "unavail_since": 1793322625
     },
     "foundations-commander-deck-tramplesaurus-rex": {
      "title": "Foundations Commander Deck - Tramplesaurus Rex",
@@ -29289,7 +29290,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
