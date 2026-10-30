@@ -22675,7 +22675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29397,8 +29397,9 @@
     "starter-deck-6-navy": {
      "title": "Starter Deck 6: Navy",
      "game": "One Piece",
-     "available": true,
-     "price": 21.98
+     "available": false,
+     "price": 21.98,
+     "unavail_since": 1793392519
     },
     "starter-deck-9-yamato": {
      "title": "Starter Deck 9: Yamato",
@@ -29408,7 +29409,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
