@@ -16671,9 +16671,10 @@
     "buy-mtg-lord-of-the-rings-set-booster-display": {
      "title": "Lord of the Rings Set Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 294.95,
-     "last_restock_alert": 1793054113
+     "last_restock_alert": 1793054113,
+     "unavail_since": 1793461516
     },
     "buy-mtg-the-lost-caverns-of-ixalan-set-booster-display": {
      "title": "Lost Caverns of Ixalan Set Booster Box",
@@ -22722,7 +22723,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29465,7 +29466,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
