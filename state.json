@@ -19323,7 +19323,7 @@
      "title": "One Piece Card Game - English 3rd Anniversary Set",
      "game": "One Piece",
      "available": true,
-     "price": 999.95
+     "price": 799.95
     },
     "mtg-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-riders-of-rohan": {
      "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Commander Deck - Riders of Rohan",
@@ -22675,7 +22675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24718,8 +24718,9 @@
     "mtg-star-trek-bundle": {
      "title": "MTG STAR TREK BUNDLE PRE ORDER ^ NOV 6/26",
      "game": "MTG",
-     "available": true,
-     "price": 89.95
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1793406915
     },
     "mtg-reality-fracture-commander-deck": {
      "title": "MTG REALITY FRACTURE COMMANDER DECK (LIMIT 1)",
@@ -29416,7 +29417,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
