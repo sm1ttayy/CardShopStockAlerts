@@ -22724,7 +22724,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29469,7 +29469,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30781,8 +30781,9 @@
     "pokemon-tcg-mega-evolutions-delta-reign-booster-bundle-6-booster-packs-pre-order": {
      "title": "Pokemon TCG: Mega Evolutions Delta Reign  Booster Bundle (6 Booster Packs) (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 39.95
+     "available": false,
+     "price": 39.95,
+     "unavail_since": 1793489725
     },
     "magic-the-gathering-star-trek-play-booster-box-30-booster-packs-pre-order": {
      "title": "Magic The Gathering: Star Trek Play Booster Box (30 Booster packs) (Pre Order)",
