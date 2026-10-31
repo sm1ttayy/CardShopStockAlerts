@@ -22675,7 +22675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29345,8 +29345,9 @@
     "radiance-booster-display": {
      "title": "Radiance Booster Display",
      "game": "Riftbound",
-     "available": true,
-     "price": 122.75
+     "available": false,
+     "price": 122.75,
+     "unavail_since": 1793409025
     },
     "starter-deck-36-yellow-eustass-captain-kid": {
      "title": "Starter Deck 36: YELLOW Eustass\u201dCaptain\u201dKid",
@@ -29417,7 +29418,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
