@@ -22521,9 +22521,9 @@
     "pokemon-30th-celebration-ultra-premium-collection-day-pre-order": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day (Pre Order)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 549.95,
-     "unavail_since": 1792612237
+     "last_restock_alert": 1793489411
     },
     "pokemon-mega-evolutions-ascended-heroes-elite-trainer-box-pre-order": {
      "title": "Pokemon Mega Evolutions Ascended Heroes Elite Trainer Box",
@@ -22724,7 +22724,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29469,7 +29469,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30756,8 +30756,9 @@
     "pokemon-tcg-mega-evolutions-delta-reign-elite-trainer-box-etb-pre-order": {
      "title": "Pokemon TCG: Mega Evolutions Delta Reign Elite Trainer Box ETB (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 89.95
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1793489425
     },
     "pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-pre-order": {
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Day Espeon (Pre Order)",
