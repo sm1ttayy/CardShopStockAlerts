@@ -22724,7 +22724,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28045,7 +28045,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 314.99,
-     "unavail_since": 1793474124
+     "unavail_since": 1793474124,
+     "delisted": true
     },
     "tapu-lele-pin-collection": {
      "title": "Tapu Lele Pin Collection",
@@ -29468,7 +29469,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
