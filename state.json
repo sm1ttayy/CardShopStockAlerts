@@ -1784,7 +1784,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3679,16 +3679,18 @@
     "sword-shield-battle-styles-booster-box-display": {
      "title": "Sword & Shield: Battle Styles - Booster Box Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 290.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1793460241
     },
     "sword-shield-vivid-voltage-booster-box-display": {
      "title": "Sword & Shield: Vivid Voltage - Booster Box Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 335.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1793460241
     },
     "sword-shield-darkness-ablaze-booster-box-display": {
      "title": "Sword & Shield: Darkness Ablaze - Booster Box Display",
@@ -3735,16 +3737,18 @@
     "modern-horizons-2-draft-booster-box-display": {
      "title": "Modern Horizons 2 Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 370.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1793460241
     },
     "modern-horizons-2-set-booster-box-display": {
      "title": "Modern Horizons 2 Set Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 478.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1793460241
     },
     "jumpstart-booster-box-display": {
      "title": "Jumpstart Booster Box Display",
@@ -4785,7 +4789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6782,7 +6786,7 @@
      "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Box (PRE-ORDER)",
      "game": "Pokemon",
      "available": true,
-     "price": 230.0,
+     "price": 200.0,
      "last_restock_alert": 1793114741
     },
     "magic-the-gathering-star-trek-play-booster-box-pre-order": {
@@ -7629,8 +7633,9 @@
     "pokemon-sun-moon-crimson-invasion-booster-box": {
      "title": "Pokemon Sun & Moon Crimson Invasion Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 739.75
+     "available": false,
+     "price": 739.75,
+     "unavail_since": 1793460239
     },
     "pokemon-scarlet-violet-raging-surf-japanese-booster-box-copy": {
      "title": "Pokemon Scarlet & Violet Super Electric Breaker Japanese Booster Box",
@@ -7719,7 +7724,7 @@
      "title": "Pokemon Mega Evolution Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 499.75,
+     "price": 399.75,
      "last_restock_alert": 1787566191
     },
     "one-piece-tcg-carrying-on-his-will-op-13-booster-box": {
@@ -10854,8 +10859,9 @@
     "one-piece-card-game-one-piece-heroines-edition-vol-2-booster-box-extra-booster-eb05-copy": {
      "title": "One Piece Card Game - Extra Booster: Heroines Edition Vol.2 Booster Box (EB05)",
      "game": "One Piece",
-     "available": true,
-     "price": 249.99
+     "available": false,
+     "price": 249.99,
+     "unavail_since": 1793460238
     }
    },
    "baselined": true,
@@ -14731,7 +14737,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 88,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
