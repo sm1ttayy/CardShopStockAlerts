@@ -14906,8 +14906,9 @@
     "destined-rivals-bundle-moonshot-rips": {
      "title": "Destined Rivals Bundle - Moonshot Rips",
      "game": "Pokemon",
-     "available": true,
-     "price": 75.0
+     "available": false,
+     "price": 65.0,
+     "unavail_since": 1793405410
     },
     "mega-evolution-ascended-heroes-mega-emboar-ex-box": {
      "title": "Mega Evolution: Ascended Heroes - Mega Emboar ex Box",
@@ -22674,7 +22675,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29415,7 +29416,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
