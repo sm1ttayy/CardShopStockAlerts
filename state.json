@@ -22740,7 +22740,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23413,9 +23413,10 @@
     "starter-commander-deck-grave-danger": {
      "title": "Starter Commander Deck (Grave Danger)",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 44.99,
-     "last_restock_alert": 1791062724
+     "last_restock_alert": 1791062724,
+     "unavail_since": 1793573414
     },
     "the-hobbit-bundle": {
      "title": "The Hobbit - Bundle",
@@ -29493,7 +29494,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
