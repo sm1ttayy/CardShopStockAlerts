@@ -22724,7 +22724,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29464,12 +29464,13 @@
     "shining-legends-pin-collection-pikachu": {
      "title": "Shining Legends Pin Collection [Pikachu]",
      "game": "Pokemon",
-     "available": true,
-     "price": 439.75
+     "available": false,
+     "price": 439.75,
+     "unavail_since": 1793494224
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
