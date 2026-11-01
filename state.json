@@ -17512,9 +17512,10 @@
     "pokemon-30th-celebration-battle-deck-espeon-ex": {
      "title": "Pokemon 30th Celebration Battle Deck - Espeon ex",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 27.95,
-     "last_restock_alert": 1793310029
+     "last_restock_alert": 1793310029,
+     "unavail_since": 1793565614
     },
     "pokemon-30th-celebration-battle-deck-umbreon-ex": {
      "title": "Pokemon 30th Celebration Battle Deck - Umbreon ex",
@@ -22738,7 +22739,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29490,7 +29491,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
