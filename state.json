@@ -22730,7 +22730,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29270,7 +29270,7 @@
      "title": "Crown Zenith Pin Collection [Inteleon]",
      "game": "Pokemon",
      "available": true,
-     "price": 93.75
+     "price": 92.75
     },
     "foundations-commander-deck-wretched-ranks": {
      "title": "Foundations Commander Deck - Wretched Ranks",
@@ -29476,7 +29476,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30770,8 +30770,9 @@
     "pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-pre-order": {
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Day Espeon (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 399.95
+     "available": false,
+     "price": 399.95,
+     "unavail_since": 1793547926
     },
     "pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-pre-order": {
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Night Umbreon (Pre Order)",
