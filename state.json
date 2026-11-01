@@ -22740,7 +22740,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29419,8 +29419,9 @@
     "starter-deck-36-yellow-eustass-captain-kid": {
      "title": "Starter Deck 36: YELLOW Eustass\u201dCaptain\u201dKid",
      "game": "One Piece",
-     "available": true,
-     "price": 16.75
+     "available": false,
+     "price": 16.75,
+     "unavail_since": 1793569822
     },
     "starter-deck-35-red-black-sabo": {
      "title": "Starter Deck 35: RED/BLACK Sabo",
@@ -29492,7 +29493,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
