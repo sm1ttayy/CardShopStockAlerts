@@ -17568,6 +17568,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 69.95
+    },
+    "one-piece-the-dominance-of-god-booster-box": {
+     "title": "One Piece The Dominance of God Booster Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 299.95,
+     "unavail_since": 1793561713
     }
    },
    "baselined": true,
@@ -22731,7 +22738,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29483,7 +29490,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
