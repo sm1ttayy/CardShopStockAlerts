@@ -22763,7 +22763,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27631,7 +27631,7 @@
      "title": "Dominaria - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 227.99,
+     "price": 227.75,
      "last_restock_alert": 1786658431,
      "unavail_since": 1791120628
     },
@@ -28429,8 +28429,9 @@
     "homelands-booster-box": {
      "title": "Homelands - Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 542.75
+     "available": false,
+     "price": 542.75,
+     "unavail_since": 1793651129
     },
     "kaladesh-bundle": {
      "title": "Kaladesh - Bundle",
@@ -29227,7 +29228,7 @@
      "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
      "game": "Pokemon",
      "available": false,
-     "price": 61.49,
+     "price": 61.25,
      "last_restock_alert": 1793310626,
      "unavail_since": 1793322625
     },
@@ -29235,7 +29236,7 @@
      "title": "Foundations Commander Deck - Tramplesaurus Rex",
      "game": "MTG",
      "available": false,
-     "price": 60.75,
+     "price": 61.99,
      "unavail_since": 1792192829
     },
     "pokemon-celebrations-prime-collection": {
@@ -29523,7 +29524,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
