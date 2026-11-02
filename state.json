@@ -22764,7 +22764,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25115,8 +25115,9 @@
     "pokemon-first-partner-illustration-collection-series-2": {
      "title": "POKEMON FIRST PARTNER ILLUSTRATION COLLECTION SERIES 2 (LIMIT 2)",
      "game": "Pokemon",
-     "available": true,
-     "price": 69.95
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1793660111
     },
     "pokemon-charizard-ex-special-collection": {
      "title": "POKEMON CHARIZARD EX SPECIAL COLLECTION (LIMIT 1)",
@@ -29528,7 +29529,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
