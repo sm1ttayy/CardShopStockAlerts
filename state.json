@@ -16351,7 +16351,7 @@
      "title": "Riftbound Vendetta Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 139.95,
+     "price": 124.95,
      "last_restock_alert": 1792445112,
      "unavail_since": 1792968913
     },
@@ -17445,10 +17445,9 @@
     "riftbound-radiance-booster-box": {
      "title": "Riftbound Radiance Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 124.95,
-     "last_restock_alert": 1793219123,
-     "unavail_since": 1793225137
+     "last_restock_alert": 1793655919
     },
     "pokemon-me2-5-ascended-heroes-ex-boxes-set-of-3": {
      "title": "Pokemon ME2.5 Ascended Heroes ex Boxes Set of 3",
@@ -22765,7 +22764,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29528,7 +29527,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
