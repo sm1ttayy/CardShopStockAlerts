@@ -15017,8 +15017,9 @@
     "pitch-black-bundle-moonshot-rips": {
      "title": "Pitch Black Bundle - Moonshot Rips",
      "game": "Pokemon",
-     "available": true,
-     "price": 40.0
+     "available": false,
+     "price": 40.0,
+     "unavail_since": 1793593209
     },
     "prismatic-evolutions-pack-moonshot-rips": {
      "title": "Prismatic Evolutions Pack - Moonshot Rips",
@@ -22746,7 +22747,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29500,7 +29501,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
