@@ -22764,7 +22764,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23591,8 +23591,9 @@
     "teenage-mutant-ninja-turtles-play-booster-display": {
      "title": "Teenage Mutant Ninja Turtles - Play Booster Display",
      "game": "MTG",
-     "available": true,
-     "price": 229.99
+     "available": false,
+     "price": 229.99,
+     "unavail_since": 1793659213
     },
     "final-fantasy-commander-deck-counter-blitz-final-fantasy-x": {
      "title": "FINAL FANTASY - Commander Deck (Counter Blitz FINAL FANTASY X)",
@@ -29527,7 +29528,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
