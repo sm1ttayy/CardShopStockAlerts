@@ -1784,7 +1784,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4792,7 +4792,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6173,7 +6173,7 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 33.0
+     "price": 32.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32) (SALE)",
@@ -9007,7 +9007,7 @@
      "title": "Pokemon 30th Celebration Poster Collection 6-Box Case",
      "game": "Pokemon",
      "available": false,
-     "price": 549.75,
+     "price": 299.75,
      "unavail_since": 1790813505
     },
     "pokemon-mega-evolution-ascended-heroes-pokemon-center-elite-trainer-box": {
@@ -11849,7 +11849,7 @@
      "title": "Reality Fracture Play Booster Box [MTG] (09/25)",
      "game": "MTG",
      "available": true,
-     "price": 165.0,
+     "price": 140.0,
      "last_restock_alert": 1791381053
     },
     "journey-together-booster-display-pokemon": {
@@ -12133,6 +12133,12 @@
      "game": "One Piece",
      "available": true,
      "price": 12.0
+    },
+    "unfinity-draft-booster-box": {
+     "title": "Unfinity Draft Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 175.0
     }
    },
    "baselined": true,
@@ -14753,7 +14759,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 68,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
