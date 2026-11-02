@@ -22765,7 +22765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28147,8 +28147,9 @@
     "commander-legends-battle-for-baldurs-gate-party-time-commander-deck": {
      "title": "Commander Legends: Battle for Baldur's Gate - Party Time Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 178.75
+     "available": false,
+     "price": 178.75,
+     "unavail_since": 1793655327
     },
     "pokemon-brilliant-stars-pokemon-center-elite-trainer-box": {
      "title": "Brilliant Stars Pokemon Center Elite Trainer Box",
@@ -28579,8 +28580,9 @@
     "modern-masters-2017-booster-box": {
      "title": "Modern Masters 2017 - Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 399.75
+     "available": false,
+     "price": 399.25,
+     "unavail_since": 1793655326
     },
     "modern-masters-booster-box": {
      "title": "Modern Masters - Booster Box",
@@ -29526,7 +29528,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
