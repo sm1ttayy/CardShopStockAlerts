@@ -1784,7 +1784,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2309,9 +2309,10 @@
     "one-piece-booster-box-op10-royal-blood": {
      "title": "One Piece Royal Blood Booster Box [OP10]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 240.0,
-     "last_restock_alert": 1792905755
+     "last_restock_alert": 1792905755,
+     "unavail_since": 1793648132
     },
     "magic-the-gathering-aetherdrift-play-booster-box": {
      "title": "Magic: The Gathering Aetherdrift Collector Booster Box",
@@ -2599,8 +2600,9 @@
     "emperors-in-the-new-world-booster-box-op09": {
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
-     "available": true,
-     "price": 625.0
+     "available": false,
+     "price": 625.0,
+     "unavail_since": 1793648132
     },
     "innistrad-remastered-collector-booster-box": {
      "title": "Innistrad Remastered Collector Booster Box",
@@ -4790,7 +4792,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10233,9 +10235,10 @@
     "the-lord-of-the-rings-tales-of-middle-earth-set-booster-box": {
      "title": "Magic: The Gathering - The Lord of the Rings: Tales of Middle-earth Set Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 344.99,
-     "last_restock_alert": 1790085899
+     "last_restock_alert": 1790085899,
+     "unavail_since": 1793648133
     },
     "wilds-of-eldraine-set-booster-box": {
      "title": "Wilds of Eldraine Set Booster Box",
@@ -10869,6 +10872,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 20000.0
+    },
+    "pokemon-mega-evolution-delta-reign-booster-box-dlr": {
+     "title": "Pokemon Mega Evolution - Delta Reign Booster Box (DLR)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 219.99
     }
    },
    "baselined": true,
@@ -14744,7 +14753,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 68,
    "error_streak": 0,
    "last_error": ""
   },
