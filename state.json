@@ -15049,7 +15049,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 35.0,
-     "unavail_since": 1793650811
+     "unavail_since": 1793650811,
+     "delisted": true
     },
     "pokemon-tcg-mega-moonlit-tin": {
      "title": "Pok\u00e9mon TCG: Mega Moonlit Tin",
@@ -22763,7 +22764,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29524,7 +29525,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
