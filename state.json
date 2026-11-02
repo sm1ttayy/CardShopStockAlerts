@@ -20454,9 +20454,10 @@
     "one-piece-cg-st-24-starter-deck-pre-order-copy": {
      "title": "One Piece CG ST-25 Starter Deck- Buggy",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 59.95,
-     "last_restock_alert": 1792786211
+     "last_restock_alert": 1792786211,
+     "unavail_since": 1793652609
     },
     "one-piece-cg-st-28-starter-deck-pre-order": {
      "title": "One Piece CG ST-28 Starter Deck - Yamato",
@@ -22764,7 +22765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29525,7 +29526,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
