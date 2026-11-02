@@ -21961,8 +21961,9 @@
     "riftbound-league-of-legends-proving-grounds-box-set-2nd-edition-pre-order": {
      "title": "Riftbound: League of Legends - Proving Grounds Box Set 2nd Edition (Pre Order)",
      "game": "Riftbound",
-     "available": true,
-     "price": 47.95
+     "available": false,
+     "price": 47.95,
+     "unavail_since": 1793660412
     },
     "pre-order-mtg-strixhaven-draft-booster-box": {
      "title": "MTG - Strixhaven School Of Mages- Draft Booster Box",
@@ -22764,7 +22765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29529,7 +29530,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
