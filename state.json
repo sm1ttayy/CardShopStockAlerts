@@ -17574,7 +17574,7 @@
      "title": "Pokemon ME06 Delta Reign Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 94.95,
+     "price": 89.95,
      "last_restock_alert": 1793666407
     },
     "one-piece-heroines-edition-vol-2-booster-box": {
@@ -17602,6 +17602,18 @@
      "available": false,
      "price": 299.95,
      "unavail_since": 1793561713
+    },
+    "pokemon-me06-delta-reign-booster-box": {
+     "title": "Pokemon ME06 Delta Reign Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 204.95
+    },
+    "pokemon-me06-delta-reign-booster-bundle": {
+     "title": "Pokemon ME06 Delta Reign Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 44.95
     }
    },
    "baselined": true,
@@ -22764,7 +22776,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29529,7 +29541,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
