@@ -1829,7 +1829,7 @@
      "title": "Pokemon - Mega Evolution: Ascended Heroes Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 170.0,
+     "price": 125.0,
      "last_restock_alert": 1784918947
     },
     "mega-evolution-ascended-heroes-booster-bundle": {
@@ -3985,7 +3985,7 @@
      "title": "Mega Evolution Elite Trainer Box [Lucario]",
      "game": "Pokemon",
      "available": true,
-     "price": 130.0,
+     "price": 124.0,
      "last_restock_alert": 1790259348
     },
     "mega-evolution-perfect-order-elite-trainer-box": {
@@ -3998,7 +3998,7 @@
      "title": "Mega Evolution Elite Trainer Box [Gardevoir]",
      "game": "Pokemon",
      "available": true,
-     "price": 110.0,
+     "price": 115.0,
      "last_restock_alert": 1786155319
     },
     "scarlet-violet-prismatic-evolutions-elite-trainer-box": {
@@ -4125,7 +4125,7 @@
      "title": "Mega Evolution: Phantasmal Flames Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 155.0,
+     "price": 150.0,
      "last_restock_alert": 1790358871
     },
     "starter-deck-08-monkey-d-luffy-st-08": {
@@ -4788,10 +4788,16 @@
      "available": false,
      "price": 55.0,
      "unavail_since": 1793413879
+    },
+    "mega-evolution-delta-reign-elite-trainer-box": {
+     "title": "[PREORDER] Mega Evolution: Delta Reign - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 89.0
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5259,7 +5265,7 @@
      "title": "One Piece TCG: Monkey D Luffy Starter Deck (ST-18)",
      "game": "One Piece",
      "available": true,
-     "price": 156.0
+     "price": 152.0
     },
     "2023-one-piece-starter-deck-st05-one-piece-film-edition-shanks-psa-10": {
      "title": "2023 One Piece Starter Deck St05-One Piece Film Edition Shanks PSA 10",
@@ -6344,7 +6350,7 @@
      "title": "One Piece TCG: The Worlds Strongest Warriors Japanese Booster Box (OP-17) (SALE)",
      "game": "One Piece",
      "available": true,
-     "price": 200.0,
+     "price": 150.0,
      "last_restock_alert": 1788909954
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box": {
@@ -9264,10 +9270,10 @@
      "price": 475.0
     },
     "scarlet-violet-prismatic-evolutions-pokemon-center-elite-trainer-box": {
-     "title": "2025 Pokemon Prismatic Evolutions Elite Trainer Box SV",
+     "title": "Pokemon Scarlet & Violet - Prismatic Evolutions Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 154.99,
+     "price": 129.99,
      "last_restock_alert": 1791237426
     },
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
@@ -10294,7 +10300,7 @@
      "price": 59.99
     },
     "pokemon-scarlet-violet-destined-rivals-elite-trainer-box": {
-     "title": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box",
+     "title": "Pokemon Scarlet & Violet - Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
      "price": 119.99
@@ -10415,7 +10421,7 @@
      "price": 299.99
     },
     "crown-zenith-elite-trainer-box": {
-     "title": "Pokemon TCG: Crown Zenith Elite Trainer Box",
+     "title": "Pokemon Sword & Shield - Crown Zenith Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
      "price": 345.99,
@@ -10626,7 +10632,7 @@
      "title": "Pokemon 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 139.99,
+     "price": 124.99,
      "last_restock_alert": 1792073641
     },
     "pokemon-30th-celebration-ultra-premium-collection": {
@@ -10883,6 +10889,12 @@
      "game": "MTG",
      "available": true,
      "price": 164.99
+    },
+    "pokemon-mega-evolution-delta-reign-elite-trainer-box-dlr-presale": {
+     "title": "Pokemon Mega Evolution - Delta Reign Elite Trainer Box (DLR) (Presale)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 99.99
     }
    },
    "baselined": true,
@@ -11294,7 +11306,7 @@
      "title": "First Partner Illustration Collection - Series 1 [Pokemon]",
      "game": "Pokemon",
      "available": true,
-     "price": 70.0
+     "price": 65.0
     },
     "double-pack-set-10-adventure-on-kamis-island-op-15-one-piece": {
      "title": "Double Pack Set 10 - Adventure on Kami's Island OP-15 [One Piece]",
@@ -12144,6 +12156,12 @@
      "game": "MTG",
      "available": true,
      "price": 175.0
+    },
+    "pokemon-151-ultra-premium-collection": {
+     "title": "Pok\u00e9mon 151 Ultra Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 850.0
     }
    },
    "baselined": true,
@@ -14765,7 +14783,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 93,
    "error_streak": 0,
    "last_error": ""
   },
