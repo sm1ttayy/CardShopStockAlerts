@@ -40,10 +40,9 @@
     "one-piece-tcg-eb-05-extra-booster-box": {
      "title": "One Piece TCG: (EB-05) Heroines Edition vol.2 - Extra Booster Box",
      "game": "One Piece",
-     "available": false,
-     "price": 274.99,
-     "last_restock_alert": 1792737175,
-     "unavail_since": 1793389052
+     "available": true,
+     "price": 259.99,
+     "last_restock_alert": 1793672637
     },
     "one-piece-tcg-eb-04-egghead-crisis-booster-box-japanese": {
      "title": "One Piece TCG: [EB-04] Egghead Crisis - Booster Box [Japanese]",
@@ -4792,7 +4791,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6345,7 +6344,7 @@
      "title": "One Piece TCG: The Worlds Strongest Warriors Japanese Booster Box (OP-17) (SALE)",
      "game": "One Piece",
      "available": true,
-     "price": 150.0,
+     "price": 200.0,
      "last_restock_alert": 1788909954
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box": {
@@ -6870,7 +6869,7 @@
      "title": "One Piece TCG: Heroines Edition Vol.2 Extra Booster Box (EB-05)",
      "game": "One Piece",
      "available": true,
-     "price": 315.0
+     "price": 283.0
     },
     "one-piece-tcg-mini-case-volume-3-shanks-dark-green": {
      "title": "One Piece TCG: Mini Case Volume 3 (Shanks) (Dark Green)",
@@ -8932,9 +8931,9 @@
     "pokemon-30th-celebration-battle-deck-6-box-case": {
      "title": "Pokemon 30th Celebration Battle Deck 6-Box Case",
      "game": "Pokemon",
-     "available": false,
-     "price": 299.75,
-     "unavail_since": 1789450033
+     "available": true,
+     "price": 269.75,
+     "last_restock_alert": 1793672648
     },
     "pokemon-scarlet-violet-prismatic-evolutions-super-premium-collection-box": {
      "title": "Pokemon Scarlet & Violet Prismatic Evolutions Super-Premium Collection Box",
@@ -8983,13 +8982,13 @@
      "title": "Pokemon 30th Celebration Sylveon Greninja ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 99.75
+     "price": 64.75
     },
     "pokemon-30th-celebration-poster-collection-box": {
      "title": "Pokemon 30th Celebration Poster Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 64.75
+     "price": 49.75
     },
     "pokemon-30th-celebration-tech-sticker-12-collection-case": {
      "title": "Pokemon 30th Celebration Tech Sticker 12-Collection Case",
@@ -9538,13 +9537,13 @@
      "price": 39.99
     },
     "magic-the-gathering-marvel-super-heroes-bundle": {
-     "title": "Magic: The Gathering Marvel Super Heroes - Bundle",
+     "title": "Magic: The Gathering - Marvel Super Heroes Bundle",
      "game": "MTG",
      "available": true,
      "price": 59.99
     },
     "mtg-secrets-of-strixhaven-bundle": {
-     "title": "Magic: The Gathering Secrets of Strixhaven - Bundle",
+     "title": "Magic: The Gathering - Secrets of Strixhaven Bundle",
      "game": "MTG",
      "available": true,
      "price": 47.99
@@ -10289,10 +10288,10 @@
      "price": 33.99
     },
     "magic-the-gathering-the-hobbit-bundle": {
-     "title": "Magic: The Gathering The Hobbit - Bundle",
+     "title": "Magic: The Gathering - The Hobbit Bundle",
      "game": "MTG",
      "available": true,
-     "price": 84.99
+     "price": 59.99
     },
     "pokemon-scarlet-violet-destined-rivals-elite-trainer-box": {
      "title": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box",
@@ -10694,7 +10693,7 @@
      "last_restock_alert": 1791225266
     },
     "magic-the-gathering-lorwyn-eclipsed-bundle": {
-     "title": "Magic: The Gathering Lorwyn Eclipsed Bundle",
+     "title": "Magic: The Gathering - Lorwyn Eclipsed Bundle",
      "game": "MTG",
      "available": true,
      "price": 69.99
@@ -10852,7 +10851,7 @@
      "title": "Magic: The Gathering - Reality Fracture Bundle Box",
      "game": "MTG",
      "available": true,
-     "price": 59.99
+     "price": 49.99
     },
     "pos-riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound: League of Legends TCG - Vendetta Showdown Decks: Zed vs Shen",
@@ -10878,6 +10877,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 219.99
+    },
+    "hour-of-devastation-bundle": {
+     "title": "Magic: The Gathering - Hour of Devastation Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 164.99
     }
    },
    "baselined": true,
@@ -13847,9 +13852,10 @@
     "pokemon-tcg-mega-evolution-booster-display": {
      "title": "Pok\u00e9mon TCG: Mega Evolution: Enhanced Booster Display",
      "game": "Pokemon",
-     "available": true,
-     "price": 289.99,
-     "last_restock_alert": 1792210221
+     "available": false,
+     "price": 274.99,
+     "last_restock_alert": 1792210221,
+     "unavail_since": 1793672641
     },
     "pokemon-tcg-terastal-fest-ex-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Terastal Fest ex Booster Display (Japanese)",
@@ -14712,7 +14718,7 @@
      "title": "Pok\u00e9mon TCG: Phantasmal Flames: Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 249.99,
+     "price": 364.99,
      "unavail_since": 1792210221
     },
     "one-piece-tcg-starter-deck-ex-gear5-st-21": {
@@ -14759,7 +14765,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
