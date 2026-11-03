@@ -17580,10 +17580,9 @@
     "one-piece-heroines-edition-vol-2-booster-box": {
      "title": "One Piece Heroines Edition Vol. 2 Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 249.95,
-     "last_restock_alert": 1793310023,
-     "unavail_since": 1793388911
+     "last_restock_alert": 1793665205
     },
     "pokemon-mega-battle-deck-mega-gengar-ex": {
      "title": "Pokemon Mega Battle Deck: Mega Gengar ex",
@@ -22765,7 +22764,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29530,7 +29529,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
