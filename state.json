@@ -21112,9 +21112,10 @@
     "pokemon-tcg-scarlet-violet-elite-trainer-box-koraidon-pre-order": {
      "title": "Pok\u00e9mon TCG: Scarlet And Violet Elite Trainer Box (Koraidon)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 199.95,
-     "last_restock_alert": 1789417519
+     "last_restock_alert": 1789417519,
+     "unavail_since": 1793760008
     },
     "pokemon-sv-temporal-forces-half-booster-box": {
      "title": "Pokemon SV Temporal Forces Half Booster Box",
@@ -21126,9 +21127,10 @@
     "pokemon-tcg-scarlet-violet-elite-trainer-box-miraidon-pre-order": {
      "title": "Pok\u00e9mon TCG: Scarlet And Violet Elite Trainer Box (Miraidon)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 219.95,
-     "last_restock_alert": 1789419072
+     "last_restock_alert": 1789419072,
+     "unavail_since": 1793760008
     },
     "pokemon-go-pin-collection-bulbasaur": {
      "title": "Pokemon GO Pin Collection - Bulbasaur",
@@ -22848,7 +22850,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29621,7 +29623,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
