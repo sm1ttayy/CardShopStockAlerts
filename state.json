@@ -17677,16 +17677,16 @@
     "pokemon-30th-ultra-premium-collection-day": {
      "title": "Pokemon 30th Ultra-Premium Collection - Day",
      "game": "Pokemon",
-     "available": false,
-     "price": 399.95,
-     "unavail_since": 1793758513
+     "available": true,
+     "price": 369.95,
+     "last_restock_alert": 1793832910
     },
     "pokemon-30th-ultra-premium-collection-night": {
      "title": "Pokemon 30th Ultra-Premium Collection - Night",
      "game": "Pokemon",
-     "available": false,
-     "price": 419.95,
-     "unavail_since": 1793758513
+     "available": true,
+     "price": 399.95,
+     "last_restock_alert": 1793832914
     },
     "pokemon-mega-battle-deck-mega-diancie-ex": {
      "title": "Pokemon Mega Battle Deck: Mega Diancie ex",
@@ -17696,7 +17696,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22925,7 +22925,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29710,7 +29710,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
