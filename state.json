@@ -17696,7 +17696,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19564,9 +19564,9 @@
     "pokemon-30th-celebration-greninja-ex-box": {
      "title": "Pokemon - 30th Celebration - Greninja ex Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 84.95,
-     "unavail_since": 1789587613
+     "available": true,
+     "price": 69.95,
+     "last_restock_alert": 1793829026
     },
     "pokemon-30th-celebration-tech-sticker-collection-lucario": {
      "title": "Pokemon - 30th Celebration - Tech Sticker Collection - Lucario",
@@ -22925,7 +22925,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29703,7 +29703,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
