@@ -17696,7 +17696,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22925,7 +22925,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25365,6 +25365,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 99.95
+    },
+    "mtg-star-trek-commander-deck": {
+     "title": "MTG STAR TREK COMMANDER DECK",
+     "game": "MTG",
+     "available": true,
+     "price": 84.95
     }
    },
    "baselined": true,
@@ -26825,7 +26831,7 @@
      "title": "Japanese Battle Partners Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 97.99,
+     "price": 97.75,
      "unavail_since": 1791120637
     },
     "japanese-cyber-judge-booster-box": {
@@ -29704,7 +29710,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
