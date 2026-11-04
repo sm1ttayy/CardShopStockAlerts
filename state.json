@@ -17696,7 +17696,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19647,9 +19647,8 @@
     "pokemon-burning-shadows-booster-box": {
      "title": "Pokemon - Burning Shadows Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 1999.95,
-     "unavail_since": 1793758511
+     "available": true,
+     "price": 1999.95
     },
     "riftbound-league-of-legends-proving-grounds-box-set-2nd-edition": {
      "title": "Riftbound: League of Legends - Proving Grounds Box Set 2nd Edition (Pre-Order)",
@@ -22925,7 +22924,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29703,9 +29702,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 57,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'theros-beyond-death-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -31083,8 +31082,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -31725,8 +31724,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
