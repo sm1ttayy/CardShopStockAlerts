@@ -17696,7 +17696,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22914,10 +22914,17 @@
      "game": "MTG",
      "available": true,
      "price": 79.95
+    },
+    "riftbound-league-of-legends-spiritforged-champion-deck-fiora-pre-order": {
+     "title": "Riftbound: League of Legends - Spiritforged Champion Deck - Fiora",
+     "game": "Riftbound",
+     "available": false,
+     "price": 34.95,
+     "unavail_since": 1793826931
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27909,7 +27916,7 @@
      "title": "Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
      "game": "Pokemon",
      "available": true,
-     "price": 244.99
+     "price": 244.49
     },
     "double-masters-booster-box": {
      "title": "Double Masters - Booster Box",
@@ -29695,7 +29702,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
