@@ -16448,7 +16448,7 @@
      "title": "Reality Fracture Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 124.95,
+     "price": 119.95,
      "last_restock_alert": 1792543519
     },
     "marvel-super-heroes-jumpstart-booster-box-preorder": {
@@ -21386,9 +21386,10 @@
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1793758511
+     "last_restock_alert": 1793758511,
+     "unavail_since": 1793761215
     },
     "pokemon-scarlet-violet-surging-sparks-bundle-pre-order": {
      "title": "Pokemon Scarlet & Violet Surging Sparks Bundle",
@@ -22850,7 +22851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26971,7 +26972,7 @@
      "title": "Ravnica Allegiance Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 165.75,
+     "price": 156.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1791120639
     },
@@ -28936,7 +28937,7 @@
      "title": "One Piece Heroines Edition Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 299.75,
+     "price": 289.99,
      "last_restock_alert": 1792699549,
      "unavail_since": 1792966821
     },
@@ -29329,7 +29330,7 @@
      "title": "Foundations Commander Deck - Tramplesaurus Rex",
      "game": "MTG",
      "available": false,
-     "price": 61.99,
+     "price": 63.75,
      "unavail_since": 1792192829
     },
     "pokemon-celebrations-prime-collection": {
@@ -29623,7 +29624,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
