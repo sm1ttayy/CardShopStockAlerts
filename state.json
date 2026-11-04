@@ -17678,14 +17678,14 @@
      "title": "Pokemon 30th Ultra-Premium Collection - Day",
      "game": "Pokemon",
      "available": false,
-     "price": 389.95,
+     "price": 399.95,
      "unavail_since": 1793758513
     },
     "pokemon-30th-ultra-premium-collection-night": {
      "title": "Pokemon 30th Ultra-Premium Collection - Night",
      "game": "Pokemon",
      "available": false,
-     "price": 399.95,
+     "price": 419.95,
      "unavail_since": 1793758513
     },
     "pokemon-mega-battle-deck-mega-diancie-ex": {
@@ -17696,7 +17696,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19557,9 +19557,9 @@
     "pokemon-30th-celebration-sylveon-ex-box": {
      "title": "Pokemon - 30th Celebration - Sylveon ex Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 89.95,
-     "unavail_since": 1789587613
+     "available": true,
+     "price": 69.95,
+     "last_restock_alert": 1793827234
     },
     "pokemon-30th-celebration-greninja-ex-box": {
      "title": "Pokemon - 30th Celebration - Greninja ex Box",
@@ -22924,7 +22924,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29393,14 +29393,14 @@
      "title": "30th Celebration Mini Tin [Mewtwo]",
      "game": "Pokemon",
      "available": true,
-     "price": 26.99,
+     "price": 27.75,
      "last_restock_alert": 1793150431
     },
     "30th-celebration-ex-tin-sylveon-ex-retail-version": {
      "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
      "game": "Pokemon",
      "available": false,
-     "price": 61.25,
+     "price": 60.25,
      "last_restock_alert": 1793310626,
      "unavail_since": 1793322625
     },
@@ -29636,7 +29636,7 @@
      "title": "30th Celebration Mini Tin [Zapdos]",
      "game": "Pokemon",
      "available": true,
-     "price": 24.75
+     "price": 25.49
     },
     "mimikyu-ex-box": {
      "title": "Mimikyu ex Box",
@@ -29702,7 +29702,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
