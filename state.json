@@ -783,10 +783,9 @@
     "riftbound-tcg-league-of-legends-vendetta-display-box": {
      "title": "Riftbound TCG: League of Legends: Vendetta - Display Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 129.87,
-     "last_restock_alert": 1790096510,
-     "unavail_since": 1792797245
+     "available": true,
+     "price": 119.9,
+     "last_restock_alert": 1793835189
     },
     "pokemon-tcg-battle-partners-booster-box-sv9-battle-partners-japanese-version": {
      "title": "Pokemon TCG: Battle Partners Booster Box - (SV9) Battle Partners [Japanese Version]",
@@ -931,9 +930,9 @@
     "riftbound-tcg-league-of-legends-radiance-display-box": {
      "title": "Riftbound TCG: League of Legends: Radiance - Display Box",
      "game": "Riftbound",
-     "available": false,
-     "price": 139.9,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 109.99,
+     "last_restock_alert": 1793835189
     },
     "one-piece-tcg-op-18-title-tba-display-box-english": {
      "title": "One Piece TCG: [OP-18] TITLE TBA - Display Box [English] (Pre-Order)",
@@ -1474,7 +1473,7 @@
      "title": "Pokemon TCG: Destined Rivals Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 381.2,
+     "price": 363.08,
      "unavail_since": 1788545848
     },
     "pirates-on-vacation-one-piece-box-8-megahouse-ochatomo": {
@@ -1541,9 +1540,9 @@
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG: Origins Booster Display",
      "game": "Riftbound",
-     "available": false,
-     "price": 225.06,
-     "unavail_since": 1790096510
+     "available": true,
+     "price": 213.55,
+     "last_restock_alert": 1793835189
     },
     "dominaria-remastered-draft-booster-box-pre-order": {
      "title": "Magic: the Gathering: Dominaria Remastered - Draft Booster Box",
@@ -1627,14 +1626,15 @@
      "title": "Magic: The Gathering | Reality Fracture - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 46.08,
+     "price": 43.79,
      "last_restock_alert": 1791440072
     },
     "pokemon-tcg-journey-together-booster-display-standard": {
      "title": "Pokemon TCG: Journey Together Booster Display",
      "game": "Pokemon",
-     "available": true,
-     "price": 203.42
+     "available": false,
+     "price": 203.42,
+     "unavail_since": 1793835179
     },
     "time-spiral-remastered-draft-booster-box-preorder": {
      "title": "Magic: the Gathering: Time Spiral Remastered - Draft Booster Box",
@@ -1780,6 +1780,24 @@
      "available": false,
      "price": 143.99,
      "unavail_since": 1793413893
+    },
+    "riftbound-tcg-league-of-legends-spiritforged-booster-display": {
+     "title": "Riftbound TCG: League of Legends: Spiritforged Booster Display",
+     "game": "Riftbound",
+     "available": true,
+     "price": 168.32
+    },
+    "magic-the-gathering-star-trek-bundle": {
+     "title": "Magic: The Gathering | Star Trek - Bundle (Pre-Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 56.99
+    },
+    "magic-the-gathering-star-trek-beam-me-up-bundle": {
+     "title": "Magic: The Gathering | Star Trek - Beam Me Up Bundle (Pre-Order)",
+     "game": "MTG",
+     "available": true,
+     "price": 119.99
     }
    },
    "baselined": true,
@@ -4803,7 +4821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5682,7 +5700,7 @@
      "title": "Pokemon TCG: Mega Evolution - Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 412.0,
+     "price": 410.0,
      "last_restock_alert": 1790259354,
      "unavail_since": 1790617400
     },
@@ -6869,7 +6887,7 @@
      "title": "One Piece TCG: Mini Case Volume 3 (Hancock) (Purple)",
      "game": "One Piece",
      "available": true,
-     "price": 32.0
+     "price": 30.0
     },
     "one-piece-tcg-mini-case-volume-3-monkey-d-luffy-yellow": {
      "title": "One Piece TCG: Mini Case Volume 3 (Monkey.D.Luffy) (Yellow)",
@@ -9135,6 +9153,12 @@
      "game": "Riftbound",
      "available": true,
      "price": 179.75
+    },
+    "2020-pok-mon-sword-shield-darkness-ablaze-booster-box": {
+     "title": "Pok\u00e9mon Sword & Shield Darkness Ablaze Booster Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 399.75
     }
    },
    "baselined": true,
@@ -12180,6 +12204,12 @@
      "game": "MTG",
      "available": true,
      "price": 120.0
+    },
+    "tin-pack-set-volume-3-one-piece": {
+     "title": "Tin Pack Set Volume 3 [One Piece] (10/30)",
+     "game": "One Piece",
+     "available": true,
+     "price": 25.0
     }
    },
    "baselined": true,
@@ -14811,7 +14841,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 63,
    "error_streak": 0,
    "last_error": ""
   },
