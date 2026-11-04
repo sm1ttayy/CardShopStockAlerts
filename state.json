@@ -4402,7 +4402,7 @@
      "title": "One Piece: Starter Deck EX 30 - Luffy & Ace [ST-30]",
      "game": "One Piece",
      "available": false,
-     "price": 30.0,
+     "price": 33.0,
      "unavail_since": 1789060589
     },
     "one-piece-starter-deck-35-red-black-sabo-st-35": {
@@ -4803,7 +4803,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6881,7 +6881,7 @@
      "title": "One Piece TCG: Heroines Edition Vol.2 Extra Booster Box (EB-05)",
      "game": "One Piece",
      "available": true,
-     "price": 274.0
+     "price": 272.0
     },
     "one-piece-tcg-mini-case-volume-3-shanks-dark-green": {
      "title": "One Piece TCG: Mini Case Volume 3 (Shanks) (Dark Green)",
@@ -10901,6 +10901,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 99.99
+    },
+    "magic-the-gathering-star-trek-play-booster-display-trk": {
+     "title": "Magic: The Gathering - Star Trek Play Booster Display (TRK)",
+     "game": "MTG",
+     "available": true,
+     "price": 144.99
     }
    },
    "baselined": true,
@@ -12168,6 +12174,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 850.0
+    },
+    "reality-fracture-secret-lair-bundle-mtg-10-23": {
+     "title": "Reality Fracture Secret Lair Bundle [MTG]",
+     "game": "MTG",
+     "available": true,
+     "price": 120.0
     }
    },
    "baselined": true,
@@ -12726,7 +12738,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 160.99,
-     "unavail_since": 1791759968
+     "unavail_since": 1791759968,
+     "delisted": true
     },
     "pokemon-tcg-me01-mega-base-booster-box-non-enhanced": {
      "title": "Pokemon TCG: ME01 Mega Base Booster Box - Non Enhanced",
@@ -12845,7 +12858,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 149.99,
-     "unavail_since": 1791381040
+     "unavail_since": 1791381040,
+     "delisted": true
     },
     "pokemon-tcg-mega-moonlit-tin-set-one-of-each-1": {
      "title": "Pokemon TCG: Mega Moonlit Tin Set (one of each)",
@@ -14796,7 +14810,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
