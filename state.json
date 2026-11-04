@@ -22846,12 +22846,13 @@
     "pokemon-30th-celebration-starter-card-set-turtwig-chimchar-and-piplup-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set -  Turtwig, Chimchar and Piplup (Japanese)",
      "game": "Pokemon",
-     "available": true,
-     "price": 24.95
+     "available": false,
+     "price": 24.95,
+     "unavail_since": 1793765110
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29624,7 +29625,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
