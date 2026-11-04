@@ -4774,7 +4774,7 @@
      "title": "[PREORDER] One Piece: The Dominance of God - Booster Box [OP-18]",
      "game": "One Piece",
      "available": true,
-     "price": 295.0
+     "price": 269.0
     },
     "preorder-mega-evolution-delta-reign-3-pack-blister-seel": {
      "title": "[PREORDER] Mega Evolution: Delta Reign 3-Pack Blister [Seel]",
@@ -4803,7 +4803,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12890,6 +12890,12 @@
      "available": false,
      "price": 30.0,
      "unavail_since": 1793230759
+    },
+    "one-piece-tcg-set-sail-deck-set-sd01": {
+     "title": "One Piece TCG: Set Sail Deck Set (SD01)",
+     "game": "One Piece",
+     "available": true,
+     "price": 20.0
     }
    },
    "baselined": true,
@@ -14790,7 +14796,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
