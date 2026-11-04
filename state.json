@@ -19226,12 +19226,11 @@
      "price": 29.95
     },
     "pokemon-mega-evolution-delta-reign-booster-box": {
-     "title": "Pokemon - Mega Evolution - Delta Reign - Booster Box (Pre-Order)",
+     "title": "Pokemon - Mega Evolution - Delta Reign - Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 299.95,
-     "last_restock_alert": 1792089937,
-     "unavail_since": 1792101307
+     "last_restock_alert": 1793758855
     },
     "mtg-ikoria-lair-of-behemoths-english-booster-box": {
      "title": "MTG - Ikoria Lair of Behemoths - English Booster Box",
@@ -22843,7 +22842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27687,7 +27686,7 @@
      "title": "Marvel Super Heroes Commander Deck - The Fantastic Four",
      "game": "MTG",
      "available": true,
-     "price": 38.99
+     "price": 38.75
     },
     "journey-together-pokemon-center-elite-trainer-box": {
      "title": "Journey Together Pokemon Center Elite Trainer Box",
@@ -27750,7 +27749,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 50.99
+     "price": 49.25
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -27816,7 +27815,7 @@
      "title": "Adventures in the Forgotten Realms Bundle",
      "game": "MTG",
      "available": true,
-     "price": 182.49,
+     "price": 188.99,
      "last_restock_alert": 1786657832
     },
     "commander-legends-reap-the-tides-commander-deck": {
@@ -28215,7 +28214,7 @@
      "title": "Commander 2021 Deck - Lorehold Legacies",
      "game": "MTG",
      "available": true,
-     "price": 62.75
+     "price": 61.25
     },
     "commander-2021-deck-prismari-performance": {
      "title": "Commander 2021 Deck - Prismari Performance",
@@ -28520,7 +28519,7 @@
      "title": "Kaladesh - Bundle",
      "game": "MTG",
      "available": true,
-     "price": 209.75
+     "price": 199.75
     },
     "strixhaven-school-of-mages-bundle": {
      "title": "Strixhaven: School of Mages - Bundle",
@@ -29141,7 +29140,7 @@
      "title": "Final Fantasy Limit Break Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 47.49
+     "price": 47.25
     },
     "silver-lance-booster-box": {
      "title": "Silver Lance Booster Box",
@@ -29153,7 +29152,7 @@
      "title": "Reality Fracture Secret Lair Bundle",
      "game": "MTG",
      "available": true,
-     "price": 138.75
+     "price": 132.75
     },
     "celebrations-mini-tin-1x-assorted-art": {
      "title": "Celebrations Mini Tin [Unova]",
@@ -29185,7 +29184,7 @@
      "title": "Reality Fracture Bundle",
      "game": "MTG",
      "available": true,
-     "price": 45.49
+     "price": 45.25
     },
     "30th-celebration-booster-bundle-wave-2": {
      "title": "30th Celebration Booster Bundle - Wave 2",
@@ -29267,7 +29266,7 @@
      "title": "Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
      "available": true,
-     "price": 50.75
+     "price": 50.49
     },
     "crown-zenith-pin-collection-rillaboom": {
      "title": "Crown Zenith Pin Collection [Rillaboom]",
@@ -29340,7 +29339,7 @@
      "title": "Foundations Commander Deck - Reign of Dragons",
      "game": "MTG",
      "available": true,
-     "price": 48.49
+     "price": 48.75
     },
     "pokemon-celebrations-collector-chest": {
      "title": "Celebrations Collector Chest",
@@ -29384,7 +29383,7 @@
      "title": "Foundations Commander Deck - Calling All Angels",
      "game": "MTG",
      "available": true,
-     "price": 49.75
+     "price": 51.25
     },
     "magic-the-gathering-scrappy-survivors-commander-deck": {
      "title": "Scrappy Survivors Commander Deck",
@@ -29402,7 +29401,7 @@
      "title": "Foundations Commander Deck - Wretched Ranks",
      "game": "MTG",
      "available": true,
-     "price": 40.25
+     "price": 41.49
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-lucario": {
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Lucario]",
@@ -29481,7 +29480,7 @@
      "title": "Radiance Showdown Decks: Evelynn vs Seraphine",
      "game": "Riftbound",
      "available": true,
-     "price": 19.75
+     "price": 18.25
     },
     "pokemon-go-premier-deck-holder-collectiondragonite-vstar": {
      "title": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
@@ -29606,10 +29605,16 @@
      "game": "One Piece",
      "available": true,
      "price": 29.75
+    },
+    "the-hobbit-bundle": {
+     "title": "The Hobbit Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 47.49
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
