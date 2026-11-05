@@ -17788,7 +17788,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23029,7 +23029,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25479,8 +25479,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -27833,7 +27833,7 @@
      "title": "151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1099.99,
+     "price": 1099.75,
      "unavail_since": 1792298722
     },
     "celebrations-pokemon-center-elite-trainer-box": {
@@ -27948,7 +27948,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 49.25
+     "price": 48.99
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -29828,7 +29828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
