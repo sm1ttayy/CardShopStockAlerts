@@ -17789,7 +17789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23027,10 +23027,17 @@
      "available": false,
      "price": 34.95,
      "unavail_since": 1793826931
+    },
+    "pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order": {
+     "title": "Pokemon TCG Mega Set 6 Delta Reign elite trainer",
+     "game": "Pokemon",
+     "available": false,
+     "price": 109.95,
+     "unavail_since": 1793920219
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 62,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28296,7 +28303,7 @@
      "title": "Storm Emeralda Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 88.75,
+     "price": 87.75,
      "unavail_since": 1791120627
     },
     "pitch-black-build-battle-box": {
@@ -29835,7 +29842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
