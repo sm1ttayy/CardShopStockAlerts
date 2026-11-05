@@ -17602,7 +17602,7 @@
      "title": "Pokemon 30th Celebration Mini Tin Display",
      "game": "Pokemon",
      "available": false,
-     "price": 219.95,
+     "price": 199.95,
      "unavail_since": 1791855914
     },
     "pokemon-30th-celebration-booster-bundle": {
@@ -17723,8 +17723,9 @@
     "pokemon-mega-battle-deck-mega-gengar-ex": {
      "title": "Pokemon Mega Battle Deck: Mega Gengar ex",
      "game": "Pokemon",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1793914216
     },
     "pokemon-30th-celebration-tech-sticker-collection-set-of-2-alolan-exeggutor-lucario": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection Set of 2 (Alolan Exeggutor & Lucario)",
@@ -17778,10 +17779,16 @@
      "game": "MTG",
      "available": true,
      "price": 99.95
+    },
+    "star-trek-bundle-preorder": {
+     "title": "Star Trek Bundle",
+     "game": "MTG",
+     "available": true,
+     "price": 44.95
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19781,10 +19788,9 @@
     "pokemon-30th-celebration-japanese-booster-box": {
      "title": "Pokemon - 30th Celebration - Japanese Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 299.95,
-     "last_restock_alert": 1790806822,
-     "unavail_since": 1791922523
+     "available": true,
+     "price": 249.95,
+     "last_restock_alert": 1793914217
     },
     "one-piece-card-game-starter-deck-st18-monkey-d-luffy": {
      "title": "One Piece Card Game - Starter Deck - ST18 - Monkey D. Luffy",
@@ -20083,6 +20089,18 @@
      "available": false,
      "price": 34.95,
      "unavail_since": 1793826622
+    },
+    "mtg-tarkir-dragonstorm-commander-decks-mardu-surge": {
+     "title": "MTG - Tarkir: Dragonstorm - Commander Deck - Mardu Surge",
+     "game": "MTG",
+     "available": true,
+     "price": 64.95
+    },
+    "mtg-tarkir-dragonstorm-commander-decks-temur-roar": {
+     "title": "MTG - Tarkir: Dragonstorm - Commander Deck - Temur Roar",
+     "game": "MTG",
+     "available": true,
+     "price": 99.95
     }
    },
    "baselined": true,
@@ -22037,9 +22055,10 @@
     "pokemon-30th-celebration-elite-trainer-box-pre-order": {
      "title": "Pokemon - 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 159.95,
-     "last_restock_alert": 1793826620
+     "last_restock_alert": 1793826620,
+     "unavail_since": 1793914215
     },
     "mtg-modern-horizons-3-commander-deck-creative-energy": {
      "title": "MTG - Modern Horizons 3 - Commander Deck - Creative Energy",
@@ -23010,7 +23029,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24104,7 +24123,7 @@
      "price": 229.99
     },
     "star-trek-commander-deck-case": {
-     "title": "Star Trek Commander Deck Set of 4 [DELAYED]",
+     "title": "Star Trek Commander Deck Set of 4",
      "game": "MTG",
      "available": true,
      "price": 349.99
@@ -25305,10 +25324,10 @@
      "price": 329.95
     },
     "pokemon-30th-celebration-elite-trainer-box": {
-     "title": "POKEMON 30TH CELEBRATION ELITE TRAINER BOX (LIMIT 1)",
+     "title": "POKEMON 30TH CELEBRATION ELITE TRAINER BOX (LIMIT 3)",
      "game": "Pokemon",
      "available": true,
-     "price": 279.95,
+     "price": 159.95,
      "last_restock_alert": 1792008911
     },
     "pokemon-30th-celebration-poster-collection": {
@@ -26262,7 +26281,7 @@
      "title": "Premium Booster Vol. 2 - Booster Box (PRB02)",
      "game": "One Piece",
      "available": true,
-     "price": 349.75,
+     "price": 345.75,
      "last_restock_alert": 1792699549
     },
     "unleashed-booster-display": {
@@ -26284,7 +26303,7 @@
      "title": "Spiderman Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 119.75
+     "price": 114.75
     },
     "the-time-of-battle-booster-box": {
      "title": "The Time of Battle Booster Box",
@@ -26319,7 +26338,7 @@
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 180.25,
+     "price": 174.75,
      "last_restock_alert": 1792852845
     },
     "adventure-on-kamis-island-booster-box": {
@@ -26430,13 +26449,13 @@
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 2448.99
+     "price": 2428.99
     },
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 106.99,
+     "price": 106.75,
      "last_restock_alert": 1792106126
     },
     "foundations-jumpstart-booster-display": {
@@ -26520,7 +26539,7 @@
      "title": "Carrying On His Will Booster Box [OP13]",
      "game": "One Piece",
      "available": true,
-     "price": 423.75,
+     "price": 405.75,
      "last_restock_alert": 1792699845
     },
     "black-bolt-booster-box": {
@@ -26672,7 +26691,7 @@
      "title": "Emperors in the New World Booster Box [OP09]",
      "game": "One Piece",
      "available": true,
-     "price": 618.75
+     "price": 612.99
     },
     "journey-together-non-enhanced-booster-box": {
      "title": "Journey Together Non-Enhanced Booster Box",
@@ -26755,7 +26774,7 @@
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 389.75,
+     "price": 383.75,
      "last_restock_alert": 1787505026
     },
     "korean-blue-sky-stream-booster-box": {
@@ -26895,7 +26914,7 @@
      "title": "Mega Evolution Enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 299.75,
+     "price": 298.75,
      "last_restock_alert": 1787168758
     },
     "japanese-violet-ex-booster-box": {
@@ -26998,7 +27017,7 @@
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 303.99,
+     "price": 303.75,
      "last_restock_alert": 1787505026
     },
     "japanese-sky-legend-booster-box": {
@@ -27069,7 +27088,7 @@
      "title": "Journey Together Enhanced Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 224.75,
+     "price": 223.75,
      "last_restock_alert": 1787872843
     },
     "pokemon-japanese-paradigm-trigger-booster-box": {
@@ -27106,7 +27125,7 @@
      "title": "Awakening of the New Era Booster Box [OP05]",
      "game": "One Piece",
      "available": true,
-     "price": 994.75
+     "price": 999.75
     },
     "pokemon-s-v-obsidian-flames-booster-box": {
      "title": "Obsidian Flames Booster Box",
@@ -27199,7 +27218,7 @@
      "title": "Scarlet & Violet Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 297.75,
+     "price": 294.75,
      "last_restock_alert": 1792852845
     },
     "cosmic-eclipse-booster-box": {
@@ -27262,7 +27281,7 @@
      "title": "Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 139.49
+     "price": 138.49
     },
     "mtg-wilds-of-eldraine-set-booster-box": {
      "title": "Wilds of Eldraine Set Booster Box",
@@ -27527,7 +27546,7 @@
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 233.75
+     "price": 228.25
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
@@ -27821,7 +27840,7 @@
      "title": "Celebrations Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 475.49
+     "price": 469.99
     },
     "ascended-heroes-pokemon-center-elite-trainer-box": {
      "title": "Ascended Heroes Pokemon Center Elite Trainer Box",
@@ -27846,7 +27865,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 269.75,
+     "price": 262.75,
      "last_restock_alert": 1792852854
     },
     "pokemon-day-2026-collection": {
@@ -27878,7 +27897,7 @@
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 376.99
+     "price": 375.99
     },
     "jumpstart-booster-box": {
      "title": "Jumpstart - Booster Box",
@@ -27891,7 +27910,7 @@
      "title": "Dominaria - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 227.75,
+     "price": 224.75,
      "last_restock_alert": 1786658431,
      "unavail_since": 1791120628
     },
@@ -27995,7 +28014,7 @@
      "title": "Adventures in the Forgotten Realms Bundle",
      "game": "MTG",
      "available": true,
-     "price": 188.99,
+     "price": 187.75,
      "last_restock_alert": 1786657832
     },
     "commander-legends-reap-the-tides-commander-deck": {
@@ -28008,7 +28027,7 @@
      "title": "Pokemon GO Pokemon Center Elite Trainer Box Plus (Exclusive)",
      "game": "Pokemon",
      "available": true,
-     "price": 244.49
+     "price": 239.75
     },
     "double-masters-booster-box": {
      "title": "Double Masters - Booster Box",
@@ -28339,7 +28358,7 @@
      "title": "Pokemon GO Radiant Eevee Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 184.49
+     "price": 180.75
     },
     "champions-path-pin-collection-ballonlea-gym": {
      "title": "Champion's Path Pin Collection [Ballonlea Gym]",
@@ -28414,7 +28433,7 @@
      "title": "Brilliant Stars Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 234.75,
+     "price": 244.49,
      "last_restock_alert": 1786566936
     },
     "pokemon-celebrations-booster-pack-1x-random-art": {
@@ -28478,7 +28497,7 @@
      "title": "The Hobbit Play Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 137.75
+     "price": 130.99
     },
     "mega-symphonia-booster-box": {
      "title": "Mega Symphonia Booster Box",
@@ -29039,7 +29058,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 51.25
+     "price": 45.75
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -29057,13 +29076,13 @@
      "title": "30th Celebration Ditto Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 149.75
+     "price": 124.49
     },
     "30th-celebration-ultra-premium-collection-day": {
      "title": "30th Celebration Ultra-Premium Collection [Day]",
      "game": "Pokemon",
      "available": true,
-     "price": 533.75
+     "price": 392.75
     },
     "the-hobbit-draft-night": {
      "title": "The Hobbit Draft Night",
@@ -29136,7 +29155,7 @@
      "title": "The World's Strongest Warriors Double Pack Set Vol.12",
      "game": "One Piece",
      "available": true,
-     "price": 44.75,
+     "price": 43.99,
      "last_restock_alert": 1793150424
     },
     "illustration-box-vol-6": {
@@ -29169,7 +29188,7 @@
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 70.75,
+     "price": 67.75,
      "last_restock_alert": 1792699858
     },
     "the-hobbit-gift-bundle": {
@@ -29260,7 +29279,7 @@
      "title": "Pokemon GO Pin Collection [Squirtle]",
      "game": "Pokemon",
      "available": true,
-     "price": 94.75
+     "price": 89.75
     },
     "paradox-rift-pokemon-center-elite-trainer-box-roaring-moon": {
      "title": "Paradox Rift Pokemon Center Elite Trainer Box [Roaring Moon]",
@@ -29334,7 +29353,7 @@
      "title": "Reality Fracture Secret Lair Bundle",
      "game": "MTG",
      "available": true,
-     "price": 132.75
+     "price": 117.75
     },
     "celebrations-mini-tin-1x-assorted-art": {
      "title": "Celebrations Mini Tin [Unova]",
@@ -29366,7 +29385,7 @@
      "title": "Reality Fracture Bundle",
      "game": "MTG",
      "available": true,
-     "price": 45.25
+     "price": 43.99
     },
     "30th-celebration-booster-bundle-wave-2": {
      "title": "30th Celebration Booster Bundle - Wave 2",
@@ -29423,13 +29442,13 @@
      "title": "Reality Fracture Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 122.49
+     "price": 120.75
     },
     "30th-celebration-elite-trainer-box-pokemon-center": {
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 271.25
+     "price": 263.49
     },
     "30th-celebration-tech-sticker-collection-lucario": {
      "title": "30th Celebration Tech Sticker Collection [Lucario]",
@@ -29448,7 +29467,7 @@
      "title": "Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
      "available": true,
-     "price": 50.49
+     "price": 48.75
     },
     "crown-zenith-pin-collection-rillaboom": {
      "title": "Crown Zenith Pin Collection [Rillaboom]",
@@ -29583,19 +29602,19 @@
      "title": "Foundations Commander Deck - Wretched Ranks",
      "game": "MTG",
      "available": true,
-     "price": 42.49
+     "price": 40.75
     },
     "mega-evolutions-pokemon-center-elite-trainer-box-lucario": {
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Lucario]",
      "game": "Pokemon",
      "available": true,
-     "price": 196.25
+     "price": 180.75
     },
     "pokemon-go-special-collection-team-instinct": {
      "title": "Pokemon GO Special Collection [Team Instinct]",
      "game": "Pokemon",
      "available": true,
-     "price": 111.99
+     "price": 111.75
     },
     "30th-celebration-ex-tin-greninja-ex-retail-version": {
      "title": "30th Celebration ex Tin [Greninja ex] (Retail Version)",
@@ -29607,7 +29626,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Mind Flayarrrs Commander Deck",
      "game": "MTG",
      "available": true,
-     "price": 298.99
+     "price": 298.75
     },
     "delta-reign-booster-box": {
      "title": "Delta Reign Booster Box",
@@ -29662,7 +29681,7 @@
      "title": "Radiance Showdown Decks: Evelynn vs Seraphine",
      "game": "Riftbound",
      "available": true,
-     "price": 18.49
+     "price": 19.49
     },
     "pokemon-go-premier-deck-holder-collectiondragonite-vstar": {
      "title": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
@@ -29704,7 +29723,7 @@
      "title": "Starter Deck 34: PURPLE Charlotte Katakuri",
      "game": "One Piece",
      "available": true,
-     "price": 23.25
+     "price": 23.49
     },
     "radiance-booster-display": {
      "title": "Radiance Booster Display",
@@ -29743,7 +29762,7 @@
      "title": "Radiance Vault Bundle",
      "game": "Riftbound",
      "available": true,
-     "price": 34.49
+     "price": 32.75
     },
     "starter-deck-10-ultimate-deck-the-three-captains": {
      "title": "Starter Deck 10: Ultimate Deck: The Three Captains",
@@ -29793,11 +29812,23 @@
      "title": "The Hobbit Bundle",
      "game": "MTG",
      "available": true,
-     "price": 47.49
+     "price": 46.99
+    },
+    "star-trek-play-booster-display": {
+     "title": "Star Trek Play Booster Display",
+     "game": "MTG",
+     "available": true,
+     "price": 115.49
+    },
+    "tarkir-dragonstorm-commander-deck-mardu-surge": {
+     "title": "Tarkir: Dragonstorm Commander Deck - Mardu Surge",
+     "game": "MTG",
+     "available": true,
+     "price": 49.75
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31099,8 +31130,9 @@
     "pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-pre-order": {
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Night Umbreon (Pre Order)",
      "game": "Pokemon",
-     "available": true,
-     "price": 449.95
+     "available": false,
+     "price": 449.95,
+     "unavail_since": 1793914248
     },
     "pokemon-tcg-30th-celebration-ditto-premium-collection-pre-order": {
      "title": "Pokemon TCG: 30th Celebration Ditto Premium Collection (Pre Order)",
@@ -31264,10 +31296,9 @@
     "magic-the-gathering-universes-beyond-marvel-super-heroes-doom-prevails-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Doom Prevails Commander Deck",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 64.99,
-     "last_restock_alert": 1793219143,
-     "unavail_since": 1793397933
+     "last_restock_alert": 1793914276
     },
     "magic-the-gathering-universes-beyond-marvel-super-heroes-wakanda-forever-commander-deck": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Wakanda Forever Commander Deck",
