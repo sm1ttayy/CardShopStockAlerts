@@ -17726,7 +17726,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22955,7 +22955,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28134,8 +28134,9 @@
     "core-set-2019-booster-box": {
      "title": "Core Set 2019 - Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 227.75
+     "available": false,
+     "price": 227.75,
+     "unavail_since": 1793847037
     },
     "kamigawa-neon-dynasty-draft-booster-box": {
      "title": "Kamigawa: Neon Dynasty - Draft Booster Box",
@@ -29741,7 +29742,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 61,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
