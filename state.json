@@ -17788,7 +17788,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23029,7 +23029,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25479,8 +25479,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -27109,7 +27109,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 407.75,
+     "price": 405.75,
      "last_restock_alert": 1791743721,
      "unavail_since": 1792157448
     },
@@ -27552,7 +27552,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 72.49
+     "price": 72.25
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -27852,7 +27852,7 @@
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 260.75,
+     "price": 259.99,
      "last_restock_alert": 1789084228
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
@@ -28247,7 +28247,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 119.75,
+     "price": 116.75,
      "last_restock_alert": 1789592445
     },
     "vendetta-booster-display": {
@@ -28333,7 +28333,7 @@
      "title": "Chaos Rising Elite Trainer Box \u2014 Pokemon Center",
      "game": "Pokemon",
      "available": true,
-     "price": 122.99
+     "price": 120.75
     },
     "twilight-masquerade-pokemon-center-elite-trainer-box": {
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
@@ -28815,7 +28815,7 @@
      "title": "The Lost Caverns of Ixalan - Draft Booster Display",
      "game": "MTG",
      "available": false,
-     "price": 274.99,
+     "price": 269.75,
      "unavail_since": 1791120626
     },
     "khans-of-tarkir-booster-box": {
@@ -29128,7 +29128,7 @@
      "title": "One Piece Heroines Edition Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 289.75,
+     "price": 285.75,
      "last_restock_alert": 1792699549,
      "unavail_since": 1792966821
     },
@@ -29285,7 +29285,7 @@
      "title": "Paradox Rift Pokemon Center Elite Trainer Box [Roaring Moon]",
      "game": "Pokemon",
      "available": true,
-     "price": 197.75
+     "price": 210.75
     },
     "magic-the-gathering-hail-cesar-commander-deck": {
      "title": "Hail, Caesar Commander Deck",
@@ -29737,7 +29737,7 @@
      "title": "Starter Deck 36: YELLOW Eustass\u201dCaptain\u201dKid",
      "game": "One Piece",
      "available": false,
-     "price": 16.75,
+     "price": 16.49,
      "unavail_since": 1793569822
     },
     "starter-deck-35-red-black-sabo": {
@@ -29828,7 +29828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
