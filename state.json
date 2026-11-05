@@ -17707,9 +17707,10 @@
     "pokemon-30th-ultra-premium-collection-day": {
      "title": "Pokemon 30th Ultra-Premium Collection - Day",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 369.95,
-     "last_restock_alert": 1793832910
+     "last_restock_alert": 1793832910,
+     "unavail_since": 1793849708
     },
     "pokemon-30th-ultra-premium-collection-night": {
      "title": "Pokemon 30th Ultra-Premium Collection - Night",
@@ -17732,7 +17733,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22961,7 +22962,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29748,7 +29749,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
