@@ -15367,7 +15367,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Moonshot Games: product 'one-piece-tcg-the-worlds-strongest-warriors-booster-pack' failed: HTTP Error 429: Too Many Requests"
   },
   "https://superanimestore.com": {
    "products": {
@@ -16263,7 +16263,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Super Anime Store: product 'pokemon-trading-card-game-first-partner-illustration-collection-series-3' failed: HTTP Error 429: Too Many Requests"
   },
   "https://geekerygames.com": {
    "products": {
@@ -17726,9 +17726,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 12,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Geekery Games: product 'one-piece-op13-carrying-on-his-will-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://store.401games.ca": {
    "products": {
@@ -22955,9 +22955,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Hobbiesville: product 'pokemon-scarlet-violet-6-5-elite-trainer-box-pre-order' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -26145,7 +26145,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "PokeRand: product 'pokemon-tcg-mega-evolution-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://common-lands.com": {
    "products": {
@@ -29741,9 +29741,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 21,
    "error_streak": 1,
-   "last_error": "Common Lands: product 'pokemon-s-v-twilight-masquerade-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": "Common Lands: product 'ixalan-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
