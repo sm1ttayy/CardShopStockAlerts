@@ -17789,7 +17789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23030,7 +23030,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29835,9 +29835,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
-   "error_streak": 0,
-   "last_error": ""
+   "check_cursor": 59,
+   "error_streak": 1,
+   "last_error": "Common Lands: product 'tmnt-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -31216,8 +31216,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Undiscovered Realm: product 'magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -31857,8 +31857,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 0,
-   "last_error": "",
+   "error_streak": 1,
+   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
    "check_cursor": 0
   }
  }
