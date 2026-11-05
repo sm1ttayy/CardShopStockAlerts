@@ -4581,9 +4581,9 @@
     "30th-celebration-elite-trainer-box": {
      "title": "Pok\u00e9mon: 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 120.0,
-     "unavail_since": 1792958455
+     "last_restock_alert": 1793850132
     },
     "30th-celebration-poster-collection": {
      "title": "Pok\u00e9mon: 30th Celebration Poster Collection",
@@ -4741,7 +4741,7 @@
      "title": "One Piece: Extra Booster - Heroines Edition vol.2 Booster Box - [EB-05]",
      "game": "One Piece",
      "available": false,
-     "price": 319.0,
+     "price": 249.0,
      "last_restock_alert": 1792905755,
      "unavail_since": 1793031109
     },
@@ -4792,7 +4792,7 @@
      "title": "[PREORDER] One Piece: The Dominance of God - Booster Box [OP-18]",
      "game": "One Piece",
      "available": true,
-     "price": 269.0
+     "price": 259.0
     },
     "preorder-mega-evolution-delta-reign-3-pack-blister-seel": {
      "title": "[PREORDER] Mega Evolution: Delta Reign 3-Pack Blister [Seel]",
@@ -4821,7 +4821,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12941,6 +12941,20 @@
      "available": false,
      "price": 20.0,
      "unavail_since": 1793814951
+    },
+    "pokemon-go-special-collection-set-of-3": {
+     "title": "Pokemon GO Special Collection [Set of 3]",
+     "game": "Pokemon",
+     "available": false,
+     "price": 300.0,
+     "unavail_since": 1793850132
+    },
+    "pokemon-tcg-30th-battle-deck-set": {
+     "title": "Pokemon TCG: 30th Battle Deck Set",
+     "game": "Pokemon",
+     "available": false,
+     "price": 45.0,
+     "unavail_since": 1793850132
     }
    },
    "baselined": true,
@@ -13016,9 +13030,9 @@
     "pokemon-tcg-prismatic-evolution-elite-trainer-box-1": {
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 149.99,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 119.99,
+     "last_restock_alert": 1793850132
     },
     "pokemon-tcg-perfect-order-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: Perfect Order: Elite Trainer Box",
@@ -13415,9 +13429,10 @@
     "pokemon-tcg-pitch-black-booster-display": {
      "title": "Pok\u00e9mon TCG: Pitch Black: Booster Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 169.99,
-     "last_restock_alert": 1792506213
+     "last_restock_alert": 1792506213,
+     "unavail_since": 1793850132
     },
     "pokemon-tcg-pitch-black-booster-bundle": {
      "title": "Pok\u00e9mon TCG: Pitch Black: Booster Bundle",
@@ -14838,10 +14853,45 @@
      "available": false,
      "price": 189.99,
      "unavail_since": 1792797245
+    },
+    "pokemon-tcg-champions-path-elite-trainer-box": {
+     "title": "Pokemon TCG: Champions Path Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 209.99,
+     "unavail_since": 1793850132
+    },
+    "pokemon-tcg-crown-zenith-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Crown Zenith: Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 199.99,
+     "unavail_since": 1793850132
+    },
+    "pokemon-tcg-twilight-masquerade-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Twilight Masquerade: Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 69.99,
+     "unavail_since": 1793850132
+    },
+    "pokemon-tcg-phantasmal-flames-elite-trainer-box-5pm-drop": {
+     "title": "Pok\u00e9mon TCG: Phantasmal Flames: Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1793850132
+    },
+    "pokemon-tcg-perfect-order-elite-trainer-box-pokemon-center": {
+     "title": "Pok\u00e9mon TCG: Perfect Order: Elite Trainer Box - Pokemon Center",
+     "game": "Pokemon",
+     "available": false,
+     "price": 119.99,
+     "unavail_since": 1793850132
     }
    },
    "baselined": true,
-   "check_cursor": 63,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
