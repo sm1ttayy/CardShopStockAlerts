@@ -16546,9 +16546,10 @@
     "reality-fracture-play-booster-box-preorder": {
      "title": "Reality Fracture Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 119.95,
-     "last_restock_alert": 1792543519
+     "last_restock_alert": 1792543519,
+     "unavail_since": 1793918736
     },
     "marvel-super-heroes-jumpstart-booster-box-preorder": {
      "title": "Marvel Super Heroes Jumpstart Booster Box",
@@ -17788,7 +17789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23029,7 +23030,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 66,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29834,9 +29835,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
-   "error_streak": 1,
-   "last_error": "Common Lands: product 'tmnt-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "check_cursor": 39,
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -31215,8 +31216,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-the-hobbit-play-booster-box-30-booster-packs' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -31856,8 +31857,8 @@
     }
    },
    "baselined": true,
-   "error_streak": 1,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
+   "error_streak": 0,
+   "last_error": "",
    "check_cursor": 0
   }
  }
