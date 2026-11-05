@@ -17788,7 +17788,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23029,7 +23029,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25475,6 +25475,12 @@
      "game": "MTG",
      "available": true,
      "price": 84.95
+    },
+    "pokemon-me06-delta-reign-elite-trainer-box": {
+     "title": "POKEMON ME06 DELTA REIGN ELITE TRAINER BOX",
+     "game": "Pokemon",
+     "available": true,
+     "price": 89.95
     }
    },
    "baselined": true,
@@ -29631,9 +29637,9 @@
     "delta-reign-booster-box": {
      "title": "Delta Reign Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 249.49,
-     "unavail_since": 1792157437
+     "last_restock_alert": 1793915554
     },
     "streets-of-new-capenna-commander-deck-maestros-massacre": {
      "title": "Streets of New Capenna Commander Deck - Maestros Massacre",
@@ -29828,7 +29834,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
