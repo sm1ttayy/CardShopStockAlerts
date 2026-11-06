@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -21555,8 +21555,9 @@
     "mtg-modern-horizons-3-english-play-booster-box-pre-order": {
      "title": "MTG - Modern Horizons 3 - English Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 429.95
+     "available": false,
+     "price": 429.95,
+     "unavail_since": 1794008724
     },
     "mtg-ravnica-remastered-english-draft-booster-box-pre-order": {
      "title": "MTG - Ravnica Remastered - English Draft Booster Box",
@@ -23103,7 +23104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29929,7 +29930,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
