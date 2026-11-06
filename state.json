@@ -17790,7 +17790,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22185,9 +22185,9 @@
     "riftbound-league-of-legends-proving-grounds-box-set-2nd-edition-pre-order": {
      "title": "Riftbound: League of Legends - Proving Grounds Box Set 2nd Edition (Pre Order)",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 47.95,
-     "unavail_since": 1793660412
+     "last_restock_alert": 1793927127
     },
     "pre-order-mtg-strixhaven-draft-booster-box": {
      "title": "MTG - Strixhaven School Of Mages- Draft Booster Box",
@@ -23039,7 +23039,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29845,7 +29845,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
