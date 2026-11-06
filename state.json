@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23104,7 +23104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24204,7 +24204,7 @@
      "price": 349.99
     },
     "star-trek-bundle": {
-     "title": "Star Trek - Bundle",
+     "title": "Star Trek - Bundle [DELAYED]",
      "game": "MTG",
      "available": false,
      "price": 89.99,
@@ -28456,8 +28456,9 @@
     "pokemon-go-radiant-eevee-premium-collection": {
      "title": "Pokemon GO Radiant Eevee Premium Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 179.99
+     "available": false,
+     "price": 179.99,
+     "unavail_since": 1794009034
     },
     "champions-path-pin-collection-ballonlea-gym": {
      "title": "Champion's Path Pin Collection [Ballonlea Gym]",
@@ -29930,7 +29931,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
