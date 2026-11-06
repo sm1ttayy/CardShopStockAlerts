@@ -17789,7 +17789,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -22781,9 +22781,10 @@
     "pokemon-30th-celebration-ultra-premium-collection-day-pre-order": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day (Pre Order)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 549.95,
-     "last_restock_alert": 1793489411
+     "last_restock_alert": 1793489411,
+     "unavail_since": 1793925618
     },
     "pokemon-mega-evolutions-ascended-heroes-elite-trainer-box-pre-order": {
      "title": "Pokemon Mega Evolutions Ascended Heroes Elite Trainer Box",
@@ -23037,7 +23038,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29843,7 +29844,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
