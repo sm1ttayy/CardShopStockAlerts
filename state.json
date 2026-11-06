@@ -17542,9 +17542,10 @@
     "modern-horizons-3-creative-energy-commander-deck": {
      "title": "Modern Horizons 3 Creative Energy Commander Deck",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 49.95,
-     "last_restock_alert": 1790713873
+     "last_restock_alert": 1790713873,
+     "unavail_since": 1793926835
     },
     "reality-fracture-bundle-preorder": {
      "title": "Reality Fracture Bundle",
@@ -17789,7 +17790,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23038,7 +23039,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29152,7 +29153,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Exit from Exile Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 169.99,
+     "price": 169.75,
      "unavail_since": 1789851036
     },
     "pokemon-s-v-shrouded-fable-pokemon-center-elite-trainer-box": {
@@ -29844,7 +29845,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
