@@ -40,9 +40,10 @@
     "one-piece-tcg-eb-05-extra-booster-box": {
      "title": "One Piece TCG: (EB-05) Heroines Edition vol.2 - Extra Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 244.99,
-     "last_restock_alert": 1793672637
+     "last_restock_alert": 1793672637,
+     "unavail_since": 1793976961
     },
     "one-piece-tcg-eb-04-egghead-crisis-booster-box-japanese": {
      "title": "One Piece TCG: [EB-04] Egghead Crisis - Booster Box [Japanese]",
@@ -1801,7 +1802,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4816,10 +4817,22 @@
      "game": "Pokemon",
      "available": true,
      "price": 70.0
+    },
+    "preorder-pokemon-30th-celebration-ultra-premium-collection-night": {
+     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Ultra Premium Collection [Night]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 379.0
+    },
+    "preorder-pokemon-30th-celebration-ditto-premium-collection": {
+     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Ditto Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 95.0
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14889,7 +14902,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
