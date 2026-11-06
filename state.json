@@ -1802,7 +1802,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1897,9 +1897,10 @@
     "riftbound-league-of-legends-tcg-origins-booster-display": {
      "title": "Riftbound: League of Legends TCG - Origins Booster Display Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 220.0,
-     "last_restock_alert": 1792935949
+     "last_restock_alert": 1792935949,
+     "unavail_since": 1793983800
     },
     "riftbound-league-of-legends-tcg-spiritforged-pre-rift-box": {
      "title": "Riftbound: League of Legends TCG - Spiritforged Pre-Rift Box",
@@ -2223,9 +2224,10 @@
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 104.0,
-     "last_restock_alert": 1792935949
+     "last_restock_alert": 1792935949,
+     "unavail_since": 1793983800
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Collector Booster Box",
@@ -2897,9 +2899,10 @@
     "modern-horizons-3-play-booster-box": {
      "title": "Modern Horizons 3 Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 320.0,
-     "last_restock_alert": 1792848241
+     "last_restock_alert": 1792848241,
+     "unavail_since": 1793983802
     },
     "modern-horizons-3-collector-booster-box": {
      "title": "Modern Horizons 3 Collector Booster Box",
@@ -4832,7 +4835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6826,25 +6829,26 @@
      "price": 117.0
     },
     "pokemon-tcg-mega-evolution-delta-reign-booster-box-pre-order": {
-     "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Box (PRE-ORDER)",
+     "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 200.0,
+     "price": 215.0,
      "last_restock_alert": 1793114741
     },
     "magic-the-gathering-star-trek-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Star Trek Play Booster Box (PRE-ORDER)",
      "game": "MTG",
      "available": true,
-     "price": 145.0,
+     "price": 110.0,
      "last_restock_alert": 1793203751
     },
     "riftbound-league-of-legends-tcg-radiance-booster-box-pre-order": {
      "title": "Riftbound League of Legends TCG: Radiance Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 126.0,
-     "last_restock_alert": 1792848241
+     "last_restock_alert": 1792848241,
+     "unavail_since": 1793983802
     },
     "one-piece-tcg-set-sail-deck-set-sd01": {
      "title": "One Piece TCG: Set Sail Deck Set (SD01)",
@@ -9170,6 +9174,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 399.75
+    },
+    "pokemon-mega-evolution-delta-reign-booster-box": {
+     "title": "Pokemon Mega Evolution Delta Reign Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 249.75,
+     "unavail_since": 1793983800
     }
    },
    "baselined": true,
@@ -9808,7 +9819,7 @@
      "title": "Pokemon Scarlet & Violet - Journey Together Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 239.99,
+     "price": 229.99,
      "last_restock_alert": 1789654825
     },
     "pokemon-inferno-x-booster-box-japanese": {
@@ -10453,7 +10464,7 @@
      "title": "Magic: The Gathering - Ravnica Remastered Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 329.99
+     "price": 319.99
     },
     "march-of-the-machine-set-booster-box": {
      "title": "Magic: The Gathering - March of the Machine Set Booster Box",
@@ -12915,21 +12926,24 @@
      "game": "Pokemon",
      "available": false,
      "price": 30.0,
-     "unavail_since": 1793230752
+     "unavail_since": 1793230752,
+     "delisted": true
     },
     "riftbound-tcg-radiance-booster-box-preorder": {
      "title": "Riftbound TCG: Radiance - Booster Box",
      "game": "Riftbound",
      "available": false,
      "price": 120.0,
-     "unavail_since": 1792610433
+     "unavail_since": 1792610433,
+     "delisted": true
     },
     "riftbound-tcg-radiance-booster-box-showdown-deck-bundle": {
      "title": "Riftbound TCG: Radiance Booster Box & Showdown Deck Bundle",
      "game": "Riftbound",
      "available": false,
      "price": 150.0,
-     "unavail_since": 1792610433
+     "unavail_since": 1792610433,
+     "delisted": true
     },
     "one-piece-tcg-eb05-heroines-vol-2-booster-box-preorder": {
      "title": "One Piece TCG: EB05 Heroines' VOL. 2 Booster Box - Preorder",
@@ -12944,7 +12958,8 @@
      "game": "Riftbound",
      "available": false,
      "price": 30.0,
-     "unavail_since": 1793230759
+     "unavail_since": 1793230759,
+     "delisted": true
     },
     "one-piece-tcg-set-sail-deck-set-sd01": {
      "title": "One Piece TCG: Set Sail Deck Set (SD01)",
@@ -12966,6 +12981,12 @@
      "available": false,
      "price": 45.0,
      "unavail_since": 1793850132
+    },
+    "mtg-star-trek-play-booster-box": {
+     "title": "MTG Star Trek Play Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 115.0
     }
    },
    "baselined": true,
@@ -14902,7 +14923,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
