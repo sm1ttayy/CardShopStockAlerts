@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19944,9 +19944,9 @@
     "pokemon-30th-celebration-japanese-booster-pack": {
      "title": "Pokemon - 30th Celebration - Japanese Booster Pack",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 16.95,
-     "unavail_since": 1792259710
+     "last_restock_alert": 1794000023
     },
     "one-piece-card-game-heroines-special-set": {
      "title": "One Piece Card Game - Heroines Special Set",
@@ -23103,7 +23103,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28552,7 +28552,7 @@
      "title": "Adventures in the Forgotten Realms - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 265.99,
+     "price": 264.99,
      "unavail_since": 1791120628
     },
     "pokemon-celebrations-elite-trainer-box": {
@@ -29929,7 +29929,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
