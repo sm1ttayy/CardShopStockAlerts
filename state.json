@@ -17650,9 +17650,9 @@
     "pokemon-30th-celebration-booster-bundle": {
      "title": "Pokemon 30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 72.95,
-     "unavail_since": 1792180810
+     "available": true,
+     "price": 59.95,
+     "last_restock_alert": 1793999121
     },
     "foundations-wretched-ranks-commander-deck-preorder": {
      "title": "Foundations Wretched Ranks Commander Deck",
@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20090,8 +20090,9 @@
     "pokemon-mega-evolution-base-set-booster-box": {
      "title": "Pokemon - Mega Evolution - Base Set - Booster Box ENHANCED (includes Box Topper)",
      "game": "Pokemon",
-     "available": true,
-     "price": 449.95
+     "available": false,
+     "price": 449.95,
+     "unavail_since": 1793999119
     },
     "pokemon-tag-team-powers-collection-darkrai-umbreon": {
      "title": "Pokemon - Tag Team Powers Collection - Darkrai & Umbreon",
@@ -23102,7 +23103,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25576,8 +25577,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -26378,7 +26379,7 @@
      "title": "Premium Booster Vol. 2 - Booster Box (PRB02)",
      "game": "One Piece",
      "available": true,
-     "price": 345.75,
+     "price": 340.75,
      "last_restock_alert": 1792699549
     },
     "unleashed-booster-display": {
@@ -27692,7 +27693,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 168.49
+     "price": 166.49
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -27949,7 +27950,7 @@
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 259.99,
+     "price": 254.49,
      "last_restock_alert": 1789084228
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
@@ -28045,7 +28046,7 @@
      "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
      "game": "MTG",
      "available": true,
-     "price": 48.99
+     "price": 47.25
     },
     "lorwyn-eclipsed-commander-deck-dance-of-the-elements": {
      "title": "Lorwyn Eclipsed Commander Deck [Dance of the Elements]",
@@ -28344,7 +28345,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 116.75,
+     "price": 115.49,
      "last_restock_alert": 1789592445
     },
     "vendetta-booster-display": {
@@ -28386,7 +28387,7 @@
      "title": "Storm Emeralda Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 87.75,
+     "price": 87.25,
      "unavail_since": 1791120627
     },
     "pitch-black-build-battle-box": {
@@ -28430,7 +28431,7 @@
      "title": "Chaos Rising Elite Trainer Box \u2014 Pokemon Center",
      "game": "Pokemon",
      "available": true,
-     "price": 120.75
+     "price": 119.25
     },
     "twilight-masquerade-pokemon-center-elite-trainer-box": {
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
@@ -28544,7 +28545,7 @@
      "title": "Strixhaven: School of Mages - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 188.75,
+     "price": 186.75,
      "unavail_since": 1791120629
     },
     "adventures-in-the-forgotten-realms-draft-booster-box": {
@@ -28771,7 +28772,7 @@
      "title": "Costco Pokemon Prismatic Evolutions 2-Pack Trainer Box and Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 246.25
+     "price": 239.75
     },
     "ascended-heroes-premium-poster-collection": {
      "title": "Ascended Heroes Premium Poster Collection [Mega Lucario]",
@@ -28919,8 +28920,9 @@
     "khans-of-tarkir-booster-box": {
      "title": "Khans of Tarkir - Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 299.49
+     "available": false,
+     "price": 299.49,
+     "unavail_since": 1793999151
     },
     "theros-booster-box": {
      "title": "Theros - Booster Box",
@@ -29175,7 +29177,7 @@
      "title": "30th Celebration Ditto Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 124.49
+     "price": 97.99
     },
     "30th-celebration-ultra-premium-collection-day": {
      "title": "30th Celebration Ultra-Premium Collection [Day]",
@@ -29261,7 +29263,7 @@
      "title": "Illustration Box Vol.6",
      "game": "One Piece",
      "available": true,
-     "price": 96.49
+     "price": 94.49
     },
     "illustration-box-vol-5": {
      "title": "Illustration Box Vol.5",
@@ -29452,7 +29454,7 @@
      "title": "Reality Fracture Secret Lair Bundle",
      "game": "MTG",
      "available": true,
-     "price": 117.75
+     "price": 116.75
     },
     "celebrations-mini-tin-1x-assorted-art": {
      "title": "Celebrations Mini Tin [Unova]",
@@ -29599,7 +29601,7 @@
      "title": "30th Celebration Mini Tin [Lapras]",
      "game": "Pokemon",
      "available": true,
-     "price": 25.49
+     "price": 24.99
     },
     "30th-celebration-mini-tin-mewtwo": {
      "title": "30th Celebration Mini Tin [Mewtwo]",
@@ -29620,7 +29622,7 @@
      "title": "Foundations Commander Deck - Tramplesaurus Rex",
      "game": "MTG",
      "available": false,
-     "price": 63.75,
+     "price": 63.99,
      "unavail_since": 1792192829
     },
     "pokemon-celebrations-prime-collection": {
@@ -29836,7 +29838,7 @@
      "title": "Starter Deck 36: YELLOW Eustass\u201dCaptain\u201dKid",
      "game": "One Piece",
      "available": false,
-     "price": 16.49,
+     "price": 15.99,
      "unavail_since": 1793569822
     },
     "starter-deck-35-red-black-sabo": {
@@ -29849,7 +29851,7 @@
      "title": "30th Celebration Mini Tin [Zapdos]",
      "game": "Pokemon",
      "available": true,
-     "price": 25.49
+     "price": 25.25
     },
     "mimikyu-ex-box": {
      "title": "Mimikyu ex Box",
@@ -29927,7 +29929,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
