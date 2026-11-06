@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23103,7 +23103,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25577,8 +25577,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -27589,7 +27589,7 @@
      "title": "One Piece Starter Deck 4: Animal Kingdom Pirates",
      "game": "One Piece",
      "available": true,
-     "price": 29.49,
+     "price": 29.25,
      "last_restock_alert": 1793052919
     },
     "premium-card-collection-best-selection-vol-4": {
@@ -27995,7 +27995,7 @@
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 375.99
+     "price": 374.49
     },
     "jumpstart-booster-box": {
      "title": "Jumpstart - Booster Box",
@@ -28456,7 +28456,7 @@
      "title": "Pokemon GO Radiant Eevee Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 180.75
+     "price": 179.99
     },
     "champions-path-pin-collection-ballonlea-gym": {
      "title": "Champion's Path Pin Collection [Ballonlea Gym]",
@@ -28513,7 +28513,7 @@
      "title": "Commander 2021 Deck - Lorehold Legacies",
      "game": "MTG",
      "available": true,
-     "price": 61.25
+     "price": 60.99
     },
     "commander-2021-deck-prismari-performance": {
      "title": "Commander 2021 Deck - Prismari Performance",
@@ -28715,7 +28715,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 59.25
+     "price": 58.99
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -29665,7 +29665,7 @@
      "title": "Mutant Menace Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 115.75,
+     "price": 111.75,
      "unavail_since": 1791583828
     },
     "30th-celebration-mini-tin-night-pikachu": {
@@ -29685,7 +29685,7 @@
      "title": "Foundations Commander Deck - Calling All Angels",
      "game": "MTG",
      "available": true,
-     "price": 51.25
+     "price": 50.99
     },
     "magic-the-gathering-scrappy-survivors-commander-deck": {
      "title": "Scrappy Survivors Commander Deck",
@@ -29929,7 +29929,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
