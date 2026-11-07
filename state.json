@@ -17837,7 +17837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -17864,8 +17864,9 @@
     "one-piece-card-game-set-14-booster-box": {
      "title": "One Piece Card Game - The Azure Sea's Seven Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 429.95
+     "available": false,
+     "price": 429.95,
+     "unavail_since": 1794074403
     },
     "one-piece-card-game-flanked-by-legends-booster-box": {
      "title": "One Piece Card Game - Wings of the Captain Booster Box",
@@ -23112,7 +23113,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29835,7 +29836,7 @@
      "title": "Starter Deck 34: PURPLE Charlotte Katakuri",
      "game": "One Piece",
      "available": true,
-     "price": 23.49
+     "price": 22.99
     },
     "radiance-booster-display": {
      "title": "Radiance Booster Display",
@@ -29946,7 +29947,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
