@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23104,7 +23104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29931,7 +29931,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31265,8 +31265,9 @@
     "magic-the-gathering-star-trek-klingon-fury-commander-deck-pre-order": {
      "title": "Magic The Gathering: Star Trek Klingon Fury Commander Deck (Pre Order)",
      "game": "MTG",
-     "available": true,
-     "price": 59.95
+     "available": false,
+     "price": 59.95,
+     "unavail_since": 1794013885
     },
     "magic-the-gathering-star-trek-landing-party-commander-deck-pre-order": {
      "title": "Magic The Gathering: Star Trek  Landing Party Commander Deck (Pre Order)",
