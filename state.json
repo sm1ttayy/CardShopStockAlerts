@@ -17837,7 +17837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23112,7 +23112,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29162,9 +29162,9 @@
     "30th-celebration-tin-sylveon-ex": {
      "title": "30th Celebration Tin [Sylveon ex]",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 94.25,
-     "unavail_since": 1791069628
+     "last_restock_alert": 1794063357
     },
     "30th-celebration-sylveon-ex-box": {
      "title": "30th Celebration Sylveon ex Box",
@@ -29446,7 +29446,7 @@
      "title": "Team Rocket\u2019s Moltres ex Ultra-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 327.75,
+     "price": 324.99,
      "unavail_since": 1789611633
     },
     "final-fantasy-limit-break-commander-deck": {
@@ -29946,7 +29946,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
