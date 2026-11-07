@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23104,7 +23104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29932,7 +29932,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31596,7 +31596,8 @@
      "game": "Riftbound",
      "available": false,
      "price": 239.99,
-     "unavail_since": 1791120634
+     "unavail_since": 1791120634,
+     "delisted": true
     },
     "magic-the-gathering-universes-beyond-marvel-super-heroes-jumpstart-booster-display-24-ct": {
      "title": "Magic The Gathering Universes Beyond Marvel Super Heroes Jumpstart Booster Display ( 24 Ct)",
