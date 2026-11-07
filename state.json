@@ -17837,7 +17837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23114,7 +23114,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28042,9 +28042,9 @@
     "unfinity-draft-booster-box": {
      "title": "Unfinity - Draft Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 169.75,
-     "unavail_since": 1791120628
+     "last_restock_alert": 1794088527
     },
     "rivals-of-ixalan-booster-box": {
      "title": "Rivals of Ixalan - Booster Box",
@@ -29948,7 +29948,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
