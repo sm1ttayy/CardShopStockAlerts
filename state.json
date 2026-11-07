@@ -3328,9 +3328,10 @@
     "unfinity-draft-booster-box-display": {
      "title": "Unfinity Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 165.0,
-     "last_restock_alert": 1793031112
+     "last_restock_alert": 1793031112,
+     "unavail_since": 1794066292
     },
     "unfinity-collector-booster-box-display": {
      "title": "Unfinity Collector Booster Box Display",
@@ -4710,9 +4711,10 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box": {
      "title": "Riftbound: League of Legends TCG - Radiance Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 105.0,
-     "last_restock_alert": 1793413887
+     "last_restock_alert": 1793413887,
+     "unavail_since": 1794066290
     },
     "riftbound-league-of-legends-tcg-radiance-showdown-deck-evelynn-vs-seraphine": {
      "title": "Riftbound: League of Legends TCG - Radiance Showdown Deck [Evelynn vs Seraphine]",
@@ -4835,7 +4837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -10753,7 +10755,7 @@
      "title": "Magic: The Gathering - Reality Fracture Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 149.99,
+     "price": 139.99,
      "last_restock_alert": 1791225266
     },
     "magic-the-gathering-lorwyn-eclipsed-bundle": {
@@ -14929,7 +14931,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 94,
    "error_streak": 0,
    "last_error": ""
   },
