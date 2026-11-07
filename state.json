@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23104,7 +23104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25615,7 +25615,7 @@
      "title": "Pok\u00e9mon Nihil Zero M3 Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 49.99,
+     "price": 59.99,
      "last_restock_alert": 1788552548
     },
     "pokemon-base-set-shadowless-1st-edition-booster-box": {
@@ -27381,7 +27381,7 @@
      "title": "Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 138.75
+     "price": 142.75
     },
     "mtg-wilds-of-eldraine-set-booster-box": {
      "title": "Wilds of Eldraine Set Booster Box",
@@ -27471,7 +27471,7 @@
      "title": "Twilight Masquerade Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 337.99,
+     "price": 337.75,
      "last_restock_alert": 1789592146,
      "unavail_since": 1791120640
     },
@@ -27652,7 +27652,7 @@
      "title": "Pitch Black Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 72.49
+     "price": 72.99
     },
     "chaos-rising-elite-trainer-box": {
      "title": "Chaos Rising Elite Trainer Box",
@@ -28362,7 +28362,7 @@
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 37.75,
+     "price": 37.99,
      "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
@@ -28433,7 +28433,7 @@
      "title": "Chaos Rising Elite Trainer Box \u2014 Pokemon Center",
      "game": "Pokemon",
      "available": true,
-     "price": 119.25
+     "price": 119.75
     },
     "twilight-masquerade-pokemon-center-elite-trainer-box": {
      "title": "Twilight Masquerade Pokemon Center Elite Trainer Box",
@@ -28535,7 +28535,7 @@
      "title": "Brilliant Stars Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 249.75,
+     "price": 251.25,
      "last_restock_alert": 1786566936
     },
     "pokemon-celebrations-booster-pack-1x-random-art": {
@@ -28718,7 +28718,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 58.99
+     "price": 59.25
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -29552,7 +29552,7 @@
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 266.75
+     "price": 269.99
     },
     "30th-celebration-tech-sticker-collection-lucario": {
      "title": "30th Celebration Tech Sticker Collection [Lucario]",
@@ -29785,7 +29785,7 @@
      "title": "Radiance Showdown Decks: Evelynn vs Seraphine",
      "game": "Riftbound",
      "available": true,
-     "price": 19.49
+     "price": 20.75
     },
     "pokemon-go-premier-deck-holder-collectiondragonite-vstar": {
      "title": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
@@ -29929,10 +29929,16 @@
      "game": "MTG",
      "available": true,
      "price": 49.75
+    },
+    "monopoly-one-piece-2nd-edition": {
+     "title": "Monopoly: One Piece 2nd Edition",
+     "game": "One Piece",
+     "available": true,
+     "price": 44.95
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31273,8 +31279,9 @@
     "magic-the-gathering-star-trek-landing-party-commander-deck-pre-order": {
      "title": "Magic The Gathering: Star Trek  Landing Party Commander Deck (Pre Order)",
      "game": "MTG",
-     "available": true,
-     "price": 59.95
+     "available": false,
+     "price": 59.95,
+     "unavail_since": 1794058264
     },
     "magic-the-gathering-star-trek-federation-fleet-commander-deck-pre-order": {
      "title": "Magic The Gathering: Star Trek  Federation Fleet Commander Deck (Pre Order)",
@@ -31297,8 +31304,9 @@
     "magic-the-gathering-star-trek-scene-box-divergent-timeline-enterprise-q-set-of-2-pre-order": {
      "title": "Magic The Gathering: Star Trek Scene Box Divergent Timeline & Enterprise-Q (Set of 2) (Pre Order)",
      "game": "MTG",
-     "available": true,
-     "price": 69.95
+     "available": false,
+     "price": 69.95,
+     "unavail_since": 1794058265
     },
     "one-piece-tcg-dominance-of-god-op-18-english-booster-box-24-booster-packs-pre-order": {
      "title": "One Piece TCG Dominance Of God (OP-18) English Booster Box (24 Booster Packs) (Pre Order)",
