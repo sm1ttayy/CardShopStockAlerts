@@ -15455,7 +15455,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Moonshot Games: product 'one-piece-tcg-the-worlds-strongest-warriors-booster-pack' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://superanimestore.com": {
    "products": {
@@ -16351,7 +16351,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Super Anime Store: product 'pokemon-trading-card-game-first-partner-illustration-collection-series-3' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://geekerygames.com": {
    "products": {
@@ -17835,9 +17835,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 18,
    "error_streak": 0,
-   "last_error": "Geekery Games: product 'pokemon-30th-celebration-battle-deck-espeon-ex' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://store.401games.ca": {
    "products": {
@@ -20172,7 +20172,7 @@
    "baselined": true,
    "check_cursor": 5,
    "error_streak": 0,
-   "last_error": "401 Games: product 'one-piece-card-game-peb-01-premium-extra-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://hobbiesville.com": {
    "products": {
@@ -23112,7 +23112,7 @@
    "baselined": true,
    "check_cursor": 49,
    "error_streak": 0,
-   "last_error": "Hobbiesville: product 'pokemon-30th-celebration-ultra-premium-collection-night-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.fusiongamingonline.com": {
    "products": {
@@ -24275,7 +24275,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Fusion Gaming Online: product 'teenage-mutant-ninja-turtles-play-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://exorgames.com": {
    "products": {
@@ -25586,7 +25586,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -26325,7 +26325,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "PokeRand: product 'pokemon-tcg-mega-evolution-pitch-black-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://common-lands.com": {
    "products": {
@@ -29946,7 +29946,7 @@
    "baselined": true,
    "check_cursor": 24,
    "error_streak": 0,
-   "last_error": "Common Lands: product 'japanese-battle-partners-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.undiscoveredrealm.com": {
    "products": {
@@ -31342,7 +31342,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Undiscovered Realm: product 'magic-the-gathering-star-trek-klingon-fury-commander-deck-pre-order' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 4
   },
   "https://sagaconcepts.com": {
@@ -31985,7 +31985,7 @@
    },
    "baselined": true,
    "error_streak": 0,
-   "last_error": "Saga Concepts: product 'riftbound-tcg-league-of-legends-set-2-spiritforged-booster-display-24ct-uvsrb02bd01' failed: HTTP Error 429: Too Many Requests",
+   "last_error": "",
    "check_cursor": 0
   }
  }
