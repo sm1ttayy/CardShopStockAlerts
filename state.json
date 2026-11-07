@@ -17835,7 +17835,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23104,7 +23104,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23905,7 +23905,8 @@
      "game": "One Piece",
      "available": false,
      "price": 17.99,
-     "unavail_since": 1791834618
+     "unavail_since": 1791834618,
+     "delisted": true
     },
     "lorwyn-eclipsed-commander-deck-blight-curse": {
      "title": "Lorwyn Eclipsed Commander Deck - Blight Curse",
@@ -29931,7 +29932,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
