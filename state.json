@@ -17838,7 +17838,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -20172,6 +20172,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 199.95
+    },
+    "pokemon-celebrations-collection-box-lances-charizard-v": {
+     "title": "Pokemon - Celebrations - Collection Box - Lance's Charizard V",
+     "game": "Pokemon",
+     "available": false,
+     "price": 189.95,
+     "unavail_since": 1794149413
     }
    },
    "baselined": true,
@@ -23116,7 +23123,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29951,7 +29958,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
