@@ -17690,9 +17690,10 @@
     "pokemon-30th-celebration-poster-collection": {
      "title": "Pokemon 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 32.95,
-     "last_restock_alert": 1793826620
+     "last_restock_alert": 1793826620,
+     "unavail_since": 1794146714
     },
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
@@ -17837,7 +17838,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -19469,9 +19470,10 @@
     "pokemon-mega-evolution-pitch-black-elite-trainer-box-pokemon-center": {
      "title": "Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box (POKEMON CENTER)",
      "game": "Pokemon",
-     "available": true,
-     "price": 169.95,
-     "last_restock_alert": 1790630142
+     "available": false,
+     "price": 179.95,
+     "last_restock_alert": 1790630142,
+     "unavail_since": 1794146716
     },
     "mtg-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-set-of-4": {
      "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Commander Deck - Set of 4",
@@ -23114,7 +23116,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25431,7 +25433,7 @@
      "title": "POKEMON 30TH CELEBRATION ELITE TRAINER BOX (LIMIT 3)",
      "game": "Pokemon",
      "available": true,
-     "price": 159.95,
+     "price": 169.95,
      "last_restock_alert": 1792008911
     },
     "pokemon-30th-celebration-poster-collection": {
@@ -26448,7 +26450,7 @@
      "title": "Pitch Black Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 175.75,
+     "price": 176.99,
      "last_restock_alert": 1792852845
     },
     "adventure-on-kamis-island-booster-box": {
@@ -27656,7 +27658,7 @@
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 251.75
+     "price": 253.25
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
@@ -27705,7 +27707,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 166.49
+     "price": 168.99
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -27717,7 +27719,7 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 73.99
+     "price": 75.25
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -27962,7 +27964,7 @@
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 254.49,
+     "price": 259.99,
      "last_restock_alert": 1789084228
     },
     "pokemon-s-v-paldea-evolved-pokemon-center-elite-trainer-box": {
@@ -28156,7 +28158,7 @@
      "title": "Black Bolt Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 258.75,
+     "price": 259.75,
      "last_restock_alert": 1793397332
     },
     "lost-origin-pokemon-center-elite-trainer-box": {
@@ -28357,7 +28359,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 115.49,
+     "price": 115.75,
      "last_restock_alert": 1789592445
     },
     "vendetta-booster-display": {
@@ -28372,7 +28374,7 @@
      "title": "Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 37.99,
+     "price": 37.49,
      "unavail_since": 1785689760
     },
     "vendetta-showdown-decks-zed-vs-shen": {
@@ -28490,7 +28492,7 @@
      "title": "Tapu Lele Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 504.25
+     "price": 499.25
     },
     "champions-path-pin-collection-spikemuth-gym": {
      "title": "Champion's Path Pin Collection [Spikemuth Gym]",
@@ -28728,7 +28730,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 59.25
+     "price": 59.49
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -29114,7 +29116,7 @@
      "title": "The Brothers' War Commander Deck - Mishra's Burnished Banner",
      "game": "MTG",
      "available": false,
-     "price": 102.75,
+     "price": 100.75,
      "unavail_since": 1790971231
     },
     "commander-2020-deck-enhanced-evolution": {
@@ -29172,13 +29174,13 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 45.75
+     "price": 44.99
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
      "game": "Pokemon",
      "available": true,
-     "price": 403.75
+     "price": 424.75
     },
     "30th-celebration-greninja-ex-box": {
      "title": "30th Celebration Greninja ex Box",
@@ -29282,7 +29284,7 @@
      "title": "Illustration Box Vol.5",
      "game": "One Piece",
      "available": true,
-     "price": 94.49
+     "price": 100.75
     },
     "double-pack-set-volume-7": {
      "title": "Double Pack Set Volume 7",
@@ -29302,7 +29304,7 @@
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 64.25,
+     "price": 67.75,
      "last_restock_alert": 1792699858
     },
     "the-hobbit-gift-bundle": {
@@ -29556,13 +29558,13 @@
      "title": "Reality Fracture Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 119.75
+     "price": 124.75
     },
     "30th-celebration-elite-trainer-box-pokemon-center": {
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 269.99
+     "price": 274.75
     },
     "30th-celebration-tech-sticker-collection-lucario": {
      "title": "30th Celebration Tech Sticker Collection [Lucario]",
@@ -29614,13 +29616,13 @@
      "title": "30th Celebration Mini Tin [Lapras]",
      "game": "Pokemon",
      "available": true,
-     "price": 23.99
+     "price": 24.49
     },
     "30th-celebration-mini-tin-mewtwo": {
      "title": "30th Celebration Mini Tin [Mewtwo]",
      "game": "Pokemon",
      "available": true,
-     "price": 23.75,
+     "price": 24.75,
      "last_restock_alert": 1793150431
     },
     "30th-celebration-ex-tin-sylveon-ex-retail-version": {
@@ -29654,7 +29656,7 @@
      "title": "Foundations Commander Deck - Reign of Dragons",
      "game": "MTG",
      "available": true,
-     "price": 49.49
+     "price": 51.49
     },
     "pokemon-celebrations-collector-chest": {
      "title": "Celebrations Collector Chest",
@@ -29698,7 +29700,7 @@
      "title": "Foundations Commander Deck - Calling All Angels",
      "game": "MTG",
      "available": true,
-     "price": 50.99
+     "price": 51.49
     },
     "magic-the-gathering-scrappy-survivors-commander-deck": {
      "title": "Scrappy Survivors Commander Deck",
@@ -29876,7 +29878,7 @@
      "title": "Radiance Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 31.75,
+     "price": 32.49,
      "unavail_since": 1794097573
     },
     "starter-deck-10-ultimate-deck-the-three-captains": {
@@ -29889,7 +29891,7 @@
      "title": "Starter Deck 3: The Seven Warlords of The Sea",
      "game": "One Piece",
      "available": true,
-     "price": 19.75
+     "price": 21.75
     },
     "starter-deck-2-worst-generation": {
      "title": "Starter Deck 2: Worst Generation",
@@ -29949,7 +29951,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
