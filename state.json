@@ -17838,7 +17838,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23123,7 +23123,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25592,8 +25592,9 @@
     "pokemon-me06-delta-reign-elite-trainer-box": {
      "title": "POKEMON ME06 DELTA REIGN ELITE TRAINER BOX",
      "game": "Pokemon",
-     "available": true,
-     "price": 99.95
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1794174307
     }
    },
    "baselined": true,
@@ -29958,7 +29959,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
