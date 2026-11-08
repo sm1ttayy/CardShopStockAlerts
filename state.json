@@ -17837,7 +17837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23114,7 +23114,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29949,7 +29949,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31664,9 +31664,10 @@
     "riftbound-tcg-league-of-legends-set-4-vendetta-booster-display-24ct-uvsrb04bp01": {
      "title": "Riftbound TCG League Of Legends Set 4 Vendetta Booster Display (24Ct) UVSRB04BP01",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 119.99,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1794111944
     },
     "riftbound-tcg-league-of-legends-gift-of-the-rift-bundle-uvsrb05bn01en": {
      "title": "Riftbound TCG League Of Legends Gift Of The Rift Bundle UVSRB05BN01EN",
