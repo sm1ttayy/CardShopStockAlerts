@@ -15205,9 +15205,8 @@
     "pitch-black-bundle-moonshot-rips": {
      "title": "Pitch Black Bundle - Moonshot Rips",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 40.0,
-     "unavail_since": 1793593209,
      "delisted": true
     },
     "prismatic-evolutions-pack-moonshot-rips": {
@@ -15359,10 +15358,9 @@
     "pokemon-tcg-30th-celebration-booster-bundle-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration Booster Bundle (6 Packs) - Moonshot Rips (OPENED LIVE ON STREAM)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 70.0,
      "last_restock_alert": 1793577609,
-     "unavail_since": 1793582109,
      "delisted": true
     },
     "pokemon-30th-1-pack-energy-break-1": {
@@ -23123,7 +23121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29959,7 +29957,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
