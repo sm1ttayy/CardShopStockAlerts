@@ -17837,7 +17837,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23114,7 +23114,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29875,8 +29875,9 @@
     "radiance-vault-bundle": {
      "title": "Radiance Vault Bundle",
      "game": "Riftbound",
-     "available": true,
-     "price": 31.75
+     "available": false,
+     "price": 31.75,
+     "unavail_since": 1794097573
     },
     "starter-deck-10-ultimate-deck-the-three-captains": {
      "title": "Starter Deck 10: Ultimate Deck: The Three Captains",
@@ -29948,7 +29949,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
