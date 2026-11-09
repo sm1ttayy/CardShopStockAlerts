@@ -4851,7 +4851,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6379,8 +6379,9 @@
     "one-piece-tcg-double-pack-volume-12-set": {
      "title": "One Piece TCG: Double Pack Volume 12 Set",
      "game": "One Piece",
-     "available": true,
-     "price": 36.0
+     "available": false,
+     "price": 47.0,
+     "unavail_since": 1794218034
     },
     "75643-lego-one-piece-tony-tony-chopper": {
      "title": "75643  LEGO One Piece: Tony Tony Chopper",
@@ -14945,7 +14946,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
