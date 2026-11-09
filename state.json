@@ -4336,7 +4336,7 @@
      "title": "Pok\u00e9mon: 30th Celebration - Greninja & Sylveon ex Box [Set of 2]",
      "game": "Pokemon",
      "available": true,
-     "price": 130.0,
+     "price": 109.0,
      "last_restock_alert": 1790347158
     },
     "30th-celebration-alolan-exeggutor-and-lucario-tech-sticker-collection-set-of-2": {
@@ -4591,9 +4591,10 @@
     "30th-celebration-poster-collection": {
      "title": "Pok\u00e9mon: 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 39.0,
-     "last_restock_alert": 1789688637
+     "last_restock_alert": 1789688637,
+     "unavail_since": 1794189905
     },
     "one-piece-tcg-illustration-box-vol-7-ib-07": {
      "title": "One Piece: Illustration Box Vol.7 [IB-07]",
@@ -4824,20 +4825,33 @@
      "price": 70.0
     },
     "preorder-pokemon-30th-celebration-ultra-premium-collection-night": {
-     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Ultra Premium Collection [Night]",
+     "title": "Pok\u00e9mon: 30th Celebration - Ultra Premium Collection [Night]",
+     "game": "Pokemon",
+     "available": false,
+     "price": 379.0,
+     "unavail_since": 1794189905
+    },
+    "preorder-pokemon-30th-celebration-ditto-premium-collection": {
+     "title": "Pok\u00e9mon: 30th Celebration - Ditto Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 95.0
+    },
+    "pokemon-30th-celebration-ultra-premium-collection-day": {
+     "title": "Pok\u00e9mon: 30th Celebration - Ultra Premium Collection [Day]",
      "game": "Pokemon",
      "available": true,
      "price": 379.0
     },
-    "preorder-pokemon-30th-celebration-ditto-premium-collection": {
-     "title": "[PREORDER] Pok\u00e9mon: 30th Celebration - Ditto Premium Collection",
+    "pokemon-30th-celebration-mini-tin-display": {
+     "title": "Pok\u00e9mon: 30th Celebration - Mini Tin Display",
      "game": "Pokemon",
      "available": true,
-     "price": 95.0
+     "price": 230.0
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14931,7 +14945,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 70,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
