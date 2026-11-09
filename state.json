@@ -17251,9 +17251,10 @@
     "first-partner-illustration-collection-series-3": {
      "title": "First Partner Illustration Collection (Series 3)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 21.95,
-     "last_restock_alert": 1793758515
+     "last_restock_alert": 1793758515,
+     "unavail_since": 1794186624
     },
     "ascended-heroes-premium-poster-collection-mega-lucario": {
      "title": "Ascended Heroes Premium Poster Collection - Mega Lucario",
@@ -23040,8 +23041,9 @@
     "pokemon-30th-celebration-starter-card-set-sprigatito-fuecoco-and-quaxly-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set -     Sprigatito, Fuecoco and Quaxly (Japanese)",
      "game": "Pokemon",
-     "available": true,
-     "price": 24.95
+     "available": false,
+     "price": 24.95,
+     "unavail_since": 1794186625
     },
     "pokemon-30th-celebration-starter-card-set-grookey-scorbunny-and-sobble-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set -    Grookey, Scorbunny and Sobble (Japanese)",
@@ -23121,7 +23123,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29963,7 +29965,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
