@@ -23121,7 +23121,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29954,10 +29954,16 @@
      "game": "One Piece",
      "available": true,
      "price": 44.95
+    },
+    "shrouded-fable-booster-bundle": {
+     "title": "Shrouded Fable Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 55.99
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
