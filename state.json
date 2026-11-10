@@ -17852,7 +17852,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -23150,7 +23150,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28506,9 +28506,9 @@
     "pokemon-go-radiant-eevee-premium-collection": {
      "title": "Pokemon GO Radiant Eevee Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 179.99,
-     "unavail_since": 1794009034
+     "last_restock_alert": 1794270038
     },
     "champions-path-pin-collection-ballonlea-gym": {
      "title": "Champion's Path Pin Collection [Ballonlea Gym]",
@@ -30000,7 +30000,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
