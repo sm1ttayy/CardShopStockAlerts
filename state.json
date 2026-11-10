@@ -4858,7 +4858,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9214,9 +9214,9 @@
     "pokemon-mega-evolution-delta-reign-booster-box": {
      "title": "Pokemon Mega Evolution Delta Reign Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 249.75,
-     "unavail_since": 1793983800
+     "available": true,
+     "price": 219.75,
+     "last_restock_alert": 1794330490
     }
    },
    "baselined": true,
@@ -14959,7 +14959,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 70,
    "error_streak": 0,
    "last_error": ""
   },
