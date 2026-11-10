@@ -18124,7 +18124,7 @@
      "title": "Riftbound: League of Legends - Radiance Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 199.95,
+     "price": 149.95,
      "last_restock_alert": 1792783217
     },
     "riftbound-league-of-legends-spiritforged-chinese-jumbo-booster-box": {
@@ -18611,7 +18611,7 @@
      "title": "Riftbound: League of Legends - Showdown Deck - Vendetta Zed vs Shen",
      "game": "Riftbound",
      "available": true,
-     "price": 29.95,
+     "price": 19.95,
      "last_restock_alert": 1785512411
     },
     "mtg-innistrad-remastered-english-play-booster-box": {
@@ -18883,7 +18883,7 @@
      "title": "Riftbound: League of Legends - Proving Grounds Box Set",
      "game": "Riftbound",
      "available": true,
-     "price": 89.95
+     "price": 79.95
     },
     "pokemon-scarlet-and-violet-151-elite-trainer-box-pokemon-center": {
      "title": "Pokemon - Scarlet and Violet - 151 - Elite Trainer Box (POKEMON CENTER)",
@@ -20092,7 +20092,7 @@
      "title": "Riftbound: League of Legends - Radiance Vault",
      "game": "Riftbound",
      "available": true,
-     "price": 64.95
+     "price": 49.95
     },
     "mtg-innistrad-double-feature-english-booster-box": {
      "title": "MTG - Innistrad: Double Feature - English Booster Box",
@@ -23162,7 +23162,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 52,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25638,8 +25638,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -30012,7 +30012,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
