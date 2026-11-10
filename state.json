@@ -18143,7 +18143,7 @@
      "title": "Riftbound: League of Legends - Vendetta Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 179.95,
+     "price": 169.95,
      "last_restock_alert": 1785512410
     },
     "league-of-legends-riftbound-tcg-origins-chinese-slim-booster-box": {
@@ -23162,7 +23162,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25638,8 +25638,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -30012,7 +30012,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
