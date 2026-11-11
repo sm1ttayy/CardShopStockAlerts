@@ -22901,9 +22901,10 @@
     "pokemon-30th-celebration-mew-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mew Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 109.95,
-     "last_restock_alert": 1794363011
+     "last_restock_alert": 1794363011,
+     "unavail_since": 1794365413
     },
     "pokemon-30th-celebration-mewtwo-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mewtwo Collection",
@@ -23202,7 +23203,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26497,7 +26498,7 @@
      "title": "TMNT Play Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 111.25,
+     "price": 112.75,
      "last_restock_alert": 1790628656,
      "unavail_since": 1790718649
     },
@@ -30064,7 +30065,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
