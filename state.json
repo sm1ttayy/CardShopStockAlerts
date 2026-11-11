@@ -20475,6 +20475,12 @@
      "game": "MTG",
      "available": true,
      "price": 57.95
+    },
+    "riftbound-league-of-legends-the-reckoning-booster-box": {
+     "title": "Riftbound: League of Legends - The Reckoning Booster Box (Pre-Order)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -23426,7 +23432,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28361,7 +28367,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 229.99,
+     "price": 229.75,
      "last_restock_alert": 1786657540,
      "unavail_since": 1791120628
     },
@@ -30317,7 +30323,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
