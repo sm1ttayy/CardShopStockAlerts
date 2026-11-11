@@ -22533,9 +22533,10 @@
     "pokemon-30th-celebration-poster-collection-pre-order": {
      "title": "Pokemon 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 44.95,
-     "last_restock_alert": 1793219122
+     "last_restock_alert": 1793219122,
+     "unavail_since": 1794434711
     },
     "mtg-universes-beyond-the-hobbit-draft-night-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Draft Night",
@@ -23425,7 +23426,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30316,7 +30317,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 56,
    "error_streak": 0,
    "last_error": ""
   },
