@@ -20073,9 +20073,9 @@
     "pokemon-paldea-collection-fuecoco": {
      "title": "Pokemon - Paldea Collection - Fuecoco",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "unavail_since": 1790306413
+     "last_restock_alert": 1794432043
     },
     "mtg-strixhaven-set-booster-box": {
      "title": "MTG - Strixhaven - Set Booster Box",
@@ -23419,7 +23419,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -25232,9 +25232,9 @@
     "mtg-the-hobbit-bundle": {
      "title": "MTG THE HOBBIT BUNDLE",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 99.95,
-     "unavail_since": 1786138821
+     "last_restock_alert": 1794432019
     },
     "pokemon-sv6-twilight-masquerade-booster-box": {
      "title": "POKEMON SV6 TWILIGHT MASQUERADE BOOSTER BOX",
@@ -25788,9 +25788,9 @@
     "pokemon-me03-perfect-order-elite-trainer": {
      "title": "POKEMON ME03 PERFECT ORDER ELITE TRAINER",
      "game": "Pokemon",
-     "available": false,
-     "price": 99.95,
-     "unavail_since": 1792182908
+     "available": true,
+     "price": 149.95,
+     "last_restock_alert": 1794432013
     },
     "pokemon-first-partner-illustration-collection-series-2": {
      "title": "POKEMON FIRST PARTNER ILLUSTRATION COLLECTION SERIES 2 (LIMIT 2)",
@@ -25898,6 +25898,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 269.95
+    },
+    "mtg-march-of-the-machine-draft-booster": {
+     "title": "MTG MARCH OF THE MACHINE DRAFT BOOSTER BOX",
+     "game": "MTG",
+     "available": true,
+     "price": 279.95
+    },
+    "mtg-teenage-mutant-ninja-turtles-bundle": {
+     "title": "MTG TEENAGE MUTANT NINJA TURTLES BUNDLE",
+     "game": "MTG",
+     "available": true,
+     "price": 89.95
     }
    },
    "baselined": true,
@@ -29991,7 +30003,7 @@
      "title": "Mutant Menace Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 119.25,
+     "price": 114.75,
      "unavail_since": 1791583828
     },
     "30th-celebration-mini-tin-night-pikachu": {
@@ -30298,7 +30310,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
