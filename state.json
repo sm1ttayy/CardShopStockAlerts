@@ -23418,7 +23418,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26726,7 +26726,7 @@
      "title": "Spiderman Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 110.75
+     "price": 110.49
     },
     "the-time-of-battle-booster-box": {
      "title": "The Time of Battle Booster Box",
@@ -26884,9 +26884,9 @@
     "foundations-jumpstart-booster-display": {
      "title": "Foundations Jumpstart Booster Display",
      "game": "MTG",
-     "available": false,
-     "price": 108.49,
-     "unavail_since": 1786800622
+     "available": true,
+     "price": 105.75,
+     "last_restock_alert": 1794431476
     },
     "avatar-the-last-airbender-play-booster": {
      "title": "Avatar The Last Airbender Play Booster",
@@ -28333,7 +28333,7 @@
      "title": "Dominaria - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 214.99,
+     "price": 214.75,
      "last_restock_alert": 1786658431,
      "unavail_since": 1791120628
     },
@@ -28356,7 +28356,7 @@
      "title": "Unfinity - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 168.75,
+     "price": 167.25,
      "last_restock_alert": 1794088527
     },
     "rivals-of-ixalan-booster-box": {
@@ -28922,7 +28922,7 @@
      "title": "The Hobbit Play Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 134.25
+     "price": 133.25
     },
     "mega-symphonia-booster-box": {
      "title": "Mega Symphonia Booster Box",
@@ -29869,7 +29869,7 @@
      "title": "Reality Fracture Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 122.75
+     "price": 119.75
     },
     "30th-celebration-elite-trainer-box-pokemon-center": {
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
@@ -30107,7 +30107,7 @@
      "title": "Radiance Showdown Decks: Evelynn vs Seraphine",
      "game": "Riftbound",
      "available": true,
-     "price": 20.75
+     "price": 17.75
     },
     "pokemon-go-premier-deck-holder-collectiondragonite-vstar": {
      "title": "Pokemon GO Premier Deck Holder Collection [Dragonite VSTAR]",
@@ -30297,7 +30297,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
