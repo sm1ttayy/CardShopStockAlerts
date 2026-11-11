@@ -17908,9 +17908,10 @@
     "pokemon-30th-celebration-mini-tin-display": {
      "title": "Pokemon 30th Celebration Mini Tin Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 199.95,
-     "last_restock_alert": 1793998827
+     "last_restock_alert": 1793998827,
+     "unavail_since": 1794431717
     },
     "pokemon-30th-celebration-booster-bundle": {
      "title": "Pokemon 30th Celebration Booster Bundle",
@@ -23418,7 +23419,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24883,7 +24884,7 @@
      "title": "MTG AETHERDRIFT PLAY BOOSTER BOX",
      "game": "MTG",
      "available": true,
-     "price": 159.94
+     "price": 199.95
     },
     "mtg-bloomburrow-play-booster-box-pre-order": {
      "title": "MTG BLOOMBURROW PLAY BOOSTER BOX",
@@ -25448,7 +25449,7 @@
      "title": "POKEMON FIRST PARTNER ILLUSTRATION COLLECTION SERIES 3 (LIMIT 2)",
      "game": "Pokemon",
      "available": true,
-     "price": 44.95
+     "price": 59.95
     },
     "pokemon-me03-perfect-order-booster-bundle": {
      "title": "POKEMON ME03 PERFECT ORDER BOOSTER BUNDLE",
@@ -26732,7 +26733,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 207.49,
+     "price": 207.25,
      "last_restock_alert": 1792699549,
      "unavail_since": 1793400018
     },
@@ -26892,7 +26893,7 @@
      "title": "Avatar The Last Airbender Play Booster",
      "game": "MTG",
      "available": true,
-     "price": 129.75,
+     "price": 126.99,
      "last_restock_alert": 1792107344
     },
     "modern-horizons-3-play-booster": {
@@ -28712,7 +28713,7 @@
      "title": "Storm Emeralda Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 85.75,
+     "price": 84.75,
      "unavail_since": 1791120627
     },
     "pitch-black-build-battle-box": {
@@ -28984,7 +28985,7 @@
      "title": "Theros Beyond Death - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 180.49,
+     "price": 179.75,
      "last_restock_alert": 1786658141,
      "unavail_since": 1791120628
     },
@@ -29041,7 +29042,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 59.49
+     "price": 58.99
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -29078,7 +29079,7 @@
      "title": "Spiritforged Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 168.49,
+     "price": 171.75,
      "last_restock_alert": 1789164650,
      "unavail_since": 1789424138
     },
@@ -29900,7 +29901,7 @@
      "title": "Crown Zenith Pin Collection [Rillaboom]",
      "game": "Pokemon",
      "available": true,
-     "price": 91.99
+     "price": 93.75
     },
     "jet-black-spirit-booster-box": {
      "title": "Jet-Black Spirit Booster Box",
@@ -30163,7 +30164,7 @@
      "title": "Starter Deck 36: YELLOW Eustass\u201dCaptain\u201dKid",
      "game": "One Piece",
      "available": false,
-     "price": 15.75,
+     "price": 15.49,
      "unavail_since": 1793569822
     },
     "starter-deck-35-red-black-sabo": {
@@ -30297,7 +30298,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
