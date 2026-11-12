@@ -4910,7 +4910,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6285,7 +6285,7 @@
      "title": "One Piece TCG: Blue Kuzan Starter Deck EX (ST-33)",
      "game": "One Piece",
      "available": true,
-     "price": 20.0
+     "price": 24.0
     },
     "one-piece-tcg-red-monkey-d-luffy-starter-deck-ex-st-31": {
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
@@ -6930,7 +6930,7 @@
      "title": "One Piece TCG: Set Sail Deck Set (SD01)",
      "game": "One Piece",
      "available": true,
-     "price": 22.0
+     "price": 24.0
     },
     "pokemon-tcg-tera-team-premium-collection-box": {
      "title": "Pokemon TCG: Tera Team Premium Collection Box",
@@ -15032,9 +15032,9 @@
     "pokemon-tcg-phantasmal-flames-booster-display": {
      "title": "Pok\u00e9mon TCG: Phantasmal Flames: Booster Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 364.99,
-     "unavail_since": 1792210221
+     "last_restock_alert": 1794502283
     },
     "one-piece-tcg-starter-deck-ex-gear5-st-21": {
      "title": "One Piece TCG: STARTER DECK EX GEAR5 (ST-21)",
@@ -15171,7 +15171,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
