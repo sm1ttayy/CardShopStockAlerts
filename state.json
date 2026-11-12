@@ -1832,7 +1832,7 @@
      "title": "One Piece TCG: [OP-18] The Dominance of God - Display Box [English] (Pre-Order)",
      "game": "One Piece",
      "available": true,
-     "price": 223.99
+     "price": 214.99
     },
     "pokemon-tcg-scarlet-violet-10-5-unova-poster-collection": {
      "title": "Pokemon TCG: Scarlet & Violet 10.5: Unova Poster Collection",
@@ -1842,7 +1842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4912,7 +4912,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14699,9 +14699,10 @@
     "one-piece-tcg-ex-gear-5-starter-deck-st-21": {
      "title": "One Piece TCG: EX Gear 5 Starter Deck (ST-21)",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 59.99,
-     "last_restock_alert": 1794471151
+     "last_restock_alert": 1794471151,
+     "unavail_since": 1794523188
     },
     "one-piece-tcg-ace-and-newgate-starter-deck": {
      "title": "One Piece TCG: Ace and Newgate: Starter Deck",
@@ -15173,7 +15174,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
