@@ -23048,7 +23048,8 @@
      "available": false,
      "price": 79.95,
      "last_restock_alert": 1791731113,
-     "unavail_since": 1792179909
+     "unavail_since": 1792179909,
+     "delisted": true
     },
     "pokemon-shinning-fates-24-pack-bundle": {
      "title": "Pokemon Shining Fates 24 Pack Bundle",
@@ -23432,7 +23433,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30323,7 +30324,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
