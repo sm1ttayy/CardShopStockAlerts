@@ -23447,7 +23447,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27840,7 +27840,7 @@
      "title": "Twilight Masquerade Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 334.99,
+     "price": 334.75,
      "last_restock_alert": 1789592146,
      "unavail_since": 1791120640
     },
@@ -28757,9 +28757,9 @@
     "storm-emeralda-booster-box": {
      "title": "Storm Emeralda Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 84.75,
-     "unavail_since": 1791120627
+     "available": true,
+     "price": 104.7,
+     "last_restock_alert": 1794522715
     },
     "pitch-black-build-battle-box": {
      "title": "Pitch Black Build & Battle Box",
@@ -29807,7 +29807,7 @@
      "title": "Team Rocket\u2019s Moltres ex Ultra-Premium Collection",
      "game": "Pokemon",
      "available": false,
-     "price": 299.99,
+     "price": 304.75,
      "unavail_since": 1789611633
     },
     "final-fantasy-limit-break-commander-deck": {
@@ -30350,7 +30350,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
