@@ -4910,7 +4910,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14697,9 +14697,9 @@
     "one-piece-tcg-ex-gear-5-starter-deck-st-21": {
      "title": "One Piece TCG: EX Gear 5 Starter Deck (ST-21)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 59.99,
-     "unavail_since": 1791237422
+     "last_restock_alert": 1794471151
     },
     "one-piece-tcg-ace-and-newgate-starter-deck": {
      "title": "One Piece TCG: Ace and Newgate: Starter Deck",
@@ -15171,7 +15171,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 69,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
