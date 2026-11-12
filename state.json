@@ -23446,7 +23446,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24548,11 +24548,11 @@
      "price": 349.99
     },
     "star-trek-bundle": {
-     "title": "Star Trek - Bundle [DELAYED]",
+     "title": "Star Trek - Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 89.99,
-     "unavail_since": 1793759415
+     "last_restock_alert": 1794520218
     },
     "riftbound-league-of-legends-tcg-radiance-showdown-decks-evelynn-vs-seraphine": {
      "title": "Riftbound: League of Legends TCG: Radiance - Showdown Decks - Evelynn VS Seraphine",
@@ -26778,7 +26778,7 @@
      "title": "The Time of Battle Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 207.25,
+     "price": 206.75,
      "last_restock_alert": 1792699549,
      "unavail_since": 1793400018
     },
@@ -27506,7 +27506,7 @@
      "title": "Japanese Glory of Team Rocket Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 163.75,
+     "price": 159.99,
      "last_restock_alert": 1788029764,
      "unavail_since": 1791120638
     },
@@ -30349,7 +30349,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
