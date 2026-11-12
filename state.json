@@ -1842,7 +1842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -1992,9 +1992,10 @@
     "magic-the-gathering-final-fantasy-play-booster-box": {
      "title": "Magic: The Gathering Final Fantasy Play Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 250.0,
-     "last_restock_alert": 1792935950
+     "last_restock_alert": 1792935950,
+     "unavail_since": 1794505140
     },
     "magic-the-gathering-marvel-super-heroes-play-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Play Booster Box",
@@ -2714,9 +2715,10 @@
     "pillars-of-strength-booster-box-op03": {
      "title": "Pillars of Strength Booster Box [OP03]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 490.0,
-     "last_restock_alert": 1793203751
+     "last_restock_alert": 1793203751,
+     "unavail_since": 1794505141
     },
     "judgement-booster-box-display": {
      "title": "Judgment Booster Box Display",
@@ -4910,7 +4912,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15171,7 +15173,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 87,
    "error_streak": 0,
    "last_error": ""
   },
