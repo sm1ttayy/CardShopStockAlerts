@@ -19754,10 +19754,9 @@
     "pokemon-mega-evolution-pitch-black-elite-trainer-box-pokemon-center": {
      "title": "Pokemon - Mega Evolution - Pitch Black - Elite Trainer Box (POKEMON CENTER)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1790630142,
-     "unavail_since": 1794146716
+     "last_restock_alert": 1794521414
     },
     "mtg-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-set-of-4": {
      "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Commander Deck - Set of 4",
@@ -20463,9 +20462,9 @@
     "pokemon-celebrations-collection-box-lances-charizard-v": {
      "title": "Pokemon - Celebrations - Collection Box - Lance's Charizard V",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 189.95,
-     "unavail_since": 1794149413
+     "last_restock_alert": 1794521413
     },
     "pokemon-brilliant-stars-booster-box": {
      "title": "Pokemon - Brilliant Stars - Booster Box",
@@ -23448,7 +23447,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30351,7 +30350,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
