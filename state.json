@@ -23416,8 +23416,9 @@
     "pokemon-30th-celebration-starter-card-set-grookey-scorbunny-and-sobble-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set -    Grookey, Scorbunny and Sobble (Japanese)",
      "game": "Pokemon",
-     "available": true,
-     "price": 24.95
+     "available": false,
+     "price": 24.95,
+     "unavail_since": 1794605114
     },
     "pokemon-30th-celebration-starter-card-set-snivy-tepig-and-oshawott-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set - Snivy, Tepig and Oshawott (Japanese)",
@@ -23512,7 +23513,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30433,7 +30434,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
