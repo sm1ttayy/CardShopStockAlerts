@@ -17442,8 +17442,9 @@
     "marvel-super-heroes-avengers-assemble-commander-deck-preorder": {
      "title": "Marvel Super Heroes Avengers Assemble Commander Deck",
      "game": "MTG",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1794603934
     },
     "marvel-super-heroes-gift-bundle-preorder": {
      "title": "Marvel Super Heroes Gift Bundle",
@@ -23504,7 +23505,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28231,7 +28232,7 @@
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 41.49,
+     "price": 41.75,
      "last_restock_alert": 1789084248
     },
     "riftbound-worlds-bundle-2025": {
@@ -28779,7 +28780,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 111.99,
+     "price": 115.75,
      "last_restock_alert": 1789592445
     },
     "vendetta-booster-display": {
@@ -29821,7 +29822,7 @@
      "title": "Paradox Rift Pokemon Center Elite Trainer Box [Roaring Moon]",
      "game": "Pokemon",
      "available": true,
-     "price": 204.99
+     "price": 185.99
     },
     "magic-the-gathering-hail-cesar-commander-deck": {
      "title": "Hail, Caesar Commander Deck",
@@ -29889,7 +29890,7 @@
      "title": "Reality Fracture Secret Lair Bundle",
      "game": "MTG",
      "available": true,
-     "price": 100.99
+     "price": 99.75
     },
     "celebrations-mini-tin-1x-assorted-art": {
      "title": "Celebrations Mini Tin [Unova]",
@@ -29921,7 +29922,7 @@
      "title": "Reality Fracture Bundle",
      "game": "MTG",
      "available": true,
-     "price": 41.25
+     "price": 40.75
     },
     "30th-celebration-booster-bundle-wave-2": {
      "title": "30th Celebration Booster Bundle - Wave 2",
@@ -30253,7 +30254,7 @@
      "title": "Starter Deck 32: GREEN Roronoa Zoro",
      "game": "One Piece",
      "available": true,
-     "price": 33.75
+     "price": 32.75
     },
     "starter-deck-34-purple-charlotte-katakuri": {
      "title": "Starter Deck 34: PURPLE Charlotte Katakuri",
@@ -30379,7 +30380,7 @@
      "title": "Star Trek Bundle",
      "game": "MTG",
      "available": true,
-     "price": 55.25
+     "price": 50.49
     },
     "teenage-mutant-ninja-turtles-commander-deck-turtle-power": {
      "title": "Teenage Mutant Ninja Turtles Commander Deck - Turtle Power!",
@@ -30419,7 +30420,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
