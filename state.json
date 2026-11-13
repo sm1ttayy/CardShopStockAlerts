@@ -23513,7 +23513,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29998,9 +29998,10 @@
     "30th-celebration-elite-trainer-box-pokemon-center": {
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 254.75,
-     "last_restock_alert": 1794603639
+     "last_restock_alert": 1794603639,
+     "unavail_since": 1794605443
     },
     "30th-celebration-tech-sticker-collection-lucario": {
      "title": "30th Celebration Tech Sticker Collection [Lucario]",
@@ -30288,7 +30289,7 @@
      "title": "Starter Deck 36: YELLOW Eustass\u201dCaptain\u201dKid",
      "game": "One Piece",
      "available": false,
-     "price": 15.49,
+     "price": 14.75,
      "unavail_since": 1793569822
     },
     "starter-deck-35-red-black-sabo": {
@@ -30434,7 +30435,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
