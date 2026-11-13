@@ -22875,9 +22875,10 @@
     "30th-celebration-pokemon-ex-box-sylveon-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Sylveon ex",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 64.95,
-     "last_restock_alert": 1794603612
+     "last_restock_alert": 1794603612,
+     "unavail_since": 1794604510
     },
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Greninja Ex",
@@ -23505,7 +23506,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27648,7 +27649,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 399.99,
+     "price": 396.99,
      "last_restock_alert": 1791743721,
      "unavail_since": 1792157448
     },
@@ -28987,7 +28988,7 @@
      "title": "Strixhaven: School of Mages - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 189.75,
+     "price": 188.99,
      "unavail_since": 1791120629
     },
     "adventures-in-the-forgotten-realms-draft-booster-box": {
@@ -29194,7 +29195,7 @@
      "title": "Spiritforged Booster Display",
      "game": "Riftbound",
      "available": false,
-     "price": 171.49,
+     "price": 167.75,
      "last_restock_alert": 1789164650,
      "unavail_since": 1789424138
     },
@@ -30426,7 +30427,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
