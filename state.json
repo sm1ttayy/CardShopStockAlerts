@@ -15712,6 +15712,12 @@
      "game": "MTG",
      "available": true,
      "price": 139.99
+    },
+    "merry-moonshot-magic-kit-bundler-moonshot-rips": {
+     "title": "(Better) Merry Moonshot Magic Kit Bundler - Moonshot Rips",
+     "game": "MTG",
+     "available": true,
+     "price": 99.99
     }
    },
    "baselined": true,
@@ -23506,7 +23512,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27854,7 +27860,7 @@
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 742.25,
+     "price": 739.99,
      "unavail_since": 1793236522
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
@@ -30427,7 +30433,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
