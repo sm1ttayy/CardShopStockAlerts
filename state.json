@@ -1842,9 +1842,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'pokemon-tcg-sword-shield-silver-tempest-elite-trainer-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4912,9 +4912,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product '30th-celebration-alolan-exeggutor-and-lucario-tech-sticker-collection-set-of-2' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -7058,7 +7058,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'one-piece-tcg-carrying-on-his-will-booster-box-pre-order' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -9349,7 +9349,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product 'magic-the-gathering-marvel-super-heroes-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11145,7 +11145,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'the-lord-of-the-rings-tales-of-middle-earth-set-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -12425,12 +12425,18 @@
      "game": "Pokemon",
      "available": true,
      "price": 22.0
+    },
+    "dominance-of-god-booster-box-op-18-one-piece-11-20": {
+     "title": "The Dominance of God Booster Box OP-18 [One Piece] (11/20)",
+     "game": "One Piece",
+     "available": true,
+     "price": 200.0
     }
    },
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -13185,7 +13191,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: product 'pokemon-tcg-30th-battle-deck-set' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -15174,9 +15180,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'magic-the-gathering-murders-at-karlov-manor-play-booster-display' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
