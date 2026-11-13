@@ -23514,7 +23514,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27628,9 +27628,8 @@
     "silver-tempest-booster-box": {
      "title": "Silver Tempest Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 534.75,
-     "unavail_since": 1784083350
+     "available": true,
+     "price": 575.64
     },
     "pokemon-journey-together-booster-box": {
      "title": "Journey Together Enhanced Booster Box",
@@ -27656,10 +27655,9 @@
     "pokemon-swsh-astral-radiance-booster-box": {
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 396.99,
-     "last_restock_alert": 1791743721,
-     "unavail_since": 1792157448
+     "available": true,
+     "price": 411.25,
+     "last_restock_alert": 1794612095
     },
     "pokemon-sword-shield-vivid-voltage-booster-box": {
      "title": "Vivid Voltage Booster Box",
@@ -27801,7 +27799,7 @@
      "title": "Paradox Rift Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 281.99,
+     "price": 315.0,
      "last_restock_alert": 1792852845
     },
     "mtg-ravnica-remastered-collector-booster-box": {
@@ -30067,7 +30065,7 @@
      "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
      "game": "Pokemon",
      "available": true,
-     "price": 58.25,
+     "price": 52.75,
      "last_restock_alert": 1794280840
     },
     "foundations-commander-deck-tramplesaurus-rex": {
@@ -30436,7 +30434,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
