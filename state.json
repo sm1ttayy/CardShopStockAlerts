@@ -18000,9 +18000,10 @@
     "pokemon-30th-celebration-battle-deck-umbreon-ex": {
      "title": "Pokemon 30th Celebration Battle Deck - Umbreon ex",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 33.95,
-     "last_restock_alert": 1793310027
+     "last_restock_alert": 1793310027,
+     "unavail_since": 1794538209
     },
     "pokemon-mega-battle-deck-mega-gengar-ex-mega-diancie-ex-set-of-2": {
      "title": "Pokemon Mega Battle Deck: Mega Gengar ex/Mega Diancie ex (Set of 2)",
@@ -23448,7 +23449,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27579,7 +27580,7 @@
      "title": "Astral Radiance Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 401.99,
+     "price": 399.99,
      "last_restock_alert": 1791743721,
      "unavail_since": 1792157448
     },
@@ -30351,7 +30352,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
