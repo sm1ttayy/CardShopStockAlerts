@@ -4912,7 +4912,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6567,13 +6567,13 @@
      "unavail_since": 1789620171
     },
     "pokemon-scarlet-and-violet-prismatic-evolutions-pokemon-center-elite-trainer-box": {
-     "title": "Pokemon Scarlet and Violet: Prismatic Evolutions Pokemon Center Elite Trainer Box",
+     "title": "Pokemon Scarlet and Violet: Prismatic Evolutions Pokemon Center Elite Trainer Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 396.0
+     "price": 350.0
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
-     "title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+     "title": "Pokemon TCG: 30th Celebration Elite Trainer Box (SALE)",
      "game": "Pokemon",
      "available": true,
      "price": 120.0
@@ -7034,7 +7034,7 @@
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Box (Night) (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 400.0
+     "price": 345.0
     },
     "pokemon-tcg-30th-celebration-ultra-premium-collection-box-day-sale": {
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Box (Day) (SALE)",
@@ -7053,6 +7053,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 42.0
+    },
+    "opc_paramountwar_booster": {
+     "title": "One Piece Trading Card Game Paramount War Booster Box OP-02",
+     "game": "One Piece",
+     "available": true,
+     "price": 528.0
     }
    },
    "baselined": true,
@@ -14568,9 +14574,10 @@
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.99,
-     "last_restock_alert": 1794627423
+     "last_restock_alert": 1794627423,
+     "unavail_since": 1794653938
     },
     "pokemon-tcg-team-rockets-mewtwo-ex-league-battle-deck": {
      "title": "Pok\u00e9mon TCG: Team Rocket's Mewtwo ex League Battle Deck",
@@ -15233,7 +15240,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
