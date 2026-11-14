@@ -19691,8 +19691,9 @@
     "one-piece-card-game-awakening-of-the-new-era-booster-box": {
      "title": "One Piece Card Game - Awakening of the New Era Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 1499.95
+     "available": false,
+     "price": 1499.95,
+     "unavail_since": 1794673206
     },
     "pokemon-astral-radiance-booster-box": {
      "title": "Pokemon - Astral Radiance - Booster Box",
@@ -23596,7 +23597,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30521,7 +30522,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
