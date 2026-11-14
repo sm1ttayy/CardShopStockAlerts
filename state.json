@@ -23590,12 +23590,13 @@
     "one-piece-gift-collection-one-piece-heroines-pre-order": {
      "title": "One Piece Gift Collection -ONE PIECE Heroines (Pre Order)",
      "game": "One Piece",
-     "available": true,
-     "price": 149.95
+     "available": false,
+     "price": 149.95,
+     "unavail_since": 1794671409
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30520,7 +30521,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
