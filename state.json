@@ -1842,7 +1842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -3285,9 +3285,10 @@
     "dominaria-remastered-draft-booster-box-display": {
      "title": "Dominaria Remastered Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 275.0,
-     "last_restock_alert": 1793031112
+     "last_restock_alert": 1793031112,
+     "unavail_since": 1794671575
     },
     "commander-legends-baldurs-gate-set-booster-box-display": {
      "title": "Commander Legends: Battle for Baldur's Gate Set Booster Box Display",
@@ -6914,10 +6915,10 @@
      "last_restock_alert": 1793114741
     },
     "magic-the-gathering-star-trek-play-booster-box-pre-order": {
-     "title": "Magic The Gathering: Star Trek Play Booster Box (PRE-ORDER)",
+     "title": "Magic The Gathering: Star Trek Play Booster Box (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 110.0,
+     "price": 105.0,
      "last_restock_alert": 1793203751
     },
     "riftbound-league-of-legends-tcg-radiance-booster-box-pre-order": {
@@ -7812,9 +7813,8 @@
     "pokemon-sun-moon-crimson-invasion-booster-box": {
      "title": "Pokemon Sun & Moon Crimson Invasion Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 739.75,
-     "unavail_since": 1793460239
+     "available": true,
+     "price": 739.75
     },
     "pokemon-scarlet-violet-raging-surf-japanese-booster-box-copy": {
      "title": "Pokemon Scarlet & Violet Super Electric Breaker Japanese Booster Box",
@@ -7888,9 +7888,9 @@
     "pokemon-scarlet-violet-twilight-masquerade-booster-box": {
      "title": "Pokemon Scarlet & Violet Twilight Masquerade Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 368.75,
-     "unavail_since": 1792848242
+     "last_restock_alert": 1794671577
     },
     "pokemon-vstar-universe-booster-box-s12a": {
      "title": "Pokemon VSTAR Universe Japanese Booster Box (S12a)",
@@ -13142,7 +13142,7 @@
      "title": "Riftbound TCG: Radiance - Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 120.0,
+     "price": 95.0,
      "unavail_since": 1792610433,
      "delisted": true
     },
@@ -13150,7 +13150,7 @@
      "title": "Riftbound TCG: Radiance Booster Box & Showdown Deck Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 150.0,
+     "price": 120.0,
      "unavail_since": 1792610433,
      "delisted": true
     },
@@ -13195,7 +13195,7 @@
      "title": "MTG Star Trek Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 115.0
+     "price": 110.0
     },
     "pokemon-tcg-me04-chaos-rising-elite-trainer-box": {
      "title": "Pokemon TCG: ME04 Chaos Rising Elite Trainer Box",
@@ -15240,7 +15240,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 100,
    "error_streak": 0,
    "last_error": ""
   },
