@@ -20544,6 +20544,12 @@
      "available": false,
      "price": 119.95,
      "unavail_since": 1794603611
+    },
+    "mtg-universes-beyond-teenage-mutant-ninja-turtles-commander-deck-turtle-power": {
+     "title": "MTG - Universes Beyond: Teenage Mutant Ninja Turtles - Commander Deck - Turtle Power!",
+     "game": "MTG",
+     "available": true,
+     "price": 79.95
     }
    },
    "baselined": true,
@@ -23514,7 +23520,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30439,7 +30445,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
