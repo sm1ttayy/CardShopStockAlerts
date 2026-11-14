@@ -23263,9 +23263,10 @@
     "pokemon-30th-celebration-mew-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mew Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 109.95,
-     "last_restock_alert": 1794519311
+     "last_restock_alert": 1794519311,
+     "unavail_since": 1794660911
     },
     "pokemon-30th-celebration-mewtwo-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mewtwo Collection",
@@ -23587,7 +23588,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 1,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28213,7 +28214,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 167.75
+     "price": 170.75
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -28551,7 +28552,7 @@
      "title": "Unfinity - Draft Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 166.99,
+     "price": 169.75,
      "last_restock_alert": 1794088527
     },
     "rivals-of-ixalan-booster-box": {
@@ -29117,7 +29118,7 @@
      "title": "The Hobbit Play Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 132.25
+     "price": 132.75
     },
     "mega-symphonia-booster-box": {
      "title": "Mega Symphonia Booster Box",
@@ -29236,7 +29237,7 @@
      "title": "Ascended Heroes First Partners Deluxe Pin Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 58.75
+     "price": 59.25
     },
     "first-partner-illustration-collection-series-2": {
      "title": "First Partner Illustration Collection (Series 2)",
@@ -29642,7 +29643,7 @@
      "title": "Phantasmal Flames Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 75.99,
+     "price": 78.99,
      "last_restock_alert": 1789592443
     },
     "gem-mint-vol-5-booster-box": {
@@ -29698,7 +29699,7 @@
      "title": "30th Celebration Ditto Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 80.75
+     "price": 83.75
     },
     "30th-celebration-ultra-premium-collection-day": {
      "title": "30th Celebration Ultra-Premium Collection [Day]",
@@ -29810,7 +29811,7 @@
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 61.25,
+     "price": 61.75,
      "last_restock_alert": 1792699858
     },
     "the-hobbit-gift-bundle": {
@@ -30007,7 +30008,7 @@
      "title": "Reality Fracture Bundle",
      "game": "MTG",
      "available": true,
-     "price": 40.75
+     "price": 42.49
     },
     "30th-celebration-booster-bundle-wave-2": {
      "title": "30th Celebration Booster Bundle - Wave 2",
@@ -30137,7 +30138,7 @@
      "title": "30th Celebration ex Tin [Sylveon ex] (Retail Version)",
      "game": "Pokemon",
      "available": true,
-     "price": 52.75,
+     "price": 54.99,
      "last_restock_alert": 1794280840
     },
     "foundations-commander-deck-tramplesaurus-rex": {
@@ -30298,7 +30299,7 @@
      "title": "The World's Strongest Warriors Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 271.99
+     "price": 289.75
     },
     "radiance-showdown-decks-evelynn-vs-seraphine": {
      "title": "Radiance Showdown Decks: Evelynn vs Seraphine",
@@ -30334,13 +30335,13 @@
      "title": "Romance Dawn Booster Box (Wave 1 - Blue Bottom)",
      "game": "One Piece",
      "available": true,
-     "price": 4506.49
+     "price": 4507.75
     },
     "starter-deck-32-green-roronoa-zoro": {
      "title": "Starter Deck 32: GREEN Roronoa Zoro",
      "game": "One Piece",
      "available": true,
-     "price": 32.75
+     "price": 33.75
     },
     "starter-deck-34-purple-charlotte-katakuri": {
      "title": "Starter Deck 34: PURPLE Charlotte Katakuri",
@@ -30512,7 +30513,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 51,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
