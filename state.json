@@ -23514,7 +23514,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29882,9 +29882,9 @@
     "team-rocket-s-moltres-ex-ultra-premium-collection": {
      "title": "Team Rocket\u2019s Moltres ex Ultra-Premium Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 304.75,
-     "unavail_since": 1789611633
+     "available": true,
+     "price": 319.75,
+     "last_restock_alert": 1794614785
     },
     "final-fantasy-limit-break-commander-deck": {
      "title": "Final Fantasy Limit Break Commander Deck",
@@ -30430,10 +30430,16 @@
      "game": "MTG",
      "available": true,
      "price": 51.75
+    },
+    "30th-celebration-mini-tin-moltres": {
+     "title": "30th Celebration Mini Tin [Moltres]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 26.99
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
