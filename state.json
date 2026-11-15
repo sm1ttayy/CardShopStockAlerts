@@ -23573,8 +23573,9 @@
     "mtg-star-trek-commander-deck-we-are-the-borg-pre-order": {
      "title": "MTG Star Trek Commander Deck - We Are the Borg",
      "game": "MTG",
-     "available": true,
-     "price": 69.0
+     "available": false,
+     "price": 69.0,
+     "unavail_since": 1794711926
     },
     "pokemon-tcg-mega-set-6-delta-reign-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Set 6 Delta Reign Booster Bundle",
@@ -23605,7 +23606,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30530,7 +30531,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
