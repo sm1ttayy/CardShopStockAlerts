@@ -23292,9 +23292,10 @@
     "pokemon-30th-celebration-mewtwo-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mewtwo Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 109.95,
-     "last_restock_alert": 1794431111
+     "last_restock_alert": 1794431111,
+     "unavail_since": 1794772809
     },
     "mtg-commander-masters-english-set-booster-box-pre-order-1": {
      "title": "MTG - Commander Masters - English Set Booster Box",
@@ -23617,7 +23618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30544,7 +30545,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
