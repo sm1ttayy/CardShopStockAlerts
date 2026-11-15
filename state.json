@@ -20619,6 +20619,12 @@
      "game": "MTG",
      "available": true,
      "price": 37.95
+    },
+    "mtg-universes-beyond-star-trek-commander-deck-federation-fleet": {
+     "title": "MTG - Universes Beyond: Star Trek - Commander Deck - Federation Fleet",
+     "game": "MTG",
+     "available": true,
+     "price": 89.95
     }
    },
    "baselined": true,
@@ -23607,7 +23613,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28471,7 +28477,7 @@
      "title": "151 Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1087.75,
+     "price": 1006.75,
      "unavail_since": 1792298722
     },
     "celebrations-pokemon-center-elite-trainer-box": {
@@ -30533,7 +30539,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
