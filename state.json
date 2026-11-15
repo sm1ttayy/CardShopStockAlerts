@@ -23604,7 +23604,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30529,7 +30529,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -32079,7 +32079,8 @@
      "game": "One Piece",
      "available": false,
      "price": 319.99,
-     "unavail_since": 1794519336
+     "unavail_since": 1794519336,
+     "delisted": true
     },
     "one-piece-tcg-title-tba-booster-op-19-24ct-op-19-bb": {
      "title": "One Piece TCG (Title Tba) Booster (OP-19) (24CT) OP-19-BB",
