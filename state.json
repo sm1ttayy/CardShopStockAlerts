@@ -20872,10 +20872,9 @@
     "pokemon-scarlet-and-violet-8-5-elite-trainer-box-pre-order": {
      "title": "Pokemon Scarlet And Violet 8.5 Prismatic Evolution Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 159.95,
-     "last_restock_alert": 1794153908,
-     "unavail_since": 1794154217
+     "last_restock_alert": 1794761491
     },
     "pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022": {
      "title": "Pokemon TCG - Pokemon GO Elite Trainer Box",
@@ -23619,7 +23618,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30545,7 +30544,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
