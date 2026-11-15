@@ -18343,7 +18343,7 @@
      "title": "Pokemon - Scarlet and Violet - Prismatic Evolutions - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 239.95
+     "price": 169.95
     },
     "pokemon-scarlet-and-violet-destined-rivals-elite-trainer-box": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals - Elite Trainer Box",
@@ -20477,7 +20477,7 @@
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day",
      "game": "Pokemon",
      "available": true,
-     "price": 499.95
+     "price": 469.95
     },
     "mtg-universes-beyond-marvel-super-heroes-commander-deck-avengers-assemble": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Avengers Assemble",
@@ -20535,7 +20535,7 @@
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Night",
      "game": "Pokemon",
      "available": true,
-     "price": 549.95
+     "price": 519.95
     },
     "pokemon-v-union-special-collection-box-zacian": {
      "title": "Pokemon - V-Union Special Collection Box - Zacian",
@@ -22964,9 +22964,10 @@
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Greninja Ex",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 64.95,
-     "last_restock_alert": 1794363012
+     "last_restock_alert": 1794363012,
+     "unavail_since": 1794701412
     },
     "mtg-reality-fracture-commander-deck-multiverse-reforged-pre-order": {
      "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged",
@@ -23603,7 +23604,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30528,7 +30529,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
