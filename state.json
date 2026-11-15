@@ -23624,7 +23624,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24681,10 +24681,9 @@
     "reality-fracture-secret-lair-bundle": {
      "title": "Reality Fracture - Secret Lair Bundle [LIMIT 1 PER ORDER]",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 199.99,
-     "last_restock_alert": 1793997917,
-     "unavail_since": 1794765915
+     "last_restock_alert": 1794778217
     },
     "premium-card-collection-live-action-edition": {
      "title": "Premium Card Collection - Live Action Edition",
@@ -30552,7 +30551,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
