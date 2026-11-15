@@ -4913,7 +4913,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -12405,8 +12405,9 @@
     "heroines-edition-vol-2-booster-pack-eb-05-one-piece-10-30": {
      "title": "Heroines Edition Vol.2 Booster Pack EB-05 [One Piece] (10/30)",
      "game": "One Piece",
-     "available": true,
-     "price": 12.0
+     "available": false,
+     "price": 12.0,
+     "unavail_since": 1794756886
     },
     "unfinity-draft-booster-box": {
      "title": "Unfinity Draft Booster Box",
@@ -15240,7 +15241,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 57,
    "error_streak": 0,
    "last_error": ""
   },
