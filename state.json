@@ -23623,7 +23623,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27106,8 +27106,9 @@
     "pokemon-evolving-skies-booster-box": {
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 2299.99
+     "available": false,
+     "price": 2299.99,
+     "unavail_since": 1794782722
     },
     "aetherdrift-play-booster-display": {
      "title": "Aetherdrift Play Booster Display",
@@ -30550,7 +30551,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
