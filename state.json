@@ -23569,10 +23569,9 @@
     "pokemon-tcg-mega-set-6-delta-reign-elite-trainer-pre-order": {
      "title": "Pokemon TCG Mega Set 6 Delta Reign elite trainer",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 119.95,
-     "last_restock_alert": 1794363010,
-     "unavail_since": 1794519310
+     "last_restock_alert": 1794766516
     },
     "mtg-marvel-darkhold-destiny-booster-box-pre-order": {
      "title": "MTG Marvel Darkhold Destiny Booster Box (Pre Order)",
@@ -23617,7 +23616,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30544,7 +30543,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
