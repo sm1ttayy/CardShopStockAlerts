@@ -22548,8 +22548,9 @@
     "mtg-edge-of-eternities-commander-deck-counter-intelligence": {
      "title": "MTG - Edge of Eternities - Commander Deck - Counter Intelligence",
      "game": "MTG",
-     "available": true,
-     "price": 49.95
+     "available": false,
+     "price": 49.95,
+     "unavail_since": 1794770423
     },
     "riftbound-league-of-legends-pre-rift-kit": {
      "title": "Riftbound league Of Legends - Pre Rift Kit",
@@ -23616,7 +23617,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30543,7 +30544,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
