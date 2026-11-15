@@ -23606,7 +23606,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30531,7 +30531,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31643,11 +31643,11 @@
      "price": 19.95
     },
     "pokemon-tcg-30th-celebration-booster-bundle-6-booster-packs-pre-order": {
-     "title": "Pokemon TCG 30th Celebration Booster Bundle (6 Booster Packs)",
+     "title": "Pokemon TCG 30th Celebration Booster Bundle (6 Booster Packs) (Wave 2 Late November)",
      "game": "Pokemon",
-     "available": false,
-     "price": 83.95,
-     "unavail_since": 1790306134
+     "available": true,
+     "price": 58.95,
+     "last_restock_alert": 1794721848
     },
     "pokemon-tcg-30th-celebration-poster-collection-pre-order": {
      "title": "Pokemon TCG 30th Celebration Poster Collection",
