@@ -23595,9 +23595,9 @@
     "pokemon-tcg-charizard-ex-special-collection": {
      "title": "Pokemon TCG: Charizard ex Special Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 69.95,
-     "unavail_since": 1794668709
+     "last_restock_alert": 1794758710
     },
     "mtg-star-trek-commander-deck-landing-party-pre-order": {
      "title": "MTG Star Trek Commander Deck - Landing Party",
@@ -23614,7 +23614,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30540,7 +30540,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
