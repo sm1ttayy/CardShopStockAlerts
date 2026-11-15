@@ -18044,9 +18044,10 @@
     "pokemon-30th-celebration-poster-collection": {
      "title": "Pokemon 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 32.95,
-     "last_restock_alert": 1794363011
+     "last_restock_alert": 1794363011,
+     "unavail_since": 1794755111
     },
     "pokemon-30th-celebration-knock-out-collection": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
@@ -18431,7 +18432,7 @@
      "title": "Pokemon - Scarlet and Violet - Prismatic Evolutions - Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 139.95
+     "price": 99.95
     },
     "pokemon-mega-evolution-perfect-order-booster-bundle": {
      "title": "Pokemon - Mega Evolution - Perfect Order - Booster Bundle",
@@ -23606,7 +23607,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26922,7 +26923,7 @@
      "title": "Premium Booster Vol. 2 - Booster Box (PRB02)",
      "game": "One Piece",
      "available": true,
-     "price": 325.75,
+     "price": 329.99,
      "last_restock_alert": 1792699549
     },
     "unleashed-booster-display": {
@@ -27109,7 +27110,7 @@
      "title": "Avatar The Last Airbender Play Booster",
      "game": "MTG",
      "available": true,
-     "price": 123.75,
+     "price": 129.49,
      "last_restock_alert": 1792107344
     },
     "modern-horizons-3-play-booster": {
@@ -27657,7 +27658,7 @@
      "title": "Surging Sparks Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 299.99,
+     "price": 300.75,
      "last_restock_alert": 1787505026
     },
     "japanese-sky-legend-booster-box": {
@@ -28257,7 +28258,7 @@
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 67.25,
+     "price": 69.25,
      "last_restock_alert": 1788046527
     },
     "paldean-fates-booster-bundle": {
@@ -28483,7 +28484,7 @@
      "title": "Ascended Heroes Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 281.75
+     "price": 290.75
     },
     "surging-sparks-pokemon-center-elite-trainer-box-1": {
      "title": "Surging Sparks Pokemon Center Elite Trainer Box",
@@ -29136,7 +29137,7 @@
      "title": "The Hobbit Play Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 132.75
+     "price": 133.25
     },
     "mega-symphonia-booster-box": {
      "title": "Mega Symphonia Booster Box",
@@ -29699,7 +29700,7 @@
      "title": "30th Celebration Sylveon ex Box",
      "game": "Pokemon",
      "available": true,
-     "price": 46.25
+     "price": 48.75
     },
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
@@ -29717,7 +29718,7 @@
      "title": "30th Celebration Ditto Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 83.75
+     "price": 84.99
     },
     "30th-celebration-ultra-premium-collection-day": {
      "title": "30th Celebration Ultra-Premium Collection [Day]",
@@ -29829,7 +29830,7 @@
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 61.75,
+     "price": 64.75,
      "last_restock_alert": 1792699858
     },
     "the-hobbit-gift-bundle": {
@@ -29956,7 +29957,7 @@
      "title": "30th Celebration Knock Out Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 21.75,
+     "price": 21.99,
      "last_restock_alert": 1793150439
     },
     "30th-celebration-pack": {
@@ -30110,7 +30111,7 @@
      "title": "Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
      "available": true,
-     "price": 46.25
+     "price": 48.75
     },
     "crown-zenith-pin-collection-rillaboom": {
      "title": "Crown Zenith Pin Collection [Rillaboom]",
@@ -30182,7 +30183,7 @@
      "title": "Foundations Commander Deck - Reign of Dragons",
      "game": "MTG",
      "available": true,
-     "price": 59.75
+     "price": 64.49
     },
     "pokemon-celebrations-collector-chest": {
      "title": "Celebrations Collector Chest",
@@ -30226,7 +30227,7 @@
      "title": "Foundations Commander Deck - Calling All Angels",
      "game": "MTG",
      "available": true,
-     "price": 54.75
+     "price": 59.75
     },
     "magic-the-gathering-scrappy-survivors-commander-deck": {
      "title": "Scrappy Survivors Commander Deck",
@@ -30316,8 +30317,9 @@
     "the-worlds-strongest-warriors-booster-box": {
      "title": "The World's Strongest Warriors Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 289.75
+     "available": false,
+     "price": 291.99,
+     "unavail_since": 1794755123
     },
     "radiance-showdown-decks-evelynn-vs-seraphine": {
      "title": "Radiance Showdown Decks: Evelynn vs Seraphine",
@@ -30392,7 +30394,7 @@
      "title": "30th Celebration Mini Tin [Zapdos]",
      "game": "Pokemon",
      "available": true,
-     "price": 25.25
+     "price": 25.75
     },
     "mimikyu-ex-box": {
      "title": "Mimikyu ex Box",
@@ -30461,7 +30463,7 @@
      "title": "Star Trek Play Booster Display",
      "game": "MTG",
      "available": true,
-     "price": 103.75
+     "price": 107.25
     },
     "tarkir-dragonstorm-commander-deck-mardu-surge": {
      "title": "Tarkir: Dragonstorm Commander Deck - Mardu Surge",
@@ -30491,7 +30493,7 @@
      "title": "Teenage Mutant Ninja Turtles Commander Deck - Turtle Power!",
      "game": "MTG",
      "available": true,
-     "price": 51.99
+     "price": 51.25
     },
     "zendikar-rising-lands-wrath-commander-deck": {
      "title": "Zendikar Rising - Land's Wrath Commander Deck",
@@ -30503,7 +30505,7 @@
      "title": "Star Trek Commander Deck - Federation Fleet",
      "game": "MTG",
      "available": true,
-     "price": 44.25
+     "price": 45.25
     },
     "star-trek-commander-deck-klingon-fury": {
      "title": "Star Trek Commander Deck - Klingon Fury",
@@ -30515,13 +30517,13 @@
      "title": "Star Trek Commander Deck - We Are the Borg",
      "game": "MTG",
      "available": true,
-     "price": 69.75
+     "price": 74.99
     },
     "star-trek-commander-deck-landing-party": {
      "title": "Star Trek Commander Deck - Landing Party",
      "game": "MTG",
      "available": true,
-     "price": 50.75
+     "price": 53.49
     },
     "30th-celebration-mini-tin-moltres": {
      "title": "30th Celebration Mini Tin [Moltres]",
@@ -30531,7 +30533,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
