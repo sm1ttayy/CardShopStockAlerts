@@ -1842,7 +1842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4806,7 +4806,7 @@
      "price": 219.0
     },
     "magic-the-gathering-star-trek-play-booster-box": {
-     "title": "[PREORDER] Magic: The Gathering - Star Trek Play Booster Box",
+     "title": "Magic: The Gathering - Star Trek Play Booster Box",
      "game": "MTG",
      "available": true,
      "price": 119.0
@@ -7813,8 +7813,9 @@
     "pokemon-sun-moon-crimson-invasion-booster-box": {
      "title": "Pokemon Sun & Moon Crimson Invasion Booster Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 739.75
+     "available": false,
+     "price": 739.75,
+     "unavail_since": 1794858117
     },
     "pokemon-scarlet-violet-raging-surf-japanese-booster-box-copy": {
      "title": "Pokemon Scarlet & Violet Super Electric Breaker Japanese Booster Box",
@@ -15252,7 +15253,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 58,
    "error_streak": 0,
    "last_error": ""
   },
