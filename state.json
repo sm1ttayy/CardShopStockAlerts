@@ -23653,7 +23653,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28231,7 +28231,7 @@
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 241.99
+     "price": 242.99
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
@@ -28280,7 +28280,7 @@
      "title": "151 Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 168.75
+     "price": 168.99
     },
     "chaos-rising-booster-bundle": {
      "title": "Chaos Rising Booster Bundle",
@@ -28292,7 +28292,7 @@
      "title": "Prismatic Evolutions Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 71.99
+     "price": 74.75
     },
     "ascended-heroes-booster-bundle": {
      "title": "Ascended Heroes Booster Bundle",
@@ -28305,7 +28305,7 @@
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 69.25,
+     "price": 67.75,
      "last_restock_alert": 1788046527
     },
     "paldean-fates-booster-bundle": {
@@ -28318,7 +28318,7 @@
      "title": "Paldea Evolved Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 119.99
+     "price": 119.75
     },
     "scarlet-violet-booster-bundle": {
      "title": "Scarlet & Violet Booster Bundle",
@@ -28550,7 +28550,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 247.75,
+     "price": 246.99,
      "last_restock_alert": 1792852854
     },
     "pokemon-day-2026-collection": {
@@ -28582,7 +28582,7 @@
      "title": "Prismatic Evolutions Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 335.75
+     "price": 321.99
     },
     "jumpstart-booster-box": {
      "title": "Jumpstart - Booster Box",
@@ -28772,7 +28772,7 @@
      "title": "Journey Together Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 40.75
+     "price": 41.99
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
      "title": "Prismatic Evolutions Lucario ex & Tyranitar ex Premium Collection",
@@ -30299,7 +30299,7 @@
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Lucario]",
      "game": "Pokemon",
      "available": true,
-     "price": 189.99
+     "price": 189.75
     },
     "pokemon-go-special-collection-team-instinct": {
      "title": "Pokemon GO Special Collection [Team Instinct]",
@@ -30587,7 +30587,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -32645,6 +32645,12 @@
      "game": "MTG",
      "available": true,
      "price": 59.99
+    },
+    "magic-the-gathering-ccg-nauctis-the-sunken-realm-seal-the-deal-commander-deck": {
+     "title": "Magic the Gathering CCG Nauctis The Sunken Realm Seal the Deal Commander Deck",
+     "game": "MTG",
+     "available": true,
+     "price": 74.99
     }
    },
    "baselined": true,
