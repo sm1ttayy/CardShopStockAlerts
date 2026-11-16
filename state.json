@@ -20542,8 +20542,9 @@
     "pokemon-30th-celebration-ultra-premium-collection-night": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Night",
      "game": "Pokemon",
-     "available": true,
-     "price": 519.95
+     "available": false,
+     "price": 519.95,
+     "unavail_since": 1794790508
     },
     "pokemon-v-union-special-collection-box-zacian": {
      "title": "Pokemon - V-Union Special Collection Box - Zacian",
@@ -23624,7 +23625,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30552,7 +30553,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
