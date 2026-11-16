@@ -15449,8 +15449,9 @@
     "chaos-rising-bundle-moonshot-rips": {
      "title": "Chaos Rising Bundle - Moonshot Rips",
      "game": "Pokemon",
-     "available": true,
-     "price": 35.0
+     "available": false,
+     "price": 35.0,
+     "unavail_since": 1794794408
     },
     "prismatic-evolutions-bundle-moonshot-rips": {
      "title": "Prismatic Evolutions Bundle - Moonshot Rips",
@@ -23625,7 +23626,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30553,7 +30554,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
