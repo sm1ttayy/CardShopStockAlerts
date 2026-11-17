@@ -1723,7 +1723,7 @@
      "title": "One Piece TCG: Mini Tin - Mini Case Set - Luffy/Shanks/Hancock",
      "game": "One Piece",
      "available": false,
-     "price": 21.47,
+     "price": 20.99,
      "unavail_since": 1793140375
     },
     "lego-one-piece-battle-at-arlong-park-75638-pre-order": {
@@ -4913,7 +4913,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5121,7 +5121,7 @@
      "title": "Pokemon TCG: Mega Evolution - Pitch Black Booster Bundle Box",
      "game": "Pokemon",
      "available": true,
-     "price": 43.0,
+     "price": 44.0,
      "last_restock_alert": 1784313937
     },
     "pokemon-scarlet-and-violet-shrouded-fable-booster-bundle-pre-order": {
@@ -6999,7 +6999,7 @@
      "title": "One Piece TCG: Mini Case Volume 3 (Shanks) (Dark Green)",
      "game": "One Piece",
      "available": true,
-     "price": 42.0
+     "price": 26.0
     },
     "pokemon-tcg-mega-evolution-delta-reign-booster-bundle-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Bundle Box (SALE)",
@@ -7255,7 +7255,7 @@
      "title": "Pokemon Sword & Shield Lost Origins Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 799.75
+     "price": 739.75
     },
     "pokemon-mega-evolution-chaos-rising-booster-6-box-case": {
      "title": "Pokemon Mega Evolution Chaos Rising Booster 6-Box Case",
@@ -12418,9 +12418,9 @@
     "heroines-edition-vol-2-booster-pack-eb-05-one-piece-10-30": {
      "title": "Heroines Edition Vol.2 Booster Pack EB-05 [One Piece] (10/30)",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 12.0,
-     "unavail_since": 1794756886
+     "last_restock_alert": 1794906069
     },
     "unfinity-draft-booster-box": {
      "title": "Unfinity Draft Booster Box",
@@ -12457,6 +12457,12 @@
      "game": "One Piece",
      "available": true,
      "price": 200.0
+    },
+    "one-piece-nakama": {
+     "title": "One Piece Nakama",
+     "game": "One Piece",
+     "available": true,
+     "price": 25.0
     }
    },
    "baselined": true,
@@ -14242,9 +14248,10 @@
     "pokemon-tcg-terastal-fest-ex-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Terastal Fest ex Booster Display (Japanese)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 159.99,
-     "last_restock_alert": 1790371689
+     "last_restock_alert": 1790371689,
+     "unavail_since": 1794906070
     },
     "pokemon-tcg-nihil-zero-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Nihil Zero: Booster Display (Japanese)",
@@ -14588,9 +14595,10 @@
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.99,
-     "last_restock_alert": 1794848835
+     "last_restock_alert": 1794848835,
+     "unavail_since": 1794906070
     },
     "pokemon-tcg-team-rockets-mewtwo-ex-league-battle-deck": {
      "title": "Pok\u00e9mon TCG: Team Rocket's Mewtwo ex League Battle Deck",
@@ -15253,7 +15261,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
