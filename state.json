@@ -19786,9 +19786,9 @@
     "mtg-modern-horizons-3-commander-deck-tricky-terrain-pre-order": {
      "title": "MTG - Modern Horizons 3 - Commander Deck - Tricky Terrain",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 129.95,
-     "unavail_since": 1787085918
+     "last_restock_alert": 1794974718
     },
     "mtg-universes-beyond-final-fantasy-commander-deck-revival-trance": {
      "title": "MTG - Universes Beyond: Final Fantasy - Commander Deck - Revival Trance",
@@ -23730,10 +23730,16 @@
      "available": false,
      "price": 89.95,
      "unavail_since": 1794974409
+    },
+    "mtg-star-trek-commander-deck-klingon-fury-pre-order": {
+     "title": "MTG Star Trek Commander Deck - Klingon Fury",
+     "game": "MTG",
+     "available": true,
+     "price": 69.0
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27216,7 +27222,7 @@
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 2058.75,
+     "price": 1958.75,
      "unavail_since": 1794782722
     },
     "aetherdrift-play-booster-display": {
@@ -28683,7 +28689,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 229.75,
+     "price": 229.99,
      "last_restock_alert": 1786657540,
      "unavail_since": 1791120628
     },
@@ -30679,7 +30685,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
