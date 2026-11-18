@@ -20774,6 +20774,12 @@
      "game": "One Piece",
      "available": true,
      "price": 109.95
+    },
+    "mtg-universes-beyond-marvel-super-heroes-commander-deck-fantastic-four": {
+     "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Fantastic Four",
+     "game": "MTG",
+     "available": true,
+     "price": 69.95
     }
    },
    "baselined": true,
@@ -22248,9 +22254,9 @@
     "mtg-star-trek-bundle-pre-order": {
      "title": "MTG Star Trek Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 69.95,
-     "unavail_since": 1794974416
+     "last_restock_alert": 1795041016
     },
     "mtg-marvel-super-heroes-commander-deck-bundle-pre-order": {
      "title": "MTG - Marvel Super Heroes Commander Deck Bundle",
@@ -23780,7 +23786,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -28133,7 +28139,7 @@
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 723.75,
+     "price": 724.75,
      "unavail_since": 1793236522
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
@@ -30745,7 +30751,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
