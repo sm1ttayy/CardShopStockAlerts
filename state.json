@@ -23805,7 +23805,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26321,6 +26321,12 @@
      "game": "MTG",
      "available": true,
      "price": 74.95
+    },
+    "mtg-unfinity-draft-booster": {
+     "title": "MTG UNFINITY DRAFT BOOSTER BOX",
+     "game": "MTG",
+     "available": true,
+     "price": 239.95
     }
    },
    "baselined": true,
@@ -30769,7 +30775,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
