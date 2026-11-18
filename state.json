@@ -17142,8 +17142,9 @@
     "murders-at-karlov-manor-play-booster-display": {
      "title": "Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 139.95
+     "available": false,
+     "price": 139.95,
+     "unavail_since": 1795038318
     },
     "final-fantasy-collector-booster-display": {
      "title": "Final Fantasy Collector Booster Box",
@@ -23779,7 +23780,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 16,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30744,7 +30745,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 9,
+   "check_cursor": 49,
    "error_streak": 0,
    "last_error": ""
   },
