@@ -15843,6 +15843,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 269.99
+    },
+    "mega-evolution-6-delta-reign-build-battle-box": {
+     "title": "Mega Evolution 6: Delta Reign - Build & Battle Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 50.0,
+     "unavail_since": 1795036811
     }
    },
    "baselined": true,
@@ -23772,7 +23779,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30737,7 +30744,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
