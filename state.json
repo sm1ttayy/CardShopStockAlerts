@@ -154,7 +154,7 @@
      "title": "Pokemon TCG: Abyss Eye [M5] Booster Box [Japanese]",
      "game": "Pokemon",
      "available": false,
-     "price": 171.5,
+     "price": 157.99,
      "unavail_since": 1784083333
     },
     "pokemon-crown-zenith-elite-trainer-box-pre-order": {
@@ -1474,7 +1474,7 @@
      "title": "Pokemon TCG: Destined Rivals Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 363.08,
+     "price": 353.84,
      "unavail_since": 1788545848
     },
     "pirates-on-vacation-one-piece-box-8-megahouse-ochatomo": {
@@ -4140,9 +4140,9 @@
     "destined-rivals-booster-bundle": {
      "title": "Destined Rivals Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 85.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 59.0,
+     "last_restock_alert": 1795023409
     },
     "black-bolt-tech-sticker-collection": {
      "title": "Black Bolt Tech Sticker Collection",
@@ -4605,9 +4605,10 @@
     "scarlet-violet-shrouded-fable-booster-bundle": {
      "title": "Scarlet & Violet: Shrouded Fable - Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 59.0,
-     "last_restock_alert": 1790085907
+     "last_restock_alert": 1790085907,
+     "unavail_since": 1795023409
     },
     "pokemon-go-premium-collection-radiant-eevee": {
      "title": "Pokemon GO - Premium Collection (Radiant Eevee)",
@@ -4913,7 +4914,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5058,7 +5059,7 @@
      "title": "Pokemon: Scarlet and Violet - Prismatic Evolutions Elite Trainer Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 120.0,
+     "price": 115.0,
      "last_restock_alert": 1789450032
     },
     "pokemon-scarlet-amp-violet-151-elite-trainer-box-pre-order": {
@@ -6353,10 +6354,10 @@
      "price": 421.0
     },
     "pokemon-tcg-scarlet-and-violet-destined-rivals-elite-trainer-box-pre-order": {
-     "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box",
+     "title": "Pokemon TCG: Scarlet and Violet - Destined Rivals Elite Trainer Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 114.0
+     "price": 110.0
     },
     "riftbound-league-of-legends-tcg-vendetta-showdown-decks-zed-vs-shen": {
      "title": "Riftbound League of Legends TCG: Vendetta Showdown Decks - Zed vs Shen (SALE)",
@@ -6789,7 +6790,7 @@
      "title": "Pokemon TCG: 30th Celebration Booster Bundle Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 65.0
+     "price": 60.0
     },
     "pokemon-trading-card-game-pikachu-amp-zekrom-gx-premium-collection": {
      "title": "Pokemon TCG: Pikachu and Zekrom GX Premium Collection",
@@ -6911,7 +6912,7 @@
      "title": "Pokemon TCG: Mega Evolution - Delta Reign Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 190.0,
+     "price": 180.0,
      "last_restock_alert": 1793114741
     },
     "magic-the-gathering-star-trek-play-booster-box-pre-order": {
@@ -7035,7 +7036,7 @@
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Box (Night) (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 345.0
+     "price": 330.0
     },
     "pokemon-tcg-30th-celebration-ultra-premium-collection-box-day-sale": {
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Box (Day) (SALE)",
@@ -8051,7 +8052,7 @@
      "title": "Pokemon Scarlet and Violet Journey Together Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 274.75
+     "price": 219.75
     },
     "pokemon-terastal-fest-ex-booster-box-japanese": {
      "title": "Pok\u00e9mon Terastal Fest ex Booster Box (Japanese)",
@@ -10679,9 +10680,9 @@
     "pokemon-scarlet-violet-black-bolt-elite-trainer-box": {
      "title": "Pokemon Scarlet & Violet - Black Bolt Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 175.0,
-     "unavail_since": 1790994107
+     "last_restock_alert": 1795023409
     },
     "scarlet-violet-surging-sparks-elite-trainer-box-pokemon-tcg": {
      "title": "Surging Sparks Elite Trainer Box",
@@ -11091,8 +11092,9 @@
     "one-piece-treasure-booster-set-one-piece-promotion-cards-op-pr": {
      "title": "One Piece Card Game - Treasure Booster Set",
      "game": "One Piece",
-     "available": true,
-     "price": 199.99
+     "available": false,
+     "price": 199.99,
+     "unavail_since": 1795023406
     },
     "reality-fracture-bundle-reality-fracture-fra": {
      "title": "Magic: The Gathering - Reality Fracture Bundle Box",
@@ -11167,6 +11169,12 @@
      "available": false,
      "price": 39.99,
      "unavail_since": 1794366542
+    },
+    "pokemon-mega-evolution-chaos-rising-pokemon-center-elite-trainer-box": {
+     "title": "Pokemon Mega Evolution - Chaos Rising Pokemon Center Elite Trainer Box (Exclusive)",
+     "game": "Pokemon",
+     "available": true,
+     "price": 129.99
     }
    },
    "baselined": true,
@@ -13803,9 +13811,10 @@
     "pokemon-tcg-chaos-rising-booster-display": {
      "title": "Pok\u00e9mon TCG: Chaos Rising: Booster Display",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 184.99,
-     "last_restock_alert": 1790371676
+     "last_restock_alert": 1790371676,
+     "unavail_since": 1795023409
     },
     "cgc-9-volibear300-298-origins-6157704002": {
      "title": "CGC 9 Volibear(300*/298) [Origins] - 6157704002",
@@ -13999,9 +14008,8 @@
     "pokemon-tcg-obsidian-flames-pokemon-center-elite-trainer-box-1": {
      "title": "Pok\u00e9mon TCG: Obsidian Flames: Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 704.99,
-     "unavail_since": 1791237425
+     "available": true,
+     "price": 639.99
     },
     "pokemon-tcg-paldean-fates-elite-trainer-box-pokemon-center-edition": {
      "title": "Pok\u00e9mon TCG: Paldean Fates: Elite Trainer Box - Pok\u00e9mon Center Edition",
@@ -14722,7 +14730,7 @@
      "title": "Pokemon TCG: Delta Reign: Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 161.64,
+     "price": 169.99,
      "unavail_since": 1791225266
     },
     "one-piece-tcg-royal-blood-booster-display-op-11": {
@@ -15269,10 +15277,17 @@
      "game": "One Piece",
      "available": true,
      "price": 1399.99
+    },
+    "pokemon-tcg-delta-reign-elite-trainer-box": {
+     "title": "Pokemon TCG: Delta Reign: Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 64.99,
+     "unavail_since": 1795023409
     }
    },
    "baselined": true,
-   "check_cursor": 58,
+   "check_cursor": 98,
    "error_streak": 0,
    "last_error": ""
   },
