@@ -1832,7 +1832,7 @@
      "title": "One Piece TCG: [OP-18] The Dominance of God - Display Box [English] (Pre-Order)",
      "game": "One Piece",
      "available": true,
-     "price": 214.99
+     "price": 201.99
     },
     "pokemon-tcg-scarlet-violet-10-5-unova-poster-collection": {
      "title": "Pokemon TCG: Scarlet & Violet 10.5: Unova Poster Collection",
@@ -4913,7 +4913,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 48,
    "error_streak": 0,
    "last_error": ""
   },
@@ -15263,10 +15263,16 @@
      "available": false,
      "price": 289.99,
      "unavail_since": 1794627423
+    },
+    "one-piece-tcg-english-version-2nd-anniversary-set": {
+     "title": "One Piece TCG: 2nd Anniversary Set (English)",
+     "game": "One Piece",
+     "available": true,
+     "price": 1399.99
     }
    },
    "baselined": true,
-   "check_cursor": 101,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
