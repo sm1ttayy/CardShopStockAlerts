@@ -1842,7 +1842,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -4914,7 +4914,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6925,10 +6925,9 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box-pre-order": {
      "title": "Riftbound League of Legends TCG: Radiance Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 126.0,
-     "last_restock_alert": 1792848241,
-     "unavail_since": 1793983802
+     "last_restock_alert": 1795025446
     },
     "one-piece-tcg-set-sail-deck-set-sd01": {
      "title": "One Piece TCG: Set Sail Deck Set (SD01)",
@@ -15287,7 +15286,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 98,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
