@@ -23560,9 +23560,9 @@
     "pokemon-unova-heavy-hitters-premium-collection-pre-order": {
      "title": "Pokemon - Unova Heavy Hitters Premium Collection (Pre Order)",
      "game": "Pokemon",
-     "available": false,
-     "price": 179.95,
-     "unavail_since": 1792704313
+     "available": true,
+     "price": 169.95,
+     "last_restock_alert": 1795045827
     },
     "pokemon-tcg-mega-set-7-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Set 7 Flowing Fists Elite trainer box  (Pre Order)",
@@ -23805,7 +23805,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 41,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30769,7 +30769,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
