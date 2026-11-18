@@ -18286,8 +18286,9 @@
     "151-pokemon-center-elite-trainer-box-exclusive": {
      "title": "151 Pokemon Center Elite Trainer Box (Exclusive)",
      "game": "Pokemon",
-     "available": true,
-     "price": 1049.95
+     "available": false,
+     "price": 1049.95,
+     "unavail_since": 1795041309
     },
     "pokemon": {
      "title": "Pok\u00e9mon Sword and Shield Charizard Ultra Premium Collection",
@@ -23786,7 +23787,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30751,7 +30752,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
