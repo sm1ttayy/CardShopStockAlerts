@@ -16744,6 +16744,12 @@
      "game": "MTG",
      "available": true,
      "price": 127.0
+    },
+    "one-piece-op-02-booster-pack-paramount-war-japanese-trading-card-game-op02": {
+     "title": "One Piece OP-02 Booster Pack Paramount War - Japanese Trading Card Game OP02",
+     "game": "One Piece",
+     "available": true,
+     "price": 10.99
     }
    },
    "baselined": true,
@@ -19982,9 +19988,9 @@
     "mtg-modern-horizons-3-commander-deck-graveyard-overdrive-pre-order": {
      "title": "MTG - Modern Horizons 3 - Commander Deck - Graveyard Overdrive",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 109.95,
-     "unavail_since": 1790628022
+     "last_restock_alert": 1794975360
     },
     "mtg-the-lord-of-the-rings-tales-of-middle-earth-commander-deck-the-hosts-of-mordor": {
      "title": "MTG - The Lord of the Rings: Tales of Middle-Earth - Commander Deck - The Hosts of Mordor",
@@ -23739,7 +23745,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30685,7 +30691,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
