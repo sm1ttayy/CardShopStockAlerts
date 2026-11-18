@@ -23772,7 +23772,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -24939,6 +24939,13 @@
      "game": "MTG",
      "available": true,
      "price": 79.99
+    },
+    "sword-shield-battle-styles-booster-box": {
+     "title": "Sword & Shield: Battle Styles - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 219.99,
+     "unavail_since": 1795035911
     }
    },
    "baselined": true,
@@ -30730,7 +30737,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
