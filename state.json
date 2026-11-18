@@ -2088,7 +2088,7 @@
      "title": "Pokemon - Mega Greninja ex Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 45.0
+     "price": 50.0
     },
     "salamence-ex-reshiram-ex": {
      "title": "Pokemon - Salamence ex & Reshiram ex Premium Collection",
@@ -4914,7 +4914,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9371,6 +9371,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 94.75
+    },
+    "pokemon-mega-evolution-delta-reign-booster-6-box-case": {
+     "title": "Pokemon Mega Evolution Delta Reign Booster 6-Box Case",
+     "game": "Pokemon",
+     "available": true,
+     "price": 1349.75
     }
    },
    "baselined": true,
@@ -10987,7 +10993,7 @@
      "title": "Pokemon 30th Celebration - Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 74.99,
+     "price": 69.99,
      "last_restock_alert": 1792440880
     },
     "prismatic-evolutions-pokemon-center-elite-trainer-box-exclusive-sv-prismatic-evolutions-pre": {
@@ -11154,7 +11160,7 @@
      "title": "Pokemon Mega Evolution - Delta Reign Booster Bundle (DLR)",
      "game": "Pokemon",
      "available": true,
-     "price": 49.99
+     "price": 44.99
     },
     "pokemon-tcg-pokemon-day-2026-collection": {
      "title": "Pokemon TCG - Pokemon Day 2026 Collection",
@@ -11174,6 +11180,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 129.99
+    },
+    "pokemon-scarlet-violet-black-bolt-booster-bundle": {
+     "title": "Pokemon Scarlet & Violet - Black Bolt Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 95.99
     }
    },
    "baselined": true,
@@ -13264,6 +13276,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 80.0
+    },
+    "one-piece-tcg-op18-dominance-of-god-booster-box": {
+     "title": "One Piece TCG: OP18 Dominance of God Booster Box",
+     "game": "One Piece",
+     "available": false,
+     "price": 145.0,
+     "unavail_since": 1795045001
     }
    },
    "baselined": true,
@@ -14607,10 +14626,9 @@
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.99,
-     "last_restock_alert": 1794848835,
-     "unavail_since": 1794906070
+     "last_restock_alert": 1795045004
     },
     "pokemon-tcg-team-rockets-mewtwo-ex-league-battle-deck": {
      "title": "Pok\u00e9mon TCG: Team Rocket's Mewtwo ex League Battle Deck",
@@ -15286,7 +15304,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
