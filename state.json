@@ -23852,7 +23852,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 6,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26416,6 +26416,12 @@
      "game": "MTG",
      "available": true,
      "price": 209.95
+    },
+    "mtg-lorwyn-eclipsed-commander": {
+     "title": "MTG LORWYN ECLIPSED COMMANDER",
+     "game": "MTG",
+     "available": true,
+     "price": 59.95
     }
    },
    "baselined": true,
@@ -28070,7 +28076,7 @@
      "title": "Obsidian Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 394.99,
+     "price": 374.75,
      "last_restock_alert": 1792852845
     },
     "final-fantasy-play-booster-box": {
@@ -28100,7 +28106,7 @@
      "title": "Ravnica Allegiance Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 164.99,
+     "price": 165.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1791120639
     },
@@ -28856,7 +28862,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 229.75,
+     "price": 235.99,
      "last_restock_alert": 1786657540,
      "unavail_since": 1791120628
     },
@@ -30870,7 +30876,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
