@@ -18478,10 +18478,9 @@
     "one-piece-the-dominance-of-god-booster-box": {
      "title": "One Piece The Dominance of God Booster Box",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 174.95,
-     "last_restock_alert": 1795124416,
-     "unavail_since": 1795125004
+     "last_restock_alert": 1795124416
     },
     "pokemon-me06-delta-reign-booster-box": {
      "title": "Pokemon ME06 Delta Reign Booster Box",
@@ -18585,7 +18584,7 @@
      "title": "One Piece The Dominance of God Double Pack Set Vol. 13",
      "game": "One Piece",
      "available": false,
-     "price": 34.95,
+     "price": 24.95,
      "unavail_since": 1795124419
     }
    },
@@ -24093,7 +24092,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31117,7 +31116,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 51,
    "error_streak": 0,
    "last_error": ""
   },
