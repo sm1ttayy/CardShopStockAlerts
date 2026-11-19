@@ -23735,10 +23735,9 @@
     "pokemon-30th-celebration-mew-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mew Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 109.95,
-     "last_restock_alert": 1794519311,
-     "unavail_since": 1794660911
+     "available": true,
+     "price": 99.95,
+     "last_restock_alert": 1795129814
     },
     "pokemon-30th-celebration-mewtwo-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mewtwo Collection",
@@ -24094,7 +24093,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 30,
+   "check_cursor": 25,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31118,7 +31117,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
