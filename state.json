@@ -18243,9 +18243,10 @@
     "one-piece-the-dominance-of-god-booster-box": {
      "title": "One Piece The Dominance of God Booster Box",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 174.95,
-     "last_restock_alert": 1795124416
+     "last_restock_alert": 1795124416,
+     "unavail_since": 1795125004
     },
     "pokemon-me06-delta-reign-booster-box": {
      "title": "Pokemon ME06 Delta Reign Booster Box",
@@ -23852,7 +23853,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29049,7 +29050,7 @@
      "title": "Guilds of Ravnica - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 167.99,
+     "price": 174.75,
      "last_restock_alert": 1786658452,
      "unavail_since": 1791120628
     },
@@ -30713,7 +30714,7 @@
      "title": "Radiance Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 31.75,
+     "price": 31.49,
      "unavail_since": 1794097573
     },
     "starter-deck-10-ultimate-deck-the-three-captains": {
@@ -30876,7 +30877,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
