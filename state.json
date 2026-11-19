@@ -20836,6 +20836,12 @@
      "available": false,
      "price": 149.95,
      "unavail_since": 1795124427
+    },
+    "riftbound-league-of-legends-the-reckoning-vault": {
+     "title": "Riftbound: League of Legends - The Reckoning Vault (Pre-Order)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 49.95
     }
    },
    "baselined": true,
@@ -23853,7 +23859,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 35,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30877,7 +30883,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 5,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
