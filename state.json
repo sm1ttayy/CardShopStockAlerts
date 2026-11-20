@@ -1830,10 +1830,10 @@
      "unavail_since": 1794366541
     },
     "one-piece-tcg-op-18-the-dominance-of-god-display-box-english": {
-     "title": "One Piece TCG: [OP-18] The Dominance of God - Display Box [English] (Pre-Order)",
+     "title": "One Piece TCG: [OP-18] The Dominance of God - Display Box [English]",
      "game": "One Piece",
      "available": false,
-     "price": 201.99,
+     "price": 189.99,
      "unavail_since": 1795125902
     },
     "pokemon-tcg-scarlet-violet-10-5-unova-poster-collection": {
@@ -1887,6 +1887,20 @@
      "available": false,
      "price": 386.17,
      "unavail_since": 1795125910
+    },
+    "one-piece-tcg-gift-collection-heroines": {
+     "title": "One Piece TCG: Gift Collection - Heroines [GC-2026]",
+     "game": "One Piece",
+     "available": false,
+     "price": 71.99,
+     "unavail_since": 1795206528
+    },
+    "one-piece-tcg-dp-13-the-dominance-of-god-double-pack-set-vol-13": {
+     "title": "One Piece TCG: (DP-13) The Dominance of God Double Pack Set Vol. 13 (Pre-Order)",
+     "game": "One Piece",
+     "available": false,
+     "price": 27.99,
+     "unavail_since": 1795206531
     }
    },
    "baselined": true,
@@ -3152,10 +3166,9 @@
     "scarlet-violet-paradox-rift-booster-box-display": {
      "title": "Scarlet & Violet: Paradox Rift - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 270.0,
-     "last_restock_alert": 1792935952,
-     "unavail_since": 1793031111
+     "last_restock_alert": 1795206532
     },
     "zendikar-rising-collector-booster-display": {
      "title": "Zendikar Rising Collector Booster Display",
@@ -4887,7 +4900,7 @@
      "price": 119.0
     },
     "one-piece-dominance-of-god-booster-box-op-18": {
-     "title": "[PREORDER] One Piece: The Dominance of God - Booster Box [OP-18]",
+     "title": "One Piece: The Dominance of God - Booster Box [OP-18]",
      "game": "One Piece",
      "available": true,
      "price": 189.0
@@ -4970,7 +4983,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6351,7 +6364,7 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 33.0
+     "price": 30.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
@@ -6990,7 +7003,7 @@
      "title": "One Piece TCG: Set Sail Deck Set (SD01)",
      "game": "One Piece",
      "available": true,
-     "price": 25.0
+     "price": 21.0
     },
     "pokemon-tcg-tera-team-premium-collection-box": {
      "title": "Pokemon TCG: Tera Team Premium Collection Box",
@@ -15553,7 +15566,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 87,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
