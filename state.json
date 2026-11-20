@@ -18587,6 +18587,12 @@
      "available": false,
      "price": 24.95,
      "unavail_since": 1795124419
+    },
+    "charizard-ex-special-collection": {
+     "title": "Pokemon Charizard ex Special Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 44.95
     }
    },
    "baselined": true,
@@ -24100,7 +24106,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31125,7 +31131,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
