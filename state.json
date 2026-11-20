@@ -18242,10 +18242,9 @@
     "modern-horizons-3-graveyard-overdrive-commander-deck": {
      "title": "Modern Horizons 3 Graveyard Overdrive Commander Deck",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 64.95,
-     "last_restock_alert": 1790713866,
-     "unavail_since": 1791123017
+     "last_restock_alert": 1795210531
     },
     "buy-mtg-chaos-incarnate-starter-commander-decks": {
      "title": "Chaos Incarnate Starter Commander Deck",
@@ -24142,7 +24141,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31167,7 +31166,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
