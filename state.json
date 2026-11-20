@@ -4970,7 +4970,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6351,7 +6351,7 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 30.0
+     "price": 33.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
@@ -6990,7 +6990,7 @@
      "title": "One Piece TCG: Set Sail Deck Set (SD01)",
      "game": "One Piece",
      "available": true,
-     "price": 21.0
+     "price": 25.0
     },
     "pokemon-tcg-tera-team-premium-collection-box": {
      "title": "Pokemon TCG: Tera Team Premium Collection Box",
@@ -7159,6 +7159,12 @@
      "game": "MTG",
      "available": true,
      "price": 126.0
+    },
+    "one-piece-tcg-double-pack-volume-13-set": {
+     "title": "One Piece TCG: Double Pack Volume 13 Set",
+     "game": "One Piece",
+     "available": true,
+     "price": 61.0
     }
    },
    "baselined": true,
@@ -15541,7 +15547,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
