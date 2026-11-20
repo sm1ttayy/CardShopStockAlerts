@@ -24093,12 +24093,13 @@
     "reprint-restock-league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
      "title": "(Reprint Restock) League of Legends Riftbound TCG: Origins Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": true,
-     "price": 189.95
+     "available": false,
+     "price": 189.95,
+     "unavail_since": 1795135510
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 16,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31123,7 +31124,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 25,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
