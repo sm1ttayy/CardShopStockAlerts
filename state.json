@@ -23460,10 +23460,9 @@
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Greninja Ex",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 64.95,
-     "last_restock_alert": 1794781810,
-     "unavail_since": 1794784210
+     "last_restock_alert": 1795197909
     },
     "mtg-reality-fracture-commander-deck-multiverse-reforged-pre-order": {
      "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged",
@@ -24132,7 +24131,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31158,7 +31157,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
