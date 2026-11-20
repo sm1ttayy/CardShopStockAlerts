@@ -24126,7 +24126,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31152,7 +31152,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
@@ -33225,8 +33225,9 @@
     "pokemon-tcg-mega-evolution-delta-reign-me06-booster-display-36ct": {
      "title": "Pokemon TCG Mega Evolution Delta Reign (ME06) Booster Display (36Ct)",
      "game": "Pokemon",
-     "available": true,
-     "price": 179.99
+     "available": false,
+     "price": 179.99,
+     "unavail_since": 1795193438
     },
     "pokemon-tcg-mega-evolution-delta-reign-me06-elite-trainer-box": {
      "title": "Pokemon TCG Mega Evolution Delta Reign (ME06) Elite Trainer Box",
@@ -33238,8 +33239,9 @@
     "pokemon-tcg-30th-celebration-elite-trainer-box-10ct": {
      "title": "Pokemon TCG 30Th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 99.99
+     "available": false,
+     "price": 99.99,
+     "unavail_since": 1795193438
     }
    },
    "baselined": true,
