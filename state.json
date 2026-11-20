@@ -24129,7 +24129,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -27451,10 +27451,9 @@
     "origins-booster-display": {
      "title": "Riftbound Origins Booster Display",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 270.49,
-     "last_restock_alert": 1789164650,
-     "unavail_since": 1789424137
+     "last_restock_alert": 1795206031
     },
     "prb-01-one-piece-card-the-best-booster-box-jp": {
      "title": "PRB-01 - One Piece Card the Best Booster Box (JP)",
@@ -31155,7 +31154,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 34,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
