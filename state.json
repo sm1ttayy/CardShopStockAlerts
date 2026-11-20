@@ -20632,7 +20632,7 @@
      "title": "MTG - Universes Beyond: Teenage Mutant Ninja Turtles - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 229.95
+     "price": 169.95
     },
     "pokemon-mega-evolution-base-set-booster-bundle": {
      "title": "Pokemon - Mega Evolution - Base Set - Booster Bundle",
@@ -20740,7 +20740,7 @@
      "title": "MTG - Universes Beyond: Star Trek - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 199.95
+     "price": 169.95
     },
     "union-arena-puela-magi-madoka-magica-booster-box": {
      "title": "Union Arena - Puela Magi Madoka Magica Booster Box (Pre-Order)",
@@ -23771,10 +23771,9 @@
     "pokemon-30th-celebration-mewtwo-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mewtwo Collection",
      "game": "Pokemon",
-     "available": false,
-     "price": 109.95,
-     "last_restock_alert": 1794431111,
-     "unavail_since": 1794772809
+     "available": true,
+     "price": 99.95,
+     "last_restock_alert": 1795204284
     },
     "mtg-commander-masters-english-set-booster-box-pre-order-1": {
      "title": "MTG - Commander Masters - English Set Booster Box",
@@ -24129,7 +24128,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31155,7 +31154,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
