@@ -21424,7 +21424,7 @@
      "title": "Pokemon TCG Scarlet And Violet Obsidian Flame Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 184.99
+     "price": 139.95
     },
     "league-of-legends-riftbound-tcg-unleashed-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Unleashed Booster Box",
@@ -24126,7 +24126,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 17,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31152,7 +31152,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -33239,9 +33239,9 @@
     "pokemon-tcg-30th-celebration-elite-trainer-box-10ct": {
      "title": "Pokemon TCG 30Th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 99.99,
-     "unavail_since": 1795193438
+     "last_restock_alert": 1795196433
     }
    },
    "baselined": true,
