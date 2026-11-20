@@ -24141,7 +24141,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26715,8 +26715,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -31166,7 +31166,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
