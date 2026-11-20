@@ -18492,7 +18492,7 @@
      "title": "One Piece The Dominance of God Booster Box",
      "game": "One Piece",
      "available": true,
-     "price": 214.95,
+     "price": 209.95,
      "last_restock_alert": 1795200604
     },
     "pokemon-me06-delta-reign-booster-box": {
@@ -23458,9 +23458,10 @@
     "30th-celebration-pokemon-ex-box-greninja-ex-pre-order": {
      "title": "30th Celebration Pokemon ex Box - Greninja Ex",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 64.95,
-     "last_restock_alert": 1795197909
+     "last_restock_alert": 1795197909,
+     "unavail_since": 1795205111
     },
     "mtg-reality-fracture-commander-deck-multiverse-reforged-pre-order": {
      "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged",
@@ -24128,7 +24129,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31154,7 +31155,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
