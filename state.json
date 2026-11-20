@@ -4890,7 +4890,7 @@
      "title": "[PREORDER] One Piece: The Dominance of God - Booster Box [OP-18]",
      "game": "One Piece",
      "available": true,
-     "price": 229.0
+     "price": 189.0
     },
     "preorder-mega-evolution-delta-reign-3-pack-blister-seel": {
      "title": "[PREORDER] Mega Evolution: Delta Reign 3-Pack Blister [Seel]",
@@ -4970,7 +4970,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6431,7 +6431,7 @@
      "title": "One Piece TCG: Yellow Eustass Captain Kid Starter Deck EX (ST-36)",
      "game": "One Piece",
      "available": true,
-     "price": 18.0
+     "price": 16.0
     },
     "riftbound-tcg-league-of-legends-unleashed-champion-deck-vex-pre-order": {
      "title": "Riftbound TCG: League of Legends Unleashed Champion Deck (Vex)",
@@ -7026,7 +7026,7 @@
      "title": "One Piece TCG: Mini Case Volume 3 (Hancock) (Pink)",
      "game": "One Piece",
      "available": true,
-     "price": 27.0
+     "price": 30.0
     },
     "one-piece-tcg-mini-case-volume-3-monkey-d-luffy-red": {
      "title": "One Piece TCG: Mini Case Volume 3 (Monkey.D.Luffy) (Red)",
@@ -8852,10 +8852,9 @@
     "pokemon-mega-evolution-pitch-black-booster-box": {
      "title": "Pokemon Mega Evolution Pitch Black Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 174.75,
-     "last_restock_alert": 1793413884,
-     "unavail_since": 1795112568
+     "last_restock_alert": 1795145211
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
      "title": "Pokemon Mega Evolution Pitch Black Elite Trainer Box",
@@ -15542,7 +15541,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 92,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
