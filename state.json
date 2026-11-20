@@ -22557,9 +22557,10 @@
     "mtg-star-trek-bundle-pre-order": {
      "title": "MTG Star Trek Bundle",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 69.95,
-     "last_restock_alert": 1795041016
+     "last_restock_alert": 1795041016,
+     "unavail_since": 1795142114
     },
     "mtg-marvel-super-heroes-commander-deck-bundle-pre-order": {
      "title": "MTG - Marvel Super Heroes Commander Deck Bundle",
@@ -24107,7 +24108,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31132,7 +31133,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 9,
    "error_streak": 0,
    "last_error": ""
   },
