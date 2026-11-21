@@ -20006,8 +20006,9 @@
     "mtg-tarkir-dragonstorm-commander-decks-set-of-5": {
      "title": "MTG - Tarkir: Dragonstorm - Commander Decks - Set of 5",
      "game": "MTG",
-     "available": true,
-     "price": 369.95
+     "available": false,
+     "price": 399.95,
+     "unavail_since": 1795296913
     },
     "mtg-bloomburrow-commander-deck-set-of-4-pre-order": {
      "title": "MTG - Bloomburrow - Commander Decks - Set of 4",
@@ -24180,7 +24181,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31213,7 +31214,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
