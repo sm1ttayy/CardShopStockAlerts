@@ -18308,10 +18308,9 @@
     "modern-horizons-3-creative-energy-commander-deck": {
      "title": "Modern Horizons 3 Creative Energy Commander Deck",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 49.95,
-     "last_restock_alert": 1790713873,
-     "unavail_since": 1793926835
+     "last_restock_alert": 1795236628
     },
     "reality-fracture-bundle-preorder": {
      "title": "Reality Fracture Bundle",
@@ -24149,7 +24148,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31174,7 +31173,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
