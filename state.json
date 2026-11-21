@@ -24148,7 +24148,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26729,8 +26729,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 0,
-   "last_error": ""
+   "error_streak": 1,
+   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://pokerand.net": {
    "products": {
@@ -28024,7 +28024,7 @@
      "title": "Phantasmal Flames Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 369.49,
+     "price": 369.75,
      "last_restock_alert": 1787505026
     },
     "korean-blue-sky-stream-booster-box": {
@@ -28946,7 +28946,7 @@
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 38.75,
+     "price": 39.99,
      "last_restock_alert": 1789084248
     },
     "riftbound-worlds-bundle-2025": {
@@ -29111,7 +29111,7 @@
      "title": "Phantasmal Flames Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 238.75,
+     "price": 241.99,
      "last_restock_alert": 1792852854
     },
     "pokemon-day-2026-collection": {
@@ -29495,7 +29495,7 @@
      "title": "Pitch Black Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 106.49,
+     "price": 108.99,
      "last_restock_alert": 1789592445
     },
     "vendetta-booster-display": {
@@ -30885,7 +30885,7 @@
      "title": "Delta Reign Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 194.49,
+     "price": 194.75,
      "last_restock_alert": 1793915554
     },
     "streets-of-new-capenna-commander-deck-maestros-massacre": {
@@ -31180,7 +31180,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 53,
    "error_streak": 0,
    "last_error": ""
   },
