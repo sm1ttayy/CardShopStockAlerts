@@ -1896,7 +1896,7 @@
      "unavail_since": 1795206528
     },
     "one-piece-tcg-dp-13-the-dominance-of-god-double-pack-set-vol-13": {
-     "title": "One Piece TCG: (DP-13) The Dominance of God Double Pack Set Vol. 13 (Pre-Order)",
+     "title": "One Piece TCG: (DP-13) The Dominance of God Double Pack Set Vol. 13",
      "game": "One Piece",
      "available": false,
      "price": 27.99,
@@ -4696,10 +4696,9 @@
     "30th-celebration-poster-collection": {
      "title": "Pok\u00e9mon: 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 30.0,
-     "last_restock_alert": 1789688637,
-     "unavail_since": 1794189905
+     "last_restock_alert": 1795251017
     },
     "one-piece-tcg-illustration-box-vol-7-ib-07": {
      "title": "One Piece: Illustration Box Vol.7 [IB-07]",
@@ -4922,7 +4921,7 @@
      "title": "Mega Evolution: Delta Reign - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 89.0
+     "price": 80.0
     },
     "pokemon-30th-celebration-booster-bundle": {
      "title": "Pok\u00e9mon: 30th Celebration - Booster Bundle",
@@ -4983,7 +4982,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -5134,9 +5133,8 @@
     "pokemon-scarlet-amp-violet-151-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Scarlet and Violet - 151 Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 600.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 525.0
     },
     "pokemon-tcg-mega-evolution-perfect-order-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG: Mega Evolution - Perfect Order Elite Trainer Box",
@@ -6541,10 +6539,10 @@
      "last_restock_alert": 1788909954
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box": {
-     "title": "Pokemon Scarlet and Violet: Journey Together Booster Box",
+     "title": "Pokemon Scarlet and Violet: Journey Together Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 275.0
+     "price": 215.0
     },
     "pkm_incandarcana_jpn_booster": {
      "title": "Pokemon TCG: Sword and Shield - Incandescent Arcana Booster Box (Japanese)",
@@ -6641,7 +6639,7 @@
      "title": "Pokemon Scarlet and Violet: Prismatic Evolutions Pokemon Center Elite Trainer Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 350.0
+     "price": 325.0
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
      "title": "Pokemon TCG: 30th Celebration Elite Trainer Box (SALE)",
@@ -6859,7 +6857,7 @@
      "title": "Pokemon TCG: 30th Celebration Booster Bundle Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 60.0
+     "price": 55.0
     },
     "pokemon-trading-card-game-pikachu-amp-zekrom-gx-premium-collection": {
      "title": "Pokemon TCG: Pikachu and Zekrom GX Premium Collection",
@@ -7093,7 +7091,7 @@
      "title": "Pokemon TCG: Mega Evolution - Delta Reign Elite Trainer Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 85.0
+     "price": 75.0
     },
     "pokemon-tcg-30th-celebration-ditto-premium-collection-box-sale": {
      "title": "Pokemon TCG: 30th Celebration Ditto Premium Collection Box (SALE)",
@@ -7701,9 +7699,9 @@
     "one-piece-ex-luffy-ace-starter-deck-30": {
      "title": "One Piece Ex Luffy & Ace Starter Deck 30",
      "game": "One Piece",
-     "available": false,
-     "price": 19.75,
-     "unavail_since": 1784083331
+     "available": true,
+     "price": 44.75,
+     "last_restock_alert": 1795251014
     },
     "one-piece-tcg-3d2y-starter-deck-14": {
      "title": "One Piece TCG: 3D2Y Starter Deck 14",
@@ -9089,8 +9087,9 @@
     "pokemon-sv-151-ultra-premium-collection-box": {
      "title": "Pok\u00e9mon Scarlet & Violet 151 Ultra Premium Collection Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 949.75
+     "available": false,
+     "price": 949.75,
+     "unavail_since": 1795251017
     },
     "pokemon-scarlet-violet-twilight-masquerade-elite-trainer-box": {
      "title": "Pokemon Scarlet & Violet Twilight Masquerade Elite Trainer Box",
@@ -9536,6 +9535,54 @@
      "game": "One Piece",
      "available": true,
      "price": 164.75
+    },
+    "one-piece-marshall-d-teach-starter-deck-27": {
+     "title": "One Piece Marshall D. Teach Starter Deck 27",
+     "game": "One Piece",
+     "available": true,
+     "price": 39.75
+    },
+    "one-piece-buggy-starter-deck-25": {
+     "title": "One Piece Buggy Starter Deck 25",
+     "game": "One Piece",
+     "available": true,
+     "price": 59.75
+    },
+    "one-piece-egghead-starter-deck-28": {
+     "title": "One Piece Yamato Starter Deck 28",
+     "game": "One Piece",
+     "available": true,
+     "price": 49.75
+    },
+    "one-piece-shanks-starter-deck-23": {
+     "title": "One Piece Shanks Starter Deck 23",
+     "game": "One Piece",
+     "available": true,
+     "price": 59.75
+    },
+    "one-piece-egghead-starter-deck-29": {
+     "title": "One Piece Egghead Starter Deck 29",
+     "game": "One Piece",
+     "available": true,
+     "price": 39.75
+    },
+    "pok-mon-go-elite-trainer-box": {
+     "title": "Pokemon Go Elite Trainer Box",
+     "game": "Pokemon",
+     "available": true,
+     "price": 179.75
+    },
+    "pok-mon-sword-shield-silver-tempest-booster-bundle": {
+     "title": "Pok\u00e9mon Sword & Shield Silver Tempest Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 119.75
+    },
+    "pokemon-sword-shield-lost-origin-6-pack-booster-bundle": {
+     "title": "Pokemon Sword & Shield: Lost Origin 6-Pack Booster Bundle",
+     "game": "Pokemon",
+     "available": true,
+     "price": 197.75
     }
    },
    "baselined": true,
@@ -13660,7 +13707,7 @@
      "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 79.99,
+     "price": 64.99,
      "unavail_since": 1784855601
     },
     "pokemon-tcg-destined-rivals-booster-bundle": {
@@ -15569,10 +15616,16 @@
      "game": "MTG",
      "available": true,
      "price": 44.99
+    },
+    "pokemon-tcg-prismatic-evolutions-accessory-pouch-special-collection": {
+     "title": "Pok\u00e9mon TCG: Prismatic Evolutions: Accessory Pouch Special Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 64.99
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 84,
    "error_streak": 0,
    "last_error": ""
   },
