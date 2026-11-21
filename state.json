@@ -18608,8 +18608,9 @@
     "one-piece-heroines-gift-collection": {
      "title": "One Piece Heroines Gift Collection",
      "game": "One Piece",
-     "available": true,
-     "price": 79.95
+     "available": false,
+     "price": 79.95,
+     "unavail_since": 1795236011
     },
     "one-piece-the-dominance-of-god-double-pack-set-vol-13": {
      "title": "One Piece The Dominance of God Double Pack Set Vol. 13",
@@ -23783,9 +23784,10 @@
     "pokemon-30th-celebration-mew-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mew Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1795129814
+     "last_restock_alert": 1795129814,
+     "unavail_since": 1795236014
     },
     "pokemon-30th-celebration-mewtwo-collection-pre-order": {
      "title": "Pokemon 30th Celebration Mewtwo Collection",
@@ -24147,7 +24149,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31172,7 +31174,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -33239,7 +33241,7 @@
      "title": "The OP Usaopoly Monopoly One Piece 2nd Edition Board Game Official Licensed Manga & Anime USA-MN113-916",
      "game": "One Piece",
      "available": true,
-     "price": 32.99
+     "price": 29.99
     },
     "pokemon-tcg-mega-evolution-delta-reign-me06-booster-display-36ct": {
      "title": "Pokemon TCG Mega Evolution Delta Reign (ME06) Booster Display (36Ct)",
