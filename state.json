@@ -1904,7 +1904,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 15,
    "error_streak": 0,
    "last_error": ""
   },
@@ -2326,10 +2326,9 @@
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 99.0,
-     "last_restock_alert": 1792935949,
-     "unavail_since": 1793983800
+     "last_restock_alert": 1795279867
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Collector Booster Box",
@@ -4419,7 +4418,7 @@
      "title": "Magic: The Gathering - Reality Fracture Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 110.0,
+     "price": 109.0,
      "last_restock_alert": 1790347143
     },
     "tin-pack-set-vol-1-gol-d-roger-ts01": {
@@ -4818,10 +4817,9 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box": {
      "title": "Riftbound: League of Legends TCG - Radiance Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 95.0,
-     "last_restock_alert": 1793413887,
-     "unavail_since": 1794066290
+     "last_restock_alert": 1795279866
     },
     "riftbound-league-of-legends-tcg-radiance-showdown-deck-evelynn-vs-seraphine": {
      "title": "Riftbound: League of Legends TCG - Radiance Showdown Deck [Evelynn vs Seraphine]",
@@ -4983,7 +4981,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6541,10 +6539,10 @@
      "last_restock_alert": 1788909954
     },
     "pokemon-scarlet-and-violet-journey-together-booster-box": {
-     "title": "Pokemon Scarlet and Violet: Journey Together Booster Box",
+     "title": "Pokemon Scarlet and Violet: Journey Together Booster Box (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 275.0
+     "price": 215.0
     },
     "pkm_incandarcana_jpn_booster": {
      "title": "Pokemon TCG: Sword and Shield - Incandescent Arcana Booster Box (Japanese)",
@@ -15602,7 +15600,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 124,
    "error_streak": 0,
    "last_error": ""
   },
