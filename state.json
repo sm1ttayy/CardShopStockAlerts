@@ -24148,7 +24148,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -26729,8 +26729,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -29050,7 +29050,7 @@
      "title": "151 Alakazam ex Collection Box",
      "game": "Pokemon",
      "available": true,
-     "price": 110.75
+     "price": 112.99
     },
     "edge-of-eternities-commander-deck-world-shaper": {
      "title": "Edge of Eternities World Shaper Commander Deck",
@@ -29124,7 +29124,7 @@
      "title": "Destined Rivals Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 359.75,
+     "price": 359.99,
      "last_restock_alert": 1792853161,
      "unavail_since": 1795191930
     },
@@ -31180,7 +31180,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
