@@ -20980,8 +20980,9 @@
     "mtg-tarkir-dragonstorm-commander-decks-temur-roar": {
      "title": "MTG - Tarkir: Dragonstorm - Commander Deck - Temur Roar",
      "game": "MTG",
-     "available": true,
-     "price": 99.95
+     "available": false,
+     "price": 99.95,
+     "unavail_since": 1795292112
     },
     "pokemon-30th-celebration-ditto-premium-collection": {
      "title": "Pokemon - 30th Celebration - Ditto Premium Collection",
@@ -24179,7 +24180,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31212,7 +31213,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
