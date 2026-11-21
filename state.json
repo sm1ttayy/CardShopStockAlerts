@@ -23669,9 +23669,10 @@
     "riftbound-league-of-legends-radiance-vault-pre-order": {
      "title": "Riftbound: League of Legends - Radiance Vault",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 39.99,
-     "last_restock_alert": 1793150418
+     "last_restock_alert": 1793150418,
+     "unavail_since": 1795300510
     },
     "pokemon-scarlet-and-violet-temporal-forces-build-and-battle-kit-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Temporal Forces - Build and Battle Kit",
@@ -24181,7 +24182,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31214,7 +31215,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
