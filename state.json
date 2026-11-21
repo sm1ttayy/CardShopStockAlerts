@@ -18636,9 +18636,9 @@
     "one-piece-heroines-gift-collection": {
      "title": "One Piece Heroines Gift Collection",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 79.95,
-     "unavail_since": 1795236011
+     "last_restock_alert": 1795281004
     },
     "one-piece-the-dominance-of-god-double-pack-set-vol-13": {
      "title": "One Piece The Dominance of God Double Pack Set Vol. 13",
@@ -18707,8 +18707,9 @@
     "one-piece-card-game-set-16-booster-box": {
      "title": "One Piece Card Game - The Time of Battle Booster Box",
      "game": "One Piece",
-     "available": true,
-     "price": 289.95
+     "available": false,
+     "price": 289.95,
+     "unavail_since": 1795281004
     },
     "one-piece-card-game-eb03-heroines-edition-extra-booster-chinese-booster-box": {
      "title": "One Piece Card Game - EB03 - Heroines Edition - Extra Booster - Chinese Booster Box",
@@ -24177,7 +24178,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 34,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31209,7 +31210,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
