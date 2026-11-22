@@ -16113,11 +16113,10 @@
     "pokemon-tcg-30th-celebration-booster-bundle-moonshot-rips": {
      "title": "Pokemon TCG: 30th Celebration Booster Bundle (6 Packs) - Moonshot Rips (OPENED LIVE ON STREAM)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 70.0,
      "last_restock_alert": 1793577609,
-     "delisted": true,
-     "unavail_since": 1794520512
+     "delisted": true
     },
     "pokemon-30th-1-pack-energy-break-1": {
      "title": "Pokemon 30th: 1 pack Energy Break #1",
@@ -24271,7 +24270,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31341,7 +31340,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 48,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
