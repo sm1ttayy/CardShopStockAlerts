@@ -24268,7 +24268,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31319,7 +31319,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
@@ -32383,9 +32383,10 @@
     "pokemon-tcg-30th-celebration-elite-trainer-box-anniversary-etb": {
      "title": "Pokemon TCG 30th Celebration Elite Trainer Box Anniversary (ETB) (Wave 2 Late November)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.95,
-     "last_restock_alert": 1794603639
+     "last_restock_alert": 1794603639,
+     "unavail_since": 1795374026
     },
     "funko-pop-one-piece-smoker-glow-chase-exclusive-1914": {
      "title": "Funko Pop! One Piece Smoker Glow Chase Exclusive #1914",
