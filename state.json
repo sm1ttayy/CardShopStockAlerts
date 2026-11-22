@@ -24210,9 +24210,9 @@
     "pokemon-tcg-mega-set-6-delta-reign-booster-bundle-pre-order": {
      "title": "Pokemon TCG Mega Set 6 Delta Reign Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 49.95,
-     "unavail_since": 1794603611
+     "available": true,
+     "price": 44.95,
+     "last_restock_alert": 1795377048
     },
     "pokemon-tcg-charizard-ex-special-collection": {
      "title": "Pokemon TCG: Charizard ex Special Collection",
@@ -24268,7 +24268,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 17,
    "error_streak": 0,
    "last_error": ""
   },
@@ -29072,7 +29072,7 @@
      "title": "Pitch Black Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 39.99,
+     "price": 40.75,
      "last_restock_alert": 1789084248
     },
     "riftbound-worlds-bundle-2025": {
@@ -30810,7 +30810,7 @@
      "title": "Crown Zenith Pokemon Center Elite Trainer Box Plus",
      "game": "Pokemon",
      "available": true,
-     "price": 599.75
+     "price": 539.75
     },
     "magic-the-gathering-science-commander-deck": {
      "title": "Science! Commander Deck",
@@ -31320,7 +31320,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
