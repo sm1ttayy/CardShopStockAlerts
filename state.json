@@ -19354,8 +19354,9 @@
     "mtg-starter-commander-deck-set-of-5-decks": {
      "title": "MTG - Starter Commander Deck - Set of 5 Decks",
      "game": "MTG",
-     "available": true,
-     "price": 204.95
+     "available": false,
+     "price": 204.95,
+     "unavail_since": 1795321213
     },
     "mtg-secrets-of-strixhaven-commander-deck-witherbloom-pestilence": {
      "title": "MTG - Secrets of Strixhaven - Commander Deck - Witherbloom Pestilence",
@@ -24266,7 +24267,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31311,7 +31312,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 55,
    "error_streak": 0,
    "last_error": ""
   },
