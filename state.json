@@ -21075,8 +21075,9 @@
     "pokemon-30th-celebration-ditto-premium-collection": {
      "title": "Pokemon - 30th Celebration - Ditto Premium Collection",
      "game": "Pokemon",
-     "available": true,
-     "price": 109.95
+     "available": false,
+     "price": 109.95,
+     "unavail_since": 1795386908
     },
     "pokemon-30th-celebration-ultra-premium-collection-night": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Night",
@@ -24269,7 +24270,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31339,7 +31340,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
