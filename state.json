@@ -18296,9 +18296,10 @@
     "lord-of-the-rings-the-hosts-of-mordor-commander-deck": {
      "title": "Lord of the Rings The Hosts of Mordor Commander Deck",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 127.95,
-     "last_restock_alert": 1791924028
+     "last_restock_alert": 1791924028,
+     "unavail_since": 1795391412
     },
     "ascended-heroes-mini-tin-display-broken-seal": {
      "title": "Pokemon ME2.5 Ascended Heroes Mini Tin Display",
@@ -24270,7 +24271,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 33,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31340,7 +31341,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 56,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
