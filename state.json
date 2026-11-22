@@ -1905,9 +1905,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 11,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-marvel-super-heroes-gift-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4983,9 +4983,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 11,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'unfinity-draft-booster-box-display' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -7200,7 +7200,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'one-piece-tcg-double-pack-volume-12-set' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -9607,7 +9607,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "The Awesome Card Shop: product 'magic-the-gathering-reality-fracture-play-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11453,7 +11453,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'the-lord-of-the-rings-tales-of-middle-earth-set-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -12780,7 +12780,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -13586,7 +13586,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -13965,7 +13965,8 @@
      "game": "MTG",
      "available": false,
      "price": 59.99,
-     "unavail_since": 1792610444
+     "unavail_since": 1792610444,
+     "delisted": true
     },
     "magic-the-gathering-commander-legends-battle-for-baldurs-gate-commander-decks": {
      "title": "Magic the Gathering: Commander Legends: Battle for Baldur's Gate Commander Decks",
@@ -15683,9 +15684,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'one-piece-tcg-heroines-gift-collection' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
