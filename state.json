@@ -24278,7 +24278,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30598,7 +30598,7 @@
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
      "available": true,
-     "price": 59.99,
+     "price": 66.99,
      "last_restock_alert": 1792699858
     },
     "the-hobbit-gift-bundle": {
@@ -31350,7 +31350,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
@@ -33438,9 +33438,10 @@
     "pokemon-tcg-30th-celebration-elite-trainer-box-10ct": {
      "title": "Pokemon TCG 30Th Celebration Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.99,
-     "last_restock_alert": 1795196433
+     "last_restock_alert": 1795196433,
+     "unavail_since": 1795468838
     }
    },
    "baselined": true,
