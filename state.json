@@ -24270,7 +24270,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 27,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30152,9 +30152,10 @@
     "the-azure-seas-seven-booster-box-op14": {
      "title": "The Azure Sea's Seven Booster Box [OP14]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 224.75,
-     "last_restock_alert": 1792699845
+     "last_restock_alert": 1792699845,
+     "unavail_since": 1795396822
     },
     "amonkhet-booster-box": {
      "title": "Amonkhet - Booster Box",
@@ -31340,7 +31341,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
