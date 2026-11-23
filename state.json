@@ -22892,9 +22892,10 @@
     "reprint-pokemon-scarlet-and-violet-destined-rivals-elite-trainer-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Destined Rivals Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 139.95,
-     "last_restock_alert": 1795467013
+     "last_restock_alert": 1795467013,
+     "unavail_since": 1795467608
     },
     "reprint-pokemon-scarlet-and-violet-journey-together-non-enhanced-booster-box-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Journey Together non enhanced Booster Box",
@@ -24277,7 +24278,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31349,7 +31350,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
