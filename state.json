@@ -22678,10 +22678,9 @@
     "app-exclusive-pokemon-tcg-mega-evolution-set-4-chaos-rising-elite-trainer-box-pre-order": {
      "title": "Pokemon TCG Mega Evolution Set 4 - Chaos Rising Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 99.95,
-     "last_restock_alert": 1792159512,
-     "unavail_since": 1793233809
+     "available": true,
+     "price": 89.95,
+     "last_restock_alert": 1795469212
     },
     "pokemon-tcg-mega-evolution-set-3-elite-trainer-early-access-pre-order-max-2": {
      "title": "Pokemon TCG Mega Evolution Set 3 - Perfect Order Elite Trainer Box",
@@ -23299,10 +23298,9 @@
     "pokemon-30th-celebration-tech-sticker-collection-lucariopre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 49.95,
-     "last_restock_alert": 1789769423,
-     "unavail_since": 1795284308
+     "last_restock_alert": 1795469157
     },
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor-pre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor",
@@ -24278,7 +24276,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 8,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31350,7 +31348,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
