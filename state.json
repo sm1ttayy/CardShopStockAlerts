@@ -24276,7 +24276,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
@@ -30595,9 +30595,10 @@
     "30th-celebration-booster-bundle": {
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 66.99,
-     "last_restock_alert": 1792699858
+     "last_restock_alert": 1792699858,
+     "unavail_since": 1795469753
     },
     "the-hobbit-gift-bundle": {
      "title": "The Hobbit Gift Bundle",
@@ -31348,7 +31349,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 21,
    "error_streak": 0,
    "last_error": ""
   },
