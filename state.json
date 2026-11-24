@@ -24168,9 +24168,9 @@
     "pokemon-30th-celebration-starter-card-set-grookey-scorbunny-and-sobble-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set -    Grookey, Scorbunny and Sobble (Japanese)",
      "game": "Pokemon",
-     "available": false,
-     "price": 24.95,
-     "unavail_since": 1794605114
+     "available": true,
+     "price": 21.95,
+     "last_restock_alert": 1795554378
     },
     "pokemon-30th-celebration-starter-card-set-snivy-tepig-and-oshawott-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set - Snivy, Tepig and Oshawott (Japanese)",
@@ -28625,7 +28625,7 @@
      "title": "Ravnica Allegiance Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 168.75,
+     "price": 164.75,
      "last_restock_alert": 1786657830,
      "unavail_since": 1791120639
     },
@@ -30401,7 +30401,7 @@
      "title": "Journey Into Nyx - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 284.99,
+     "price": 284.75,
      "unavail_since": 1793839246
     },
     "uta-collection": {
@@ -31417,7 +31417,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 1,
+   "check_cursor": 41,
    "error_streak": 0,
    "last_error": ""
   },
