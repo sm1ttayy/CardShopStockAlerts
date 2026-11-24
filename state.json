@@ -1907,7 +1907,7 @@
    "baselined": true,
    "check_cursor": 11,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-ravnica-remastered-draft-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4980,9 +4980,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 13,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: product 'emperors-in-the-new-world-booster-box-op09' failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -6990,10 +6990,9 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box-pre-order": {
      "title": "Riftbound League of Legends TCG: Radiance Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 126.0,
-     "last_restock_alert": 1795025446,
-     "unavail_since": 1795112568
+     "last_restock_alert": 1795551262
     },
     "one-piece-tcg-set-sail-deck-set-sd01": {
      "title": "One Piece TCG: Set Sail Deck Set (SD01)",
@@ -7203,7 +7202,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Skybox CT: product 'one-piece-tcg-double-pack-volume-12-set' failed: HTTP Error 429: Too Many Requests"
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -11457,7 +11456,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: product 'the-lord-of-the-rings-tales-of-middle-earth-set-booster-box' failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -12814,7 +12813,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -13620,7 +13619,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -15718,9 +15717,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: product 'riftbound-tcg-worlds-2025-bundle' failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
