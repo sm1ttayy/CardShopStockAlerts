@@ -749,7 +749,7 @@
      "title": "One Piece TCG: Double Pack Set Volume 12 (DP-12)",
      "game": "One Piece",
      "available": false,
-     "price": 40.86,
+     "price": 41.16,
      "unavail_since": 1784083332
     },
     "pokemon-tcg-mega-evolution-5-pitch-black-booster-bundle": {
@@ -1223,7 +1223,7 @@
      "title": "One Piece TCG: Starter Deck Blue - Kuzan (ST-33)",
      "game": "One Piece",
      "available": false,
-     "price": 16.99,
+     "price": 16.64,
      "last_restock_alert": 1788529025,
      "unavail_since": 1790648086
     },
@@ -1239,7 +1239,7 @@
      "title": "One Piece TCG: Starter Deck Yellow - Eustass Captain Kid (ST-36)",
      "game": "One Piece",
      "available": false,
-     "price": 14.03,
+     "price": 13.62,
      "last_restock_alert": 1788529031,
      "unavail_since": 1790648086
     },
@@ -1521,7 +1521,7 @@
      "title": "One Piece TCG: [SD01] Set Sail Deck Set",
      "game": "One Piece",
      "available": false,
-     "price": 16.22,
+     "price": 18.25,
      "last_restock_alert": 1790634610,
      "unavail_since": 1790758603
     },
@@ -1834,7 +1834,7 @@
      "title": "One Piece TCG: [OP-18] The Dominance of God - Display Box [English]",
      "game": "One Piece",
      "available": false,
-     "price": 189.99,
+     "price": 177.71,
      "unavail_since": 1795125902
     },
     "pokemon-tcg-scarlet-violet-10-5-unova-poster-collection": {
@@ -1893,7 +1893,7 @@
      "title": "One Piece TCG: Gift Collection - Heroines [GC-2026]",
      "game": "One Piece",
      "available": false,
-     "price": 71.99,
+     "price": 75.77,
      "unavail_since": 1795206528
     },
     "one-piece-tcg-dp-13-the-dominance-of-god-double-pack-set-vol-13": {
@@ -1907,7 +1907,7 @@
    "baselined": true,
    "check_cursor": 11,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-ravnica-remastered-draft-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -1929,10 +1929,9 @@
     "one-piece-the-azure-seas-seven-booster-box-op-14": {
      "title": "One Piece The Azure Sea's Seven Booster Box [OP-14]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 235.0,
-     "last_restock_alert": 1788391878,
-     "unavail_since": 1793473995
+     "last_restock_alert": 1795481134
     },
     "one-piece-extra-booster-heroines-edition-box-eb-03": {
      "title": "One Piece Extra Booster: Heroines Edition Box [EB-03]",
@@ -2368,10 +2367,9 @@
     "one-piece-carrying-on-his-will-booster-box-op-13": {
      "title": "One Piece Carrying On His Will Booster Box [OP-13]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 395.0,
-     "last_restock_alert": 1790040808,
-     "unavail_since": 1795368330
+     "last_restock_alert": 1795481134
     },
     "magic-the-gathering-universes-beyond-avatar-the-last-airbender-play-booster-box": {
      "title": "Magic: The Gathering - Universes Beyond - Avatar: The Last Airbender Play Booster Box",
@@ -4984,9 +4982,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 23,
+   "check_cursor": 22,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'magic-the-gathering-secrets-of-strixhaven-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -7196,12 +7194,18 @@
      "game": "MTG",
      "available": true,
      "price": 40.0
+    },
+    "one-piece-tcg-gift-collection-heroines": {
+     "title": "One Piece TCG: Gift Collection Heroines",
+     "game": "One Piece",
+     "available": true,
+     "price": 105.0
     }
    },
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'one-piece-tcg-double-pack-volume-12-set' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -9608,7 +9612,7 @@
    "baselined": true,
    "check_cursor": 3,
    "error_streak": 0,
-   "last_error": "The Awesome Card Shop: product 'magic-the-gathering-reality-fracture-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://cashcardsunlimited.com": {
    "products": {
@@ -11447,14 +11451,15 @@
     "scarlet-violet-dark-powers-ex-special-collection-pokemon-tcg": {
      "title": "Scarlet & Violet - Dark Powers ex Special Collection - Pokemon TCG",
      "game": "Pokemon",
-     "available": true,
-     "price": 129.99
+     "available": false,
+     "price": 129.99,
+     "unavail_since": 1795481138
     }
    },
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'the-lord-of-the-rings-tales-of-middle-earth-set-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -11550,7 +11555,7 @@
      "title": "Ascended Heroes Elite Trainer Box [Pokemon]",
      "game": "Pokemon",
      "available": true,
-     "price": 175.0
+     "price": 130.0
     },
     "chaos-rising-elite-trainer-box-pokemon": {
      "title": "Chaos Rising Elite Trainer Box [Pokemon]",
@@ -12776,6 +12781,36 @@
      "game": "Pokemon",
      "available": true,
      "price": 65.0
+    },
+    "tin-pack-set-volume-2-one-piece": {
+     "title": "Tin Pack Set Volume 2 [One Piece]",
+     "game": "One Piece",
+     "available": true,
+     "price": 45.0
+    },
+    "mega-evolution-elite-trainer-box-pokemon": {
+     "title": "Mega Evolution Elite Trainer Box [Pokemon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 120.0
+    },
+    "perfect-order-elite-trainer-box-pokemon": {
+     "title": "Perfect Order Elite Trainer Box [Pokemon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 65.0
+    },
+    "phantasmal-flames-elite-trainer-box-pokemon": {
+     "title": "Phantasmal Flames Elite Trainer Box [Pokemon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 150.0
+    },
+    "mega-evolution-booster-bundle-pokemon": {
+     "title": "Mega Evolution Booster Bundle [Pokemon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 65.0
     }
    },
    "baselined": true,
@@ -13587,7 +13622,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -15049,10 +15084,10 @@
      "unavail_since": 1791225266
     },
     "pokemon-tcg-delta-reign-booster-display": {
-     "title": "Pokemon TCG: Delta Reign: Booster Display",
+     "title": "Pok\u00e9mon TCG: Delta Reign: Booster Display",
      "game": "Pokemon",
      "available": false,
-     "price": 169.99,
+     "price": 189.99,
      "unavail_since": 1791225266
     },
     "one-piece-tcg-royal-blood-booster-display-op-11": {
@@ -15599,7 +15634,7 @@
      "title": "One Piece TCG: 2nd Anniversary Set (English)",
      "game": "One Piece",
      "available": true,
-     "price": 1399.99
+     "price": 1629.99
     },
     "pokemon-tcg-delta-reign-elite-trainer-box": {
      "title": "Pokemon TCG: Delta Reign: Elite Trainer Box",
@@ -15609,7 +15644,7 @@
      "unavail_since": 1795023409
     },
     "pokemon-tcg-delta-reign-booster-bundle": {
-     "title": "Pokemon TCG: Delta Reign: Booster Bundle",
+     "title": "Pok\u00e9mon TCG: Delta Reign: Booster Bundle",
      "game": "Pokemon",
      "available": false,
      "price": 41.0,
@@ -15685,9 +15720,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 121,
+   "check_cursor": 44,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'riftbound-tcg-radiance-showdown-decks-evelynn-versus-seraphine' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
