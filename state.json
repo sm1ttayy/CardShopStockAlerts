@@ -23041,10 +23041,9 @@
     "pokemon-prismatic-evolutions-accessory-pouch-special-collection-pre-order": {
      "title": "Pokemon Prismatic Evolutions Accessory Pouch Special Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 109.95,
-     "last_restock_alert": 1790628085,
-     "unavail_since": 1793826621
+     "last_restock_alert": 1795484148
     },
     "pokemon-paldean-fates-premium-collections-skeledirge-ex-pre-order": {
      "title": "Pokemon Paldean Fates Premium Collections - Skeledirge ex",
@@ -24325,7 +24324,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 15,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31404,7 +31403,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 44,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
