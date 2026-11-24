@@ -23726,9 +23726,9 @@
     "pokemon-30th-celebration-espeon-ex-umbreon-ex-premium-deck-set": {
      "title": "Pokemon 30th Celebration Espeon ex & Umbreon ex Premium Deck Set",
      "game": "Pokemon",
-     "available": false,
-     "price": 209.95,
-     "unavail_since": 1791684013
+     "available": true,
+     "price": 179.99,
+     "last_restock_alert": 1795551979
     },
     "one-piece-prb-02-premium-booster-pack-english": {
      "title": "One Piece PRB-02 Premium Booster Pack - English",
@@ -30660,7 +30660,7 @@
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 66.99,
+     "price": 65.25,
      "last_restock_alert": 1792699858,
      "unavail_since": 1795469753
     },
@@ -31287,7 +31287,7 @@
      "title": "The Hobbit Bundle",
      "game": "MTG",
      "available": false,
-     "price": 51.75,
+     "price": 48.75,
      "unavail_since": 1795132841
     },
     "star-trek-play-booster-display": {
@@ -31418,7 +31418,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 11,
    "error_streak": 0,
    "last_error": ""
   },
