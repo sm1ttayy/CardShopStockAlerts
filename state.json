@@ -1907,7 +1907,7 @@
    "baselined": true,
    "check_cursor": 11,
    "error_streak": 0,
-   "last_error": "Gamers Guild AZ: product 'magic-the-gathering-ravnica-remastered-draft-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -4980,9 +4980,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 13,
+   "check_cursor": 12,
    "error_streak": 0,
-   "last_error": "Stomping Grounds TCG: product 'emperors-in-the-new-world-booster-box-op09' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://skyboxct.com": {
    "products": {
@@ -7202,7 +7202,7 @@
    "baselined": true,
    "check_cursor": 1,
    "error_streak": 0,
-   "last_error": "Skybox CT: product 'one-piece-tcg-double-pack-volume-12-set' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://theawesomecardshop.com": {
    "products": {
@@ -9454,10 +9454,9 @@
     "pokemon-mega-evolution-delta-reign-booster-box": {
      "title": "Pokemon Mega Evolution Delta Reign Booster Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 219.75,
-     "last_restock_alert": 1794330490,
-     "unavail_since": 1794940757
+     "last_restock_alert": 1795553350
     },
     "pokemon-mega-evolution-delta-reign-6-pack-booster-bundle-case-25-ct": {
      "title": "Pokemon Mega Evolution: Delta Reign 6-Pack Booster Bundle Case (25 Ct.)",
@@ -11456,7 +11455,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Cash Cards Unlimited: product 'the-lord-of-the-rings-tales-of-middle-earth-set-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -12813,7 +12812,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Gamers Gauntlet: product 'the-worlds-strongest-warriors-booster-box-op-17-one-piece-08-21' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://safari-zone.com": {
    "products": {
@@ -13619,7 +13618,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://zulusgames.com": {
    "products": {
@@ -15717,9 +15716,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
-   "last_error": "Zulu's Games: product 'riftbound-tcg-worlds-2025-bundle' failed: HTTP Error 429: Too Many Requests"
+   "last_error": ""
   },
   "https://moonshotgamestore.com": {
    "products": {
