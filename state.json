@@ -23812,10 +23812,9 @@
     "league-of-legends-riftbound-tcg-the-reckoning-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG - The Reckoning Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 179.95,
-     "last_restock_alert": 1791756911,
-     "unavail_since": 1792157410
+     "last_restock_alert": 1795556709
     },
     "mtg-fallout-commander-deck-science-pre-order": {
      "title": "MTG - Fallout - Commander Deck - Science",
@@ -29596,7 +29595,7 @@
      "title": "Core Set 2020 - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 171.99,
+     "price": 171.75,
      "unavail_since": 1791120625
     },
     "stellar-crown-pokemon-center-elite-trainer-box": {
@@ -31416,7 +31415,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 31,
+   "check_cursor": 13,
    "error_streak": 0,
    "last_error": ""
   },
