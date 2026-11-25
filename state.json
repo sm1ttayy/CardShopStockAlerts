@@ -31505,10 +31505,16 @@
      "game": "Pokemon",
      "available": true,
      "price": 71.25
+    },
+    "pokemon-gyarados-ex-premium-collection": {
+     "title": "Gyarados ex Premium Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 148.49
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
