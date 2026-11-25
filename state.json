@@ -16034,9 +16034,8 @@
     "hob-play-booster-box-moonshot-rips": {
      "title": "The Hobbit Play Booster Box - Moonshot Rips",
      "game": "MTG",
-     "available": false,
-     "price": 189.99,
-     "unavail_since": 1790983513,
+     "available": true,
+     "price": 139.99,
      "delisted": true
     },
     "chaos-rising-box-moonshot-rips-copy": {
@@ -24350,9 +24349,9 @@
     "one-piece-gift-collection-one-piece-heroines-pre-order": {
      "title": "One Piece Gift Collection -ONE PIECE Heroines",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 149.95,
-     "unavail_since": 1794671409
+     "last_restock_alert": 1795628106
     },
     "pokemon-battle-partners-japanese-booster-box-pre-order": {
      "title": "Pokemon Battle Partners Japanese Booster Box",
@@ -31514,7 +31513,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 18,
    "error_streak": 0,
    "last_error": ""
   },
