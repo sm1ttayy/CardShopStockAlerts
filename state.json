@@ -21114,8 +21114,9 @@
     "pokemon-30th-celebration-ultra-premium-collection-day": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day",
      "game": "Pokemon",
-     "available": true,
-     "price": 449.95
+     "available": false,
+     "price": 449.95,
+     "unavail_since": 1795618511
     },
     "mtg-universes-beyond-marvel-super-heroes-commander-deck-avengers-assemble": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Avengers Assemble",
@@ -31500,7 +31501,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 14,
    "error_streak": 0,
    "last_error": ""
   },
