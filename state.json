@@ -30645,9 +30645,9 @@
     "30th-celebration-ultra-premium-collection-night": {
      "title": "30th Celebration Ultra-Premium Collection [Night]",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 393.99,
-     "unavail_since": 1795282829
+     "last_restock_alert": 1795642525
     },
     "30th-celebration-greninja-ex-box": {
      "title": "30th Celebration Greninja ex Box",
@@ -31536,7 +31536,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
