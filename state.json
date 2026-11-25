@@ -31162,8 +31162,9 @@
     "mega-evolutions-pokemon-center-elite-trainer-box-lucario": {
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Lucario]",
      "game": "Pokemon",
-     "available": true,
-     "price": 188.75
+     "available": false,
+     "price": 188.75,
+     "unavail_since": 1795615226
     },
     "pokemon-go-special-collection-team-instinct": {
      "title": "Pokemon GO Special Collection [Team Instinct]",
@@ -31499,7 +31500,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 55,
+   "check_cursor": 38,
    "error_streak": 0,
    "last_error": ""
   },
