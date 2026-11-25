@@ -21386,8 +21386,9 @@
     "riftbound-league-of-legends-gift-of-the-rift": {
      "title": "Riftbound: League of Legends - Gift of the Rift (Pre-Order)",
      "game": "Riftbound",
-     "available": true,
-     "price": 149.95
+     "available": false,
+     "price": 149.95,
+     "unavail_since": 1795638011
     }
    },
    "baselined": true,
@@ -31535,7 +31536,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 12,
+   "check_cursor": 52,
    "error_streak": 0,
    "last_error": ""
   },
