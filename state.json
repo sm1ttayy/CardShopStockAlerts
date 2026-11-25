@@ -21114,9 +21114,10 @@
     "pokemon-30th-celebration-ultra-premium-collection-day": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 449.95,
-     "last_restock_alert": 1795618814
+     "last_restock_alert": 1795618814,
+     "unavail_since": 1795619113
     },
     "mtg-universes-beyond-marvel-super-heroes-commander-deck-avengers-assemble": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Avengers Assemble",
@@ -30477,7 +30478,7 @@
      "title": "Aether Revolt - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 226.75,
+     "price": 224.75,
      "unavail_since": 1793922348
     },
     "journey-into-nyx-booster-box": {
@@ -31501,7 +31502,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 54,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
