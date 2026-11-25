@@ -22495,9 +22495,9 @@
     "one-piece-cg-illustration-box-vol-9-pre-order": {
      "title": "One Piece CG - Illustration Box Vol. 9 (Pre Order)",
      "game": "One Piece",
-     "available": false,
-     "price": 59.95,
-     "unavail_since": 1784235032
+     "available": true,
+     "price": 99.95,
+     "last_restock_alert": 1795647907
     },
     "one-piece-card-game-illustration-box-vol-8-pre-order": {
      "title": "One Piece Card Game - Illustration Box Vol.8",
@@ -31543,7 +31543,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
