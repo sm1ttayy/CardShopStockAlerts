@@ -21382,6 +21382,12 @@
      "game": "One Piece",
      "available": true,
      "price": 599.95
+    },
+    "riftbound-league-of-legends-gift-of-the-rift": {
+     "title": "Riftbound: League of Legends - Gift of the Rift (Pre-Order)",
+     "game": "Riftbound",
+     "available": true,
+     "price": 149.95
     }
    },
    "baselined": true,
@@ -31529,7 +31535,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 31,
    "error_streak": 0,
    "last_error": ""
   },
