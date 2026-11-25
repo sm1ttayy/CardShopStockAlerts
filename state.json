@@ -21133,10 +21133,9 @@
     "pokemon-30th-celebration-ultra-premium-collection-day": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 449.95,
-     "last_restock_alert": 1795618814,
-     "unavail_since": 1795619113
+     "last_restock_alert": 1795618814
     },
     "mtg-universes-beyond-marvel-super-heroes-commander-deck-avengers-assemble": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Avengers Assemble",
@@ -21195,9 +21194,9 @@
     "pokemon-30th-celebration-ultra-premium-collection-night": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Night",
      "game": "Pokemon",
-     "available": false,
-     "price": 519.95,
-     "unavail_since": 1794790508
+     "available": true,
+     "price": 499.95,
+     "last_restock_alert": 1795635909
     },
     "pokemon-v-union-special-collection-box-zacian": {
      "title": "Pokemon - V-Union Special Collection Box - Zacian",
@@ -21631,10 +21630,9 @@
     "pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022": {
      "title": "Pokemon TCG - Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 239.95,
-     "last_restock_alert": 1791492920,
-     "unavail_since": 1793219714
+     "last_restock_alert": 1795635908
     },
     "pokemon-paldean-fates-booster-bundle-pre-order": {
      "title": "Pokemon Paldean Fates Booster Bundle",
@@ -23278,10 +23276,9 @@
     "pokemon-30th-celebration-knock-out-collection-pre-order": {
      "title": "Pokemon 30th Celebration Knock Out Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 29.95,
-     "last_restock_alert": 1793826621,
-     "unavail_since": 1794082518
+     "last_restock_alert": 1795635909
     },
     "pokemon-tcg-mega-evolution-phantasmal-elite-trainer-max-2-pre-order": {
      "title": "Pokemon TCG Mega Evolution Phantasmal Flames Elite Trainer Box",
@@ -23713,10 +23710,9 @@
     "pokemon-celebrations-collection-box-lances-charizard": {
      "title": "Pokemon Celebrations Collection Box - Lance's Charizard",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 209.95,
-     "last_restock_alert": 1792440031,
-     "unavail_since": 1793219121
+     "last_restock_alert": 1795635909
     },
     "one-piece-world-collectable-figure-the-great-pirates-100-landscapes-vol-7-set-of-6-figures": {
      "title": "One Piece World Collectable Figure The Great Pirates 100 Landscapes Vol.7 Set of 6 Figures",
@@ -31534,7 +31530,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
