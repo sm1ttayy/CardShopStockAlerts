@@ -27023,8 +27023,8 @@
    },
    "baselined": true,
    "check_cursor": 1,
-   "error_streak": 1,
-   "last_error": "Exor Games: product 'mtg-foundations-play-booster-box' failed: HTTP Error 429: Too Many Requests"
+   "error_streak": 0,
+   "last_error": ""
   },
   "https://pokerand.net": {
    "products": {
@@ -29974,7 +29974,7 @@
      "title": "Commander Legends: Battle for Baldur's Gate - Party Time Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 169.75,
+     "price": 164.99,
      "unavail_since": 1793655327
     },
     "pokemon-brilliant-stars-pokemon-center-elite-trainer-box": {
@@ -31500,7 +31500,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 28,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
