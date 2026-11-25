@@ -18531,9 +18531,10 @@
     "pokemon-30th-celebration-ex-box-set-of-2-sylveon-and-greninja": {
      "title": "Pokemon 30th Celebration ex Box Set of 2 (Sylveon and Greninja)",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 79.95,
-     "last_restock_alert": 1794363009
+     "last_restock_alert": 1794363009,
+     "unavail_since": 1795647010
     },
     "modern-horizons-3-creative-energy-commander-deck": {
      "title": "Modern Horizons 3 Creative Energy Commander Deck",
@@ -31542,7 +31543,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 24,
    "error_streak": 0,
    "last_error": ""
   },
