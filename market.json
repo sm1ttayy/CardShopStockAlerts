@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-24",
+ "asof": "2026-11-25",
  "items": {
   "https://gamersguildaz.com|one-piece-tcg-title-tba-booster-display-box-op-16": {
    "market": 193.0,
@@ -1101,10 +1101,6 @@
    "market": 198.89,
    "match": "Journey Together Booster Box"
   },
-  "https://skyboxct.com|pkm_incandarcana_jpn_booster": {
-   "market": 104.88,
-   "match": "Incandescent Arcana Booster Box"
-  },
   "https://skyboxct.com|pkm_xy_evo_booster": {
    "market": 2838.93,
    "match": "XY Evolutions Booster Box"
@@ -1225,14 +1221,6 @@
    "market": 178.39,
    "match": "Paradigm Trigger Booster Box"
   },
-  "https://theawesomecardshop.com|pok-mon-japanese-incandescent-arcana-booster-box": {
-   "market": 104.88,
-   "match": "Incandescent Arcana Booster Box"
-  },
-  "https://theawesomecardshop.com|pok-mon-japanese-dark-phantasma-booster-box": {
-   "market": 191.08,
-   "match": "Dark Phantasma Booster Box"
-  },
   "https://theawesomecardshop.com|pokemon-scarlet-violet-booster-box": {
    "market": 293.39,
    "match": "Scarlet & Violet Booster Box"
@@ -1317,10 +1305,6 @@
    "market": 1009.83,
    "match": "Chaos Rising Booster Box Case"
   },
-  "https://zulusgames.com|pokemon-tcg-lost-abyss-booster-box-japanese": {
-   "market": 316.25,
-   "match": "Lost Abyss Booster Box"
-  },
   "https://zulusgames.com|pokemon-tcg-pitch-black-booster-display": {
    "market": 171.68,
    "match": "Pitch Black Booster Box"
@@ -1397,10 +1381,6 @@
    "market": 116.85,
    "match": "Inferno X Booster Box"
   },
-  "https://superanimestore.com|pokemon-time-gazer-s10d-booster-box-sword-shield-series-japanese": {
-   "market": 151.75,
-   "match": "Time Gazer Booster Box"
-  },
   "https://superanimestore.com|pokemon-151-booster-box-sv2a-scarlet-violet-series-japanese": {
    "market": 241.03,
    "match": "Pokemon Card 151 Booster Box"
@@ -1445,17 +1425,9 @@
    "market": 154.17,
    "match": "Glory of Team Rocket Booster Box"
   },
-  "https://superanimestore.com|pokemon-dark-phantasma-s10a-booster-box-sword-shield-series-japanese": {
-   "market": 191.08,
-   "match": "Dark Phantasma Booster Box"
-  },
   "https://superanimestore.com|pokemon-shiny-treasure-ex-sv4a-booster-box-scarlet-violet-series-japanese": {
    "market": 107.95,
    "match": "Scarlet ex Booster Box"
-  },
-  "https://superanimestore.com|pokemon-lost-abyss-s11-booster-box-sword-shield-series-japanese": {
-   "market": 316.25,
-   "match": "Lost Abyss Booster Box"
   },
   "https://superanimestore.com|pokemon-vstar-universe-s12a-booster-box-sword-shield-series-japanese": {
    "market": 194.19,
@@ -1464,10 +1436,6 @@
   "https://superanimestore.com|pokemon-snow-hazard-sv2p-booster-box-scarlet-violet-series-japanese": {
    "market": 102.73,
    "match": "Snow Hazard Booster Box"
-  },
-  "https://superanimestore.com|pokemon-incandescent-arcana-s11a-booster-box-sword-shield-series-japanese": {
-   "market": 104.88,
-   "match": "Incandescent Arcana Booster Box"
   },
   "https://superanimestore.com|pokemon-paradigm-trigger-s12-booster-box-sword-shield-series-japanese": {
    "market": 178.39,
@@ -1697,6 +1665,10 @@
    "market": 293.39,
    "match": "Scarlet & Violet Booster Box"
   },
+  "https://www.fusiongamingonline.com|scarlet-violet-stellar-crown-booster-box": {
+   "market": 293.39,
+   "match": "Scarlet & Violet Booster Box"
+  },
   "https://exorgames.com|pokemon-me04-chaos-rising-booster-box": {
    "market": 176.69,
    "match": "Chaos Rising Booster Box"
@@ -1861,10 +1833,6 @@
    "market": 146.1,
    "match": "Ruler of the Black Flame Booster Box"
   },
-  "https://common-lands.com|lost-abyss-booster-box": {
-   "market": 316.25,
-   "match": "Lost Abyss Booster Box"
-  },
   "https://common-lands.com|destined-rivals-european-half-booster-box": {
    "market": 386.39,
    "match": "Destined Rivals Booster Box"
@@ -1984,10 +1952,6 @@
   "https://sagaconcepts.com|pokemon-tcg-scarlet-violet-journey-together-enhanced-booster-display-36": {
    "market": 198.89,
    "match": "Journey Together Booster Box"
-  },
-  "https://sagaconcepts.com|pokemon-tcg-mega-evolution-delta-reign-me06-booster-display-36ct": {
-   "market": 193.56,
-   "match": "Delta Reign Booster Box"
   }
  },
  "groups": {

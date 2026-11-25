@@ -3662,9 +3662,10 @@
     "zendikar-rising-booster-box-display": {
      "title": "Zendikar Rising Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 180.0,
-     "last_restock_alert": 1793114743
+     "last_restock_alert": 1793114743,
+     "unavail_since": 1795634738
     },
     "fate-reforged-booster-box-display": {
      "title": "Fate Reforged Draft Booster Box Display",
@@ -3911,9 +3912,10 @@
     "strixhaven-school-of-mages-draft-booster-box-display": {
      "title": "Strixhaven: School of Mages Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 190.0,
-     "last_restock_alert": 1795313029
+     "last_restock_alert": 1795313029,
+     "unavail_since": 1795634738
     },
     "strixhaven-school-of-mages-collector-booster-box-display": {
      "title": "Strixhaven: School of Mages Collector Booster Box Display",
@@ -3925,9 +3927,10 @@
     "strixhaven-school-of-mages-set-booster-box-display": {
      "title": "Strixhaven: School of Mages Set Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 190.0,
-     "last_restock_alert": 1795313030
+     "last_restock_alert": 1795313030,
+     "unavail_since": 1795634738
     },
     "adventures-in-the-forgotten-realms-collector-booster-box-display": {
      "title": "Adventures in the Forgotten Realms Collector Booster Box Display",
@@ -3946,9 +3949,10 @@
     "adventures-in-the-forgotten-realms-draft-booster-box-display": {
      "title": "Adventures in the Forgotten Realms Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 260.0,
-     "last_restock_alert": 1795313033
+     "last_restock_alert": 1795313033,
+     "unavail_since": 1795634738
     },
     "innistrad-midnight-hunt-collector-booster-box-display": {
      "title": "Innistrad: Midnight Hunt Collector Booster Box Display",
@@ -4850,9 +4854,10 @@
     "one-piece-extra-booster-heroines-edition-vol-2-booster-box-eb-05": {
      "title": "One Piece: Extra Booster - Heroines Edition vol.2 Booster Box - [EB-05]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 220.0,
-     "last_restock_alert": 1795516109
+     "last_restock_alert": 1795516109,
+     "unavail_since": 1795634736
     },
     "starter-deck-21-gear5-st-21": {
      "title": "Starter Deck EX 21: Gear5 [ST-21]",
@@ -4900,8 +4905,9 @@
     "one-piece-dominance-of-god-booster-box-op-18": {
      "title": "One Piece: The Dominance of God - Booster Box [OP-18]",
      "game": "One Piece",
-     "available": true,
-     "price": 189.0
+     "available": false,
+     "price": 189.0,
+     "unavail_since": 1795634736
     },
     "preorder-mega-evolution-delta-reign-3-pack-blister-seel": {
      "title": "[PREORDER] Mega Evolution: Delta Reign 3-Pack Blister [Seel]",
@@ -4990,6 +4996,13 @@
      "game": "MTG",
      "available": true,
      "price": 320.0
+    },
+    "mystery-booster-box-display-commander-edition": {
+     "title": "Mystery Booster Box Display Commander Edition",
+     "game": "MTG",
+     "available": false,
+     "price": 460.0,
+     "unavail_since": 1795634736
     }
    },
    "baselined": true,
@@ -8051,9 +8064,10 @@
     "pokemon-scarlet-violet-twilight-masquerade-booster-box": {
      "title": "Pokemon Scarlet & Violet Twilight Masquerade Booster Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 368.75,
-     "last_restock_alert": 1794671577
+     "last_restock_alert": 1794671577,
+     "unavail_since": 1795634739
     },
     "pokemon-vstar-universe-booster-box-s12a": {
      "title": "Pokemon VSTAR Universe Japanese Booster Box (S12a)",
@@ -15779,7 +15793,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 4,
+   "check_cursor": 44,
    "error_streak": 0,
    "last_error": ""
   },
