@@ -24276,9 +24276,9 @@
     "pokemon-30th-celebration-starter-card-set-turtwig-chimchar-and-piplup-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set -  Turtwig, Chimchar and Piplup (Japanese)",
      "game": "Pokemon",
-     "available": false,
-     "price": 24.95,
-     "unavail_since": 1793765110
+     "available": true,
+     "price": 21.95,
+     "last_restock_alert": 1795630261
     },
     "pokemon-30th-celebration-starter-card-set-chespin-fennekin-and-froakie-japanese-1": {
      "title": "Pokemon 30th Celebration Starter Card Set - Rowlet, Litten, and Popplio (Japanese)",
@@ -31513,7 +31513,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
