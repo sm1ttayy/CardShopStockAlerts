@@ -24201,9 +24201,9 @@
     "app-exclusive-league-of-legends-riftbound-tcg-vendetta-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Vendetta Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 169.95,
-     "unavail_since": 1794974412
+     "last_restock_alert": 1795650312
     },
     "mtg-aetherdrift-commander-decks-set-of-2-pre-order": {
      "title": "MTG - Aetherdrift - Commander Decks - Set of 2",
@@ -31543,7 +31543,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 18,
+   "check_cursor": 0,
    "error_streak": 0,
    "last_error": ""
   },
