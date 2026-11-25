@@ -21114,9 +21114,9 @@
     "pokemon-30th-celebration-ultra-premium-collection-day": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 449.95,
-     "unavail_since": 1795618511
+     "last_restock_alert": 1795618814
     },
     "mtg-universes-beyond-marvel-super-heroes-commander-deck-avengers-assemble": {
      "title": "MTG - Universes Beyond: Marvel Super Heroes - Commander Deck - Avengers Assemble",
@@ -27999,7 +27999,7 @@
      "title": "Evolving Skies Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 1983.75,
+     "price": 2369.75,
      "unavail_since": 1794782722
     },
     "aetherdrift-play-booster-display": {
@@ -31501,7 +31501,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 14,
+   "check_cursor": 54,
    "error_streak": 0,
    "last_error": ""
   },
