@@ -28848,10 +28848,9 @@
     "pokemon-s-v-twilight-masquerade-booster-box": {
      "title": "Twilight Masquerade Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 332.49,
-     "last_restock_alert": 1789592146,
-     "unavail_since": 1791120640
+     "available": true,
+     "price": 324.75,
+     "last_restock_alert": 1795575996
     },
     "mtg-foundations-play-booster-box": {
      "title": "Foundations Play Booster Box",
@@ -31431,7 +31430,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 21,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -32838,6 +32837,12 @@
      "game": "MTG",
      "available": true,
      "price": 89.95
+    },
+    "pokemon-tcg-pitch-black-booster-bundle-me05": {
+     "title": "Pokemon TCG Pitch Black Booster Bundle - ME05",
+     "game": "Pokemon",
+     "available": true,
+     "price": 34.95
     }
    },
    "baselined": true,
