@@ -1899,9 +1899,9 @@
     "one-piece-tcg-dp-13-the-dominance-of-god-double-pack-set-vol-13": {
      "title": "One Piece TCG: (DP-13) The Dominance of God Double Pack Set Vol. 13",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 27.99,
-     "unavail_since": 1795206531
+     "last_restock_alert": 1795615936
     },
     "magic-the-gathering-commander-legends-battle-for-baldurs-gate-draconic-dissent-commander-deck": {
      "title": "Magic: the Gathering: Commander Legends: Battle for Baldur's Gate - Draconic Dissent Commander Deck",
@@ -15779,7 +15779,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 80,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
