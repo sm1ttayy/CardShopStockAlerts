@@ -25547,6 +25547,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 114.99
+    },
+    "scarlet-violet-stellar-crown-booster-box": {
+     "title": "Scarlet & Violet: Stellar Crown - Booster Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 199.99,
+     "unavail_since": 1795575309
     }
    },
    "baselined": true,
@@ -31424,7 +31431,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 57,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
