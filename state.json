@@ -18601,10 +18601,9 @@
     "pokemon-30th-celebration-booster-bundle": {
      "title": "Pokemon 30th Celebration Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 57.95,
-     "last_restock_alert": 1793999121,
-     "unavail_since": 1794603610
+     "last_restock_alert": 1795637107
     },
     "foundations-wretched-ranks-commander-deck-preorder": {
      "title": "Foundations Wretched Ranks Commander Deck",
@@ -31530,7 +31529,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 10,
+   "check_cursor": 50,
    "error_streak": 0,
    "last_error": ""
   },
