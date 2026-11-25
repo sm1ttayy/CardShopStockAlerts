@@ -25985,8 +25985,9 @@
     "mtg-tarkir-dragonstorm-play-booster-box": {
      "title": "MTG TARKIR DRAGONSTORM PLAY BOOSTER BOX",
      "game": "MTG",
-     "available": true,
-     "price": 189.95
+     "available": false,
+     "price": 189.95,
+     "unavail_since": 1795646713
     },
     "mtg-edge-of-eternities-play-booster": {
      "title": "MTG EDGE OF ETERNITIES PLAY BOOSTER BOX",
@@ -31541,7 +31542,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
