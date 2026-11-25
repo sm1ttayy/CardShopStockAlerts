@@ -16276,9 +16276,9 @@
     "mega-evolution-6-delta-reign-build-battle-box": {
      "title": "Mega Evolution 6: Delta Reign - Build & Battle Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 50.0,
-     "unavail_since": 1795036811
+     "last_restock_alert": 1795574421
     }
    },
    "baselined": true,
@@ -21288,6 +21288,12 @@
      "available": false,
      "price": 129.95,
      "unavail_since": 1795471810
+    },
+    "mtg-theros-beyond-death-english-booster-box": {
+     "title": "MTG - Theros Beyond Death - English Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 259.95
     }
    },
    "baselined": true,
@@ -22252,8 +22258,9 @@
     "one-piece-prb-02-premium-booster-box-pre-order": {
      "title": "One Piece PRB-02 Premium Booster Box - English",
      "game": "One Piece",
-     "available": true,
-     "price": 699.95
+     "available": false,
+     "price": 699.95,
+     "unavail_since": 1795574416
     },
     "one-piece-tcg-awakening-of-the-new-era-booster-box-pre-order": {
      "title": "One Piece TCG Awakening Of The New Era Booster Box",
@@ -23977,9 +23984,10 @@
     "pokemon-30th-celebration-ultra-premium-collection-day-pre-order": {
      "title": "Pokemon - 30th Celebration - Ultra Premium Collection - Day",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 479.95,
-     "last_restock_alert": 1795556114
+     "last_restock_alert": 1795556114,
+     "unavail_since": 1795574422
     },
     "pokemon-mega-evolutions-ascended-heroes-elite-trainer-box-pre-order": {
      "title": "Pokemon Mega Evolutions Ascended Heroes Elite Trainer Box",
@@ -30918,7 +30926,7 @@
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 248.99,
+     "price": 251.99,
      "last_restock_alert": 1794603639,
      "unavail_since": 1794605443
     },
@@ -31415,7 +31423,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 53,
+   "check_cursor": 35,
    "error_streak": 0,
    "last_error": ""
   },
@@ -32584,9 +32592,9 @@
     "magic-the-gathering-reality-fracture-draft-night-pre-order": {
      "title": "Magic: The Gathering Reality Fracture Draft Night",
      "game": "MTG",
-     "available": false,
-     "price": 99.95,
-     "unavail_since": 1792155335
+     "available": true,
+     "price": 74.95,
+     "last_restock_alert": 1795574451
     },
     "pokemon-tcg-sword-shield-astral-radiance-elite-trainer-box-etb": {
      "title": "Pokemon TCG: Sword & Shield\u2014 Astral Radiance Elite Trainer Box (ETB)",
@@ -32724,8 +32732,9 @@
     "pokemon-tcg-30th-celebration-ditto-premium-collection-pre-order": {
      "title": "Pokemon TCG: 30th Celebration Ditto Premium Collection (Wave 2 Late Nov)",
      "game": "Pokemon",
-     "available": true,
-     "price": 79.95
+     "available": false,
+     "price": 79.95,
+     "unavail_since": 1795574442
     },
     "pokemon-tcg-mega-evolutions-delta-reign-booster-bundle-6-booster-packs-pre-order": {
      "title": "Pokemon TCG: Mega Evolutions Delta Reign  Booster Bundle (6 Booster Packs) (Wave 2 Late Nov)",
@@ -32786,10 +32795,10 @@
      "unavail_since": 1794058265
     },
     "one-piece-tcg-dominance-of-god-op-18-english-booster-box-24-booster-packs-pre-order": {
-     "title": "One Piece TCG Dominance Of God (OP-18) English Booster Box (24 Booster Packs) (Pre Order)",
+     "title": "One Piece TCG Dominance Of God (OP-18) English Booster Box (24 Booster Packs)",
      "game": "One Piece",
      "available": true,
-     "price": 214.95
+     "price": 184.95
     },
     "magic-the-gathering-reality-fracture-secret-lair-bundle": {
      "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
@@ -32815,6 +32824,12 @@
      "game": "One Piece",
      "available": true,
      "price": 14.95
+    },
+    "magic-the-gathering-marvel-super-heroes-draft-night-pre-order": {
+     "title": "Magic: The Gathering Marvel Super Heroes Draft Night",
+     "game": "MTG",
+     "available": true,
+     "price": 89.95
     }
    },
    "baselined": true,
@@ -32962,9 +32977,10 @@
     "one-piece-tcg-extra-booster-eb-05-24ct": {
      "title": "One Piece TCG Extra Booster -One Piece Heroines Edition Vol.2- [Eb-05] OP-EB05",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 219.99,
-     "delisted": true
+     "delisted": true,
+     "unavail_since": 1795574441
     },
     "one-piece-tcg-title-tba-booster-op-19-24ct-op-19-bb": {
      "title": "One Piece TCG (Title Tba) Booster (OP-19) (24CT) OP-19-BB",
@@ -32997,10 +33013,9 @@
     "magic-the-gathering-ccg-reality-fracture-play-booster-display-30": {
      "title": "Magic the Gathering CCG Reality Fracture Play Booster Display (30)",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 114.99,
-     "last_restock_alert": 1793045750,
-     "unavail_since": 1795551344
+     "last_restock_alert": 1795574456
     },
     "magic-the-gathering-ccg-edge-of-eternities-play-booster-display-30": {
      "title": "Magic the Gathering CCG Edge of Eternities Play Booster Display (30)",
