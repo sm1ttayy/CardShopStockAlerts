@@ -29103,8 +29103,9 @@
     "white-flare-pokemon-center-elite-trainer-box": {
      "title": "White Flare Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 234.75
+     "available": false,
+     "price": 234.75,
+     "unavail_since": 1795633223
     },
     "pitch-black-elite-trainer-box": {
      "title": "Pitch Black Elite Trainer Box",
@@ -31519,7 +31520,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 2,
    "error_streak": 0,
    "last_error": ""
   },
