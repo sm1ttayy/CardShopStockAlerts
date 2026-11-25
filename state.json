@@ -27727,7 +27727,7 @@
      "title": "Pok\u00e9mon 30th Celebration M6A Japanese Booster Box",
      "game": "Pokemon",
      "available": true,
-     "price": 154.99,
+     "price": 139.99,
      "last_restock_alert": 1794431110
     },
     "pokemon-tcg-ex-tin-greninja-30th-celebration": {
@@ -31513,7 +31513,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 4,
    "error_streak": 0,
    "last_error": ""
   },
@@ -33602,7 +33602,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 179.99,
-     "unavail_since": 1795193438
+     "unavail_since": 1795193438,
+     "delisted": true
     },
     "pokemon-tcg-mega-evolution-delta-reign-me06-elite-trainer-box": {
      "title": "Pokemon TCG Mega Evolution Delta Reign (ME06) Elite Trainer Box",
