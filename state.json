@@ -16366,8 +16366,9 @@
     "pokemon-tcg-30th-celebration-classic-collection-1x-pack-moonshot-rips-opened-live-on-stream": {
      "title": "Pokemon TCG: 30th Celebration Classic Collection 1x Pack - Moonshot Rips (OPENED LIVE ON STREAM)",
      "game": "Pokemon",
-     "available": true,
-     "price": 59.99
+     "available": false,
+     "price": 59.99,
+     "unavail_since": 1795665609
     }
    },
    "baselined": true,
@@ -21722,7 +21723,7 @@
      "title": "League of Legends Riftbound TCG: Unleashed Booster Box",
      "game": "Riftbound",
      "available": true,
-     "price": 199.95,
+     "price": 189.95,
      "last_restock_alert": 1795649710
     },
     "league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
@@ -21750,7 +21751,7 @@
      "title": "Riftbound - League of Legends TCG - Spiritforged - Booster Display",
      "game": "Riftbound",
      "available": true,
-     "price": 209.95,
+     "price": 189.98,
      "last_restock_alert": 1795650010
     },
     "league-of-legends-riftbound-tcg-vendetta-vault-pre-order": {
@@ -25659,6 +25660,12 @@
      "available": false,
      "price": 89.99,
      "unavail_since": 1795577409
+    },
+    "final-fantasy-commander-deck-revival-trance-final-fantasy-vi": {
+     "title": "FINAL FANTASY - Commander Deck (Revival Trance FINAL FANTASY VI)",
+     "game": "MTG",
+     "available": true,
+     "price": 84.99
     }
    },
    "baselined": true,
@@ -31544,7 +31551,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 46,
+   "check_cursor": 28,
    "error_streak": 0,
    "last_error": ""
   },
