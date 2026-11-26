@@ -2333,9 +2333,10 @@
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 99.0,
-     "last_restock_alert": 1795279867
+     "last_restock_alert": 1795279867,
+     "unavail_since": 1795720089
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Collector Booster Box",
@@ -2427,10 +2428,9 @@
     "magic-the-gathering-tarkir-dragonstorm-play-booster-box": {
      "title": "Magic: The Gathering - Tarkir: Dragonstorm Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 159.0,
-     "last_restock_alert": 1792935950,
-     "unavail_since": 1793203751
+     "last_restock_alert": 1795720090
     },
     "one-piece-booster-box-op10-royal-blood": {
      "title": "One Piece Royal Blood Booster Box [OP10]",
@@ -3863,7 +3863,7 @@
      "title": "Kamigawa: Neon Dynasty Set Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 405.0,
+     "price": 430.0,
      "unavail_since": 1784083329
     },
     "modern-horizons-2-draft-booster-box-display": {
@@ -3972,9 +3972,10 @@
     "innistrad-midnight-hunt-draft-booster-box-display": {
      "title": "Innistrad: Midnight Hunt Draft Booster Box Display",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 160.0,
-     "last_restock_alert": 1793899733
+     "last_restock_alert": 1793899733,
+     "unavail_since": 1795720091
     },
     "innistrad-crimson-vow-collector-booster-box-display": {
      "title": "Innistrad: Crimson Vow Collector Booster Box Display",
@@ -4821,10 +4822,9 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box": {
      "title": "Riftbound: League of Legends TCG - Radiance Booster Box",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 99.0,
-     "last_restock_alert": 1795279866,
-     "unavail_since": 1795579443
+     "last_restock_alert": 1795720089
     },
     "riftbound-league-of-legends-tcg-radiance-showdown-deck-evelynn-vs-seraphine": {
      "title": "Riftbound: League of Legends TCG - Radiance Showdown Deck [Evelynn vs Seraphine]",
@@ -5341,7 +5341,7 @@
      "title": "Magic The Gathering: Reality Fracture Play Booster Box (SALE)",
      "game": "MTG",
      "available": true,
-     "price": 115.0,
+     "price": 110.0,
      "last_restock_alert": 1791277460
     },
     "magic-the-gathering-duskmourn-house-of-horror-play-booster-box-pre-order": {
@@ -10929,8 +10929,9 @@
     "copy-of-dominaria-united-draft-booster-box-1": {
      "title": "Magic: The Gathering - Dominaria United Draft Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 184.99
+     "available": false,
+     "price": 184.99,
+     "unavail_since": 1795720092
     },
     "one-piece-tcg-tamashi-nation-logotype-luffy-figure": {
      "title": "One Piece TCG: Tamashi Nation Logotype Luffy Figure",
@@ -15804,7 +15805,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 99,
    "error_streak": 0,
    "last_error": ""
   },
