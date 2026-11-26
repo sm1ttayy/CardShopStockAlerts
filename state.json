@@ -21750,9 +21750,10 @@
     "riftbound-league-of-legends-tcg-spiritforged-booster-display-pre-order": {
      "title": "Riftbound - League of Legends TCG - Spiritforged - Booster Display",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 189.98,
-     "last_restock_alert": 1795650010
+     "last_restock_alert": 1795650010,
+     "unavail_since": 1795669515
     },
     "league-of-legends-riftbound-tcg-vendetta-vault-pre-order": {
      "title": "League of Legends Riftbound TCG: Vendetta Vault",
@@ -31551,7 +31552,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 49,
+   "check_cursor": 32,
    "error_streak": 0,
    "last_error": ""
   },
