@@ -4671,10 +4671,9 @@
     "scarlet-violet-shrouded-fable-booster-bundle": {
      "title": "Scarlet & Violet: Shrouded Fable - Booster Bundle",
      "game": "Pokemon",
-     "available": false,
-     "price": 59.0,
-     "last_restock_alert": 1790085907,
-     "unavail_since": 1795023409
+     "available": true,
+     "price": 52.0,
+     "last_restock_alert": 1795669731
     },
     "pokemon-go-premium-collection-radiant-eevee": {
      "title": "Pokemon GO - Premium Collection (Radiant Eevee)",
@@ -4694,7 +4693,7 @@
      "title": "Pok\u00e9mon: 30th Celebration - Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 105.0,
+     "price": 110.0,
      "last_restock_alert": 1793850132
     },
     "30th-celebration-poster-collection": {
@@ -4769,7 +4768,7 @@
      "title": "Blooming Waters Premium Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 335.0
+     "price": 315.0
     },
     "terapagos-ultra-premium-collection": {
      "title": "Terapagos - Ultra Premium Collection",
@@ -5004,10 +5003,16 @@
      "available": false,
      "price": 460.0,
      "unavail_since": 1795634736
+    },
+    "charizard-ex-special-collection": {
+     "title": "Pokemon: Charizard ex Special Collection",
+     "game": "Pokemon",
+     "available": true,
+     "price": 40.0
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 3,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7205,7 +7210,7 @@
      "title": "One Piece TCG: The Dominance of God Booster Box (OP18)",
      "game": "One Piece",
      "available": true,
-     "price": 210.0
+     "price": 200.0
     },
     "magic-the-gathering-universed-beyond-final-fantasy-commander-deck-scions-and-spellcraft-pre-order": {
      "title": "Magic the Gathering: Universes Beyond - Final Fantasy Commander Deck (Scions and Spellcraft)",
@@ -10801,10 +10806,10 @@
      "price": 99.99
     },
     "sword-shield-evolving-skies-elite-trainer-box": {
-     "title": "Sword & Shield - Evolving Skies Elite Trainer Box",
+     "title": "Pokemon Sword & Shield - Evolving Skies Elite Trainer Box",
      "game": "Pokemon",
      "available": true,
-     "price": 380.0
+     "price": 499.99
     },
     "sword-shield-fusion-strike-elite-trainer-box": {
      "title": "Sword & Shield - Fusion Strike Elite Trainer Box (Packaging condition may vary)",
@@ -11852,7 +11857,7 @@
      "title": "3D2Y Starter Deck ST-14 [One Piece]",
      "game": "One Piece",
      "available": true,
-     "price": 20.0
+     "price": 10.0
     },
     "blue-buggy-starter-deck-st-25-one-piece": {
      "title": "-BLUE Buggy- Starter Deck ST-25 [One Piece]",
@@ -12879,6 +12884,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 25.0
+    },
+    "surging-sparks-booster-display-pokemon": {
+     "title": "Surging Sparks Booster Display [Pok\u00e9mon]",
+     "game": "Pokemon",
+     "available": true,
+     "price": 300.0
     }
    },
    "baselined": true,
@@ -13711,16 +13722,16 @@
     "one-piece-tcg-pillars-of-strength-booster-box-op-03": {
      "title": "One Piece TCG: Pillars of Strength Booster Box [OP-03]",
      "game": "One Piece",
-     "available": false,
-     "price": 379.99,
-     "unavail_since": 1784083330
+     "available": true,
+     "price": 484.99,
+     "last_restock_alert": 1795669727
     },
     "one-piece-tcg-wings-of-the-captain-booster-box-op-06": {
      "title": "One Piece TCG: Wings of the Captain Booster Box [OP-06]",
      "game": "One Piece",
-     "available": false,
-     "price": 94.99,
-     "unavail_since": 1784083330
+     "available": true,
+     "price": 399.99,
+     "last_restock_alert": 1795669727
     },
     "one-piece-tcg-awakening-of-the-new-era-booster-box-op-05": {
      "title": "One Piece TCG: Awakening of the New Era Booster Box [OP-05]",
@@ -14224,9 +14235,9 @@
     "one-piece-tcg-time-of-battle-booster-display": {
      "title": "One Piece TCG: Time of Battle: Booster Display",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 199.99,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1795669727
     },
     "pokemon-tcg-chaos-rising-booster-display": {
      "title": "Pok\u00e9mon TCG: Chaos Rising: Booster Display",
@@ -14776,9 +14787,9 @@
     "one-piece-tcg-kingdoms-of-intrigue-booster-box-op-04": {
      "title": "One Piece TCG: Kingdoms of Intrigue Booster Box [OP-04]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 484.99,
-     "unavail_since": 1789047748
+     "last_restock_alert": 1795669727
     },
     "pokemon-tcg-inferno-x-booster-display-japanese": {
      "title": "Pok\u00e9mon TCG: Inferno X: Booster Display (Japanese)",
@@ -14869,7 +14880,7 @@
      "title": "Pok\u00e9mon TCG: Journey Together: Booster Display",
      "game": "Pokemon",
      "available": true,
-     "price": 209.99
+     "price": 194.99
     },
     "pokemon-tcg-first-partner-illustration-collection-series-3": {
      "title": "Pok\u00e9mon TCG: First Partner Illustration Collection (Series 3)",
@@ -15044,9 +15055,9 @@
     "pokemon-tcg-30th-celebration-booster-bundle": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Booster Bundle",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 54.99,
-     "unavail_since": 1790813504
+     "last_restock_alert": 1795669732
     },
     "magic-the-gathering-the-hobbit-play-booster-display": {
      "title": "Magic the Gathering: Reality Fracture: Play Booster Display",
@@ -15386,9 +15397,9 @@
     "pokemon-tcg-30th-celebration-ultra-premium-collection": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Ultra Premium Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 299.99,
-     "unavail_since": 1791381047
+     "last_restock_alert": 1795669732
     },
     "pokemon-tcg-30th-celebration-ditto-premium-collection-box": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Ditto Premium Collection Box",
@@ -15526,9 +15537,8 @@
     "one-piece-tcg-emperors-in-the-new-world-booster-display": {
      "title": "One Piece TCG: Emperors in the New World: Booster Display",
      "game": "One Piece",
-     "available": false,
-     "price": 199.99,
-     "unavail_since": 1791525327
+     "available": true,
+     "price": 629.99
     },
     "one-piece-tcg-premium-card-collection-25th-edition": {
      "title": "One Piece TCG: Premium Card Collection - 25th Edition",
@@ -15794,7 +15804,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 84,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
