@@ -23682,9 +23682,9 @@
     "pokemon-sv-twilight-masqueade-18-pack-euro-half-booster-box": {
      "title": "Pokemon - SV: Twilight Masqueade - 18 Pack Half Booster Box",
      "game": "Pokemon",
-     "available": false,
-     "price": 269.95,
-     "unavail_since": 1793219120
+     "available": true,
+     "price": 251.05,
+     "last_restock_alert": 1795751801
     },
     "pokemon-shrouded-fable-booster-bundle-pre-order": {
      "title": "Pokemon Scarlet And Violet Shrouded Fable Booster Bundle",
@@ -31597,7 +31597,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 26,
+   "check_cursor": 8,
    "error_streak": 0,
    "last_error": ""
   },
