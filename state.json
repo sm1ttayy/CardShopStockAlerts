@@ -21841,14 +21841,14 @@
      "title": "MTG Secrets of Strixhaven - Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 199.95,
+     "price": 179.96,
      "last_restock_alert": 1792784429
     },
     "mtg-marvel-super-heroes-play-booster-box-pre-order": {
      "title": "MTG - Marvel Super Heroes Play Booster Box",
      "game": "MTG",
      "available": true,
-     "price": 169.95
+     "price": 152.95
     },
     "mtg-foundations-english-play-booster-box-pre-order": {
      "title": "MTG - Foundations - English Play Booster Box",
@@ -24230,7 +24230,7 @@
      "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
      "available": true,
-     "price": 74.95
+     "price": 67.46
     },
     "app-exclusive-league-of-legends-riftbound-tcg-vendetta-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Vendetta Booster Box",
@@ -24319,8 +24319,9 @@
     "mtg-tarkir-dragonstorm-commander-decks-abzan-armor": {
      "title": "MTG - Tarkir: Dragonstorm - Commander Decks - Abzan Armor",
      "game": "MTG",
-     "available": true,
-     "price": 79.95
+     "available": false,
+     "price": 71.96,
+     "unavail_since": 1795745714
     },
     "one-piece-cg-ts03-tin-pack-set-vol-03-pre-order": {
      "title": "One Piece CG - TS03 - Tin Pack Set Vol 03",
@@ -31589,7 +31590,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 24,
+   "check_cursor": 7,
    "error_streak": 0,
    "last_error": ""
   },
