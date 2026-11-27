@@ -21714,9 +21714,10 @@
     "pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022": {
      "title": "Pokemon TCG - Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 223.15,
-     "last_restock_alert": 1795795212
+     "last_restock_alert": 1795795212,
+     "unavail_since": 1795795512
     },
     "pokemon-paldean-fates-booster-bundle-pre-order": {
      "title": "Pokemon Paldean Fates Booster Bundle",
@@ -24172,7 +24173,7 @@
      "title": "Pokemon: Scarlet & Violet - 6.5 Shrouded Fable Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 229.95,
+     "price": 213.85,
      "unavail_since": 1792527312
     },
     "pre-order-pokemon-brilliant-stars-build-and-battle-kit": {
@@ -31649,7 +31650,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 40,
+   "check_cursor": 23,
    "error_streak": 0,
    "last_error": ""
   },
