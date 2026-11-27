@@ -21428,6 +21428,13 @@
      "available": false,
      "price": 119.95,
      "unavail_since": 1795741225
+    },
+    "mtg-lorwyn-eclipsed-commander-deck-deck-a": {
+     "title": "MTG - Lorwyn Eclipsed - Commander Deck - Dance of the Elements",
+     "game": "MTG",
+     "available": false,
+     "price": 57.95,
+     "unavail_since": 1795751413
     }
    },
    "baselined": true,
@@ -23833,7 +23840,7 @@
      "title": "LEGO Pokemon Pikachu and Pok\u00e9 Ball",
      "game": "Pokemon",
      "available": true,
-     "price": 249.95
+     "price": 212.46
     },
     "mtg-lord-of-the-rings-commander-deck-the-hosts-of-mordor-pre-order": {
      "title": "MTG - Lord Of The Rings Commander Deck - The Hosts Of Mordor",
@@ -31590,7 +31597,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 43,
+   "check_cursor": 26,
    "error_streak": 0,
    "last_error": ""
   },
