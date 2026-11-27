@@ -1915,7 +1915,7 @@
    "baselined": true,
    "check_cursor": 11,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Guild AZ: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.stompinggroundstcg.com": {
    "products": {
@@ -5012,9 +5012,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 36,
+   "check_cursor": 25,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Stomping Grounds TCG: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://skyboxct.com": {
    "products": {
@@ -5281,7 +5281,7 @@
      "title": "Riftbound TCG: League of Legends Spiritforged Booster Box",
      "game": "Riftbound",
      "available": false,
-     "price": 170.0,
+     "price": 165.0,
      "last_restock_alert": 1789047763,
      "unavail_since": 1791277458
     },
@@ -6441,7 +6441,7 @@
      "title": "Riftbound League of Legends TCG: Vendetta Vault Bundle",
      "game": "Riftbound",
      "available": false,
-     "price": 41.0,
+     "price": 49.0,
      "unavail_since": 1790813511
     },
     "mtg_phyrexiaone_cbundle": {
@@ -11361,9 +11361,9 @@
     "destined-rivals-pokemon-center-elite-trainer-box-exclusive-sv10-destined-rivals-dri": {
      "title": "Pokemon Scarlet & Violet - Destined Rivals Pokemon Center Elite Trainer Box (Exclusive)",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 430.0,
-     "unavail_since": 1792440873
+     "last_restock_alert": 1795806259
     },
     "magic-the-gathering-star-trek-play-booster-display-trk-presale": {
      "title": "Magic: The Gathering - Star Trek Play Booster Display (TRK)",
@@ -11508,14 +11508,16 @@
      "game": "One Piece",
      "available": false,
      "price": 42.99,
-     "unavail_since": 1795579439
+     "unavail_since": 1795579439,
+     "delisted": true
     },
     "scarlet-violet-dark-powers-ex-special-collection-pokemon-tcg": {
      "title": "Scarlet & Violet - Dark Powers ex Special Collection - Pokemon TCG",
      "game": "Pokemon",
      "available": false,
      "price": 129.99,
-     "unavail_since": 1795481138
+     "unavail_since": 1795481138,
+     "delisted": true
     },
     "pokemon-go-pin-collection-bulbasaur-pokemon-go-pgo": {
      "title": "Pokemon TCG: Pokemon GO Pin Collection [Bulbasaur]",
@@ -11527,7 +11529,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Cash Cards Unlimited: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://www.gamersgauntlet.net": {
    "products": {
@@ -12896,7 +12898,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Gamers Gauntlet: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://safari-zone.com": {
    "products": {
@@ -13702,7 +13704,7 @@
    "baselined": true,
    "check_cursor": 0,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Safari Zone: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://zulusgames.com": {
    "products": {
@@ -15105,7 +15107,7 @@
      "title": "One Piece TCG: Heroines Edition Vol. 2: Extra Booster Display",
      "game": "One Piece",
      "available": false,
-     "price": 119.76,
+     "price": 189.99,
      "unavail_since": 1790697530
     },
     "riftbound-tcg-radiance-booster-display": {
@@ -15812,9 +15814,9 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
-   "last_error": ""
+   "last_error": "Zulu's Games: sweep page 1 failed: HTTP Error 429: Too Many Requests"
   },
   "https://moonshotgamestore.com": {
    "products": {
