@@ -28971,8 +28971,9 @@
     "mtg-murders-at-karlov-manor-play-booster-box": {
      "title": "Murders at Karlov Manor Play Booster Box",
      "game": "MTG",
-     "available": true,
-     "price": 134.75
+     "available": false,
+     "price": 134.75,
+     "unavail_since": 1795799433
     },
     "mtg-wilds-of-eldraine-set-booster-box": {
      "title": "Wilds of Eldraine Set Booster Box",
@@ -31657,7 +31658,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 47,
+   "check_cursor": 30,
    "error_streak": 0,
    "last_error": ""
   },
