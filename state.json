@@ -5012,7 +5012,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 36,
    "error_streak": 0,
    "last_error": ""
   },
@@ -6392,7 +6392,7 @@
      "title": "One Piece TCG: Red Monkey.D.Luffy Starter Deck EX (ST-31)",
      "game": "One Piece",
      "available": true,
-     "price": 30.0
+     "price": 34.0
     },
     "one-piece-tcg-green-roronoa-zoro-starter-deck-ex-st-32": {
      "title": "One Piece TCG: Green Roronoa Zoro Starter Deck EX (ST-32)",
@@ -15803,10 +15803,16 @@
      "game": "MTG",
      "available": true,
      "price": 149.99
+    },
+    "one-piece-tcg-paramount-war-booster-box-op-02": {
+     "title": "One Piece TCG: Paramount War Booster Display [OP-02]",
+     "game": "One Piece",
+     "available": true,
+     "price": 524.99
     }
    },
    "baselined": true,
-   "check_cursor": 85,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
