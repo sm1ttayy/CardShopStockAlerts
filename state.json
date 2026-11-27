@@ -16010,7 +16010,8 @@
      "game": "Pokemon",
      "available": false,
      "price": 37.99,
-     "unavail_since": 1794794408
+     "unavail_since": 1794794408,
+     "delisted": true
     },
     "prismatic-evolutions-bundle-moonshot-rips": {
      "title": "Prismatic Evolutions Bundle - Moonshot Rips",
@@ -31582,7 +31583,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 29,
+   "check_cursor": 12,
    "error_streak": 0,
    "last_error": ""
   },
