@@ -23472,7 +23472,7 @@
      "title": "MTG - Secrets of Strixhaven - Commander Deck - Prismari Artistry",
      "game": "MTG",
      "available": false,
-     "price": 59.99,
+     "price": 53.99,
      "last_restock_alert": 1788811819,
      "unavail_since": 1792186815
     },
@@ -27902,6 +27902,13 @@
      "game": "Pokemon",
      "available": true,
      "price": 155.99
+    },
+    "pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box": {
+     "title": "Pok\u00e9mon TCG: Mega Evolution Delta Reign - Elite Trainer Box",
+     "game": "Pokemon",
+     "available": false,
+     "price": 49.99,
+     "unavail_since": 1795799116
     }
    },
    "baselined": true,
@@ -31650,7 +31657,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 7,
+   "check_cursor": 47,
    "error_streak": 0,
    "last_error": ""
   },
