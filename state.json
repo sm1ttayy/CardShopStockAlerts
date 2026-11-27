@@ -21586,7 +21586,7 @@
      "title": "Pokemon Temporal Forces Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 449.95,
+     "price": 418.45,
      "last_restock_alert": 1792784717,
      "unavail_since": 1794431109
     },
@@ -29600,7 +29600,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 234.75,
+     "price": 229.99,
      "last_restock_alert": 1786657540,
      "unavail_since": 1791120628
     },
@@ -30878,7 +30878,7 @@
      "title": "30th Celebration Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 64.75,
+     "price": 66.75,
      "last_restock_alert": 1792699858,
      "unavail_since": 1795469753
     },
@@ -31649,7 +31649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 22,
    "error_streak": 0,
    "last_error": ""
   },
@@ -33023,8 +33023,9 @@
     "one-piece-tcg-dominance-of-god-op-18-english-booster-box-24-booster-packs-pre-order": {
      "title": "One Piece TCG Dominance Of God (OP-18) English Booster Box (24 Booster Packs)",
      "game": "One Piece",
-     "available": true,
-     "price": 184.95
+     "available": false,
+     "price": 184.95,
+     "unavail_since": 1795792526
     },
     "magic-the-gathering-reality-fracture-secret-lair-bundle": {
      "title": "Magic: The Gathering Reality Fracture Secret Lair Bundle",
