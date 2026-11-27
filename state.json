@@ -22615,10 +22615,9 @@
     "mtg-star-trek-play-booster-box-pre-order": {
      "title": "MTG Star Trek Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 154.95,
-     "last_restock_alert": 1790306122,
-     "unavail_since": 1794864015
+     "last_restock_alert": 1795790714
     },
     "pokemon-tcg-scarlet-violet-elite-trainer-box-koraidon-pre-order": {
      "title": "Pok\u00e9mon TCG: Scarlet And Violet Elite Trainer Box (Koraidon)",
@@ -22934,10 +22933,9 @@
     "mtg-star-trek-bundle-pre-order": {
      "title": "MTG Star Trek Bundle",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 62.96,
-     "last_restock_alert": 1795041016,
-     "unavail_since": 1795142114
+     "last_restock_alert": 1795790715
     },
     "mtg-marvel-super-heroes-commander-deck-bundle-pre-order": {
      "title": "MTG - Marvel Super Heroes Commander Deck Bundle",
@@ -27885,6 +27883,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 79.99
+    },
+    "test-product-do-not-buy": {
+     "title": "Test Product - Do not buy",
+     "game": "Pokemon",
+     "available": true,
+     "price": 39.99
     }
    },
    "baselined": true,
@@ -30802,7 +30806,7 @@
      "title": "One Piece Heroines Edition Booster Box",
      "game": "One Piece",
      "available": false,
-     "price": 280.49,
+     "price": 273.75,
      "last_restock_alert": 1792699549,
      "unavail_since": 1792966821
     },
@@ -31633,7 +31637,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 27,
+   "check_cursor": 10,
    "error_streak": 0,
    "last_error": ""
   },
