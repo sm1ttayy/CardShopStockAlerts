@@ -5012,7 +5012,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 42,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
@@ -14630,9 +14630,9 @@
     "one-piece-tcg-extra-booster-eb-03": {
      "title": "One Piece TCG: Extra Booster [EB-03]",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 269.99,
-     "unavail_since": 1787159440
+     "last_restock_alert": 1795766696
     },
     "one-piece-tcg-title-tbd-booster-display-op-15": {
      "title": "One Piece TCG: Adventure on Kami's Island: Booster Display [OP-15]",
@@ -15160,9 +15160,9 @@
     "one-piece-tcg-the-dominance-of-god-booster-display": {
      "title": "One Piece TCG: The Dominance of God: Booster Display",
      "game": "One Piece",
-     "available": false,
+     "available": true,
      "price": 189.99,
-     "unavail_since": 1791225266
+     "last_restock_alert": 1795766696
     },
     "pokemon-tcg-delta-reign-booster-display": {
      "title": "Pok\u00e9mon TCG: Delta Reign: Booster Display",
@@ -15806,7 +15806,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 45,
+   "check_cursor": 85,
    "error_streak": 0,
    "last_error": ""
   },
