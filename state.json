@@ -21746,7 +21746,7 @@
      "title": "Pokemon TCG Mega Evolution Set 3 Perfect Order Booster Bundle",
      "game": "Pokemon",
      "available": false,
-     "price": 59.95,
+     "price": 55.75,
      "last_restock_alert": 1793650811,
      "unavail_since": 1793758512
     },
@@ -23153,9 +23153,10 @@
     "riftbound-league-of-legends-legacy-booster-box-pre-order": {
      "title": "Riftbound: League of Legends - Legacy Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 199.95,
-     "last_restock_alert": 1791756911
+     "last_restock_alert": 1791756911,
+     "unavail_since": 1795754110
     },
     "one-piece-tcg-op07-booster-box-pre-order": {
      "title": "One Piece TCG OP07 500 Years In The Future Booster Box",
@@ -31603,7 +31604,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 3,
+   "check_cursor": 43,
    "error_streak": 0,
    "last_error": ""
   },
