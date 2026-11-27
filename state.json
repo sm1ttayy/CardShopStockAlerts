@@ -23796,10 +23796,9 @@
     "pokemon-celebrations-collection-box-lances-charizard": {
      "title": "Pokemon Celebrations Collection Box - Lance's Charizard",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 195.25,
-     "last_restock_alert": 1795635909,
-     "unavail_since": 1795790120
+     "last_restock_alert": 1795796113
     },
     "one-piece-world-collectable-figure-the-great-pirates-100-landscapes-vol-7-set-of-6-figures": {
      "title": "One Piece World Collectable Figure The Great Pirates 100 Landscapes Vol.7 Set of 6 Figures",
@@ -31650,7 +31649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 6,
+   "check_cursor": 46,
    "error_streak": 0,
    "last_error": ""
   },
