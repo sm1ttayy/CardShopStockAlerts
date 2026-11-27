@@ -21461,6 +21461,12 @@
      "available": false,
      "price": 57.95,
      "unavail_since": 1795751413
+    },
+    "one-piece-card-game-premium-card-collection-live-action-vol-2-baroque-works": {
+     "title": "One Piece Card Game - Premium Card Collection - Live Action Vol.2 Baroque Works",
+     "game": "One Piece",
+     "available": true,
+     "price": 49.95
     }
    },
    "baselined": true,
@@ -31637,7 +31643,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 50,
+   "check_cursor": 33,
    "error_streak": 0,
    "last_error": ""
   },
