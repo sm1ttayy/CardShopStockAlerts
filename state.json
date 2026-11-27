@@ -21714,10 +21714,9 @@
     "pre-order-pokemon-tcg-pokemon-go-elite-trainer-box-summer-2022": {
      "title": "Pokemon TCG - Pokemon GO Elite Trainer Box",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 223.15,
-     "last_restock_alert": 1795635908,
-     "unavail_since": 1795794908
+     "last_restock_alert": 1795795212
     },
     "pokemon-paldean-fates-booster-bundle-pre-order": {
      "title": "Pokemon Paldean Fates Booster Bundle",
@@ -22686,7 +22685,7 @@
      "title": "Pokemon Pitch Black Build And Battle",
      "game": "Pokemon",
      "available": true,
-     "price": 46.45,
+     "price": 34.95,
      "last_restock_alert": 1786394113
     },
     "pre-order-pokemon-celebrations-ultra-premium-collection-october-2021": {
@@ -31650,7 +31649,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 0,
+   "check_cursor": 40,
    "error_streak": 0,
    "last_error": ""
   },
