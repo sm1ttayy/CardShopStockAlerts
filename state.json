@@ -5012,7 +5012,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 2,
+   "check_cursor": 42,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7138,7 +7138,7 @@
      "title": "Pokemon TCG: 30th Celebration Ultra Premium Collection Box (Day) (SALE)",
      "game": "Pokemon",
      "available": true,
-     "price": 300.0
+     "price": 290.0
     },
     "pokemon-tcg-vmax-dragons-premium-collection-box": {
      "title": "Pokemon TCG: VMAX Dragons Premium Collection Box",
@@ -15043,9 +15043,10 @@
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 99.99,
-     "last_restock_alert": 1795045004
+     "last_restock_alert": 1795045004,
+     "unavail_since": 1795737501
     },
     "pokemon-tcg-team-rockets-mewtwo-ex-league-battle-deck": {
      "title": "Pok\u00e9mon TCG: Team Rocket's Mewtwo ex League Battle Deck",
@@ -15130,9 +15131,9 @@
     "pokemon-tcg-30th-celebration-tech-sticker-collection": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Tech Sticker Collection",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 27.99,
-     "unavail_since": 1790994108
+     "last_restock_alert": 1795737502
     },
     "pokemon-tcg-30th-celebration-poster-collection": {
      "title": "Pok\u00e9mon TCG: 30th Celebration: Poster Collection",
@@ -15805,7 +15806,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 99,
+   "check_cursor": 45,
    "error_streak": 0,
    "last_error": ""
   },
