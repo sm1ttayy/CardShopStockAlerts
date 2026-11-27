@@ -31053,8 +31053,9 @@
     "reality-fracture-secret-lair-bundle": {
      "title": "Reality Fracture Secret Lair Bundle",
      "game": "MTG",
-     "available": true,
-     "price": 96.49
+     "available": false,
+     "price": 96.49,
+     "unavail_since": 1795801536
     },
     "celebrations-mini-tin-1x-assorted-art": {
      "title": "Celebrations Mini Tin [Unova]",
@@ -31659,7 +31660,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 38,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
