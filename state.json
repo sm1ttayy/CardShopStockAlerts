@@ -2135,16 +2135,17 @@
     "magic-the-gathering-foundations-jumpstart-booster-box": {
      "title": "Magic: The Gathering Foundations Jumpstart Booster Box",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 109.0,
-     "last_restock_alert": 1792935952
+     "last_restock_alert": 1792935952,
+     "unavail_since": 1795887539
     },
     "magic-the-gathering-secrets-of-strixhaven-play-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 140.0,
-     "unavail_since": 1792531880
+     "last_restock_alert": 1795887537
     },
     "starter-deck-28-green-yellow-yamato": {
      "title": "One Piece - Starter Deck 28: GREEN/YELLOW Yamato [ST-28]",
@@ -2333,10 +2334,9 @@
     "magic-the-gathering-marvel-super-heroes-jumpstart-booster-box": {
      "title": "Magic: The Gathering - Marvel Super Heroes Jumpstart Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 99.0,
-     "last_restock_alert": 1795279867,
-     "unavail_since": 1795720089
+     "last_restock_alert": 1795887537
     },
     "magic-the-gathering-secrets-of-strixhaven-collector-booster-box": {
      "title": "Magic: The Gathering - Secrets of Strixhaven Collector Booster Box",
@@ -2934,10 +2934,9 @@
     "duskmourn-house-of-horror-play-booster-box": {
      "title": "Duskmourn: House of Horror Play Booster Box",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 200.0,
-     "last_restock_alert": 1792935952,
-     "unavail_since": 1793114742
+     "last_restock_alert": 1795887539
     },
     "duskmourn-house-of-horror-collector-booster-box": {
      "title": "Duskmourn: House of Horror Collector Booster Box",
@@ -3048,10 +3047,9 @@
     "scarlet-violet-temporal-forces-booster-box-display": {
      "title": "Scarlet & Violet: Temporal Forces - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 325.0,
-     "last_restock_alert": 1792935952,
-     "unavail_since": 1793031111
+     "last_restock_alert": 1795887540
     },
     "outlaws-of-thunder-junction-play-booster-box": {
      "title": "Outlaws of Thunder Junction Play Booster Box",
@@ -3091,10 +3089,9 @@
     "double-masters-2022-draft-booster-box-display": {
      "title": "Double Masters 2022 Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 500.0,
-     "last_restock_alert": 1792935952,
-     "unavail_since": 1793031111
+     "available": true,
+     "price": 480.0,
+     "last_restock_alert": 1795887540
     },
     "mystery-booster-booster-box-retail-exclusive": {
      "title": "Mystery Booster Booster Box [2019 Retail Exclusive]",
@@ -3170,7 +3167,7 @@
      "title": "Scarlet & Violet: Paradox Rift - Booster Box Display",
      "game": "Pokemon",
      "available": true,
-     "price": 270.0,
+     "price": 280.0,
      "last_restock_alert": 1795206532
     },
     "zendikar-rising-collector-booster-display": {
@@ -3211,9 +3208,9 @@
     "scarlet-and-violet-obsidian-flames-booster-box-display": {
      "title": "Scarlet and Violet: Obsidian Flames - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 380.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1795887540
     },
     "innistrad-booster-box-display": {
      "title": "Innistrad Booster Box Display",
@@ -3238,10 +3235,9 @@
     "scarlet-and-violet-paldea-evolved-booster-box-display": {
      "title": "Scarlet and Violet: Paldea Evolved - Booster Box Display",
      "game": "Pokemon",
-     "available": false,
+     "available": true,
      "price": 465.0,
-     "last_restock_alert": 1793031112,
-     "unavail_since": 1793290502
+     "last_restock_alert": 1795887540
     },
     "pre-order-commander-masters-collector-booster-display": {
      "title": "Commander Masters Collector Booster Display",
@@ -3349,10 +3345,9 @@
     "dominaria-remastered-draft-booster-box-display": {
      "title": "Dominaria Remastered Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 275.0,
-     "last_restock_alert": 1793031112,
-     "unavail_since": 1794671575
+     "available": true,
+     "price": 260.0,
+     "last_restock_alert": 1795887540
     },
     "commander-legends-baldurs-gate-set-booster-box-display": {
      "title": "Commander Legends: Battle for Baldur's Gate Set Booster Box Display",
@@ -3434,10 +3429,9 @@
     "unfinity-draft-booster-box-display": {
      "title": "Unfinity Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 165.0,
-     "last_restock_alert": 1793031112,
-     "unavail_since": 1794066292
+     "last_restock_alert": 1795887540
     },
     "unfinity-collector-booster-box-display": {
      "title": "Unfinity Collector Booster Box Display",
@@ -3519,10 +3513,9 @@
     "commander-legends-battle-for-baldurs-gate-draft-booster-box-display": {
      "title": "Commander Legends: Battle for Baldur's Gate Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 310.0,
-     "last_restock_alert": 1793031112,
-     "unavail_since": 1793203752
+     "available": true,
+     "price": 300.0,
+     "last_restock_alert": 1795887540
     },
     "kamigawa-neon-dynasty-japanese-collector-booster-box-display": {
      "title": "Kamigawa: Neon Dynasty Collector Booster Box Display [JPN]",
@@ -3632,10 +3625,9 @@
     "time-spiral-remastered-draft-booster-box-display": {
      "title": "Time Spiral Remastered Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 395.0,
-     "last_restock_alert": 1793114743,
-     "unavail_since": 1793203752
+     "available": true,
+     "price": 385.0,
+     "last_restock_alert": 1795887540
     },
     "theros-draft-booster-box-display": {
      "title": "Theros Draft Booster Box Display",
@@ -3648,7 +3640,7 @@
      "title": "Oath of the Gatewatch Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 194.0,
+     "price": 195.0,
      "unavail_since": 1784083329
     },
     "mirrodin-besieged-draft-booster-box-display": {
@@ -3661,10 +3653,9 @@
     "zendikar-rising-booster-box-display": {
      "title": "Zendikar Rising Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 180.0,
-     "last_restock_alert": 1793114743,
-     "unavail_since": 1795634738
+     "available": true,
+     "price": 170.0,
+     "last_restock_alert": 1795887540
     },
     "fate-reforged-booster-box-display": {
      "title": "Fate Reforged Draft Booster Box Display",
@@ -3725,9 +3716,9 @@
     "kaladesh-russian-booster-box-display": {
      "title": "Kaladesh Draft Booster Box Display [RUS]",
      "game": "MTG",
-     "available": false,
-     "price": 250.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 400.0,
+     "last_restock_alert": 1795887540
     },
     "kaladesh-german-booster-box-display": {
      "title": "Kaladesh Draft Booster Box Display [DEU]",
@@ -3739,9 +3730,9 @@
     "kaladesh-korean-booster-box-display": {
      "title": "Kaladesh Draft Booster Box Display [KOR]",
      "game": "MTG",
-     "available": false,
-     "price": 250.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 349.0,
+     "last_restock_alert": 1795887540
     },
     "kaladesh-japanese-booster-box-display": {
      "title": "Kaladesh Draft Booster Box Display [JPN]",
@@ -3839,9 +3830,9 @@
     "commander-legends-draft-booster-box-display": {
      "title": "Commander Legends Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 290.0,
-     "unavail_since": 1784083329
+     "available": true,
+     "price": 275.0,
+     "last_restock_alert": 1795887540
     },
     "kamigawa-neon-dynasty-collector-booster-box-display": {
      "title": "Kamigawa: Neon Dynasty Collector Booster Box Display",
@@ -3860,23 +3851,22 @@
     "kamigawa-neon-dynasty-set-booster-box-display": {
      "title": "Kamigawa: Neon Dynasty Set Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 430.0,
-     "unavail_since": 1784083329
+     "last_restock_alert": 1795887540
     },
     "modern-horizons-2-draft-booster-box-display": {
      "title": "Modern Horizons 2 Draft Booster Box Display",
      "game": "MTG",
-     "available": false,
+     "available": true,
      "price": 370.0,
-     "last_restock_alert": 1793114743,
-     "unavail_since": 1793460241
+     "last_restock_alert": 1795887540
     },
     "modern-horizons-2-set-booster-box-display": {
      "title": "Modern Horizons 2 Set Booster Box Display",
      "game": "MTG",
      "available": true,
-     "price": 475.0,
+     "price": 465.0,
      "last_restock_alert": 1795313025
     },
     "jumpstart-booster-box-display": {
@@ -3926,10 +3916,9 @@
     "strixhaven-school-of-mages-set-booster-box-display": {
      "title": "Strixhaven: School of Mages Set Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 190.0,
-     "last_restock_alert": 1795313030,
-     "unavail_since": 1795634738
+     "available": true,
+     "price": 195.0,
+     "last_restock_alert": 1795887540
     },
     "adventures-in-the-forgotten-realms-collector-booster-box-display": {
      "title": "Adventures in the Forgotten Realms Collector Booster Box Display",
@@ -3971,7 +3960,7 @@
      "title": "Innistrad: Midnight Hunt Draft Booster Box Display",
      "game": "MTG",
      "available": false,
-     "price": 160.0,
+     "price": 149.0,
      "last_restock_alert": 1793899733,
      "unavail_since": 1795720091
     },
@@ -4609,9 +4598,9 @@
     "dominaria-united-jumpstart-booster-box-display": {
      "title": "Dominaria United Jumpstart Booster Box Display",
      "game": "MTG",
-     "available": false,
-     "price": 88.0,
-     "unavail_since": 1789047753
+     "available": true,
+     "price": 82.0,
+     "last_restock_alert": 1795887540
     },
     "scarlet-and-violet-obsidian-flames-booster-bundle": {
      "title": "Scarlet and Violet: Obsidian Flames - Booster Bundle",
@@ -4820,9 +4809,10 @@
     "riftbound-league-of-legends-tcg-radiance-booster-box": {
      "title": "Riftbound: League of Legends TCG - Radiance Booster Box",
      "game": "Riftbound",
-     "available": true,
+     "available": false,
      "price": 99.0,
-     "last_restock_alert": 1795720089
+     "last_restock_alert": 1795720089,
+     "unavail_since": 1795887537
     },
     "riftbound-league-of-legends-tcg-radiance-showdown-deck-evelynn-vs-seraphine": {
      "title": "Riftbound: League of Legends TCG - Radiance Showdown Deck [Evelynn vs Seraphine]",
@@ -4904,7 +4894,7 @@
      "title": "One Piece: The Dominance of God - Booster Box [OP-18]",
      "game": "One Piece",
      "available": false,
-     "price": 189.0,
+     "price": 195.0,
      "unavail_since": 1795634736
     },
     "preorder-mega-evolution-delta-reign-3-pack-blister-seel": {
@@ -5010,7 +5000,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 5,
    "error_streak": 0,
    "last_error": ""
   },
@@ -7013,9 +7003,10 @@
     "magic-the-gathering-star-trek-play-booster-box-pre-order": {
      "title": "Magic The Gathering: Star Trek Play Booster Box (SALE)",
      "game": "MTG",
-     "available": true,
+     "available": false,
      "price": 90.0,
-     "last_restock_alert": 1793203751
+     "last_restock_alert": 1793203751,
+     "unavail_since": 1795887538
     },
     "riftbound-league-of-legends-tcg-radiance-booster-box-pre-order": {
      "title": "Riftbound League of Legends TCG: Radiance Booster Box",
@@ -11540,6 +11531,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 64.99
+    },
+    "phyrexia-all-will-be-one-set-booster-box": {
+     "title": "Magic: The Gathering - Phyrexia: All Will Be One Set Booster Box",
+     "game": "MTG",
+     "available": true,
+     "price": 299.99
     }
    },
    "baselined": true,
@@ -15831,7 +15828,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 37,
+   "check_cursor": 77,
    "error_streak": 0,
    "last_error": ""
   },
