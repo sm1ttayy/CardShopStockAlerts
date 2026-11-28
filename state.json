@@ -16419,6 +16419,12 @@
      "game": "Pokemon",
      "available": true,
      "price": 269.99
+    },
+    "merry-moonshot-pokemon-mega-sampler-moonshot-rips": {
+     "title": "(Good) Merry Moonshot Pokemon Mega Sampler - Moonshot Rips",
+     "game": "Pokemon",
+     "available": true,
+     "price": 49.99
     }
    },
    "baselined": true,
@@ -19072,8 +19078,9 @@
     "pokemon-mega-evolution-perfect-order-elite-trainer-box": {
      "title": "Pokemon - Mega Evolution - Perfect Order - Elite Trainer Box",
      "game": "Pokemon",
-     "available": true,
-     "price": 89.95
+     "available": false,
+     "price": 89.95,
+     "unavail_since": 1795834212
     },
     "pokemon-scarlet-and-violet-surging-sparks-elite-trainer-box": {
      "title": "Pokemon - Scarlet and Violet - Surging Sparks - Elite Trainer Box",
@@ -21828,10 +21835,9 @@
     "riftbound-league-of-legends-tcg-spiritforged-booster-display-pre-order": {
      "title": "Riftbound - League of Legends TCG - Spiritforged - Booster Display",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 189.98,
-     "last_restock_alert": 1795650010,
-     "unavail_since": 1795669515
+     "last_restock_alert": 1795834215
     },
     "league-of-legends-riftbound-tcg-vendetta-vault-pre-order": {
      "title": "League of Legends Riftbound TCG: Vendetta Vault",
@@ -21844,10 +21850,9 @@
     "league-of-legends-riftbound-tcg-proving-grounds-box-set-pre-order": {
      "title": "League of Legends Riftbound TCG: Proving Grounds Box Set",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 44.95,
-     "last_restock_alert": 1793388916,
-     "unavail_since": 1795551317
+     "last_restock_alert": 1795834215
     },
     "riftbound-league-of-legends-vendetta-zed-vs-shen-showdown-deck-set-pre-order": {
      "title": "Riftbound: League of Legends Vendetta Zed vs. Shen Showdown Deck Set",
@@ -22342,11 +22347,11 @@
      "last_restock_alert": 1790887809
     },
     "one-piece-tcg-double-pack-set-volume-13-pre-order": {
-     "title": "One Piece TCG Double Pack Set VOLUME 13 (Pre Order)",
+     "title": "One Piece TCG Double Pack Set VOLUME 13",
      "game": "One Piece",
-     "available": false,
-     "price": 24.95,
-     "unavail_since": 1784083348
+     "available": true,
+     "price": 37.95,
+     "last_restock_alert": 1795834210
     },
     "one-piece-tcg-double-pack-set-volume-6-pre-order": {
      "title": "One Piece Card Game - Emperors in the New World - Double Pack Set - Vol.6",
@@ -23524,9 +23529,10 @@
     "pokemon-30th-celebration-tech-sticker-collection-lucariopre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Lucario",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 37.15,
-     "last_restock_alert": 1795469157
+     "last_restock_alert": 1795469157,
+     "unavail_since": 1795834214
     },
     "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor-pre-order": {
      "title": "Pokemon 30th Celebration Tech Sticker Collection - Alolan Exeggutor",
@@ -23538,9 +23544,10 @@
     "pokemon-30th-celebration-poster-collection-pre-order": {
      "title": "Pokemon 30th Celebration Poster Collection",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 37.15,
-     "last_restock_alert": 1794761709
+     "last_restock_alert": 1794761709,
+     "unavail_since": 1795834213
     },
     "mtg-universes-beyond-the-hobbit-draft-night-pre-order": {
      "title": "MTG - Universes Beyond: The Hobbit Draft Night",
@@ -23984,10 +23991,9 @@
     "riftbound-league-of-legends-radiance-vault-pre-order": {
      "title": "Riftbound: League of Legends - Radiance Vault",
      "game": "Riftbound",
-     "available": false,
+     "available": true,
      "price": 39.99,
-     "last_restock_alert": 1795467017,
-     "unavail_since": 1795483515
+     "last_restock_alert": 1795834215
     },
     "pokemon-scarlet-and-violet-temporal-forces-build-and-battle-kit-pre-order": {
      "title": "Pokemon - Scarlet and Violet - Temporal Forces - Build and Battle Kit",
@@ -24493,9 +24499,9 @@
     "reprint-restock-league-of-legends-riftbound-tcg-origins-booster-box-pre-order": {
      "title": "(Reprint Restock) League of Legends Riftbound TCG: Origins Booster Box (Pre Order)",
      "game": "Riftbound",
-     "available": false,
-     "price": 189.95,
-     "unavail_since": 1795135510
+     "available": true,
+     "price": 229.95,
+     "last_restock_alert": 1795834215
     },
     "pokemon-30th-celebration-starter-card-set-treecko-torchic-and-mudkip-japanese": {
      "title": "Pokemon 30th Celebration Starter Card Set - Treecko, Torchic and Mudkip (Japanese)",
@@ -31666,7 +31672,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 20,
+   "check_cursor": 60,
    "error_streak": 0,
    "last_error": ""
   },
@@ -33794,8 +33800,9 @@
     "one-piece-tcg-title-dominance-of-god-booster-op-18-24ct-op-18-bb": {
      "title": "One Piece TCG The Dominance Of God Booster Display (OP-18) (24CT) OP-18-BB",
      "game": "One Piece",
-     "available": true,
-     "price": 199.99
+     "available": false,
+     "price": 199.99,
+     "unavail_since": 1795834237
     }
    },
    "baselined": true,
