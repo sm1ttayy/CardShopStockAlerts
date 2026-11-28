@@ -21167,9 +21167,10 @@
     "pokemon-mega-evolution-delta-reign-booster-bundle": {
      "title": "Pokemon - Mega Evolution - Delta Reign - Booster Bundle",
      "game": "Pokemon",
-     "available": true,
+     "available": false,
      "price": 44.95,
-     "last_restock_alert": 1793758512
+     "last_restock_alert": 1793758512,
+     "unavail_since": 1795880413
     },
     "mtg-ravnica-allegiance-english-booster-box": {
      "title": "MTG - Ravnica Allegiance - English Booster Box",
@@ -31353,7 +31354,7 @@
      "title": "Mega Evolutions Pokemon Center Elite Trainer Box [Lucario]",
      "game": "Pokemon",
      "available": false,
-     "price": 189.25,
+     "price": 190.99,
      "unavail_since": 1795615226
     },
     "pokemon-go-special-collection-team-instinct": {
@@ -31702,7 +31703,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
