@@ -5010,7 +5010,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 22,
+   "check_cursor": 20,
    "error_streak": 0,
    "last_error": ""
   },
@@ -9664,6 +9664,24 @@
      "game": "Pokemon",
      "available": true,
      "price": 329.75
+    },
+    "one-piece-awakening-of-the-new-era-op-05-booster-pack": {
+     "title": "One Piece Awakening of the New Era (OP-05) Booster Pack",
+     "game": "One Piece",
+     "available": true,
+     "price": 79.75
+    },
+    "one-piece-special-don-set-vol-2": {
+     "title": "One Piece Special DON!! Set Vol. 2",
+     "game": "One Piece",
+     "available": true,
+     "price": 59.75
+    },
+    "one-piece-treasure-boosters-set": {
+     "title": "One Piece Treasure Boosters Set",
+     "game": "One Piece",
+     "available": true,
+     "price": 179.75
     }
    },
    "baselined": true,
@@ -14623,9 +14641,10 @@
     "one-piece-tcg-carrying-on-his-will-booster-display-op-13": {
      "title": "One Piece TCG: Carrying on His Will: Booster Display [OP-13]",
      "game": "One Piece",
-     "available": true,
+     "available": false,
      "price": 399.99,
-     "last_restock_alert": 1795829399
+     "last_restock_alert": 1795829399,
+     "unavail_since": 1795857723
     },
     "one-piece-tcg-extra-booster-eb-03": {
      "title": "One Piece TCG: Extra Booster [EB-03]",
@@ -15812,7 +15831,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 100,
+   "check_cursor": 37,
    "error_streak": 0,
    "last_error": ""
   },
