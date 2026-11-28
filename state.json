@@ -29041,7 +29041,7 @@
      "title": "Lost Origin Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 734.75,
+     "price": 748.49,
      "unavail_since": 1793236522
     },
     "mtg-lord-of-the-rings-collector-booster-box": {
@@ -29831,7 +29831,7 @@
      "title": "Guilds of Ravnica - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 179.75,
+     "price": 164.99,
      "last_restock_alert": 1786658452,
      "unavail_since": 1791120628
     },
@@ -31694,7 +31694,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 39,
+   "check_cursor": 19,
    "error_streak": 0,
    "last_error": ""
   },
@@ -33824,7 +33824,8 @@
      "game": "One Piece",
      "available": false,
      "price": 199.99,
-     "unavail_since": 1795834237
+     "unavail_since": 1795834237,
+     "delisted": true
     }
    },
    "baselined": true,
