@@ -18381,8 +18381,9 @@
     "edge-of-eternities-commander-deck-bundle-preorder": {
      "title": "Edge of Eternities Commander Deck Set of 2",
      "game": "MTG",
-     "available": true,
-     "price": 79.95
+     "available": false,
+     "price": 79.95,
+     "unavail_since": 1795879513
     },
     "the-hobbit-scene-box-set-of-2-preorder": {
      "title": "The Hobbit Scene Box (Set of 2)",
@@ -28664,7 +28665,7 @@
      "title": "Japanese Battle Partners Booster Box",
      "game": "Pokemon",
      "available": false,
-     "price": 92.99,
+     "price": 94.75,
      "unavail_since": 1791120637
     },
     "japanese-cyber-judge-booster-box": {
@@ -29644,7 +29645,7 @@
      "title": "Ixalan - Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 229.99,
+     "price": 234.99,
      "last_restock_alert": 1786657540,
      "unavail_since": 1791120628
     },
@@ -31184,7 +31185,7 @@
      "title": "30th Celebration - Pokemon Center Elite Trainer Box",
      "game": "Pokemon",
      "available": false,
-     "price": 239.99,
+     "price": 255.25,
      "last_restock_alert": 1794603639,
      "unavail_since": 1794605443
     },
@@ -31301,7 +31302,7 @@
      "title": "Mutant Menace Commander Deck",
      "game": "MTG",
      "available": false,
-     "price": 111.99,
+     "price": 110.25,
      "unavail_since": 1791583828
     },
     "30th-celebration-mini-tin-night-pikachu": {
@@ -31694,7 +31695,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 59,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
