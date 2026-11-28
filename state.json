@@ -24168,7 +24168,7 @@
      "title": "Pokemon 30th Celebration Mewtwo Collection",
      "game": "Pokemon",
      "available": true,
-     "price": 99.95,
+     "price": 92.95,
      "last_restock_alert": 1795204284
     },
     "mtg-commander-masters-english-set-booster-box-pre-order-1": {
@@ -24543,6 +24543,13 @@
      "game": "One Piece",
      "available": true,
      "price": 3599.96
+    },
+    "mtg-starter-commander-deck-set-of-5-decks": {
+     "title": "MTG - Starter Commander Deck - Set of 5 Decks",
+     "game": "MTG",
+     "available": false,
+     "price": 161.95,
+     "unavail_since": 1795880113
     }
    },
    "baselined": true,
@@ -30177,7 +30184,7 @@
      "title": "Strixhaven: School of Mages - Draft Booster Box",
      "game": "MTG",
      "available": false,
-     "price": 186.75,
+     "price": 186.99,
      "unavail_since": 1791120629
     },
     "adventures-in-the-forgotten-realms-draft-booster-box": {
@@ -31695,7 +31702,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 19,
+   "check_cursor": 59,
    "error_streak": 0,
    "last_error": ""
   },
