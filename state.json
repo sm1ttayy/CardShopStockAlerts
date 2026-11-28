@@ -24283,8 +24283,9 @@
     "mtg-reality-fracture-commander-deck-multiverse-reforged": {
      "title": "MTG Reality Fracture Commander Deck - Multiverse Reforged",
      "game": "MTG",
-     "available": true,
-     "price": 67.46
+     "available": false,
+     "price": 67.46,
+     "unavail_since": 1795834529
     },
     "app-exclusive-league-of-legends-riftbound-tcg-vendetta-booster-box-pre-order": {
      "title": "League of Legends Riftbound TCG: Vendetta Booster Box",
@@ -24523,7 +24524,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 32,
+   "check_cursor": 29,
    "error_streak": 0,
    "last_error": ""
   },
@@ -31672,7 +31673,7 @@
     }
    },
    "baselined": true,
-   "check_cursor": 60,
+   "check_cursor": 39,
    "error_streak": 0,
    "last_error": ""
   },
